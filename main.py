@@ -1,4 +1,4 @@
-import json, urllib.request
+import json
 import requests
 
 api_key = "L5R08VNTMZFPGLU2UGUD"
