@@ -2,29 +2,15 @@ import json
 import requests
 
 api_key = "L5R08VNTMZFPGLU2UGUD"
-
-##test data####
-essex = "10007791"
-UWE = "10007783"
-insti = UWE
-b = "10105"
-b1 = "10889"
-ppe = "10029"
-c = "FullTime"
-act = "10856"
-##test data###
-
-
-youareell = "data.unistats.ac.uk/api/v4/KIS/Institution/"+insti+"/Courses.json?pageSize=10000"
 prefix = "http://"+api_key+":password"+"@"
 
 
-def getData(resource):
-    getURL = prefix+resource
+
+def getData(institution):
+    getURL = prefix+"data.unistats.ac.uk/api/v4/KIS/Institution/"+institution+"/Courses.json?pageSize=10000"
     readJSON = requests.get(url=getURL)
     data = readJSON.json()
     return data
-
 
 
 def getStat(institution, course, studyMode):
@@ -90,17 +76,6 @@ def getCumulative(tariff):
         cumulative = [cumulative[i:i+28] for i in range(0, len(cumulative), 28)] 
     return cumulative
 
-
-
-for x in getData(youareell):
-    a = insti
-    b = x["KisCourseId"]
-    c = x["KisMode"]
-    try:
-        if max(getSalary(a,b,c)) < 18000:
-            print("{} has {}% employed or studying further, where the average salary of those working is {}".format(x["Title"], getWorkStudy(a,b,c), getSalary(a,b,c)))
-    except:
-        continue
 
 
 ##def findCourse(ucas, salary, perc):
