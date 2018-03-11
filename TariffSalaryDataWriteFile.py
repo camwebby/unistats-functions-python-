@@ -19,7 +19,7 @@ with open("data.csv","w") as dataFile:
                 ##    print("{} is the tariff for {}".format(y,x["Title"]))
                 if len(getSalary(id1,b,c)) == 1:
                     try:
-                        wr.writerow([id1,x["Title"],getSalary(id1,b,c)[0],tariffAvg(y)])
+                        wr.writerow([id1,x["Title"].replace(",",""),getSalary(id1,b,c)[0],tariffAvg(y)])
                         print("Writing")
                     except:
                         continue
