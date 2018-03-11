@@ -25,15 +25,20 @@ insti = UWE
 ##    if "Psychoanalytic Studies" in x["Title"]:
 ##        print(getCumulative(getTariffs(essex,x["KisCourseId"],x["KisMode"])))
 
+for tution in getInstis():
+    id1 = tution["PUBUKPRN"]
 
-for x in getData(essex):
-    sleep(0.1)
-    b = x["KisCourseId"]
-    c = x["KisMode"]
-    y = getCumulative(getTariffs(essex,b,c))
-##    print("{} is the tariff for {}".format(y,x["Title"]))
-    try:
-        print("{} is the median tariff for {} where tariff is{}".format(tariffAvg(y),x["Title"],y))
-    except:
-        continue
+    if tution["TEFOutcome"] != "DidNotParticipate" and tution["TEFOutcome"] != "Provisional":
+
+        for x in getData(id1):
+            sleep(0.3)
+            b = x["KisCourseId"]
+            c = x["KisMode"]
+            y = getCumulative(getTariffs(id1,b,c))
+            ##    print("{} is the tariff for {}".format(y,x["Title"]))
+            if len(getSalary(id1,b,c)) == 1:
+                try:
+                    print(id1,x["Title"],getSalary(id1,b,c)[0],tariffAvg(y))
+                except:
+                    continue
 

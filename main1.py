@@ -8,6 +8,12 @@ essex = "10007791"
 UWE = "10007783"
 insti = UWE
 
+def getInstis():
+    getURL = prefix+"data.unistats.ac.uk/api/v4/KIS/Institutions.json?pageSize=10000"
+    readInstiJSON = requests.get(url=getURL)
+    Institutions = readInstiJSON.json()
+    return Institutions 
+
 def getData(institution):
     getURL = prefix+"data.unistats.ac.uk/api/v4/KIS/Institution/"+institution+"/Courses.json?pageSize=10000"
     readJSON = requests.get(url=getURL)
@@ -102,7 +108,9 @@ def tariffAvg(cumul):
     return median
     
 ##print(tariffAvg(getCumulative(getTariffs(essex,"10502","FullTime"))))
-    
+
+
+
 
 
 ##def findCourse(ucas, salary, perc):
