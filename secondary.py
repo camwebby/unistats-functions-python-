@@ -7,7 +7,6 @@ api_key = "L5R08VNTMZFPGLU2UGUD"
 ##test data####
 essex = "10007791"
 UWE = "10007783"
-insti = UWE
 ##test data###
 
 
@@ -35,10 +34,22 @@ for tution in getInstis():
             b = x["KisCourseId"]
             c = x["KisMode"]
             y = getCumulative(getTariffs(id1,b,c))
+            info = getInfo(id1,b,c)
             ##    print("{} is the tariff for {}".format(y,x["Title"]))
             if len(getSalary(id1,b,c)) == 1:
                 try:
-                    print(id1,x["Title"],getSalary(id1,b,c)[0],tariffAvg(y))
+                    print(id1,x["Title"],getSalary(id1,b,c)[0],tariffAvg(y),info["KisMode"],
+                          info["KisAimLabel"],info["FoundationYearAvailable"],info["KisMode"],
+                          )
                 except:
                     continue
+
+
+
+
+
+
+
+
+
 

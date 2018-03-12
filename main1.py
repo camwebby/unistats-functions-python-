@@ -4,9 +4,9 @@ import requests
 api_key = "L5R08VNTMZFPGLU2UGUD"
 prefix = "http://"+api_key+":password"+"@"
 
+##test data##
 essex = "10007791"
 UWE = "10007783"
-insti = UWE
 
 def getInstis():
     getURL = prefix+"data.unistats.ac.uk/api/v4/KIS/Institutions.json?pageSize=10000"
@@ -106,7 +106,8 @@ def tariffAvg(cumul):
             ratio = (y2 - 50)/(y2-y1)
             median = x2-((x2-x1)*ratio)
     return median
-    
+
+
 ##print(tariffAvg(getCumulative(getTariffs(essex,"10502","FullTime"))))
 
 
