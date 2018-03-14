@@ -40,7 +40,8 @@ for tution in getInstis():
                 try:
                     print(id1,x["Title"],getSalary(id1,b,c)[0],tariffAvg(y),info["KisMode"],
                           info["KisAimLabel"],info["FoundationYearAvailable"],info["KisMode"],
-                          )
+                          info["LengthInYears"],info["SandwichAvailable"])
+
                 except:
                     continue
 
