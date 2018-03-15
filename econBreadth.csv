@@ -1,0 +1,396 @@
+"Institution, Course, Type, Study Mode, Foundation Year(s), Sandwich Year(s), Total years, Salary (6 months after), Median Tariff"
+10000291,Business  Economics,BSc,FullTime,0,0,3,25000,71.5
+10000291,Business  Economics,BSc,FullTime,0,2,4,26000,101.0
+10000291,Business  Economics,BSc,PartTime,0,0,,30000,0
+10007759,Economics  And  Management,BSc,FullTime,0,2,4,25000,136.03571428571428
+10007759,International  Business  And  Economics,BSc,FullTime,0,2,4,25000,128
+10007759,Mathematics  with  Economics,BSc,FullTime,0,2,4,27000,112
+10007857,Business  Economics,BSc,FullTime,0,0,3,19000,106.71428571428571
+10007857,Financial  Economics,BSc,FullTime,0,0,3,19000,106.71428571428571
+10007850,Economics,BSc,FullTime,0,2,4,28000,189.125
+10007850,Economics,BSc,FullTime,0,0,3,28000,186.0
+10007850,Economics  with  professional  placement  and  study  year  abroad,BSc,FullTime,0,0,4,28000,186.83333333333334
+10007850,Economics  with  study  year  abroad,BSc,FullTime,0,0,4,28000,186.83333333333334
+10007850,Politics  with  Economics,BSc,FullTime,0,2,4,28000,164.28571428571428
+10007152,Business  Economics,BA,FullTime,2,0,5,21000,69.0
+10007152,Business  Economics,BA,FullTime,0,0,3,21000,69.0
+10007760,Economics,BSc,PartTime,0,0,,32000,0
+10007760,Economics,BSc,FullTime,0,0,3,25000,103.5
+10007760,Economics  and/with  Mathematics,BSc,PartTime,0,0,,32000,0
+10007760,Financial  Economics,BSc,PartTime,0,0,,32000,0
+10007760,Financial  Economics,BSc,FullTime,0,0,3,25000,108.5
+10007760,Mathematics  with  Economics,BSc,PartTime,0,0,,32000,0
+10007760,Statistics  and  Economics,BSc,PartTime,0,0,,32000,0
+10007140,Business  Economics,BA,PartTime,0,1,,28000,0
+10007140,Economics,BA,FullTime,0,1,3,25000,99.0
+10007140,Financial  Economics,BA,FullTime,0,1,3,27000,92.85714285714286
+10007140,Financial  Economics,BA,PartTime,0,1,,28000,0
+10006840,Economics,BSc,FullTime,0,0,3,25000,163.0
+10006840,Mathematical  Economics  and  Statistics,BSc,FullTime,0,0,3,25000,170.0
+10000824,Economics,BA,FullTime,0,1,3,22000,96
+10000824,Finance  and  Economics,BA,FullTime,0,1,3,22000,96
+10007785,Economics,BSc,FullTime,1,2,4,24000,93.125
+10007785,Economics,BSc,FullTime,1,0,3,24000,92.0
+10007785,Finance  and  Economics,BSc,FullTime,1,0,3,24000,93.125
+10007785,Finance  and  Economics,BSc,FullTime,1,2,4,24000,93.125
+10000886,Business  Management  with  Economics,BSc,FullTime,0,0,3,22000,105.0
+10000886,Business  Management  with  Economics  and  Placement  Year,BSc,FullTime,0,2,4,22000,121.0
+10000886,Economics,BSc,FullTime,0,1,3,22000,112.625
+10007786,Economics,BSc,FullTime,0,0,3,28000,186.26315789473685
+10007786,Economics  and  Econometrics,BSc,FullTime,0,0,3,28000,160
+10007786,Economics  and  Finance,BSc,FullTime,0,0,3,27000,183.5
+10007786,Economics  with  Study  in  Continental  Europe,BSc,FullTime,0,0,4,28000,176
+10000961,Economics,BSc,FullTime,1,0,3,27000,114.14285714285714
+10000961,Economics,BSc,FullTime,1,2,4,27000,124.0
+10000961,Economics  and  Accounting,BSc,FullTime,1,0,3,25000,104.33333333333333
+10000961,Economics  and  Business  Finance,BSc,FullTime,1,2,4,27000,134.0
+10000961,Economics  and  Business  Finance,BSc,FullTime,1,0,3,27000,109.33333333333333
+10000961,Politics  and  Economics,BSc,FullTime,0,2,4,22000,115.18181818181819
+10000961,Politics  and  Economics,BSc,FullTime,0,0,3,22000,115.18181818181819
+10007788,Economics,BA,FullTime,0,0,3,28000,243.97058823529412
+10007854,Business  Economics,BA,FullTime,1,0,3,19000,92.0
+10007854,Economics,BSc,FullTime,1,0,3,19000,89.375
+10007854,International  Economics  &  Finance,BSc,FullTime,1,0,3,19000,92.27272727272727
+10007814,Business  Economics,BScEcon,FullTime,0,0,3,23000,149.0
+10007814,Business  Economics  with  a  European  Language  (French),BSc,FullTime,0,0,4,20000,152.65384615384616
+10007814,Business  Economics  with  a  European  Language  (German),BSc,FullTime,0,0,4,20000,152.65384615384616
+10007814,Business  Economics  with  a  European  Language  (Spanish),BSc,FullTime,0,0,4,20000,152.65384615384616
+10007814,Economics,BScEcon,FullTime,0,0,3,23000,149.625
+10007814,Economics  and  Finance,BScEcon,FullTime,0,0,3,24000,153.0
+10007814,Economics  with  a  European  Language  (French),BSc,FullTime,0,0,4,23000,150.92307692307693
+10007814,Economics  with  a  European  Language  (German),BSc,FullTime,0,0,4,23000,150.92307692307693
+10007814,Economics  with  a  European  Language  (Spanish),BSc,FullTime,0,0,4,23000,150.92307692307693
+10007814,Economics  with  a  Professional  Placement  Year,BScEcon,FullTime,0,2,4,23000,150.92307692307693
+10007141,Economics,BA,FullTime,1,1,3,22000,108.5
+10007141,Economics,BSc,FullTime,1,1,3,22000,105.0
+10007141,Economics,BA,FullTime,2,1,4,22000,108.5
+10007848,Economics  and  Business,BSc,FullTime,0,1,3,19000,103.5
+10007848,Economics  and  Business  (with  Foundation  Year),BSc,FullTime,2,1,4,19000,103.5
+10001478,Economics,BSc,FullTime,0,1,3,28000,133.5
+10001478,Financial  Economics,BSc,FullTime,0,1,3,28000,128
+10001726,Business  Economics,BA,FullTime,0,1,3,25000,117.0
+10001726,Economics,BA,FullTime,0,1,3,25000,113.30434782608695
+10001726,Financial  Economics,BA,FullTime,0,1,3,25000,107.66666666666667
+10001726,International  Economics  and  Trade,BA,FullTime,0,1,3,25000,117.0
+10001883,Economics,BA,FullTime,0,1,3,24000,98.14285714285714
+10001883,Economics,BSc,FullTime,0,1,3,24000,94.61538461538461
+10001883,Economics  and  Finance,BSc,FullTime,0,1,3,23000,91.25
+10001883,Economics  and  Politics,BA,FullTime,0,1,3,24000,80
+10007851,Business  Enterprise  and  Economics,BA,PartTime,1,1,,30000,0
+10007851,Economics  and  Accounting,BA,PartTime,1,1,,30000,0
+10007851,Economics  and  Business  Management,BA,PartTime,1,1,,32000,0
+10007851,Economics  and  Education  Studies,BA,PartTime,1,1,,21000,0
+10007851,Economics  and  Finance,BSc,FullTime,1,1,3,20000,101.0
+10007851,Economics  and  Finance  with  Foundation  Year,BSc,FullTime,2,1,4,20000,101.0
+10007851,Economics  and  Marketing,BA,PartTime,1,1,,30000,0
+10007851,Economics  and  Psychology,BA/BSc,PartTime,1,1,,23000,0
+10007851,Economics  for  Business,BA,FullTime,1,1,3,21000,103.89473684210526
+10007851,Economics  for  Business,BA,PartTime,1,1,,32000,0
+10007851,Economics  for  Business  with  Foundation  Year,BA,FullTime,2,1,4,21000,103.89473684210526
+10007852,Economics,MA,FullTime,0,0,4,23000,114.14285714285714
+10007852,Economics,BSc,FullTime,0,0,4,23000,112
+10007852,Financial  Economics,BSc,FullTime,0,0,4,23000,112
+10007852,Financial  Economics,MA,FullTime,0,0,4,23000,112
+10007143,Economics,BA,FullTime,1,1,3,27000,192
+10007143,Economics,BA,FullTime,2,1,4,27000,192
+10007143,Philosophy  Politics  and  Economics,BA,FullTime,0,1,3,25000,213.0
+10007789,Business  Economics,BA,FullTime,0,0,3,26000,147.33333333333334
+10007789,Business  Economics  with  a  Year  Abroad,BSc,FullTime,0,0,4,26000,147.33333333333334
+10007789,Economics,BSc,FullTime,0,0,3,26000,147.33333333333334
+10007789,Economics  with  a  Year  Abroad,BSc,FullTime,0,0,4,26000,147.33333333333334
+10007144,Economics,BSc,FullTime,0,0,3,24000,87.5
+10007144,Economics  Politics  and  Policy,BA,FullTime,0,0,3,24000,64
+10007791,Economics,BSc,FullTime,0,0,3,25000,113.60714285714286
+10007791,Economics,BA,FullTime,0,0,3,25000,96
+10007791,Economics,BA,FullTime,0,2,4,25000,116.28571428571428
+10007791,Economics,BA,FullTime,2,0,4,25000,114.77777777777777
+10007791,Economics,BA,FullTime,0,0,4,25000,109.33333333333333
+10007791,Economics,BSc,FullTime,0,2,4,25000,96
+10007791,Economics,BSc,FullTime,2,0,4,25000,114.77777777777777
+10007791,Economics,BSc,FullTime,0,0,4,25000,106.0
+10007791,Financial  Economics,BA,FullTime,0,2,4,25000,114.77777777777777
+10007791,Financial  Economics,BA,FullTime,0,0,3,25000,114.77777777777777
+10007791,Financial  Economics,BA,FullTime,2,0,4,25000,114.77777777777777
+10007791,Financial  Economics,BA,FullTime,0,0,4,25000,114.77777777777777
+10007791,Financial  Economics,BSc,FullTime,0,2,4,25000,112
+10007791,Financial  Economics,BSc,FullTime,0,0,3,25000,109.33333333333333
+10007791,Financial  Economics,BSc,FullTime,2,0,4,25000,114.77777777777777
+10007791,Financial  Economics,BSc,FullTime,0,0,4,25000,114.77777777777777
+10007791,International  Economics,BA,FullTime,0,2,4,25000,114.77777777777777
+10007791,International  Economics,BA,FullTime,0,0,3,25000,114.77777777777777
+10007791,International  Economics,BA,FullTime,2,0,4,25000,114.77777777777777
+10007791,International  Economics,BA,FullTime,0,0,4,25000,114.77777777777777
+10007791,International  Economics,BSc,FullTime,0,2,4,25000,114.77777777777777
+10007791,International  Economics,BSc,FullTime,0,0,3,25000,114.77777777777777
+10007791,International  Economics,BSc,FullTime,2,0,4,25000,114.77777777777777
+10007791,International  Economics,BSc,FullTime,0,0,4,25000,114.77777777777777
+10007791,Management  Economics,BA,FullTime,0,2,4,25000,114.77777777777777
+10007791,Management  Economics,BA,FullTime,0,0,3,25000,114.77777777777777
+10007791,Management  Economics,BA,FullTime,2,0,4,25000,114.77777777777777
+10007791,Management  Economics,BA,FullTime,0,0,4,25000,114.77777777777777
+10007791,Management  Economics,BSc,FullTime,0,2,4,25000,114.77777777777777
+10007791,Management  Economics,BSc,FullTime,0,0,3,25000,114.77777777777777
+10007791,Management  Economics,BSc,FullTime,2,0,4,25000,114.77777777777777
+10007791,Management  Economics,BSc,FullTime,0,0,4,25000,114.77777777777777
+10007791,Philosophy  Politics  and  Economics,BA,FullTime,0,2,4,22000,122.22727272727273
+10007791,Political  Economics,BA,FullTime,0,0,3,22000,122.22727272727273
+10007791,Political  Economics,BA,FullTime,0,0,4,22000,122.22727272727273
+10007791,Political  Economics,BA,FullTime,0,2,4,22000,122.22727272727273
+10007792,Business  Economics,BSc,FullTime,0,1,3,27000,183.5
+10007792,Economics,BSc,FullTime,0,1,3,27000,183.82608695652175
+10007792,Economics  and  Finance,BSc,FullTime,0,1,3,28000,177.5
+10007792,Economics  and  Politics,BSc,FullTime,0,1,3,27000,188.0
+10007792,Economics  with  Econometrics,BSc,FullTime,0,1,3,27000,183.85714285714286
+10002718,Economics,BA,FullTime,0,0,3,24000,115.75
+10002718,Economics  with  Econometrics,BSc,FullTime,0,0,3,24000,115.75
+10002718,Economics  Politics  and  Public  Policy,BA,FullTime,0,0,3,18000,102.66666666666667
+10007146,Business  Economics,BA,PartTime,0,1,,28000,0
+10007146,Business  Economics,BA,FullTime,0,1,3,28000,121.375
+10007146,Business  Economics  (Extended),BA,FullTime,2,1,4,28000,117.41666666666667
+10007146,Economics,BSc,PartTime,0,1,,28000,0
+10007146,Economics,BSc,FullTime,0,1,3,28000,96
+10007146,Economics  with  Banking,BSc,PartTime,0,1,,28000,0
+10007146,Mathematics  with  Economics,BSc,PartTime,0,1,,28000,0
+10007764,Economics,MA,FullTime,0,0,4,25000,144
+10007147,Accounting  And  Economics,BA,FullTime,0,1,3,22000,101.0
+10007147,Accounting  And  Economics,BA,PartTime,0,1,,28000,0
+10007147,Business  And  Economics,BA,PartTime,0,1,,28000,0
+10007147,Business  And  Economics,BA,FullTime,0,1,3,22000,121.0
+10007147,Business  Economics,BA,FullTime,0,1,3,25000,106.86206896551724
+10007147,Economics,BA,FullTime,0,1,3,25000,106.86206896551724
+10007147,Economics  With  A  European  Language,BA,FullTime,0,1,3,25000,106.86206896551724
+10007147,Economics  With  An  Eastern  Language,BA,FullTime,0,1,3,25000,106.86206896551724
+10007147,Economics  With  Finance,BA,FullTime,0,1,3,23000,108.5
+10007147,Economics  With  Finance,BA,PartTime,0,1,,28000,0
+10007147,Economics/Sports  Studies,BSc,PartTime,0,1,,23000,0
+10007148,Business  Economics,BSc,FullTime,0,1,3,19000,118.42857142857143
+10007148,Economics,BSc,FullTime,0,1,3,19000,118.0
+10007148,Economics  with  Financial  Services,BSc,FullTime,0,1,3,19000,118.42857142857143
+10007149,Economics,BSc,FullTime,0,0,3,23000,121.0
+10007149,Economics  (with  Placement  Year),BSc,FullTime,0,2,4,23000,121.0
+10007149,Economics  (with  Study  Abroad),BSc,FullTime,0,0,4,23000,121.0
+10007767,Economics,BA,FullTime,0,1,3,21000,118.81818181818181
+10007767,Economics  with  Business  Foundation  Year,BA,FullTime,2,1,4,21000,114.5
+10007150,Economics,BSc,FullTime,0,0,3,27000,135.91666666666666
+10007150,Economics  with  a  Year  in  Industry,BSc,FullTime,0,2,4,27000,135.5
+10007150,Economics  with  Econometrics,BSc,FullTime,0,0,3,27000,135.03125
+10007150,European  Economics,BSc,FullTime,0,0,4,27000,135.03125
+10007150,European  Economics  (French),BSc,FullTime,0,0,4,27000,135.03125
+10007150,European  Economics  (German),BSc,FullTime,0,0,4,27000,135.03125
+10007150,European  Economics  (Spanish),BSc,FullTime,0,0,4,27000,135.03125
+10007150,Financial  Economics,BSc,FullTime,0,1,3,27000,122.38461538461539
+10007150,Financial  Economics  with  Econometrics,BSc,FullTime,0,1,3,27000,135.03125
+10003645,Economics,BSc,FullTime,0,0,3,24000,186.3125
+10003678,Business  Economics,BSc,FullTime,2,0,4,28000,87.5
+10003678,Business  Economics,BSc,FullTime,0,0,3,28000,87.5
+10003678,Economics,BSc,FullTime,0,0,3,28000,92.85714285714286
+10003678,Economics,BSc,FullTime,2,0,4,28000,92.85714285714286
+10003678,Financial  Economics,BSc,FullTime,2,0,4,28000,82.14285714285714
+10003678,Financial  Economics,BSc,FullTime,0,0,3,28000,82.14285714285714
+10007768,Business  Economics  (Industry),BSc,FullTime,0,2,4,23000,128
+10007768,Economics,BSc,FullTime,0,0,3,23000,148.0909090909091
+10007768,Economics  (Industry),BSc,FullTime,0,2,4,23000,167.5
+10007768,Economics  (Study  Abroad),BSc,FullTime,0,0,3,23000,151.5
+10007768,Philosophy  Politics  and  Economics,BA,FullTime,0,0,3,23000,147.0
+10003861,Business  Economics,BA,FullTime,0,1,3,22000,92.5
+10003861,Economics  and  Finance,BA,FullTime,0,1,3,22000,92.5
+10007795,Business  Economics,BSc,FullTime,0,1,3,25000,163.75
+10007795,Economics,BSc,FullTime,0,1,3,25000,165.68965517241378
+10007795,Economics  and  Philosophy,BA,FullTime,0,1,3,25000,150.0
+10007795,Economics  and  Politics,BA,FullTime,0,1,3,24000,156.85714285714286
+10007796,Business  Economics,BA,FullTime,0,1,3,25000,135.5
+10007796,Business  Economics,BSc,FullTime,0,1,3,25000,135.69230769230768
+10007796,Economics,BSc,FullTime,0,1,3,25000,138.5
+10007796,Economics,BA,FullTime,0,1,3,25000,136.02325581395348
+10007796,Financial  Economics,BSc,FullTime,0,1,3,25000,146.14285714285714
+10007796,Financial  Economics,BA,FullTime,0,1,3,25000,132.5
+10007796,Management  Studies  and  Economics,BA,FullTime,0,1,3,28000,112
+10007796,Politics  and  Economics,BA,FullTime,0,0,3,25000,112
+10007151,Business  Economics,BA,FullTime,0,1,3,20000,120.2258064516129
+10007151,Economics,BSc,FullTime,0,0,3,20000,120.2258064516129
+10006842,Business  Economics,BA,FullTime,0,0,3,23000,140.5
+10006842,Business  Economics  with  a  Year  in  Industry,BA,FullTime,0,2,4,23000,140.85714285714286
+10006842,Economics,BSc,FullTime,0,0,3,23000,128
+10006842,Economics  with  a  Year  in  Industry,BSc,FullTime,0,2,4,23000,128
+10006842,Philosophy  Politics  and  Economics  BA,BA,FullTime,0,0,3,17000,137.0
+10004048,Business  Economics,BA,PartTime,0,1,,28000,0
+10004048,Business  Economics,BA,FullTime,0,1,3,26000,73.0
+10004048,Economics,BSc,FullTime,0,1,3,26000,48
+10004048,Economics,BSc,PartTime,0,1,,28000,0
+10004063,Economics,BSc,FullTime,0,0,3,28000,230.92307692307693
+10004063,Geography  with  Economics,BSc,FullTime,0,0,3,28000,186.0
+10004063,Mathematics  and  Economics,BSc,FullTime,0,0,3,29000,214.31578947368422
+10004063,Mathematics  with  Economics,BSc,FullTime,0,0,3,28000,215.5
+10004063,Philosophy  and  Economics,BSc,FullTime,0,0,3,28000,172.85714285714286
+10004078,Economics,BSc,FullTime,0,1,3,25000,86.0
+10004078,Economics  with  Enterprise  &  Entrepreneurship,BSc,FullTime,0,1,3,25000,86.0
+10004113,Business  Economics  and  Finance,BSc,FullTime,0,0,3,25000,151.5
+10004113,Business  Economics  and  Finance,BSc,FullTime,0,2,4,25000,151.5
+10004113,Economics,BSc,FullTime,0,2,4,25000,149.15625
+10004113,Economics,BSc,FullTime,0,0,3,25000,149.15625
+10004113,Economics  with  a  Foundation  Year,BSc,FullTime,2,0,4,25000,149.32258064516128
+10004113,Economics  with  Accounting,BSc,FullTime,0,0,3,25000,140.0
+10004113,Economics  with  Accounting,BSc,FullTime,0,2,4,25000,140.0
+10004113,Economics  with  an  International  Foundation  Year,BSc,FullTime,2,0,4,25000,149.32258064516128
+10004113,International  Economics,BSc,FullTime,0,0,3,25000,154.0
+10004113,International  Economics,BSc,FullTime,0,2,4,25000,154.0
+10004180,Economics,BA,FullTime,2,0,4,21000,102.7741935483871
+10004180,Economics,BA,FullTime,0,0,3,21000,115.0
+10004180,Economics,BA,FullTime,0,2,4,21000,116.28571428571428
+10004180,Economics,BA/BSc,FullTime,0,0,4,21000,114.5
+10007798,Business  Studies  and  Economics,BA,FullTime,0,0,3,22000,144
+10007798,Economics,BA,FullTime,0,0,3,24000,167.82608695652175
+10007798,Economics,BEconSc,FullTime,0,0,3,24000,169.0
+10007798,Economics  and  Finance,BA,FullTime,0,0,3,23000,167.5
+10007798,Economics  and  Politics,BA,FullTime,0,0,3,24000,156.5
+10007798,International  Business  Finance  and  Economics,BSc,FullTime,0,0,3,21000,163.75
+10007798,Politics  Philosophy  and  Economics,BA,FullTime,0,0,3,25000,171.47058823529412
+10004351,Economics,BSc,FullTime,1,0,3,24000,76.85714285714286
+10004351,Economics,BA,FullTime,1,1,3,24000,76.85714285714286
+10007799,Economics,BSc,FullTime,0,1,3,24000,161.875
+10007799,Economics  and  Business  Management,BA,FullTime,0,1,3,24000,156.85714285714286
+10007799,Economics  and  Finance,BSc,FullTime,0,1,3,24000,151.5
+10007799,Politics  and  Economics,BA,FullTime,0,0,3,24000,154.71428571428572
+10007832,Business  Economics,BA,FullTime,0,0,3,20000,123.25
+10007138,Economics,BSc,PartTime,2,1,,27000,0
+10007138,Economics,BSc,FullTime,0,1,3,25000,82.5
+10007138,Economics,BSc,FullTime,2,1,4,25000,82.5
+10007138,Economics,BSc,PartTime,0,1,,27000,0
+10007138,Social  Care  and  Economics,BA/BSc,PartTime,0,1,,27000,0
+10001282,Business  with  Economics,BA,FullTime,1,1,3,20000,139.5
+10004797,Economics,BA,FullTime,0,2,4,23000,133.0
+10004797,Economics,BA,FullTime,0,0,3,23000,115.0
+10007154,Economics,BSc,FullTime,0,0,3,25000,180.73684210526315
+10007154,Economics  and  Econometrics,BSc,FullTime,0,0,3,25000,198.0
+10007154,Economics  and  International  Economics,BSc,FullTime,0,0,3,25000,176
+10007154,Industrial  Economics,BSc,FullTime,0,0,3,22000,152.90625
+10004930,Accounting  and  Economics,BSc,FullTime,0,1,3,22000,124.5
+10004930,Economics,BSc,PartTime,0,1,,27000,0
+10004930,Economics,BSc,FullTime,0,1,3,26000,119.05882352941177
+10004930,Economics  Finance  and  International  Business,BSc,FullTime,0,1,3,26000,121.0
+10004930,Economics  Finance  and  International  Business,BSc,PartTime,0,1,,27000,0
+10004930,Economics  Politics  and  International  Relations,BA,PartTime,0,1,,27000,0
+10004930,Economics  Politics  and  International  Relations,BA,FullTime,0,1,3,26000,119.5
+10007774,Economics  and  Management,BA,FullTime,0,0,3,31000,233.47368421052633
+10007774,Philosophy  Politics  and  Economics,BA,FullTime,0,0,3,27000,225.66666666666666
+10007801,Business  Economics,BSc,FullTime,1,1,3,25000,106.71428571428571
+10007801,Economics,BSc,FullTime,1,1,3,25000,99.75
+10007801,Financial  Economics,BSc,FullTime,1,1,3,25000,92.85714285714286
+10007801,International  Business  Economics,BSc,FullTime,1,1,3,25000,99.4090909090909
+10007155,Business  Economics,BSc,FullTime,0,1,3,25000,115.75
+10007155,Economics,BSc,FullTime,0,1,3,25000,118.0
+10007155,Economics  And  Management,BA,FullTime,0,1,3,25000,117.625
+10007155,Economics  Finance  And  Banking,BSc,FullTime,0,1,3,25000,96
+10007775,Economics,BScEcon,FullTime,0,0,4,28000,171.7391304347826
+10007775,Economics,BScEcon,FullTime,0,0,3,28000,171.7391304347826
+10007775,Economics  and  Finance,BScEcon,FullTime,0,0,3,28000,166.0
+10007802,Business  Economics,BSc,FullTime,0,1,3,25000,156.5
+10007802,Business  Economics  with  Placement  Year,BSc,FullTime,0,2,4,25000,141.04347826086956
+10007802,Economics,BSc,FullTime,0,1,3,25000,128
+10007802,Economics,BA,FullTime,0,1,3,25000,124.5
+10007802,Economics  and  Econometrics,BSc,FullTime,0,1,3,25000,141.04347826086956
+10007802,Economics  and  Econometrics  with  Placement  Year,BSc,FullTime,0,2,4,25000,141.04347826086956
+10007802,Economics  with  Placement  Year,BA,FullTime,0,2,4,25000,141.04347826086956
+10007802,Economics  with  Placement  Year,BSc,FullTime,0,2,4,25000,141.04347826086956
+10007802,Food  Marketing  and  Business  Economics,BSc,FullTime,0,1,3,23000,125.63636363636364
+10007802,Food  Marketing  and  Business  Economics  with  Placement  Year,BSc,FullTime,0,2,4,23000,138.0
+10005553,Economics,BSc(Econ),FullTime,0,0,3,27000,126.21052631578948
+10005553,Economics  with  a  Year  in  Business,BSc(Econ),FullTime,0,2,4,27000,129.8
+10005553,Financial  &  Business  Economics,BSc(Econ),FullTime,0,0,3,27000,135.5
+10005553,Financial  and  Business  Economics  with  a  Year  in  Business,BSc(Econ),FullTime,0,2,4,27000,129.8
+10007780,Economics,BSc,FullTime,0,0,3,28000,147.0
+10005790,Business  Economics,BA,FullTime,0,1,3,20000,113.15384615384616
+10005790,Economics,BSc,FullTime,0,1,3,21000,96
+10005790,Finance  and  Economics,BA,FullTime,0,1,3,22000,96
+10007157,Economics,BA,FullTime,0,1,3,23000,148.83870967741936
+10007157,Economics,BSc,FullTime,0,1,3,23000,152.07692307692307
+10007158,Economics,BSocSc,FullTime,0,0,3,25000,147.63636363636363
+10007158,Master  of  Economics,MEcon,FullTime,0,0,4,25000,156.85714285714286
+10007158,MORSE  (Mathematics  Operational  Research  Statistics  and  Economics),BSc,FullTime,0,0,3,28000,144
+10007803,Economics,MA,FullTime,0,0,4,26000,241.66666666666666
+10007803,Economics,BSc,FullTime,0,0,4,26000,215.5
+10007803,Financial  Economics,MA,FullTime,0,0,4,26000,218.0
+10007803,Financial  Economics,BSc,FullTime,0,0,4,26000,218.0
+10014001,Economics,BA,PartTime,0,0,,27000,0
+10014001,Economics,BA,FullTime,0,0,3,20000,114.36842105263158
+10014001,Economics  Banking  and  Finance,BA,PartTime,0,0,,27000,0
+10014001,Economics  Banking  and  Finance,BA,FullTime,0,0,3,20000,114.36842105263158
+10014001,Politics  and  Economics,BA,PartTime,0,0,,27000,0
+10014001,Politics  and  Economics,BA,FullTime,0,0,3,20000,114.36842105263158
+10007160,Business  Economics,BSc,FullTime,0,0,3,26000,179.0
+10007160,Business  Economics,BSc,FullTime,0,2,4,26000,179.0
+10007160,Economics,BSc,FullTime,0,2,4,26000,167.5
+10007160,Economics,BSc,FullTime,0,0,3,26000,167.5
+10007160,Economics  and  Finance,BSc,FullTime,0,0,3,27000,179.75
+10007160,Economics  and  Finance,BSc,FullTime,0,2,4,27000,179.75
+10007806,Economics,BA,FullTime,1,1,3,28000,112
+10007806,Economics,BSc,FullTime,1,1,3,28000,130.5
+10007806,Economics  (with  a  professional  placement  year),BSc,FullTime,1,2,4,28000,130.5
+10007806,Economics  (with  a  professional  placement  year),BA,FullTime,1,2,4,28000,112
+10007855,Economics,BSc,FullTime,0,0,4,23000,121.0
+10007855,Economics,BSc,FullTime,0,2,4,23000,112
+10007855,Economics,BSc,FullTime,0,0,3,23000,118.25
+10007855,Economics  and  Business,BSc,FullTime,0,0,3,23000,117.0
+10007855,Economics  and  Business,BSc,FullTime,0,2,4,23000,121.0
+10007855,Economics  and  Business,BSc,FullTime,0,0,4,23000,121.0
+10007855,Economics  and  Finance,BSc,FullTime,0,0,4,23000,121.0
+10007855,Economics  and  Finance,BSc,FullTime,0,0,3,23000,114.5
+10007855,Economics  and  Finance,BSc,FullTime,0,2,4,23000,112
+10007855,Philosophy  Politics  and  Economics,BA,FullTime,0,0,3,18000,120.33333333333333
+10007161,Economics,BA,FullTime,0,1,3,19000,104.47826086956522
+10007784,Economics,BSc(Econ),FullTime,0,0,4,28000,192
+10007784,Economics,BSc(Econ),FullTime,0,0,3,28000,211.91304347826087
+10007784,Economics  and  Geography,BSc(Econ),FullTime,0,0,3,28000,188.0
+10007784,Economics  with  a  Placement  Year,BScEcon,FullTime,0,2,4,28000,211.0
+10007164,Business  Management  and  Economics,BA,FullTime,0,1,3,22000,96
+10007164,Economics,BA,FullTime,0,1,3,23000,108.22222222222223
+10007164,Economics,BA,FullTime,2,1,4,23000,108.85714285714286
+10007164,Economics,BSc,FullTime,0,1,3,23000,108.85714285714286
+10007164,Economics,BSc,FullTime,2,1,4,23000,108.85714285714286
+10007858,Philosophy  Politics  and  Economics,BA,FullTime,0,0,3,17000,85.0
+10007163,Economics,BSc,FullTime,0,0,3,27000,211.4090909090909
+10007163,Economics  and  Industrial  Organization,BSc,FullTime,0,0,3,27000,211.75
+10007163,MathematicsOperational  ResearchStatistics  and  Economics,MMath,FullTime,0,1,4,30000,206.25
+10007163,MathematicsOperational  ResearchStatistics  and  Economics,BSc,FullTime,0,1,3,31000,192
+10007163,Philosophy  Politics  and  Economics,BA,FullTime,0,0,3,27000,215.5
+10006566,Business  Economics,BSc,FullTime,0,0,3,23000,109.92857142857143
+10006566,Business  Economics,BSc,FullTime,2,0,4,23000,109.92857142857143
+10007165,Business  Economics,BSc,FullTime,0,1,3,23000,123.66666666666667
+10007165,Business  Management  (Economics),BA,FullTime,0,1,3,23000,133.0
+10003614,Economics,BSc,FullTime,0,1,3,21000,108.14285714285714
+10003614,Mathematics  and  Economics,BSc,FullTime,0,1,3,21000,108.14285714285714
+10007166,Economics,BA,FullTime,0,0,3,20000,104.75
+10007166,Economics,BA,PartTime,0,0,,23000,0
+10007166,Economics,BA,FullTime,0,2,4,20000,104.75
+10007166,Economics  and  Business,BA,PartTime,0,0,,23000,0
+10007166,Economics  and  Business,BA,FullTime,0,2,4,20000,104.75
+10007166,Economics  and  Business  with  Foundation  Year,BA,PartTime,2,0,,23000,0
+10007166,Economics  and  Business  with  Foundation  Year,BA,FullTime,2,0,4,20000,104.75
+10007166,Economics  and  Finance,BA,FullTime,0,0,3,20000,104.75
+10007166,Economics  and  Finance,BA,PartTime,0,0,,23000,0
+10007166,Economics  and  Finance  with  Foundation  Year,BA,FullTime,2,0,4,20000,104.75
+10007166,Economics  and  Finance  with  Foundation  Year,BA,PartTime,2,0,,23000,0
+10007166,Economics  and  Politics,BA,PartTime,0,0,,23000,0
+10007166,Economics  and  Politics,BA,FullTime,0,2,4,20000,104.75
+10007166,Economics  and  Politics  with  Foundation  Year,BA,PartTime,2,0,,23000,0
+10007166,Economics  and  Politics  with  Foundation  Year,BA,FullTime,2,0,4,20000,104.75
+10007166,Economics  and  Social  Policy,BA,PartTime,0,0,,23000,0
+10007166,Economics  and  Social  Policy,BA,FullTime,0,2,4,20000,104.75
+10007166,Economics  and  Social  Policy,BA,FullTime,0,0,3,20000,104.75
+10007166,Economics  and  Social  Policy  with  Foundation  Year,BA,PartTime,2,0,,23000,0
+10007166,Economics  and  Social  Policy  with  Foundation  Year,BA,FullTime,2,0,4,20000,104.75
+10007166,Economics  and  Sociology,BA,PartTime,0,0,,23000,0
+10007166,Economics  and  Sociology,BA,FullTime,0,2,4,20000,104.75
+10007166,Economics  and  Sociology,BA,FullTime,0,0,3,20000,104.75
+10007166,Economics  and  Sociology  with  Foundation  Year,BA,PartTime,2,0,,23000,0
+10007166,Economics  and  Sociology  with  Foundation  Year,BA,FullTime,2,0,4,20000,104.75
+10007166,Economics  with  Foundation  Year,BA,PartTime,2,0,,23000,0
+10007166,Economics  with  Foundation  Year,BA,FullTime,2,0,4,20000,104.75
+10007713,Business  and  Economics,BA,FullTime,0,0,3,20000,106.0
+10007713,Business  and  Economics  (With  Placement),BA,FullTime,0,2,4,20000,106.0
+10007713,Business  and  Economics  with  foundation  year,BA,FullTime,2,0,4,20000,106.0
+10007167,Economics,BSc,FullTime,0,1,3,25000,155.66666666666666
+10007167,Economics  and  Finance,BSc,FullTime,0,1,3,25000,154.0
+10007167,Economics  Econometrics  and  Finance,BA/BSc,FullTime,0,1,3,25000,157.8
+10007167,Economics/Econometrics  (Equal),BA/BSc,FullTime,0,1,3,25000,160
+10007167,Philosophy  Politics  and  Economics,BA,FullTime,0,1,3,25000,168.125

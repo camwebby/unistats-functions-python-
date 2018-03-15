@@ -1,0 +1,2021 @@
+"Institution, Course, Type, Study Mode, Foundation Year(s), Sandwich Year(s), Total years, Salary (6 months after), Median Tariff"
+10000291,Civil  Engineering,BSc,FullTime,0,0,3,26000,92.0
+10000291,Civil  Engineering,BEng,FullTime,0,0,3,26000,80
+10000291,Civil  Engineering,BSc,PartTime,0,0,,34000,0
+10000291,Civil  Engineering,MEng,FullTime,0,0,4,26000,80
+10000291,Civil  Engineering,BSc,FullTime,0,2,4,26000,80
+10000291,Civil  Engineering,BEng,FullTime,0,2,4,26000,80
+10000291,Civil  Engineering,BEng,PartTime,0,0,,34000,0
+10000291,Electronic  Engineering,BEng,FullTime,0,2,4,26000,99.0
+10000291,Electronic  Engineering,BEng,FullTime,0,0,3,26000,99.0
+10000291,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,71.5
+10000291,Mechanical  Engineering,BEng,FullTime,0,2,4,26000,71.5
+10000291,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,71.5
+10000291,Mechanical  Engineering,BEng,PartTime,0,0,,34000,0
+10000291,Medical  Engineering,BEng,FullTime,0,2,4,26000,80
+10000291,Medical  Engineering,BEng,FullTime,0,0,3,26000,80
+10007759,Biomedical  Engineering,BEng,FullTime,0,0,3,26000,109.33333333333333
+10007759,Biomedical  Engineering,MEng,FullTime,0,0,4,26000,109.33333333333333
+10007759,Chemical  Engineering,BEng,FullTime,0,2,4,26000,130.14285714285714
+10007759,Chemical  Engineering,MEng,FullTime,0,2,5,26000,130.14285714285714
+10007759,Communications  Engineering,BEng,FullTime,0,2,4,26000,133.0
+10007759,Design  Engineering,BEng,FullTime,0,2,4,27000,96
+10007759,Electrical  and  Electronic  Engineering,BEng,FullTime,0,2,4,26000,138.0
+10007759,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,26000,133.0
+10007759,Electromechanical  Engineering,BEng,FullTime,0,2,4,27000,137.75
+10007759,Mechanical  Engineering,MEng,FullTime,0,2,5,27000,136.33333333333334
+10007759,Mechanical  Engineering,BEng,FullTime,0,2,4,27000,136.33333333333334
+10007857,Computer  Systems  Engineering,BEng,FullTime,0,0,3,24000,115.75
+10007857,Computer  Systems  Engineering,BSc,FullTime,0,0,3,24000,115.75
+10007857,Computer  Systems  Engineering,MEng,FullTime,0,0,4,24000,115.75
+10007857,Control  And  Instrumentation  Engineering,MEng,FullTime,0,0,4,24000,115.75
+10007857,Critical  Safety  Engineering,MEng,FullTime,0,0,4,24000,115.75
+10007857,Electronic  Engineering,BEng,FullTime,0,0,3,24000,114.5
+10007857,Electronic  Engineering,BSc,FullTime,0,0,3,24000,80
+10007857,Electronic  Engineering,MEng,FullTime,0,0,4,24000,140.0
+10007850,Aerospace  Engineering,MEng,FullTime,0,0,4,26000,192
+10007850,Aerospace  Engineering,MEng,FullTime,0,2,5,26000,210.5
+10007850,Chemical  Engineering,MEng,FullTime,0,0,4,27000,210.5
+10007850,Chemical  Engineering,MEng,FullTime,0,2,5,27000,203.42857142857142
+10007850,Chemical  Engineering,BEng,FullTime,0,2,4,27000,192
+10007850,Chemical  Engineering,BEng,FullTime,0,0,3,27000,199.5
+10007850,Civil  and  Architectural  Engineering,MEng,FullTime,0,2,5,26000,187.25
+10007850,Civil  and  Architectural  Engineering,MEng,FullTime,0,0,4,26000,160
+10007850,Civil  Engineering,MEng,FullTime,0,2,5,26000,210.5
+10007850,Civil  Engineering,MEng,FullTime,0,0,4,26000,215.5
+10007850,Civil  Engineering,BEng,FullTime,0,2,4,26000,196.5
+10007850,Civil  Engineering,BEng,FullTime,0,0,3,26000,196.5
+10007850,Computer  Systems  Engineering,BEng,FullTime,0,0,3,26000,170.3125
+10007850,Computer  Systems  Engineering,BEng,FullTime,0,2,4,26000,170.3125
+10007850,Computer  Systems  Engineering,MEng,FullTime,0,0,4,26000,170.3125
+10007850,Computer  Systems  Engineering,MEng,FullTime,0,2,5,26000,170.3125
+10007850,Electrical  and  Electronic  Engineering,MEng,FullTime,0,2,5,26000,179.75
+10007850,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,26000,160
+10007850,Electrical  and  Electronic  Engineering,BEng,FullTime,0,2,4,26000,154.0
+10007850,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,26000,144
+10007850,Electrical  Power  Engineering,BEng,FullTime,0,0,3,26000,170.3125
+10007850,Electrical  Power  Engineering,BEng,FullTime,0,2,4,26000,170.3125
+10007850,Electrical  Power  Engineering,MEng,FullTime,0,0,4,26000,170.3125
+10007850,Electrical  Power  Engineering,MEng,FullTime,0,2,5,26000,170.3125
+10007850,Electronic  Engineering  with  Space  Science  and  Technology,BEng,FullTime,0,0,3,26000,170.3125
+10007850,Electronic  Engineering  with  Space  Science  and  Technology,MEng,FullTime,0,0,4,26000,170.3125
+10007850,Electronic  Engineering  with  Space  Science  and  Technology,BEng,FullTime,0,2,4,26000,170.3125
+10007850,Electronic  Engineering  with  Space  Science  and  Technology,MEng,FullTime,0,2,5,26000,170.3125
+10007850,Electronic  Systems  Engineering,MEng,FullTime,0,0,4,26000,170.3125
+10007850,Electronic  Systems  Engineering,MEng,FullTime,0,2,5,26000,170.3125
+10007850,Electronic  Systems  Engineering,BEng,FullTime,0,0,3,26000,170.3125
+10007850,Electronic  Systems  Engineering,BEng,FullTime,0,2,4,26000,170.3125
+10007850,Integrated  Mechanical  and  Electrical  Engineering,MEng,FullTime,0,2,5,25000,195.75
+10007850,Mechanical  Engineering,MEng,FullTime,0,2,5,26000,211.6
+10007850,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,203.25
+10007850,Mechanical  Engineering  with  Manufacturing  and  Management,MEng,FullTime,0,2,5,26000,206.16666666666666
+10007850,Mechanical  Engineering  with  Manufacturing  and  Management,MEng,FullTime,0,0,4,26000,206.16666666666666
+10007850,Mechanical  with  Automotive  Engineering,MEng,FullTime,0,2,5,26000,206.16666666666666
+10007850,Mechanical  with  Automotive  Engineering,MEng,FullTime,0,0,4,26000,206.16666666666666
+10007850,Robotics  Engineering  4FT,MEng,FullTime,0,0,4,26000,170.3125
+10007850,Robotics  Engineering  5SW,MEng,FullTime,0,2,5,26000,170.3125
+10007152,Computer  Science  and  Software  Engineering,BSc,FullTime,0,2,5,24000,87.10526315789474
+10007152,Computer  Science  and  Software  Engineering,BSc,FullTime,2,0,5,24000,87.10526315789474
+10007152,Computer  Science  and  Software  Engineering,BSc,FullTime,0,0,3,24000,87.10526315789474
+10007152,Software  Engineering,BSc,FullTime,0,2,5,24000,87.10526315789474
+10007152,Software  Engineering,BSc,FullTime,0,0,3,24000,69.0
+10007152,Software  Engineering,BSc,FullTime,2,0,5,24000,87.10526315789474
+10007140,Automotive  Engineering,MEng,FullTime,0,1,4,26000,135.5
+10007140,Automotive  Engineering,MEng,FullTime,2,0,5,26000,104.33333333333333
+10007140,Automotive  Engineering,BEng,FullTime,0,1,3,26000,103.5
+10007140,Automotive  Engineering,BEng,FullTime,2,0,4,26000,104.33333333333333
+10007140,Biomedical  Engineering,MEng,FullTime,0,0,4,25000,126.0625
+10007140,Broadcast  and  Communications  Engineering,BEng,FullTime,0,1,3,25000,126.0625
+10007140,Civil  Engineering,MEng,FullTime,0,1,4,26000,119.5
+10007140,Civil  Engineering,MEng,FullTime,2,0,5,26000,119.5
+10007140,Civil  Engineering,BEng,FullTime,0,1,3,26000,119.5
+10007140,Civil  Engineering,BEng,FullTime,2,0,4,26000,119.5
+10007140,Electronic  Engineering,MEng,FullTime,0,1,4,25000,107.25
+10007140,Electronic  Engineering,MEng,FullTime,2,0,5,25000,126.0625
+10007140,Electronic  Engineering,BEng,FullTime,0,1,3,25000,126.0625
+10007140,Electronic  Engineering,BEng,FullTime,2,0,4,25000,126.0625
+10007140,Manufacturing  Engineering,MEng,FullTime,0,1,4,26000,104.33333333333333
+10007140,Manufacturing  Engineering,MEng,FullTime,2,0,4,26000,104.33333333333333
+10007140,Manufacturing  Engineering,BEng,FullTime,0,1,3,26000,104.33333333333333
+10007140,Manufacturing  Engineering,BEng,FullTime,2,0,4,26000,104.33333333333333
+10007140,Mechanical  Engineering,BEng,FullTime,0,1,3,26000,93.33333333333333
+10007140,Mechanical  Engineering,MEng,PartTime,0,1,,35000,0
+10007140,Mechanical  Engineering,BEng,PartTime,0,1,,35000,0
+10007140,Mechanical  Engineering,MEng,FullTime,0,1,4,26000,96
+10007140,Mechanical  Engineering,MEng,FullTime,2,0,5,26000,104.33333333333333
+10007140,Mechanical  Engineering,BEng,FullTime,2,0,4,26000,104.33333333333333
+10007140,Sound  Engineering  and  Production,BSc,FullTime,0,1,3,25000,118.0
+10006840,Aerospace  Engineering,BEng,FullTime,0,0,3,26000,158.4
+10006840,Aerospace  Engineering,MEng,FullTime,0,0,4,26000,158.4
+10006840,Chemical  Engineering,BEng,FullTime,1,0,3,27000,170.71428571428572
+10006840,Chemical  Engineering,MEng,FullTime,1,0,4,27000,176
+10006840,Chemical  Engineering  (with  International  and  Industrial  Study),MEng,FullTime,1,2,5,27000,160
+10006840,Chemical  Engineering  (with  International  Study),MEng,FullTime,1,0,4,27000,193.875
+10006840,Chemical  Engineering  with  Industrial  Experience,MEng,FullTime,1,2,5,27000,176
+10006840,Chemical  Engineering  with  Industrial  Study,BEng,FullTime,1,2,4,27000,165.0
+10006840,Civil  and  Railway  Engineering,BEng,FullTime,1,0,3,26000,162.14285714285714
+10006840,Civil  and  Railway  Engineering,MEng,FullTime,1,0,4,26000,162.14285714285714
+10006840,Civil  Engineering,MEng,FullTime,1,0,4,26000,168.1818181818182
+10006840,Civil  Engineering,BEng,FullTime,1,0,3,26000,144
+10006840,Civil  Engineering  (International  Study),MEng,FullTime,1,0,4,26000,162.14285714285714
+10006840,Civil  Engineering  with  industrial  experience,MEng,FullTime,1,0,4,26000,188.85714285714286
+10006840,Computer  Science  and  Software  Engineering,MEng,FullTime,1,0,4,24000,187.42857142857142
+10006840,Computer  Science  and  Software  Engineering  with  an  Ind  Yr,MEng,FullTime,1,2,5,24000,187.42857142857142
+10006840,Electronic  and  Electrical  Engineering,MEng,FullTime,1,0,4,25000,150.66666666666666
+10006840,Electronic  and  Electrical  Engineering,BEng,FullTime,1,0,3,25000,163.75
+10006840,Electronic  and  Electrical  Engineering  with  Industrial  Year,BEng,FullTime,1,2,4,25000,150.66666666666666
+10006840,Electronic  and  Electrical  Engineering  with  Industrial  Year,MEng,FullTime,1,2,5,25000,150.66666666666666
+10006840,Materials  Science  and  Engineering,MEng,FullTime,1,0,4,26000,144
+10006840,Materials  Science  and  Engineering  with  Industrial  Experience,MEng,FullTime,1,0,4,26000,144
+10006840,Mechanical  Engineering,MEng,FullTime,1,0,4,26000,171.25
+10006840,Mechanical  Engineering,BEng,FullTime,1,0,3,26000,154.71428571428572
+10006840,Mechanical  Engineering  (Automotive),BEng,FullTime,1,0,3,26000,144
+10006840,Mechanical  Engineering  (Automotive),MEng,FullTime,1,0,4,26000,160
+10006840,Mechanical  Engineering  with  Industrial  Year,MEng,FullTime,1,2,5,26000,144
+10006840,Mechatronic  and  Robotic  Engineering,BEng,FullTime,0,0,3,25000,150.66666666666666
+10006840,Mechatronic  and  Robotic  Engineering,MEng,FullTime,0,0,4,25000,150.66666666666666
+10006840,Nuclear  Engineering,MEng,FullTime,1,0,4,27000,166.42857142857142
+10000754,Aerospace  Engineering,FD,FullTime,0,0,2,26000,0
+10000754,Automotive  Engineering  And  Technology  (Automotive),FD,FullTime,2,0,3,26000,0
+10000754,Automotive  Engineering  And  Technology  (Automotive),FD,FullTime,0,0,2,26000,0
+10000754,Automotive  Engineering  And  Technology  (Motorsport),FD,FullTime,2,0,3,26000,0
+10000754,Automotive  Engineering  And  Technology  (Motorsport),FD,FullTime,0,0,2,26000,0
+10000754,Marine  Engineering,FD,FullTime,0,2,2,26000,0
+10006841,Automotive  Performance  Engineering  (Motorsport),BEng,FullTime,0,0,3,25000,80
+10006841,Automotive  Performance  Engineering  (Motorsport)  with  Foundation,BEng,FullTime,2,0,4,25000,85.0
+10006841,Biomedical  Engineering,MEng,FullTime,0,0,4,25000,76.0
+10006841,Biomedical  Engineering,BEng,FullTime,0,0,3,25000,76.0
+10006841,Biomedical  Engineering  wih  Foundation,BEng,FullTime,2,0,4,25000,76.0
+10006841,Civil  Engineering,BEng,FullTime,0,0,3,25000,114.5
+10006841,Civil  Engineering  with  Foundation,BEng,FullTime,2,0,4,25000,60.27272727272727
+10006841,Electrical  and  Electronic  Engineering  with  Foundation,BEng,FullTime,2,0,4,25000,76.0
+10006841,Electrical  and  Electronics  Engineering,BEng,FullTime,0,0,3,25000,76.0
+10006841,Mechanical  Engineering,BEng,FullTime,0,0,3,25000,85.0
+10006841,Medical  Engineering,BEng,FullTime,0,0,3,25000,76.0
+10006841,Medical  Engineering  wih  Foundation,BEng,FullTime,2,0,4,25000,76.0
+10006841,Software  Engineering,BEng,FullTime,0,0,3,21000,105.23076923076923
+10006841,Software  Engineering  wih  Foundation,BEng,FullTime,2,0,4,21000,105.23076923076923
+10000824,Design  Engineering,BSc,FullTime,0,2,4,23000,107.25
+10000824,Games  Software  Engineering,BSc,FullTime,0,2,3,25000,128.83333333333334
+10000824,Mechanical  Engineering,MEng,FullTime,0,2,5,27000,96
+10000824,Software  Engineering,BSc,FullTime,0,2,4,25000,124.5
+10007785,Biomedical  Engineering,BEng,FullTime,1,0,3,25000,123.5909090909091
+10007785,Biomedical  Engineering,MEng,FullTime,1,0,4,25000,123.5909090909091
+10007785,Biomedical  Engineering,BEng,FullTime,1,2,4,25000,123.5909090909091
+10007785,Biomedical  Engineering,MEng,FullTime,1,2,5,25000,123.5909090909091
+10007785,Chemical  Engineering,MEng,FullTime,1,0,4,26000,121.75
+10007785,Chemical  Engineering,BEng,FullTime,1,0,3,26000,119.5
+10007785,Chemical  Engineering,BEng,FullTime,1,2,4,26000,119.5
+10007785,Chemical  Engineering,MEng,FullTime,1,2,5,26000,131.75
+10007785,Civil  and  Structural  Engineering,MEng,FullTime,1,2,5,25000,112
+10007785,Civil  and  Structural  Engineering,BEng,FullTime,1,2,4,25000,114.14285714285714
+10007785,Civil  and  Structural  Engineering,BEng,FullTime,1,0,3,25000,107.66666666666667
+10007785,Civil  and  Structural  Engineering,MEng,FullTime,1,0,4,25000,112
+10007785,Mechanical  Engineering,BEng,FullTime,1,0,3,25000,117.0
+10007785,Mechanical  Engineering,MEng,FullTime,1,0,4,25000,117.0
+10007785,Mechanical  Engineering,BEng,FullTime,1,2,4,25000,117.0
+10007785,Mechanical  Engineering,MEng,FullTime,1,2,5,25000,117.0
+10007785,Software  Engineering,BEng,FullTime,0,0,3,21000,124.0
+10007785,Software  Engineering,BEng,FullTime,0,2,4,21000,124.0
+10000886,Aeronautical  Engineering,MEng,FullTime,0,1,4,26000,144
+10000886,Aeronautical  Engineering,BEng,FullTime,2,1,4,26000,87.5
+10000886,Aeronautical  Engineering,BEng,FullTime,0,1,3,26000,107.25
+10000886,Automotive  Engineering,BEng,FullTime,0,1,3,26000,103.5
+10000886,Automotive  Engineering,MEng,FullTime,0,1,4,26000,103.5
+10000886,Automotive  Engineering,BEng,FullTime,2,1,4,26000,101.0
+10000886,Civil  Engineering,BEng,FullTime,0,1,3,26000,115.0
+10000886,Civil  Engineering,BEng,FullTime,2,1,4,26000,80
+10000886,Civil  Engineering,MEng,FullTime,0,1,4,26000,112
+10000886,Civil  Engineering  with  Integrated  Foundation  Year,MEng,FullTime,2,1,5,26000,112
+10000886,Civil  with  Environmental  Engineering,BEng,FullTime,0,1,3,26000,112.78947368421052
+10000886,Electrical  and  Electronic  Engineering,MEng,FullTime,0,1,4,25000,103.5
+10000886,Electrical  and  Electronic  Engineering,BEng,FullTime,0,1,3,25000,119.5
+10000886,Electrical  and  Electronic  Engineering,BEng,FullTime,2,1,4,25000,89.0
+10000886,Electronic  and  Computer  Engineering,BEng,FullTime,0,1,3,25000,103.5
+10000886,Electronic  and  Computer  Engineering,BEng,FullTime,2,1,4,25000,103.5
+10000886,Electronic  and  Computer  Engineering,MEng,FullTime,0,1,4,25000,103.5
+10000886,Mechanical  Engineering,BEng,FullTime,0,1,3,26000,108.85714285714286
+10000886,Mechanical  Engineering,MEng,FullTime,0,1,4,26000,103.5
+10000886,Mechanical  Engineering,BEng,FullTime,2,1,4,26000,87.5
+10000886,Software  Engineering,BSc,FullTime,0,1,3,25000,105.0
+10007786,Aerospace  Engineering,MEng,FullTime,0,0,4,26000,197.25
+10007786,Aerospace  Engineering,BEng,FullTime,0,0,3,26000,197.2173913043478
+10007786,Aerospace  Engineering  with  Study  in  Continental  Europe,MEng,FullTime,0,0,4,26000,201.0
+10007786,Civil  Engineering,MEng,FullTime,0,0,4,26000,176
+10007786,Civil  Engineering,BEng,FullTime,0,0,3,26000,179.0
+10007786,Civil  Engineering  with  Study  in  Continental  Europe,MEng,FullTime,0,0,4,26000,176
+10007786,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,25000,165.0
+10007786,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,25000,168.57142857142858
+10007786,Electrical  and  Electronic  Engineering  with  Study  in  Continental  Europe,MEng,FullTime,0,0,4,25000,171.0
+10007786,Engineering  Design  with  Study  in  Industry,MEng,FullTime,0,2,5,27000,200.57142857142858
+10007786,Engineering  Mathematics,MEng,FullTime,0,0,4,24000,181.0
+10007786,Engineering  Mathematics,BEng,FullTime,0,0,3,24000,197.0
+10007786,Engineering  Mathematics  with  Study  Abroad,MEng,FullTime,0,0,4,24000,179.0
+10007786,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,206.11764705882354
+10007786,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,181.0
+10007786,Mechanical  Engineering  with  Study  in  Continental  Europe,MEng,FullTime,0,0,4,26000,202.0
+10000961,Aerospace  Engineering,BEng,FullTime,0,0,3,26000,152.57142857142858
+10000961,Aerospace  Engineering,MEng,FullTime,0,2,5,26000,163.0
+10000961,Aerospace  Engineering,BEng,FullTime,0,2,4,26000,145.875
+10000961,Aerospace  Engineering,MEng,FullTime,0,0,4,26000,173.125
+10000961,Automotive  Engineering,MEng,FullTime,0,0,4,26000,156.5
+10000961,Automotive  Engineering,BEng,FullTime,0,0,3,26000,156.5
+10000961,Automotive  Engineering,MEng,FullTime,0,2,5,26000,156.5
+10000961,Automotive  Engineering,BEng,FullTime,0,2,4,26000,156.5
+10000961,Aviation  Engineering,BEng,FullTime,0,2,4,26000,156.5
+10000961,Aviation  Engineering,BEng,FullTime,0,0,3,26000,156.5
+10000961,Aviation  Engineering,MEng,FullTime,0,0,4,26000,156.5
+10000961,Aviation  Engineering,MEng,FullTime,0,2,5,26000,156.5
+10000961,Aviation  Engineering  with  Pilot  Studies,MEng,FullTime,0,2,5,26000,156.5
+10000961,Aviation  Engineering  with  Pilot  Studies,BEng,FullTime,0,0,3,26000,156.5
+10000961,Aviation  Engineering  with  Pilot  Studies,BEng,FullTime,0,2,4,26000,156.5
+10000961,Aviation  Engineering  with  Pilot  Studies,MEng,FullTime,0,0,4,26000,156.5
+10000961,Civil  Engineering,MEng,FullTime,0,0,4,26000,139.66666666666666
+10000961,Civil  Engineering,MEng,FullTime,0,2,5,26000,139.66666666666666
+10000961,Civil  Engineering,BEng,FullTime,0,0,3,26000,128
+10000961,Civil  Engineering,BEng,FullTime,0,2,4,26000,128
+10000961,Civil  Engineering  with  Sustainability,MEng,FullTime,0,0,4,26000,139.66666666666666
+10000961,Civil  Engineering  with  Sustainability,MEng,FullTime,0,2,5,26000,139.66666666666666
+10000961,Civil  Engineering  with  Sustainability,BEng,FullTime,0,2,4,26000,128
+10000961,Civil  Engineering  with  Sustainability,BEng,FullTime,0,0,3,26000,139.66666666666666
+10000961,Computer  Science  (Software  Engineering),BSc,FullTime,1,0,3,26000,153.0
+10000961,Computer  Science  (Software  Engineering),BSc,FullTime,1,2,4,26000,149.0
+10000961,Computer  Systems  Engineering,BEng,FullTime,1,2,4,26000,138.0
+10000961,Computer  Systems  Engineering,MEng,FullTime,0,2,5,26000,138.0
+10000961,Computer  Systems  Engineering,MEng,FullTime,0,0,4,26000,138.0
+10000961,Computer  Systems  Engineering,BEng,FullTime,1,0,3,26000,138.0
+10000961,Electrical  Engineering  with  Renewable  Energy  Systems,MEng,FullTime,0,0,4,26000,138.0
+10000961,Electrical  Engineering  with  Renewable  Energy  Systems,MEng,FullTime,0,2,5,26000,138.0
+10000961,Electronic  and  Communications  Engineering,BEng,FullTime,1,2,4,26000,138.0
+10000961,Electronic  and  Communications  Engineering,BEng,FullTime,1,0,3,26000,138.0
+10000961,Electronic  and  Communications  Engineering,MEng,FullTime,0,0,4,26000,138.0
+10000961,Electronic  and  Communications  Engineering,MEng,FullTime,0,2,5,26000,138.0
+10000961,Electronic  and  Computer  Engineering,BEng,FullTime,1,0,3,26000,138.0
+10000961,Electronic  and  Computer  Engineering,MEng,FullTime,0,0,4,26000,138.0
+10000961,Electronic  and  Computer  Engineering,BEng,FullTime,1,2,4,26000,138.0
+10000961,Electronic  and  Computer  Engineering,MEng,FullTime,0,2,5,26000,138.0
+10000961,Electronic  and  Electrical  Engineering,BEng,FullTime,1,0,3,26000,128
+10000961,Electronic  and  Electrical  Engineering,MEng,FullTime,0,2,5,26000,138.0
+10000961,Electronic  and  Electrical  Engineering,MEng,FullTime,0,0,4,26000,133.45454545454547
+10000961,Electronic  and  Electrical  Engineering,BEng,FullTime,1,2,4,26000,149.0
+10000961,Engineering  with  an  Integrated  Foundation  Year  with  Professional  Development,BSc,FullTime,2,2,4,26000,107.61290322580645
+10000961,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,162.14285714285714
+10000961,Mechanical  Engineering,BEng,FullTime,0,2,4,26000,151.5
+10000961,Mechanical  Engineering  (Fast  Track),MEng,FullTime,0,0,4,26000,147.75
+10000961,Mechanical  Engineering  (Fast  Track),MEng,FullTime,0,2,5,26000,156.5
+10000961,Mechanical  Engineering  with  Aeronautics,BEng,FullTime,0,0,3,26000,156.5
+10000961,Mechanical  Engineering  with  Aeronautics,BEng,FullTime,0,2,4,26000,156.5
+10000961,Mechanical  Engineering  with  Aeronautics,MEng,FullTime,0,0,4,26000,156.5
+10000961,Mechanical  Engineering  with  Aeronautics,MEng,FullTime,0,2,5,26000,156.5
+10000961,Mechanical  Engineering  with  Automotive  Design,BEng,FullTime,0,0,3,26000,156.5
+10000961,Mechanical  Engineering  with  Automotive  Design,MEng,FullTime,0,0,4,26000,156.5
+10000961,Mechanical  Engineering  with  Automotive  Design,BEng,FullTime,0,2,4,26000,156.5
+10000961,Mechanical  Engineering  with  Automotive  Design,MEng,FullTime,0,2,5,26000,156.5
+10000961,Mechanical  Engineering  with  Building  Services,BEng,FullTime,0,2,4,26000,156.5
+10000961,Mechanical  Engineering  with  Building  Services,MEng,FullTime,0,0,4,26000,156.5
+10000961,Mechanical  Engineering  with  Building  Services,BEng,FullTime,0,0,3,26000,156.5
+10000961,Mechanical  Engineering  with  Building  Services,MEng,FullTime,0,2,5,26000,156.5
+10000961,Motorsport  Engineering,MEng,FullTime,0,2,5,26000,156.5
+10000961,Motorsport  Engineering,MEng,FullTime,0,0,4,26000,156.5
+10000961,Motorsport  Engineering,BEng,FullTime,0,0,3,26000,156.5
+10000961,Motorsport  Engineering,BEng,FullTime,0,2,4,26000,156.5
+10000961,Product  Design  Engineering,BSc,FullTime,0,0,3,18000,156.85714285714286
+10000961,Product  Design  Engineering,BSc,FullTime,0,2,4,18000,149.0
+10000975,Software  Engineering,BSc,FullTime,1,0,3,25000,87.5
+10007788,Chemical  Engineering  via  Engineering,MEng,FullTime,0,0,4,28000,241.25
+10007788,Chemical  Engineering  via  Natural  Sciences,MEng,FullTime,0,0,4,28000,241.5
+10007788,Engineering,MEng,FullTime,0,0,4,28000,224
+10007854,Software  Engineering,BSc,FullTime,1,1,3,21000,116.28571428571428
+10007814,(International)  Architectural  Engineering,MEng,FullTime,0,0,4,26000,164.6153846153846
+10007814,(International)  Architectural  Engineering,MEng,FullTime,0,2,5,26000,164.6153846153846
+10007814,(International)  Civil  and  Environmental  Engineering,MEng,FullTime,0,0,4,26000,164.6153846153846
+10007814,(International)  Civil  and  Environmental  Engineering,MEng,FullTime,0,2,5,26000,164.6153846153846
+10007814,(International)  Civil  Engineering,MEng,FullTime,0,0,4,26000,164.6153846153846
+10007814,(International)  Civil  Engineering,MEng,FullTime,0,2,5,26000,164.6153846153846
+10007814,(International)  Electrical  &  Electronic  Engineering,MEng,FullTime,0,0,4,25000,149.0
+10007814,(International)  Electrical  &  Electronic  Engineering,MEng,FullTime,0,2,5,25000,149.0
+10007814,(International)  Integrated  Engineering,MEng,FullTime,0,0,4,26000,166.0
+10007814,(International)  Integrated  Engineering,MEng,FullTime,0,2,5,26000,166.0
+10007814,(International)  Mechanical  Engineering,MEng,FullTime,0,0,4,25000,165.45454545454547
+10007814,(International)  Mechanical  Engineering,MEng,FullTime,0,2,5,25000,165.45454545454547
+10007814,(International)  Medical  Engineering,MEng,FullTime,0,0,4,25000,149.0
+10007814,(International)  Medical  Engineering,MEng,FullTime,0,2,5,25000,149.0
+10007814,Applied  Software  Engineering,BSc,FullTime,0,0,3,22000,160
+10007814,Architectural  Engineering,BEng,FullTime,0,0,3,26000,164.6153846153846
+10007814,Architectural  Engineering,BEng,FullTime,0,2,4,26000,164.6153846153846
+10007814,Architectural  Engineering,MEng,FullTime,0,2,5,26000,164.6153846153846
+10007814,Architectural  Engineering,MEng,FullTime,0,0,4,26000,164.6153846153846
+10007814,Architectural  Engineering  with  Year  in  Europe  (France),MEng,FullTime,0,0,5,26000,164.6153846153846
+10007814,Architectural  Engineering  with  Year  in  Europe  (Germany),MEng,FullTime,0,0,5,26000,164.6153846153846
+10007814,Architectural  Engineering  with  Year  in  Europe  (Spain),MEng,FullTime,0,0,5,26000,164.6153846153846
+10007814,Civil  &  Environmental  Engineering,BEng,FullTime,0,2,4,26000,164.6153846153846
+10007814,Civil  and  Environmental  Engineering,MEng,FullTime,0,0,4,26000,164.6153846153846
+10007814,Civil  and  Environmental  Engineering,BEng,FullTime,0,0,3,26000,164.6153846153846
+10007814,Civil  and  Environmental  Engineering,MEng,FullTime,0,2,5,26000,164.6153846153846
+10007814,Civil  and  Environmental  Engineering  (Germany),MEng,FullTime,0,0,5,26000,164.6153846153846
+10007814,Civil  and  Environmental  Engineering  with  Year  in  Europe  (France),MEng,FullTime,0,0,5,26000,164.6153846153846
+10007814,Civil  and  Environmental  Engineering  with  Year  in  Europe  (Spain),MEng,FullTime,0,0,5,26000,164.6153846153846
+10007814,Civil  Engineering,BEng,FullTime,0,0,3,26000,128
+10007814,Civil  Engineering,MEng,FullTime,0,0,4,26000,171.25
+10007814,Civil  Engineering,MEng,FullTime,0,2,5,26000,160
+10007814,Civil  Engineering,BEng,FullTime,0,2,4,26000,156.5
+10007814,Civil  Engineering  with  Year  in  Europe  (France),MEng,FullTime,0,0,5,26000,164.6153846153846
+10007814,Civil  Engineering  with  Year  in  Europe  (Germany),MEng,FullTime,0,0,5,26000,164.6153846153846
+10007814,Civil  Engineering  with  Year  in  Europe  (Spain),MEng,FullTime,0,0,5,26000,164.6153846153846
+10007814,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,25000,139.25
+10007814,Electrical  and  Electronic  Engineering,BEng,FullTime,0,2,4,25000,140.5
+10007814,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,25000,169.0
+10007814,Electrical  and  Electronic  Engineering,MEng,FullTime,0,2,5,25000,149.0
+10007814,Integrated  Engineering,MEng,FullTime,0,0,4,26000,166.0
+10007814,Integrated  Engineering,BEng,FullTime,0,0,3,26000,166.0
+10007814,Integrated  Engineering,BEng,FullTime,0,2,4,26000,166.0
+10007814,Integrated  Engineering,MEng,FullTime,0,2,5,26000,166.0
+10007814,Integrated  Engineering  with  Year  in  Europe  (France),MEng,FullTime,0,0,5,26000,166.0
+10007814,Integrated  Engineering  with  Year  in  Europe  (Germany),MEng,FullTime,0,0,5,26000,166.0
+10007814,Integrated  Engineering  with  Year  in  Europe  (Spain),MEng,FullTime,0,0,5,26000,166.0
+10007814,Mechanical  Engineering,MEng,FullTime,0,0,4,25000,169.0
+10007814,Mechanical  Engineering,BEng,FullTime,0,0,3,25000,128
+10007814,Mechanical  Engineering,MEng,FullTime,0,2,5,25000,170.0
+10007814,Mechanical  Engineering,BEng,FullTime,0,2,4,25000,154.71428571428572
+10007814,Mechanical  Engineering  with  Year  in  Europe  (France),MEng,FullTime,0,0,5,25000,165.45454545454547
+10007814,Mechanical  Engineering  with  Year  in  Europe  (Germany),MEng,FullTime,0,0,5,25000,165.45454545454547
+10007814,Mechanical  Engineering  with  Year  in  Europe  (Spain),MEng,FullTime,0,0,5,25000,165.45454545454547
+10007814,Medical  Engineering,BEng,FullTime,0,0,3,25000,149.0
+10007814,Medical  Engineering,MEng,FullTime,0,0,4,25000,149.0
+10007814,Medical  Engineering,MEng,FullTime,0,2,5,25000,160
+10007141,Aerospace  Engineering,MEng,FullTime,1,1,4,25000,99.75
+10007141,Aerospace  Engineering,BEng,FullTime,2,1,4,25000,99.75
+10007141,Aerospace  Engineering,MEng,FullTime,2,1,5,25000,99.75
+10007141,Aerospace  Engineering,BEng,FullTime,1,1,3,25000,99.75
+10007141,Building  Services  and  Sustainable  Engineering,BEng,FullTime,1,1,3,24000,108.0
+10007141,Building  Services  and  Sustainable  Engineering,BEng,FullTime,2,1,4,24000,108.0
+10007141,Building  Services  and  Sustainable  Engineering,BEng,PartTime,2,1,,30000,0
+10007141,Building  Services  and  Sustainable  Engineering,BEng,PartTime,1,1,,30000,0
+10007141,Civil  Engineering,MEng,FullTime,2,1,5,24000,108.0
+10007141,Civil  Engineering,BEng,FullTime,2,1,4,24000,108.0
+10007141,Civil  Engineering,MEng,FullTime,1,1,4,24000,108.0
+10007141,Civil  Engineering,BEng,FullTime,1,1,3,24000,108.0
+10007141,Computer  Aided  Engineering,BEng,FullTime,1,1,3,25000,164.28571428571428
+10007141,Computer  Aided  Engineering,MEng,FullTime,1,1,4,25000,164.28571428571428
+10007141,Computer  Aided  Engineering,BEng,FullTime,2,1,4,25000,164.28571428571428
+10007141,Computer  Aided  Engineering,MEng,FullTime,2,1,5,25000,164.28571428571428
+10007141,Electronic  Engineering,BEng,FullTime,1,1,3,25000,134.0
+10007141,Electronic  Engineering,MEng,FullTime,1,1,4,25000,133.0
+10007141,Electronic  Engineering,MEng,FullTime,2,1,5,25000,133.0
+10007141,Electronic  Engineering,BEng,FullTime,2,1,4,25000,134.0
+10007141,Energy  Engineering,MEng,FullTime,1,1,4,25000,154.0
+10007141,Energy  Engineering,BEng,FullTime,2,1,4,25000,154.0
+10007141,Energy  Engineering,MEng,FullTime,2,1,5,25000,154.0
+10007141,Energy  Engineering,BEng,FullTime,1,1,3,25000,154.0
+10007141,Fire  Engineering,BEng,FullTime,1,1,3,25000,164.28571428571428
+10007141,Fire  Engineering,BEng,PartTime,1,1,,35000,0
+10007141,Fire  Engineering,BEng,FullTime,2,1,4,25000,164.28571428571428
+10007141,Fire  Engineering,MEng,FullTime,1,1,4,25000,164.28571428571428
+10007141,Fire  Engineering,BEng,PartTime,2,1,,35000,0
+10007141,Fire  Engineering,MEng,FullTime,2,1,5,25000,164.28571428571428
+10007141,Mechanical  Engineering,MEng,FullTime,1,1,4,25000,117.0
+10007141,Mechanical  Engineering,BEng,FullTime,1,1,3,25000,131.75
+10007141,Mechanical  Engineering,BEng,FullTime,2,1,4,25000,131.75
+10007141,Mechanical  Engineering,MEng,FullTime,2,1,5,25000,117.0
+10007141,Motorsports  Engineering,MEng,FullTime,1,1,4,25000,128
+10007141,Motorsports  Engineering,MEng,FullTime,2,1,5,25000,128
+10007141,Motorsports  Engineering,BEng,FullTime,2,1,4,25000,112
+10007141,Motorsports  Engineering,BEng,FullTime,1,1,3,25000,112
+10007141,Oil  and  Gas  Safety  Engineering,BEng,FullTime,1,1,3,25000,164.28571428571428
+10007141,Oil  and  Gas  Safety  Engineering,MEng,FullTime,1,1,4,25000,164.28571428571428
+10007141,Oil  and  Gas  Safety  Engineering,BEng,FullTime,2,1,4,25000,164.28571428571428
+10007141,Oil  and  Gas  Safety  Engineering,MEng,FullTime,2,1,5,25000,164.28571428571428
+10007141,Robotics  Engineering,BEng,PartTime,1,1,,35000,0
+10007141,Robotics  Engineering,MEng,FullTime,2,1,5,25000,133.0
+10007141,Robotics  Engineering,MEng,FullTime,1,1,4,25000,133.0
+10007141,Robotics  Engineering,BEng,FullTime,2,1,4,25000,133.0
+10007141,Robotics  Engineering,BEng,FullTime,1,1,3,25000,133.0
+10007141,Software  Engineering,BSc,FullTime,1,1,3,21000,135.5
+10007141,Software  Engineering,BSc,FullTime,2,1,4,21000,135.5
+10007848,Software  Engineering,BSc,FullTime,0,0,4,21000,112.68181818181819
+10007848,Software  Engineering  (with  Foundation  Year),BSc,FullTime,2,0,4,21000,112.68181818181819
+10001478,Aeronautical  Engineering,BEng,FullTime,0,0,3,27000,131.75
+10001478,Aeronautical  Engineering,BEng,FullTime,2,0,4,27000,131.0
+10001478,Aeronautical  Engineering,MEng,FullTime,0,1,4,27000,131.0
+10001478,Biomedical  Engineering,MEng,FullTime,0,1,4,26000,140.0
+10001478,Biomedical  Engineering,BEng,FullTime,0,0,3,26000,112
+10001478,Civil  Engineering,MEng,FullTime,0,1,4,27000,134.0
+10001478,Civil  Engineering,BEng,FullTime,2,0,4,27000,134.0
+10001478,Civil  Engineering,BEng,FullTime,0,0,3,27000,132.28571428571428
+10001478,Electrical  &  Electronic  Engineering,BEng,FullTime,0,0,3,26000,133.625
+10001478,Electrical  &  Electronic  Engineering,MEng,FullTime,0,1,4,26000,140.0
+10001478,Electrical  &  Electronic  Engineering,BEng,FullTime,2,0,4,26000,140.0
+10001478,Engineering,MEng,FullTime,0,1,4,27000,128
+10001478,Engineering,BEng,FullTime,0,0,3,27000,128
+10001478,Mechanical  Engineering,MEng,FullTime,0,1,4,27000,134.0
+10001478,Mechanical  Engineering,BEng,FullTime,0,0,3,27000,131.75
+10001478,Mechanical  Engineering,BEng,FullTime,2,0,4,27000,134.0
+10001478,Structural  Engineering,MEng,FullTime,0,1,4,27000,134.0
+10001726,Aerospace  Systems  Engineering,BEng,FullTime,0,1,3,26000,133.0
+10001726,Automotive  Engineering,BEng,FullTime,0,1,3,26000,128
+10001726,Building  Services  Engineering,BEng,FullTime,0,1,3,25000,106.71428571428571
+10001726,Civil  &  Structural  Engineering,BEng,FullTime,0,1,3,26000,130.64705882352942
+10001726,Civil  &  Structural  Engineering,MEng,FullTime,0,1,4,26000,130.64705882352942
+10001726,Civil  Engineering,MEng,FullTime,0,1,4,26000,156.5
+10001726,Civil  Engineering,BEng,FullTime,0,1,3,26000,129.76470588235293
+10001726,Civil  Engineering,BSc,FullTime,0,1,3,26000,102.25
+10001726,Civil  Engineering,BEng,PartTime,0,1,,30000,0
+10001726,Civil  Engineering,BSc,PartTime,0,1,,30000,0
+10001726,Civil  Engineering,MEng,PartTime,0,1,,30000,0
+10001726,Combined  Engineering,BSc,FullTime,1,1,3,26000,99.0
+10001726,Combined  Engineering,BSc,PartTime,1,1,,35000,0
+10001726,Combined  Engineering,BSc,FullTime,1,1,3,26000,99.0
+10001726,Combined  Engineering,BSc,FullTime,1,1,3,26000,99.0
+10001726,Computer  Hardware  and  Software  Engineering,BEng,FullTime,0,1,3,25000,124.5
+10001726,Electrical  and  Electronic  Engineering,BEng,FullTime,0,1,3,25000,131.0
+10001726,Electronic  Engineering,BEng,FullTime,0,1,3,25000,123.25
+10001726,Environmental  Engineering,MEng,PartTime,0,1,,30000,0
+10001726,Environmental  Engineering,BEng,FullTime,0,1,3,26000,130.64705882352942
+10001726,Environmental  Engineering,BEng,PartTime,0,1,,30000,0
+10001726,Environmental  Engineering,MEng,FullTime,0,1,4,26000,130.64705882352942
+10001726,Manufacturing  Engineering,BEng,PartTime,0,1,,36000,0
+10001726,Manufacturing  Engineering,BEng,FullTime,0,1,3,26000,115.0
+10001726,Mechanical  Engineering,BEng,FullTime,0,1,3,26000,138.43478260869566
+10001726,Motorsport  Engineering,BEng,FullTime,0,1,3,26000,144
+10001850,Electrical  and  Electronic  Engineering,HND,PartTime,0,0,,29000,0
+10001850,Manufacturing  Engineering,HND,PartTime,0,0,,26898,0
+10001850,Mechanical  Engineering,HND,PartTime,0,0,,26898,0
+10001883,Electrical  and  Electronic  Engineering,BEng,FullTime,1,1,3,25000,98.14285714285714
+10001883,Electrical  and  Electronic  Engineering,MEng,FullTime,1,1,4,25000,98.14285714285714
+10001883,Mechanical  Engineering,BEng,FullTime,1,1,3,26000,91.66666666666667
+10001883,Mechanical  Engineering,MEng,FullTime,1,1,4,26000,144
+10001883,Software  Engineering,BSc,FullTime,1,1,3,23000,96
+10007851,Broadcast  Engineering  and  Live  Event  Technology,BSc,FullTime,1,1,3,26000,96
+10007851,Civil  and  Infrastructure  Engineering,BEng,FullTime,1,1,3,25000,80
+10007851,Civil  and  Infrastructure  Engineering  with  Industrial  Year,BEng,FullTime,1,2,4,25000,64
+10007851,Civil  Engineering,BSc,FullTime,1,1,3,25000,76.0
+10007851,Civil  Engineering,FDEng,PartTime,0,0,,27000,0
+10007851,Civil  Engineering,BSc,PartTime,1,1,,32000,0
+10007851,Civil  Engineering,MEng,FullTime,0,1,4,25000,64
+10007851,Computer  Network  Engineering,BEng,FullTime,1,1,3,23000,117.76923076923077
+10007851,Computer  Network  Engineering  with  Industrial  Year,BEng,FullTime,1,2,4,23000,117.76923076923077
+10007851,Electrical  and  Electronic  Engineering,BSc,FullTime,1,1,3,26000,96
+10007851,Electrical  and  Electronic  Engineering,BEng,FullTime,1,1,3,26000,118.0
+10007851,Electrical  and  Electronic  Engineering,FDEng,PartTime,1,0,,28500,0
+10007851,Electrical  and  Electronic  Engineering,BSc,PartTime,1,1,,30000,0
+10007851,Electrical  and  Electronic  Engineering  with  Industrial  Year,BEng,FullTime,1,2,4,26000,96
+10007851,Engineering  Planning  and  Control,FDEng,PartTime,0,0,,26500,0
+10007851,Manufacturing  and  Production  Engineering,BEng,FullTime,1,1,3,26000,92.3529411764706
+10007851,Manufacturing  and  Production  Engineering,BEng,PartTime,1,1,,32000,0
+10007851,Manufacturing  and  Production  Engineering  with  Industrial  Year,BEng,FullTime,1,2,4,26000,92.3529411764706
+10007851,Mechanical  and  Manufacturing  Engineering,FdSc,PartTime,1,0,,26500,0
+10007851,Mechanical  and  Manufacturing  Engineering,BEng,FullTime,1,1,3,26000,92.3529411764706
+10007851,Mechanical  and  Manufacturing  Engineering,BEng,PartTime,1,1,,32000,0
+10007851,Mechanical  Engineering,BEng,FullTime,1,1,3,26000,96
+10007851,Mechanical  Engineering,BEng,PartTime,1,1,,32000,0
+10007851,Mechanical  Engineering,MEng,FullTime,0,1,4,26000,92.3529411764706
+10007851,Mechanical  Engineering  with  Industrial  Year,BEng,FullTime,1,2,4,26000,92.3529411764706
+10007851,Motorsport  and  Motorcycle  Manufacturing  Engineering,BEng,FullTime,1,1,3,26000,92.3529411764706
+10007851,Motorsport  and  Motorcycle  Manufacturing  Engineering,BEng,PartTime,1,1,,32000,0
+10007851,Motorsport  Engineering,BEng,FullTime,1,1,3,26000,96
+10007851,Motorsport  Engineering,FDEng,PartTime,1,0,,26500,0
+10007851,Motorsport  Engineering,BEng,PartTime,1,1,,32000,0
+10007851,Motorsport  Engineering,MEng,FullTime,0,1,4,26000,92.3529411764706
+10007851,Product  Design  Engineering,BSc,FullTime,1,1,3,26000,99.33333333333333
+10007851,Product  Design  Engineering,BSc,PartTime,1,1,,33000,0
+10007852,Biomedical  Engineering,BEng,FullTime,0,0,4,25000,161.0
+10007852,Civil  Engineering,BEng,FullTime,0,0,4,25000,167.5
+10007852,Civil  Engineering,MEng,FullTime,0,0,5,25000,167.5
+10007852,Electronic  Engineering,BEng,FullTime,0,0,4,25000,161.0
+10007852,Mechanical  Engineering,BEng,FullTime,0,0,4,25000,160.88235294117646
+10007143,General  Engineering,BEng,FullTime,2,0,4,27000,208
+10007143,General  Engineering,MEng,FullTime,0,0,4,27000,208
+10007143,General  Engineering,BEng,FullTime,0,0,3,27000,199.5
+10007789,Energy  Engineering  with  Environmental  Management,BEng,FullTime,0,0,3,20000,129.875
+10007144,Civil  Engineering,BEng,FullTime,1,1,3,26000,96
+10007144,Civil  Engineering,MEng,FullTime,0,1,4,26000,96
+10007144,Civil  Engineering,BEng,PartTime,1,1,,36000,0
+10007144,Civil  Engineering,BSc,FullTime,1,1,3,26000,80
+10007144,Civil  Engineering,BSc,PartTime,1,1,,36000,0
+10007144,Civil  Engineering,MEng,PartTime,0,1,,36000,0
+10007144,Engineering  Design,BEng,PartTime,0,0,,40000,0
+10007144,Engineering  Design,BEng,FullTime,0,0,3,26000,59.666666666666664
+10007144,Engineering  Management,BEng,PartTime,0,0,,40000,0
+10007144,Engineering  Management,BEng,FullTime,0,0,3,26000,59.666666666666664
+10007144,General  Engineering,BEng,PartTime,0,0,,40000,0
+10007144,General  Engineering,BEng,FullTime,0,0,3,26000,59.666666666666664
+10007144,Mechanical  Engineering,MEng,PartTime,0,1,,40000,0
+10007144,Mechanical  Engineering,BEng,PartTime,1,1,,40000,0
+10007144,Mechanical  Engineering,MEng,FullTime,0,1,3,26000,96
+10007144,Mechanical  Engineering,BEng,FullTime,1,1,3,26000,108.0
+10007823,Software  Engineering,BSc,FullTime,0,1,3,21000,122.0
+10007791,Computer  Systems  Engineering,BEng,FullTime,0,0,3,24000,103.5
+10007791,Robotic  Engineering,BEng,FullTime,0,2,4,24000,118.5625
+10007791,Robotic  Engineering,BEng,FullTime,0,0,4,24000,118.5625
+10007791,Robotic  Engineering,BEng,FullTime,0,0,3,24000,118.5625
+10002370,Aircraft  Engineering,FD,FullTime,0,0,2,33000,0
+10007792,Civil  and  Environmental  Engineering,MEng,FullTime,0,0,4,25000,165.0
+10007792,Civil  and  Environmental  Engineering  with  Industrial  Experience,MEng,FullTime,0,0,4,25000,165.0
+10007792,Civil  and  Environmental  Engineering  with  International  Study,MEng,FullTime,0,0,4,25000,165.0
+10007792,Civil  Engineering,MEng,FullTime,0,0,4,25000,154.0
+10007792,Civil  Engineering,BEng,FullTime,0,0,3,25000,163.0
+10007792,Civil  Engineering  with  Industrial  Experience,MEng,FullTime,0,0,4,25000,165.0
+10007792,Civil  Engineering  with  International  Study,MEng,FullTime,0,0,4,25000,165.0
+10007792,Electronic  Engineering,BEng,FullTime,0,0,3,26000,172.0
+10007792,Electronic  Engineering,MEng,FullTime,0,0,4,26000,172.0
+10007792,Electronic  Engineering  with  Industrial  Experience,MEng,FullTime,0,0,4,26000,172.0
+10007792,Electronic  Engineering  with  International  Study,MEng,FullTime,0,0,4,26000,172.0
+10007792,Engineering,MEng,FullTime,0,0,4,26000,197.0
+10007792,Engineering,BEng,FullTime,0,0,3,26000,151.5
+10007792,Engineering  and  Management,BEng,FullTime,0,0,3,26000,160
+10007792,Engineering  and  Management,MEng,FullTime,0,0,4,26000,160
+10007792,Engineering  and  Management  with  Industrial  Experience,MEng,FullTime,0,0,4,26000,160
+10007792,Engineering  and  Management  with  International  Study,MEng,FullTime,0,0,4,26000,160
+10007792,Engineering  Geology  and  Geotechnics,BSc,FullTime,0,0,3,20000,157.44827586206895
+10007792,Engineering  Geology  and  Geotechnics,MGeol,FullTime,0,0,4,20000,157.44827586206895
+10007792,Materials  Engineering,BEng,FullTime,0,0,3,26000,158.5
+10007792,Materials  Engineering,MEng,FullTime,0,0,4,26000,158.5
+10007792,Materials  Engineering  with  Industrial  Experience,MEng,FullTime,0,0,4,26000,158.5
+10007792,Materials  Engineering  with  International  Study,MEng,FullTime,0,0,4,26000,160
+10007792,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,154.0
+10007792,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,144
+10007792,Mechanical  Engineering  with  Industrial  Experience,MEng,FullTime,0,0,4,26000,144
+10007792,Mechanical  Engineering  with  International  Study,MEng,FullTime,0,0,4,26000,158.5
+10007792,Mining  Engineering,BEng,FullTime,0,0,3,25000,128
+10007792,Mining  Engineering,MEng,FullTime,0,0,4,25000,166.0
+10007792,Renewable  Energy  Engineering,BEng,FullTime,0,0,3,26000,172.0
+10007792,Renewable  Energy  Engineering,MEng,FullTime,0,0,4,26000,172.0
+10007792,Renewable  Energy  Engineering  with  Industrial  Experience,MEng,FullTime,0,0,4,26000,172.0
+10007833,Aeronautical  and  Mechanical  Engineering,BEng,FullTime,1,0,3,25000,74.0
+10007833,Automotive  Engineering,BEng,PartTime,1,0,,33000,0
+10007833,Automotive  Engineering,BEng,FullTime,1,0,3,25000,67.0
+10007833,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,25000,67.75
+10007833,Industrial  Engineering,FDEng,PartTime,0,0,,30000,0
+10007833,Renewable  and  Sustainable  Engineering,BEng,FullTime,1,0,3,25000,67.75
+10007146,Chemical  Engineering,MEng,PartTime,0,1,,35000,0
+10007146,Chemical  Engineering,MEng,FullTime,0,1,4,27000,89.0
+10007146,Civil  Engineering,BEng,FullTime,0,1,3,26000,122.0
+10007146,Civil  Engineering,MEng,FullTime,0,1,4,26000,89.0
+10007146,Civil  Engineering,MEng,PartTime,0,1,,35000,0
+10007146,Civil  Engineering,BEng,PartTime,0,1,,35000,0
+10007146,Civil  Engineering  (Extended),BEng,FullTime,2,1,4,26000,76.5
+10007146,Civil  Engineering  (Extended),BEng,PartTime,2,1,,35000,0
+10007146,Computer  Engineering,BEng,PartTime,0,1,,33000,0
+10007146,Computer  Engineering,BEng,FullTime,0,1,3,26000,90.0
+10007146,Computer  Engineering,MEng,FullTime,0,1,4,26000,90.0
+10007146,Computer  Engineering,MEng,PartTime,0,1,,33000,0
+10007146,Computer  Engineering  (Extended),BEng,PartTime,2,1,,33000,0
+10007146,Computer  Engineering  (Extended),BEng,FullTime,2,1,4,26000,64
+10007146,Electrical  and  Electronic  Engineering,BEng,FullTime,0,1,3,26000,90.0
+10007146,Electrical  and  Electronic  Engineering,MEng,FullTime,0,1,4,26000,90.0
+10007146,Electrical  and  Electronic  Engineering,BEng,PartTime,0,1,,33000,0
+10007146,Electrical  and  Electronic  Engineering,MEng,PartTime,0,1,,33000,0
+10007146,Electrical  and  Electronic  Engineering  (Extended),BEng,FullTime,2,1,4,26000,83.75
+10007146,Electrical  and  Electronic  Engineering  (Extended),BEng,PartTime,2,1,,33000,0
+10007146,Engineering  Management,MEng,FullTime,0,1,4,28000,106.0
+10007146,Engineering  Management,BEng,PartTime,0,1,,36000,0
+10007146,Engineering  Management,MEng,PartTime,0,1,,36000,0
+10007146,Engineering  Management,BEng,FullTime,0,1,3,28000,106.0
+10007146,Engineering  Management  (Extended),BEng,FullTime,2,1,4,28000,106.0
+10007146,Engineering  Management  (Extended),BEng,PartTime,2,1,,36000,0
+10007146,Engineering  Technology,BEng,PartTime,0,1,,36000,0
+10007146,Engineering  Technology,BEng,FullTime,0,1,3,28000,106.0
+10007146,Industrial  Engineering,MEng,FullTime,0,1,4,28000,106.0
+10007146,Industrial  Engineering,BEng,PartTime,0,1,,36000,0
+10007146,Industrial  Engineering,MEng,PartTime,0,1,,36000,0
+10007146,Industrial  Engineering,BEng,FullTime,0,1,3,28000,106.0
+10007146,Industrial  Engineering  (Extended),BEng,FullTime,2,1,4,28000,106.0
+10007146,Industrial  Engineering  (Extended),BEng,PartTime,2,1,,36000,0
+10007146,Mechanical  Engineering,BEng,FullTime,0,1,3,26000,138.0
+10007146,Mechanical  Engineering,MEng,FullTime,0,1,4,26000,106.0
+10007146,Mechanical  Engineering,MEng,PartTime,0,1,,32000,0
+10007146,Mechanical  Engineering,BEng,PartTime,0,1,,32000,0
+10007146,Mechanical  Engineering  (Extended),BEng,PartTime,2,1,,32000,0
+10007146,Mechanical  Engineering  (Extended),BEng,FullTime,2,1,4,26000,86.42857142857143
+10007146,Software  Engineering,BEng,PartTime,0,1,,26000,0
+10007146,Software  Engineering,BEng,FullTime,0,1,3,25000,128
+10040812,Agricultural  Engineering,BEng,FullTime,0,2,4,26000,119.5
+10040812,Agricultural  Engineering,MEng,FullTime,0,2,5,26000,150.0
+10040812,Automotive  Engineering  (Off-Highway),BEng,FullTime,0,2,4,26000,119.5
+10040812,Automotive  Engineering  (Off-Highway),MEng,FullTime,0,2,5,26000,122.58823529411765
+10040812,Mechanical  Engineering,BEng,FullTime,0,2,4,26000,122.58823529411765
+10040812,Mechanical  Engineering,MEng,FullTime,0,2,5,26000,122.58823529411765
+10040812,Product  Support  Engineering,BSc,FullTime,0,2,4,26000,122.58823529411765
+10007977,Electrical  and  Electronic  Engineering,HND,PartTime,0,0,,28000,0
+10007977,Electrical  and  Electronic  Engineering  Technology,FD,PartTime,0,0,,28000,0
+10007977,Manufacturing  Engineering  Technology,FD,PartTime,0,0,,26000,0
+10007977,Mechanical  Engineering  Technology,FD,PartTime,0,0,,26000,0
+10007764,Architectural  Engineering,MEng,FullTime,0,0,5,24000,199.5
+10007764,Architectural  Engineering,BEng,FullTime,0,0,4,24000,128
+10007764,Architectural  Engineering  with  International  Studies,MEng,FullTime,0,0,5,24000,151.5
+10007764,Chemical  Engineering,MEng,FullTime,0,0,5,27000,144
+10007764,Chemical  Engineering,BEng,FullTime,0,0,4,27000,144
+10007764,Chemical  Engineering  and  Diploma  in  Industrial  Training,MEng,FullTime,0,2,6,27000,172.0
+10007764,Chemical  Engineering  and  Diploma  in  Industrial  Training,BEng,FullTime,0,2,4,27000,166.42857142857142
+10007764,Chemical  Engineering  with  Energy  Engineering,MEng,FullTime,0,0,5,27000,212.28571428571428
+10007764,Chemical  Engineering  with  Energy  Engineering  and  Diploma  in  Industrial  Training,MEng,FullTime,0,0,6,27000,166.42857142857142
+10007764,Chemical  Engineering  with  Oil  and  Gas  Technology,MEng,FullTime,0,0,5,27000,166.42857142857142
+10007764,Chemical  Engineering  with  Oil  and  Gas  Technology  and  Diploma  in  Industrial  Training,MEng,FullTime,0,0,6,27000,166.42857142857142
+10007764,Civil  Engineering,MEng,FullTime,0,0,5,25000,165.0
+10007764,Civil  Engineering,BEng,FullTime,0,0,4,25000,144
+10007764,Civil  Engineering  with  International  Studies,MEng,FullTime,0,0,5,25000,167.5
+10007764,Computer  Science  (Software  Engineering),BSc,FullTime,0,0,4,23000,163.0
+10007764,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,4,26000,181.0
+10007764,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,5,26000,188.85714285714286
+10007764,Engineering,BEng,FullTime,0,0,4,25000,197.0
+10007764,Engineering  Physics,BSc,FullTime,0,0,4,20000,156.5
+10007764,Engineering  Physics,MPhys,FullTime,0,0,5,20000,156.5
+10007764,Mechanical  Engineering,MEng,FullTime,0,0,5,25000,167.5
+10007764,Mechanical  Engineering,BEng,FullTime,0,0,4,25000,138.0
+10007764,Mechanical  Engineering  and  Energy  Engineering,BEng,FullTime,0,0,4,25000,144
+10007764,Mechanical  Engineering  and  Energy  Engineering,MEng,FullTime,0,0,5,25000,144
+10007764,Software  Engineering,MEng,FullTime,0,0,5,23000,164.2
+10007764,Structural  Engineering,MEng,FullTime,0,0,5,25000,165.2941176470588
+10007764,Structural  Engineering,BEng,FullTime,0,0,4,25000,165.2941176470588
+10007764,Structural  Engineering  with  Architectural  Design,MEng,FullTime,0,0,5,25000,165.2941176470588
+10007764,Structural  Engineering  with  Architectural  Design,BEng,FullTime,0,0,4,25000,165.2941176470588
+10007764,Structural  Engineering  with  International  Studies,MEng,FullTime,0,0,5,25000,165.2941176470588
+10007147,Aerospace  Engineering,BEng,FullTime,0,1,3,26000,117.0
+10007147,Aerospace  Engineering,MEng,FullTime,0,1,4,26000,122.0
+10007147,Aerospace  Engineering,BEng,PartTime,0,1,,35000,0
+10007147,Aerospace  Engineering,MEng,PartTime,0,1,,35000,0
+10007147,Aerospace  Engineering  With  Space  Technology,MEng,FullTime,0,1,4,26000,122.0
+10007147,Aerospace  Engineering  With  Space  Technology,BEng,FullTime,0,1,3,26000,117.0
+10007147,Aerospace  Engineering  With  Space  Technology,BEng,PartTime,0,1,,35000,0
+10007147,Aerospace  Engineering  With  Space  Technology,MEng,PartTime,0,1,,35000,0
+10007147,Aerospace  Systems  Engineering,BEng,FullTime,0,1,3,26000,117.0
+10007147,Aerospace  Systems  Engineering,MEng,FullTime,0,1,4,26000,122.0
+10007147,Aerospace  Systems  Engineering,BEng,PartTime,0,1,,35000,0
+10007147,Aerospace  Systems  Engineering,MEng,PartTime,0,1,,35000,0
+10007147,Aerospace  Systems  Engineering  With  Pilot  Studies,BEng,FullTime,0,1,3,26000,117.0
+10007147,Aerospace  Systems  Engineering  With  Pilot  Studies,MEng,FullTime,0,1,4,26000,122.0
+10007147,Aerospace  Systems  Engineering  With  Pilot  Studies,BEng,PartTime,0,1,,35000,0
+10007147,Aerospace  Systems  Engineering  With  Pilot  Studies,MEng,PartTime,0,1,,35000,0
+10007147,Automotive  Engineering,MEng,FullTime,0,1,4,26000,113.25
+10007147,Automotive  Engineering,BEng,PartTime,0,1,,35000,0
+10007147,Automotive  Engineering,MEng,PartTime,0,1,,35000,0
+10007147,Automotive  Engineering,BEng,FullTime,0,1,3,26000,96
+10007147,Automotive  Engineering  With  Motorsport,MEng,FullTime,0,1,4,26000,113.25
+10007147,Automotive  Engineering  With  Motorsport,BEng,PartTime,0,1,,35000,0
+10007147,Automotive  Engineering  With  Motorsport,MEng,PartTime,0,1,,35000,0
+10007147,Automotive  Engineering  With  Motorsport,BEng,FullTime,0,1,3,26000,96
+10007147,Civil  Engineering,BEng,PartTime,0,1,,34000,0
+10007147,Civil  Engineering,MEng,PartTime,0,1,,34000,0
+10007147,Civil  Engineering,BEng,FullTime,0,1,3,26000,105.54545454545455
+10007147,Civil  Engineering,MEng,FullTime,0,1,4,26000,105.54545454545455
+10007147,Computer  Science  (Software  Engineering),BSc,FullTime,0,1,3,25000,120.18181818181819
+10007147,Electrical  And  Electronic  Engineering,MEng,PartTime,0,1,,34000,0
+10007147,Electrical  And  Electronic  Engineering,BEng,PartTime,0,1,,34000,0
+10007147,Electrical  And  Electronic  Engineering,MEng,FullTime,0,1,4,26000,121.0
+10007147,Electrical  And  Electronic  Engineering,BEng,FullTime,0,1,3,26000,123.25
+10007147,Initial  Year  For  Extended  Degree  In  Engineering,BEng,FullTime,2,1,4,26000,66.76315789473685
+10007147,Initial  Year  For  Extended  Degree  In  Engineering,BEng,PartTime,2,1,,35000,0
+10007147,Manufacturing  Engineering,BEng,PartTime,0,1,,35000,0
+10007147,Manufacturing  Engineering,MEng,PartTime,0,1,,35000,0
+10007147,Manufacturing  Engineering,BEng,FullTime,0,1,3,26000,113.25
+10007147,Manufacturing  Engineering,MEng,FullTime,0,1,4,26000,113.25
+10007147,Mechanical  Engineering,BEng,PartTime,0,1,,35000,0
+10007147,Mechanical  Engineering,MEng,PartTime,0,1,,35000,0
+10007147,Mechanical  Engineering,BEng,FullTime,0,1,3,26000,105.0
+10007147,Mechanical  Engineering,MEng,FullTime,0,1,4,26000,113.25
+10007147,Mechanical  Engineering  And  Mechatronics,BEng,PartTime,0,1,,35000,0
+10007147,Mechanical  Engineering  And  Mechatronics,MEng,PartTime,0,1,,35000,0
+10007147,Mechanical  Engineering  And  Mechatronics,BEng,FullTime,0,1,3,26000,113.25
+10007147,Mechanical  Engineering  And  Mechatronics,MEng,FullTime,0,1,4,26000,113.25
+10007148,Automotive  and  Motorsport  Engineering,MEng,FullTime,1,1,4,25000,109.0
+10007148,Automotive  and  Motorsport  Engineering,BEng,FullTime,1,1,3,25000,124.85714285714286
+10007148,Electronic  and  Communication  Engineering,BEng,FullTime,1,1,3,25000,112
+10007148,Electronic  and  Electrical  Engineering,MEng,FullTime,1,1,4,25000,112
+10007148,Electronic  and  Electrical  Engineering,BEng,FullTime,1,1,3,25000,105.0
+10007148,Electronic  Engineering,MEng,FullTime,1,1,4,25000,112
+10007148,Electronic  Engineering,BEng,FullTime,1,1,3,25000,112
+10007148,Electronic  Engineering  and  Computer  Systems,BEng,FullTime,1,1,3,25000,112
+10007148,Mechanical  Engineering,BEng,FullTime,1,1,3,25000,119.5
+10007148,Mechanical  Engineering,MEng,FullTime,1,1,4,25000,112
+10007148,Software  Engineering,BSc,FullTime,0,1,3,22000,135.5
+10007148,Software  Engineering,MEng,FullTime,0,1,4,22000,149.625
+10003200,Engineering,FD,PartTime,0,0,,28000,0
+10007149,Biomedical  Engineering,MEng,FullTime,0,0,4,25000,106.0
+10007149,Biomedical  Engineering,BEng,FullTime,0,0,3,25000,106.0
+10007149,Biomedical  Engineering  (with  Industrial  Placement),MEng,FullTime,0,2,5,25000,106.0
+10007149,Biomedical  Engineering  (with  Industrial  Placement),BEng,FullTime,0,2,4,25000,106.0
+10007149,Biomedical  Engineering  (with  Year  Abroad),MEng,FullTime,0,0,5,25000,106.0
+10007149,Biomedical  Engineering  (with  Year  Abroad),BEng,FullTime,0,0,4,25000,106.0
+10007149,Chemical  and  Energy  Engineering,MEng,FullTime,0,0,4,25000,104.03571428571429
+10007149,Chemical  and  Energy  Engineering  (with  Industrial  Placement),MEng,FullTime,0,2,5,25000,104.03571428571429
+10007149,Chemical  and  Energy  Engineering  (with  Year  Abroad),MEng,FullTime,0,0,5,25000,104.03571428571429
+10007149,Chemical  Engineering,BEng,FullTime,0,0,3,25000,107.25
+10007149,Chemical  Engineering,MEng,FullTime,0,0,4,25000,123.25
+10007149,Chemical  Engineering  (with  Foundation  Year),BEng,FullTime,2,0,4,25000,86.0
+10007149,Chemical  Engineering  (with  Industrial  Placement),BEng,FullTime,0,2,4,25000,104.03571428571429
+10007149,Chemical  Engineering  (with  Industrial  Placement),MEng,FullTime,0,2,5,25000,104.03571428571429
+10007149,Chemical  Engineering  (with  Year  Abroad),MEng,FullTime,0,0,4,25000,104.03571428571429
+10007149,Chemical  Engineering  (with  Year  Abroad),BEng,FullTime,0,0,4,25000,104.03571428571429
+10007149,Computer  Science  (Software  Engineering),MEng,FullTime,0,0,4,22000,118.42857142857143
+10007149,Computer  Science  (Software  Engineering)  (with  Foundation  Year),BSc,FullTime,2,0,4,22000,118.42857142857143
+10007149,Computer  Science  (Software  Engineering)  (with  Study  Abroad),BSc,FullTime,0,0,4,22000,118.42857142857143
+10007149,Computer  Science  (Software  Engineering)  with  Industrial  Experience,BSc,FullTime,0,0,4,22000,118.42857142857143
+10007149,Computer  Science  Software  Engineering,BSc,FullTime,0,0,3,22000,118.42857142857143
+10007149,Electrical  and  Electronic  Engineering,BEng,PartTime,0,0,,31000,0
+10007149,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,25000,106.0
+10007149,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,25000,106.0
+10007149,Electrical  and  Electronic  Engineering  (with  Foundation  Year),BEng,FullTime,2,0,4,25000,64
+10007149,Electrical  and  Electronic  Engineering  (with  Industrial  Placement),BEng,FullTime,0,2,4,25000,106.0
+10007149,Electrical  and  Electronic  Engineering  (with  Industrial  Placement),MEng,FullTime,0,2,5,25000,106.0
+10007149,Electrical  and  Electronic  Engineering  (with  Year  Abroad),BEng,FullTime,0,0,4,25000,106.0
+10007149,Electrical  and  Electronic  Engineering  (with  Year  Abroad),MEng,FullTime,0,0,5,25000,106.0
+10007149,Electronic  Engineering,MEng,FullTime,0,0,4,25000,106.0
+10007149,Electronic  Engineering,BEng,FullTime,0,0,3,25000,106.0
+10007149,Electronic  Engineering  (with  Foundation  Year),BEng,FullTime,2,0,4,25000,106.0
+10007149,Electronic  Engineering  (with  Industrial  Placement),BEng,FullTime,0,2,4,25000,106.0
+10007149,Electronic  Engineering  (with  Industrial  Placement),MEng,FullTime,0,2,5,25000,106.0
+10007149,Electronic  Engineering  (with  Year  Abroad),BEng,FullTime,0,0,4,25000,106.0
+10007149,Electronic  Engineering  (with  Year  Abroad),MEng,FullTime,0,0,5,25000,106.0
+10007149,Mechanical  Engineering,MEng,FullTime,0,0,4,25000,96
+10007149,Mechanical  Engineering,BEng,FullTime,0,0,3,25000,116.28571428571428
+10007149,Mechanical  Engineering,BEng,PartTime,0,0,,31000,0
+10007149,Mechanical  Engineering  (with  Foundation  Year),BEng,FullTime,2,0,4,25000,64
+10007149,Mechanical  Engineering  (with  Industrial  Placement),BEng,FullTime,0,2,4,25000,96
+10007149,Mechanical  Engineering  (with  Industrial  Placement),MEng,FullTime,0,2,5,25000,96
+10007149,Mechanical  Engineering  (with  Year  Abroad),MEng,FullTime,0,0,5,25000,96
+10007149,Mechanical  Engineering  (with  Year  Abroad),BEng,FullTime,0,0,4,25000,96
+10007149,Mechanical  Engineering  and  Manufacturing,MEng,FullTime,0,0,4,25000,96
+10007149,Mechanical  Engineering  and  Manufacturing,BEng,FullTime,0,0,3,25000,96
+10007149,Mechanical  Engineering  and  Manufacturing  (with  Industrial  Placement),BEng,FullTime,0,2,4,25000,96
+10007149,Mechanical  Engineering  and  Manufacturing  (with  Industrial  Placement),MEng,FullTime,0,2,5,25000,96
+10007149,Mechanical  Engineering  and  Manufacturing  (with  Year  Abroad),MEng,FullTime,0,0,5,25000,96
+10007149,Mechanical  Engineering  and  Manufacturing  (with  Year  Abroad),BEng,FullTime,0,0,4,25000,96
+10003270,Aeronautical  Engineering,MEng,FullTime,0,0,4,26000,229.35714285714286
+10003270,Biomaterials  and  Tissue  Engineering,MEng,FullTime,0,0,4,22000,213.0
+10003270,Biomedical  Engineering,MEng,FullTime,0,0,4,26000,224
+10003270,Chemical  Engineering,MEng,FullTime,0,0,4,28000,232.75
+10003270,Civil  Engineering,MEng,FullTime,0,0,4,26000,225.875
+10003270,Civil  Engineering  with  a  Year  Abroad,MEng,FullTime,0,0,4,26000,226.30769230769232
+10003270,Computing  (Software  Engineering),MEng,FullTime,0,0,4,25000,230.25
+10003270,Design  Engineering,MEng,FullTime,0,0,4,26000,220.5
+10003270,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,26000,222.25
+10003270,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,26000,204.0
+10003270,Electrical  and  Electronic  Engineering  with  Management,MEng,FullTime,0,0,4,26000,235.25
+10003270,Electronic  and  Information  Engineering,BEng,FullTime,0,0,3,26000,229.0
+10003270,Electronic  and  Information  Engineering,MEng,FullTime,0,0,4,26000,208
+10003270,Materials  Science  and  Engineering,MEng,FullTime,0,0,4,22000,217.375
+10003270,Materials  Science  and  Engineering,BEng,FullTime,0,0,3,22000,192
+10003270,Materials  with  Nuclear  Engineering,MEng,FullTime,0,0,4,22000,213.0
+10003270,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,232.25
+10003270,Molecular  Bioengineering,MEng,FullTime,0,0,4,26000,234.71428571428572
+10007150,Computer  Systems  Engineering,MEng,FullTime,0,0,4,26000,103.14285714285714
+10007150,Computer  Systems  Engineering,BEng,FullTime,0,0,3,26000,103.14285714285714
+10007150,Computer  Systems  Engineering  including  a  Foundation  Year,BEng,FullTime,2,0,4,26000,92.0
+10007150,Computer  Systems  Engineering  with  a  Year  in  Industry,BEng,FullTime,0,2,4,26000,103.14285714285714
+10007150,Computer  Systems  Engineering  with  a  Year  in  Industry,MEng,FullTime,0,2,5,26000,103.14285714285714
+10007150,Electronic  and  Communications  Engineering,MEng,FullTime,0,0,4,26000,103.14285714285714
+10007150,Electronic  and  Communications  Engineering,BEng,FullTime,0,0,3,26000,124.0
+10007150,Electronic  and  Communications  Engineering  with  a  Foundation  Year,BEng,FullTime,2,0,4,26000,102.42857142857143
+10007150,Electronic  and  Communications  Engineering  with  a  Year  in  Industry,BEng,FullTime,0,2,4,26000,112
+10007150,Electronic  and  Communications  Engineering  with  a  Year  in  Industry,MEng,FullTime,0,2,5,26000,103.14285714285714
+10003678,Aerospace  Engineering,MEng,FullTime,0,2,5,26000,97.76470588235294
+10003678,Aerospace  Engineering,BSc,PartTime,0,0,,41000,0
+10003678,Aerospace  Engineering,BEng,FullTime,0,2,4,26000,97.76470588235294
+10003678,Aerospace  Engineering,BSc,FullTime,0,2,4,26000,97.76470588235294
+10003678,Aerospace  Engineering,BSc,FullTime,2,0,4,26000,74.76923076923077
+10003678,Aerospace  Engineering,MEng,FullTime,0,0,4,26000,97.76470588235294
+10003678,Aerospace  Engineering,BEng,FullTime,0,0,3,26000,150.66666666666666
+10003678,Aerospace  Engineering,BSc,FullTime,0,0,3,26000,99.75
+10003678,Aerospace  Engineering  Astronautics  and  Space  Technology,BEng,FullTime,0,2,4,26000,97.76470588235294
+10003678,Aerospace  Engineering  Astronautics  and  Space  Technology,MEng,FullTime,0,2,5,26000,97.76470588235294
+10003678,Aerospace  Engineering  Astronautics  and  Space  Technology,BEng,FullTime,0,0,3,26000,97.76470588235294
+10003678,Aerospace  Engineering  Astronautics  and  Space  Technology,MEng,FullTime,0,0,4,26000,97.76470588235294
+10003678,Aviation  Engineering,BEng,PartTime,0,0,,41000,0
+10003678,Aviation  Engineering,BEng,FullTime,0,0,3,26000,97.76470588235294
+10003678,Civil  and  Infrastructure  Engineering,BEng,FullTime,2,0,4,27000,102.66666666666667
+10003678,Civil  and  Infrastructure  Engineering,BEng,FullTime,0,2,4,27000,102.66666666666667
+10003678,Civil  and  Infrastructure  Engineering,BEng,PartTime,0,0,,36000,0
+10003678,Civil  and  Infrastructure  Engineering,BEng,FullTime,0,0,3,27000,102.66666666666667
+10003678,Civil  and  Infrastructure  Engineering,MEng,FullTime,0,0,4,27000,102.66666666666667
+10003678,Civil  and  Infrastructure  Engineering,MEng,FullTime,0,2,5,27000,102.66666666666667
+10003678,Civil  Engineering,BSc,FullTime,2,0,4,27000,71.5
+10003678,Mechanical  Engineering,BSc,FullTime,2,0,4,27000,48
+10003678,Mechanical  Engineering,BEng,FullTime,0,2,4,27000,124.85714285714286
+10003678,Mechanical  Engineering,BEng,FullTime,0,0,3,27000,112
+10003678,Mechanical  Engineering,MEng,FullTime,0,2,5,27000,98.5
+10003678,Mechanical  Engineering,MEng,FullTime,0,0,4,27000,98.5
+10003678,Mechanical  Engineering  (Automotive),BEng,PartTime,0,0,,38000,0
+10003678,Mechanical  Engineering  (Automotive),BEng,FullTime,0,0,3,27000,98.5
+10007768,Chemical  Engineering,BEng,FullTime,0,0,3,27000,128
+10007768,Chemical  Engineering,MEng,FullTime,0,0,4,27000,149.0
+10007768,Electronic  and  Electrical  Engineering,BEng,FullTime,0,0,3,25000,144
+10007768,Electronic  and  Electrical  Engineering,MEng,FullTime,0,0,4,25000,144
+10007768,Engineering,BEng,FullTime,0,0,3,25000,157.33333333333334
+10007768,Engineering  (Study  Abroad),BEng,FullTime,0,0,3,25000,157.33333333333334
+10007768,Engineering  (Study  Abroad),MEng,FullTime,0,0,4,25000,157.33333333333334
+10007768,Mechanical  Engineering,MEng,FullTime,0,0,4,25000,170.71428571428572
+10007768,Mechanical  Engineering,BEng,FullTime,0,0,3,25000,154.0
+10007768,Nuclear  Engineering,BEng,FullTime,0,0,3,25000,157.33333333333334
+10007768,Nuclear  Engineering,MEng,FullTime,0,0,4,27000,140.0
+10007768,Software  Engineering,BSc,FullTime,0,0,3,22000,161.36363636363637
+10007768,Software  Engineering  (with  Industrial  Experience),MSci,FullTime,0,2,4,22000,162.5
+10003861,Audio  Engineering,BSc,PartTime,0,1,,30000,0
+10003861,Audio  Engineering,BSc,FullTime,0,1,3,18000,115.0
+10003861,Broadcast  Engineering,MEng,FullTime,0,1,4,25000,96
+10003861,Building  Services  Engineering,BEng,PartTime,0,1,,32000,0
+10003861,Building  Services  Engineering,BEng,FullTime,0,1,3,25000,89.6774193548387
+10003861,Civil  Engineering,BEng,FullTime,0,1,3,25000,115.0
+10003861,Civil  Engineering,BSc,FullTime,0,1,3,25000,85.0
+10003861,Civil  Engineering,BSc,PartTime,0,1,,27000,0
+10003861,Electronic  and  Electrical  Engineering,BEng,FullTime,0,1,3,25000,96
+10007795,Aeronautical  and  Aerospace  Engineering,MEng,FullTime,0,1,4,25000,176
+10007795,Aeronautical  and  Aerospace  Engineering,BEng,FullTime,0,1,3,25000,179.75
+10007795,Architectural  Engineering,MEng,FullTime,0,1,4,26000,170.71428571428572
+10007795,Architectural  Engineering,BEng,FullTime,0,1,3,26000,167.125
+10007795,Automotive  Engineering,MEng,FullTime,0,1,4,26000,181.2941176470588
+10007795,Automotive  Engineering,BEng,FullTime,0,1,3,26000,181.2941176470588
+10007795,Chemical  and  Energy  Engineering,MEng,FullTime,0,1,4,26000,160
+10007795,Chemical  and  Energy  Engineering,BEng,FullTime,0,1,3,26000,190.0625
+10007795,Chemical  and  Nuclear  Engineering,MEng,FullTime,0,1,4,26000,201.0
+10007795,Chemical  and  Nuclear  Engineering,BEng,FullTime,0,1,3,26000,190.0625
+10007795,Chemical  Engineering,MEng,FullTime,0,1,4,26000,196.28571428571428
+10007795,Chemical  Engineering,BEng,FullTime,0,1,3,26000,190.0625
+10007795,Civil  and  Environmental  Engineering,MEng,FullTime,0,1,4,26000,165.0
+10007795,Civil  and  Environmental  Engineering,BEng,FullTime,0,1,3,26000,167.125
+10007795,Civil  and  Structural  Engineering,MEng,FullTime,0,1,4,26000,163.75
+10007795,Civil  and  Structural  Engineering,BEng,FullTime,0,1,3,26000,167.125
+10007795,Civil  Engineering  with  Transport,BEng,FullTime,0,1,3,26000,167.125
+10007795,Civil  Engineering  with  Transport,MEng,FullTime,0,1,4,26000,167.125
+10007795,Computer  Science  with  High  Performance  Graphics  and  Games  Engineering,MEng,FullTime,0,1,4,23000,165.37735849056605
+10007795,Electronic  and  Communications  Engineering,MEng,FullTime,0,1,4,25000,162.5
+10007795,Electronic  and  Communications  Engineering,BEng,FullTime,0,1,3,25000,162.5
+10007795,Electronic  and  Electrical  Engineering,BEng,FullTime,0,1,3,25000,162.5
+10007795,Electronic  and  Electrical  Engineering,MEng,FullTime,0,1,4,25000,156.0
+10007795,Electronic  Engineering,BEng,FullTime,0,1,3,25000,162.5
+10007795,Electronic  Engineering,MEng,FullTime,0,1,4,25000,162.5
+10007795,Mechanical  Engineering,MEng,FullTime,0,1,4,26000,176
+10007795,Mechanical  Engineering,BEng,FullTime,0,1,3,26000,181.2941176470588
+10007795,Medical  Engineering,BEng,FullTime,0,1,3,25000,162.5
+10007795,Medical  Engineering,MEng,FullTime,0,1,4,25000,162.5
+10007795,Petroleum  Engineering,BEng,FullTime,0,1,3,26000,190.0625
+10007795,Petroleum  Engineering,MEng,FullTime,0,1,4,26000,163.33333333333334
+10007796,Aerospace  Engineering,MEng,FullTime,0,0,4,26000,163.75
+10007796,Aerospace  Engineering,MEng,FullTime,0,2,5,26000,128
+10007796,Aerospace  Engineering,MEng,FullTime,0,0,5,26000,137.375
+10007796,Aerospace  Engineering,BEng,FullTime,0,2,4,26000,133.45454545454547
+10007796,Aerospace  Engineering,BEng,FullTime,0,0,4,26000,137.375
+10007796,Aerospace  Engineering,BEng,FullTime,0,0,3,26000,131.75
+10007796,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,25000,123.66666666666667
+10007796,Electrical  and  Electronic  Engineering,MEng,FullTime,0,2,5,25000,123.66666666666667
+10007796,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,5,25000,123.66666666666667
+10007796,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,25000,123.66666666666667
+10007796,Electrical  and  Electronic  Engineering,BEng,FullTime,0,2,4,25000,123.66666666666667
+10007796,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,4,25000,123.66666666666667
+10007796,Engineering,BEng,FullTime,2,0,4,26000,115.0
+10007796,General  Engineering,MEng,FullTime,0,0,4,26000,122.86206896551724
+10007796,General  Engineering,BEng,FullTime,0,0,3,26000,131.0
+10007796,General  Engineering,MEng,FullTime,0,2,5,26000,122.86206896551724
+10007796,General  Engineering,MEng,FullTime,0,0,5,26000,122.86206896551724
+10007796,General  Engineering,BEng,FullTime,0,2,4,26000,122.86206896551724
+10007796,General  Engineering,BEng,FullTime,0,0,4,26000,122.86206896551724
+10007796,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,128
+10007796,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,133.0
+10007796,Mechanical  Engineering,MEng,FullTime,0,2,5,26000,136.33333333333334
+10007796,Mechanical  Engineering,MEng,FullTime,0,0,5,26000,132.03846153846155
+10007796,Mechanical  Engineering,BEng,FullTime,0,2,4,26000,123.53846153846153
+10007796,Mechanical  Engineering,BEng,FullTime,0,0,4,26000,132.03846153846155
+10007796,Software  Engineering,BSc,FullTime,0,1,3,24000,149.25
+10003928,ElectricalandElectronicEngineering,HND,PartTime,0,0,,30000,0
+10007151,Automation  Engineering,BEng,FullTime,0,0,3,26000,139.25
+10007151,Automation  Engineering,BEng,FullTime,2,0,4,26000,139.25
+10007151,Electrical  Engineering  (Control  Systems),MEng,FullTime,0,0,4,26000,139.25
+10007151,Electrical  Engineering  (Control  Systems),BEng,FullTime,0,0,3,26000,139.25
+10007151,Electrical  Engineering  (Control  Systems),BEng,FullTime,2,0,4,26000,139.25
+10007151,Electrical  Engineering  (Electronics),BEng,FullTime,2,0,4,26000,139.25
+10007151,Electrical  Engineering  (Electronics),BEng,FullTime,0,0,3,26000,139.25
+10007151,Electrical  Engineering  (Electronics),MEng,FullTime,0,0,4,26000,139.25
+10007151,Electrical  Engineering  (Power  and  Energy),BEng,FullTime,2,0,4,26000,139.25
+10007151,Electrical  Engineering  (Power  and  Energy),MEng,FullTime,0,0,4,26000,139.25
+10007151,Electrical  Engineering  (Power  and  Energy),BEng,FullTime,0,0,3,26000,139.25
+10007151,Mechanical  Engineering,BEng,FullTime,2,0,4,26000,140.0
+10007151,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,128
+10007151,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,140.0
+10007151,Mechanical  Engineering  (Control  Systems),BEng,FullTime,2,0,4,26000,140.0
+10007151,Mechanical  Engineering  (Control  Systems),BEng,FullTime,0,0,3,26000,140.0
+10007151,Mechanical  Engineering  (Control  Systems),MEng,FullTime,0,0,4,26000,140.0
+10007151,Mechanical  Engineering  (Power  and  Energy),BEng,FullTime,0,0,3,26000,140.0
+10007151,Mechanical  Engineering  (Power  and  Energy),MEng,FullTime,0,0,4,26000,140.0
+10007151,Mechanical  Engineering  (Power  and  Energy),BEng,FullTime,2,0,4,26000,140.0
+10003955,Building  Services  Engineering,FD,PartTime,0,0,,27000,0
+10003957,Applied  Mathematics  with  Engineering,BSc,FullTime,0,2,4,21000,124.85714285714286
+10003957,Applied  Mathematics  with  Engineering,BSc,FullTime,2,2,5,21000,124.85714285714286
+10003957,Architectural  Engineering,BEng,FullTime,2,1,4,18000,152.33333333333334
+10003957,Architectural  Engineering,MEng,FullTime,0,1,4,18000,152.33333333333334
+10003957,Architectural  Engineering,BEng,FullTime,0,2,4,18000,152.33333333333334
+10003957,Building  Services  Engineering,BEng,FullTime,2,1,4,25000,135.85714285714286
+10003957,Building  Services  Engineering,MEng,FullTime,0,0,4,25000,135.85714285714286
+10003957,Building  Services  Engineering,MEng,PartTime,0,0,,30000,0
+10003957,Building  Services  Engineering,BEng,PartTime,0,0,,30000,0
+10003957,Building  Services  Engineering,BEng,FullTime,0,1,3,25000,135.85714285714286
+10003957,Building  Services  Engineering  Project  Management,BSc,FullTime,0,1,3,25000,135.85714285714286
+10003957,Building  Services  Engineering  Project  Management,BSc,PartTime,0,0,,30000,0
+10003957,Civil  and  Environmental  Engineering,MEng,FullTime,0,1,4,25000,139.7391304347826
+10003957,Civil  and  Offshore  Engineering,MEng,FullTime,0,1,4,25000,139.7391304347826
+10003957,Civil  and  Structural  Engineering,MEng,FullTime,0,1,4,25000,139.7391304347826
+10003957,Civil  and  Transportation  Engineering,MEng,FullTime,0,1,4,25000,139.7391304347826
+10003957,Civil  Engineering,BEng,FullTime,2,1,4,25000,135.5
+10003957,Civil  Engineering,MEng,FullTime,0,1,4,25000,147.75
+10003957,Civil  Engineering,MEng,PartTime,0,0,,34000,0
+10003957,Civil  Engineering,BEng,PartTime,0,0,,34000,0
+10003957,Civil  Engineering,BEng,FullTime,0,1,3,25000,135.5
+10003957,Civil  Engineering  and  Architecture,MEng,FullTime,0,1,4,25000,139.7391304347826
+10003957,Civil  Engineering  and  Construction  Management,MEng,FullTime,0,1,4,25000,139.7391304347826
+10003957,Control  and  Automation  Engineering,BEng,PartTime,0,0,,34000,0
+10003957,Electrical  and  Electronic  Engineering,BEng,FullTime,2,1,4,24000,149.0
+10003957,Electrical  and  Electronic  Engineering,BEng,PartTime,0,0,,34000,0
+10003957,Electrical  and  Electronic  Engineering,BEng,FullTime,0,1,3,24000,149.0
+10003957,Electrical  and  Electronic  Engineering,MEng,FullTime,0,1,4,24000,155.25
+10003957,Manufacturing  Systems  Engineering,MEng,PartTime,0,0,,38000,0
+10003957,Manufacturing  Systems  Engineering,BEng,PartTime,0,0,,38000,0
+10003957,Marine  and  Offshore  Engineering,MEng,FullTime,0,1,4,25000,147.21428571428572
+10003957,Marine  and  Offshore  Engineering,BEng,FullTime,0,1,3,25000,147.21428571428572
+10003957,Marine  and  Offshore  Engineering,BEng,FullTime,2,1,4,25000,147.21428571428572
+10003957,Mechanical  and  Manufacturing  Engineering,MEng,FullTime,0,1,4,25000,147.21428571428572
+10003957,Mechanical  and  Manufacturing  Engineering,BEng,FullTime,0,1,3,25000,147.21428571428572
+10003957,Mechanical  and  Manufacturing  Engineering,BEng,FullTime,2,1,4,25000,147.21428571428572
+10003957,Mechanical  and  Marine  Engineering,BEng,FullTime,2,1,4,25000,149.0
+10003957,Mechanical  and  Marine  Engineering,MEng,FullTime,0,1,4,25000,147.21428571428572
+10003957,Mechanical  and  Marine  Engineering,BEng,FullTime,0,0,3,25000,149.0
+10003957,Mechanical  Engineering,MEng,FullTime,0,1,4,25000,146.5
+10003957,Mechanical  Engineering,BEng,FullTime,0,1,3,25000,148.44444444444446
+10003957,Mechanical  Engineering,BEng,FullTime,2,1,4,25000,148.44444444444446
+10003957,Mechanical  Engineering  with  Management,MEng,FullTime,0,1,4,25000,147.21428571428572
+10003957,Mechanical  Engineering  with  Management,BEng,FullTime,0,1,3,25000,147.21428571428572
+10003957,Mechanical  Engineering  with  Management,BEng,FullTime,2,1,4,25000,147.21428571428572
+10003957,Product  Design  Engineering,BSc,FullTime,0,1,3,25000,149.0
+10003957,Software  Engineering,BSc,FullTime,2,2,5,21000,149.0
+10003957,Software  Engineering,MComp,FullTime,0,1,4,21000,139.25
+10003957,Software  Engineering,BSc,FullTime,0,2,4,21000,149.0
+10006842,Aerospace  Engineering,MEng,FullTime,0,0,4,25000,170.0
+10006842,Aerospace  Engineering,BEng,FullTime,0,0,3,25000,134.66666666666666
+10006842,Aerospace  Engineering  with  Pilot  Studies,MEng,FullTime,0,0,4,25000,140.85714285714286
+10006842,Aerospace  Engineering  with  Pilot  Studies,BEng,FullTime,0,0,3,25000,139.25
+10006842,Architectural  Engineering,BEng,FullTime,0,0,3,19000,151.5
+10006842,Architectural  Engineering,MEng,FullTime,0,0,4,19000,151.5
+10006842,Civil  and  Structural  Engineering,MEng,FullTime,0,0,4,25000,128
+10006842,Civil  Engineering,BEng,FullTime,0,0,3,25000,138.0
+10006842,Civil  Engineering,MEng,FullTime,0,0,4,25000,154.5
+10006842,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,24000,133.0
+10006842,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,24000,133.0
+10006842,Electrical  and  Electronic  Engineering  with  a  Year  in  Industry,BEng,FullTime,0,2,4,24000,133.0
+10006842,Electrical  and  Electronic  Engineering  with  a  Year  in  Industry,MEng,FullTime,0,2,5,24000,133.0
+10006842,Engineering,BEng,FullTime,0,0,3,26000,144
+10006842,Engineering,MEng,FullTime,0,0,4,26000,144
+10006842,Engineering  Foundation    (4  year  route  including  a  Foundation  Year  at,BEng,FullTime,0,0,4,26000,101.0
+10006842,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,141.125
+10006842,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,176
+10004048,Computer  Network  Engineering  Extended  Degree,BSc,FullTime,2,0,3,26000,77.125
+10004048,Computer  Systems  Engineering,BEng,FullTime,1,0,3,26000,77.125
+10004048,Electronic  and  Communications  Engineering,BEng,FullTime,1,0,3,26000,124.0
+10004078,Advanced  Vehicle  Engineering,MEng,PartTime,1,0,,38000,0
+10004078,Advanced  Vehicle  Engineering,BEng,FullTime,1,1,3,26000,123.25
+10004078,Advanced  Vehicle  Engineering,BEng,PartTime,1,1,,38000,0
+10004078,Advanced  Vehicle  Engineering,MEng,FullTime,1,1,4,26000,123.25
+10004078,Architectural  Engineering,BSc,FullTime,1,1,3,26000,80
+10004078,Building  Services  Engineering,BEng,FullTime,1,1,3,26000,80
+10004078,Building  Services  Engineering,BEng,PartTime,1,1,,33000,0
+10004078,Building  Services  Engineering,HND,PartTime,1,0,,34000,0
+10004078,Chemical  and  Process  Engineering,BEng,FullTime,1,1,3,28000,103.5
+10004078,Chemical  and  Process  Engineering,MEng,FullTime,1,0,4,28000,96
+10004078,Civil  Engineering,BSc,FullTime,1,1,3,26000,74.5
+10004078,Civil  Engineering,BSc,PartTime,0,0,,33000,0
+10004078,Civil  Engineering,BEng,PartTime,1,1,,33000,0
+10004078,Civil  Engineering,BEng,FullTime,1,1,3,26000,96
+10004078,Computer  Engineering,MEng,FullTime,1,1,4,26000,53.0
+10004078,Computer  Engineering,BEng,FullTime,1,1,3,26000,53.0
+10004078,Computer  Systems  and  Networks  Engineering,MEng,FullTime,1,1,4,26000,114.14285714285714
+10004078,Computer  Systems  and  Networks  Engineering,MEng,PartTime,1,0,,38000,0
+10004078,Electrical  and  Electronic  Engineering,MEng,FullTime,1,1,4,26000,114.14285714285714
+10004078,Electrical  and  Electronic  Engineering,HND,PartTime,1,0,,40000,0
+10004078,Electrical  and  Electronic  Engineering,BEng,PartTime,1,1,,38000,0
+10004078,Electrical  and  Electronic  Engineering,MEng,PartTime,1,0,,38000,0
+10004078,Electrical  and  Electronic  Engineering,BEng,FullTime,1,1,3,26000,113.875
+10004078,Electrical  Engineering  and  Power  Electronics,MEng,FullTime,1,1,4,26000,114.14285714285714
+10004078,Electrical  Engineering  and  Power  Electronics,MEng,PartTime,1,0,,38000,0
+10004078,Electrical  Engineering  and  Power  Electronics,BEng,FullTime,1,1,3,26000,114.14285714285714
+10004078,Electrical  Engineering  and  Power  Electronics,BEng,PartTime,1,1,,38000,0
+10004078,Engineering  Product  Design,BSc,FullTime,1,1,4,19000,96
+10004078,Mechanical  Engineering,MEng,FullTime,1,1,4,26000,123.25
+10004078,Mechanical  Engineering,MEng,PartTime,1,0,,38000,0
+10004078,Mechanical  Engineering,BEng,FullTime,1,1,3,26000,123.25
+10004078,Mechanical  Engineering,BEng,PartTime,1,1,,38000,0
+10004078,Petroleum  Engineering,BEng,FullTime,1,1,3,28000,117.0
+10004078,Petroleum  Engineering,MEng,FullTime,1,1,4,28000,96
+10004078,Telecommunications  Engineering,MEng,FullTime,1,1,4,26000,114.14285714285714
+10004078,Telecommunications  Engineering,MEng,PartTime,1,0,,38000,0
+10004078,Telecommunications  Engineering,BEng,FullTime,1,1,3,26000,114.14285714285714
+10004078,Telecommunications  Engineering,BEng,PartTime,1,1,,38000,0
+10004112,Electrical  and  Electronic  Engineering,HND,FullTime,0,0,2,20000,0
+10004112,Mechanical  Engineering,HND,FullTime,0,0,2,20000,0
+10004113,Aeronautical  Engineering,BEng,FullTime,0,2,4,26000,169.10714285714286
+10004113,Aeronautical  Engineering,MEng,FullTime,0,2,5,26000,183.5
+10004113,Aeronautical  Engineering,BEng,FullTime,0,0,3,26000,169.10714285714286
+10004113,Aeronautical  Engineering,MEng,FullTime,0,0,4,26000,183.5
+10004113,Aeronautical  Engineering  with  a  Foundation  Year,BEng,FullTime,2,0,4,26000,154.0
+10004113,Aeronautical  Engineering  with  an  International  Foundation  Year,BEng,FullTime,2,0,4,26000,171.78571428571428
+10004113,Architectural  Engineering  and  Design  Management,BSc,FullTime,0,0,3,26000,131.0
+10004113,Architectural  Engineering  and  Design  Management,BSc,FullTime,0,2,4,26000,131.0
+10004113,Automotive  Engineering,MEng,FullTime,0,2,5,26000,144
+10004113,Automotive  Engineering,MEng,FullTime,0,0,4,26000,144
+10004113,Automotive  Engineering,BEng,FullTime,0,0,3,26000,146.5
+10004113,Automotive  Engineering,BEng,FullTime,0,2,4,26000,146.5
+10004113,Automotive  Engineering  with  a  Foundation  Year,BEng,FullTime,2,0,4,26000,150.42857142857142
+10004113,Automotive  Engineering  with  an  International  Foundation  Year,BEng,FullTime,2,0,4,26000,153.6
+10004113,Bioengineering,BEng,FullTime,0,0,3,26000,142.55882352941177
+10004113,Bioengineering,BEng,FullTime,0,2,4,26000,142.55882352941177
+10004113,Bioengineering,MEng,FullTime,0,0,4,26000,142.55882352941177
+10004113,Bioengineering,MEng,FullTime,0,2,5,26000,142.55882352941177
+10004113,Biomaterials  Engineering,MEng,FullTime,0,0,4,24000,148.8
+10004113,Biomaterials  Engineering,MEng,FullTime,0,2,5,24000,148.8
+10004113,Biomaterials  Engineering,BEng,FullTime,0,2,4,24000,148.8
+10004113,Biomaterials  Engineering,BEng,FullTime,0,0,3,24000,148.8
+10004113,Chemical  Engineering,MEng,FullTime,0,2,5,27000,158.51612903225808
+10004113,Chemical  Engineering,MEng,FullTime,0,0,4,27000,158.51612903225808
+10004113,Chemical  Engineering,BEng,FullTime,0,0,3,27000,152.03571428571428
+10004113,Chemical  Engineering,BEng,FullTime,0,2,4,27000,152.03571428571428
+10004113,Chemical  Engineering  with  a  Foundation  Year,BEng,FullTime,2,0,4,27000,163.75
+10004113,Chemical  Engineering  with  an  International  Foundation  Year,BEng,FullTime,2,0,4,27000,155.0
+10004113,Civil  and  Building  Engineering  with  a  Foundation  Year,BEng,FullTime,2,0,4,26000,145.42857142857142
+10004113,Civil  and  Building  Engineering  with  an  International  Foundation  Year,BEng,FullTime,2,0,4,26000,145.42857142857142
+10004113,Civil  Engineering,BEng,FullTime,0,0,3,26000,139.0
+10004113,Civil  Engineering,BEng,FullTime,0,2,4,26000,139.0
+10004113,Civil  Engineering,MEng,FullTime,0,2,5,26000,182.42857142857142
+10004113,Civil  Engineering,MEng,FullTime,0,0,4,26000,182.42857142857142
+10004113,Construction  Engineering  Management,BSc,FullTime,0,2,4,26000,139.25
+10004113,Electronic  and  Computer  Systems  Engineering,MEng,FullTime,0,2,5,26000,142.55882352941177
+10004113,Electronic  and  Computer  Systems  Engineering,BEng,FullTime,0,0,3,26000,132.5
+10004113,Electronic  and  Computer  Systems  Engineering,MEng,FullTime,0,0,4,26000,142.55882352941177
+10004113,Electronic  and  Computer  Systems  Engineering,BEng,FullTime,0,2,4,26000,132.5
+10004113,Electronic  and  Electrical  Engineering,BEng,FullTime,0,2,4,26000,146.0689655172414
+10004113,Electronic  and  Electrical  Engineering,MEng,FullTime,0,0,4,26000,165.76923076923077
+10004113,Electronic  and  Electrical  Engineering,MEng,FullTime,0,2,5,26000,165.76923076923077
+10004113,Electronic  and  Electrical  Engineering,BEng,FullTime,0,0,3,26000,146.0689655172414
+10004113,Electronic  and  Electrical  Engineering  with  a  Foundation  Year,BEng,FullTime,2,0,4,26000,112
+10004113,Electronic  and  Electrical  Engineering  with  an  International  Foundation  Year,BEng,FullTime,2,0,4,26000,142.55882352941177
+10004113,Engineering  Management,BSc,FullTime,0,2,4,26000,128
+10004113,Engineering  Management,BSc,FullTime,0,0,3,26000,128
+10004113,Engineering  Management  with  a  Foundation  Year,BSc,FullTime,2,0,4,26000,153.6
+10004113,Engineering  Management  with  an  International  Foundation  Year,BSc,FullTime,2,0,4,26000,153.6
+10004113,Engineering  Physics,MPhys,FullTime,0,2,5,25000,133.80645161290323
+10004113,Engineering  Physics,BSc,FullTime,0,0,3,25000,133.80645161290323
+10004113,Engineering  Physics,MPhys,FullTime,0,0,4,25000,133.80645161290323
+10004113,Engineering  Physics,BSc,FullTime,0,2,4,25000,133.80645161290323
+10004113,Manufacturing  Engineering,BEng,FullTime,0,0,3,26000,150.0
+10004113,Manufacturing  Engineering,BEng,FullTime,0,2,4,26000,150.0
+10004113,Manufacturing  Engineering  with  a  Foundation  Year,BEng,FullTime,2,0,4,26000,153.6
+10004113,Manufacturing  Engineering  with  an  International  Foundation  Year,BEng,FullTime,2,0,4,26000,153.6
+10004113,Materials  Engineering,BEng,FullTime,0,0,3,24000,148.28571428571428
+10004113,Materials  Engineering,MEng,FullTime,0,0,4,24000,148.8
+10004113,Materials  Engineering,MEng,FullTime,0,2,5,24000,148.8
+10004113,Materials  Engineering,BEng,FullTime,0,2,4,24000,148.28571428571428
+10004113,Mechanical  Engineering,MEng,FullTime,0,2,5,26000,183.5
+10004113,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,183.5
+10004113,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,152.4375
+10004113,Mechanical  Engineering,BEng,FullTime,0,2,4,26000,152.4375
+10004113,Mechanical  Engineering  with  a  Foundation  Year,BEng,FullTime,2,0,4,26000,128
+10004113,Mechanical  Engineering  with  an  International  Foundation  Year,BEng,FullTime,2,0,4,26000,153.6
+10004113,Product  Design  Engineering,MEng,FullTime,0,0,4,26000,198.66666666666666
+10004113,Product  Design  Engineering,MEng,FullTime,0,2,5,26000,198.66666666666666
+10004113,Product  Design  Engineering,BEng,FullTime,0,2,4,26000,140.85714285714286
+10004113,Product  Design  Engineering,BEng,FullTime,0,0,3,26000,140.85714285714286
+10004113,Product  Design  Engineering  with  a  Foundation  Year,BEng,FullTime,2,0,4,26000,134.0
+10004113,Product  Design  Engineering  with  an  International  Foundation  Year,BEng,FullTime,2,0,4,26000,153.6
+10004113,Systems  Engineering,BEng,FullTime,0,2,4,26000,128
+10004113,Systems  Engineering,BEng,FullTime,0,0,3,26000,128
+10004113,Systems  Engineering,MEng,FullTime,0,2,5,26000,142.55882352941177
+10004113,Systems  Engineering,MEng,FullTime,0,0,4,26000,142.55882352941177
+10004180,Design  Engineering,BSc,FullTime,0,1,3,25000,131.0
+10004180,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,25000,133.35714285714286
+10004180,Electrical  and  Electronic  Engineering,BEng,PartTime,2,1,,35000,0
+10004180,Electrical  and  Electronic  Engineering,BEng,FullTime,0,1,3,25000,133.0
+10004180,Electrical  and  Electronic  Engineering,BEng,PartTime,0,1,,35000,0
+10004180,Electrical  and  Electronic  Engineering,BEng,FullTime,2,1,4,25000,119.5
+10004180,Mechanical  Engineering,BEng,FullTime,2,1,4,25000,116.28571428571428
+10004180,Mechanical  Engineering,BEng,PartTime,0,1,,35000,0
+10004180,Mechanical  Engineering,BEng,PartTime,2,1,,35000,0
+10004180,Mechanical  Engineering,BEng,FullTime,0,1,3,25000,120.90625
+10004180,Mechanical  Engineering,MEng,FullTime,0,0,4,25000,134.42857142857142
+10004180,Software  Engineering,BSc,FullTime,0,1,3,21000,144
+10004180,Software  Engineering,BSc,FullTime,2,1,4,21000,144
+10007798,Aerospace  Engineering,MEng,FullTime,1,2,5,25000,173.33333333333334
+10007798,Aerospace  Engineering,BEng,FullTime,1,0,3,25000,165.0
+10007798,Aerospace  Engineering,MEng,FullTime,1,0,4,25000,167.5
+10007798,Chemical  Engineering,MEng,FullTime,1,0,4,28000,198.1764705882353
+10007798,Chemical  Engineering,MEng,FullTime,1,0,4,28000,198.1764705882353
+10007798,Chemical  Engineering,MEng,FullTime,1,2,4,28000,210.14285714285714
+10007798,Chemical  Engineering,BEng,FullTime,1,0,3,28000,160
+10007798,Chemical  Engineering  with  Energy  and  Environment,MEng,FullTime,1,0,4,28000,196.28571428571428
+10007798,Civil  and  Structural  Engineering,MEng,FullTime,1,0,4,26000,172.0
+10007798,Civil  Engineering,MEng,FullTime,1,0,4,26000,194.5
+10007798,Civil  Engineering,BEng,FullTime,1,0,3,26000,167.5
+10007798,Civil  Engineering,MEng,FullTime,1,2,5,26000,170.0
+10007798,Civil  Engineering  (Enterprise),MEng,FullTime,1,0,4,26000,170.0
+10007798,Computer  Systems  Engineering,BEng,FullTime,1,2,4,22000,179.26086956521738
+10007798,Computer  Systems  Engineering,MEng,FullTime,1,0,4,22000,179.26086956521738
+10007798,Computer  Systems  Engineering,MEng,FullTime,1,2,5,22000,179.26086956521738
+10007798,Computer  Systems  Engineering,BEng,FullTime,1,0,3,22000,179.26086956521738
+10007798,Electrical  &  Electronic  Engineering,BEng,FullTime,1,0,3,25000,160
+10007798,Electrical  &  Electronic  Engineering,BEng,FullTime,1,2,4,25000,170.0
+10007798,Electrical  &  Electronic  Engineering,MEng,FullTime,1,2,5,25000,176
+10007798,Electrical  &  Electronic  Engineering,MEng,FullTime,1,0,4,25000,160
+10007798,Electronic  Engineering,MEng,FullTime,1,2,5,25000,160
+10007798,Electronic  Engineering,BEng,FullTime,1,2,4,25000,160
+10007798,Electronic  Engineering,BEng,FullTime,1,0,3,25000,144
+10007798,Electronic  Engineering,MEng,FullTime,1,0,4,25000,160
+10007798,Materials  Science  &  Engineering,MEng,FullTime,1,0,4,21000,180.28571428571428
+10007798,Materials  Science  and  Engineering,BSc,FullTime,1,0,3,21000,160
+10007798,Mechanical  Engineering,MEng,FullTime,1,0,4,25000,176
+10007798,Mechanical  Engineering,BEng,FullTime,1,0,3,25000,168.57142857142858
+10007798,Mechanical  Engineering,MEng,FullTime,1,2,5,25000,170.71428571428572
+10007798,Mechatronic  Engineering,MEng,FullTime,1,2,5,25000,172.0
+10007798,Mechatronic  Engineering,BEng,FullTime,1,2,4,25000,170.0
+10007798,Mechatronic  Engineering,MEng,FullTime,1,0,4,25000,176
+10007798,Mechatronic  Engineering,BEng,FullTime,1,0,3,25000,154.5
+10007798,Petroleum  Engineering,MEng,FullTime,1,0,4,28000,166.42857142857142
+10007798,Petroleum  Engineering,BEng,FullTime,1,0,3,28000,167.5
+10007798,Software  Engineering,MEng,FullTime,1,2,5,22000,179.26086956521738
+10007798,Software  Engineering,MEng,FullTime,1,0,4,22000,179.26086956521738
+10007798,Software  Engineering,BSc,FullTime,1,0,3,22000,179.26086956521738
+10007798,Software  Engineering,BSc,FullTime,1,2,4,22000,179.26086956521738
+10004351,Electronic  Engineering,BEng,FullTime,1,1,3,19000,119.5
+10004478,Agricultural  Machinery  Engineering,FdSc,FullTime,0,0,2,16000,0
+10004599,Electrical  Electronic  Engineering,FDEng,PartTime,0,0,,30000,0
+10004599,General  Engineering,HND,PartTime,0,0,,30000,0
+10004599,Mechanical  Manufacturing  Engineering,FDEng,PartTime,0,0,,30000,0
+10004599,Multi-Skill  Engineering,FDEng,PartTime,0,0,,30000,0
+10007799,Chemical  Engineering,BEng,FullTime,0,0,3,27000,158.48275862068965
+10007799,Chemical  Engineering,MEng,FullTime,0,0,4,27000,169.0
+10007799,Chemical  Engineering  with  Bioprocess  Engineering,MEng,FullTime,0,0,4,27000,163.91304347826087
+10007799,Chemical  Engineering  with  Industrial  Placement,MEng,FullTime,0,2,4,27000,167.5
+10007799,Chemical  Engineering  with  Preparatory  Year,MEng,FullTime,2,0,5,27000,163.91304347826087
+10007799,Chemical  Engineering  with  Preparatory  Year,BEng,FullTime,2,0,4,27000,163.91304347826087
+10007799,Chemical  Engineering  with  Process  Control,MEng,FullTime,0,0,4,27000,163.91304347826087
+10007799,Civil  and  Structural  Engineering,MEng,FullTime,0,0,4,25000,172.85714285714286
+10007799,Civil  and  Structural  Engineering,BEng,FullTime,0,0,3,25000,165.0
+10007799,Civil  and  Structural  Engineering  with  Year  in  Industry,BEng,FullTime,0,2,4,25000,147.75
+10007799,Civil  and  Structural  Engineering  with  Year  in  Industry,MEng,FullTime,0,2,5,25000,172.85714285714286
+10007799,Civil  and  Surveying  Engineering,MEng,FullTime,0,0,4,25000,160
+10007799,Civil  and  Surveying  Engineering,BEng,FullTime,0,0,3,25000,147.75
+10007799,Civil  and  Surveying  Engineering  with  Year  in  Industry,BEng,FullTime,0,2,4,25000,147.75
+10007799,Civil  and  Surveying  Engineering  with  Year  in  Industry,MEng,FullTime,0,2,5,25000,160
+10007799,Civil  Engineering,BEng,FullTime,0,0,3,25000,147.75
+10007799,Civil  Engineering,MEng,FullTime,0,0,4,25000,160
+10007799,Civil  Engineering  with  Preparatory  Year,MEng,FullTime,2,0,5,25000,160
+10007799,Civil  Engineering  with  Preparatory  Year,BEng,FullTime,2,0,4,25000,166.0
+10007799,Civil  Engineering  with  Year  in  Industry,MEng,FullTime,0,2,5,25000,160
+10007799,Civil  Engineering  with  Year  in  Industry,BEng,FullTime,0,2,4,25000,147.75
+10007799,Computer  Science  (Game  Engineering),MComp,FullTime,0,0,4,22000,153.0
+10007799,Computer  Science  (Game  Engineering),BSc,FullTime,0,0,3,22000,144
+10007799,Computer  Science  (Software  Engineering),BSc,FullTime,0,0,3,22000,171.25
+10007799,Computer  Science  with  Industrial  Placement  (Game  Engineering),BSc,FullTime,0,2,4,22000,155.25
+10007799,Computer  Science  with  Industrial  Placement  (Game  Engineering),MComp,FullTime,0,2,5,22000,153.80769230769232
+10007799,Computer  Science  with  Industrial  Placement  (Software  Engineering),BSc,FullTime,0,2,4,22000,153.80769230769232
+10007799,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,25000,128
+10007799,Electrical  and  Electronic  Engineering  with  Industrial  Placement,MEng,FullTime,0,2,4,25000,144
+10007799,Electrical  and  Electronic  Engineering  with  Preparatory  Year,MEng,FullTime,2,0,5,25000,142.44444444444446
+10007799,Electrical  and  Electronic  Engineering  with  Preparatory  Year,BEng,FullTime,2,0,4,25000,112
+10007799,Electrical  Power  Engineering,BEng,FullTime,0,0,3,25000,142.44444444444446
+10007799,Electrical  Power  Engineering  with  Industrial  Placement,MEng,FullTime,0,2,4,25000,142.44444444444446
+10007799,Engineering  with  Preparatory  Year,BEng,FullTime,2,0,4,25000,155.25
+10007799,Engineering  with  Preparatory  Year,MEng,FullTime,2,0,5,25000,155.25
+10007799,Marine  Technology  with  Marine  Engineering,MEng,FullTime,0,0,4,26000,154.0
+10007799,Mechanical  and  Low  Carbon  Transport  Engineering,MEng,FullTime,0,0,4,25000,155.875
+10007799,Mechanical  Design  and  Manufacturing  Engineering,BEng,FullTime,0,0,3,25000,155.875
+10007799,Mechanical  Design  and  Manufacturing  Engineering,MEng,FullTime,0,0,4,25000,155.875
+10007799,Mechanical  Engineering,BEng,FullTime,0,0,3,25000,156.0
+10007799,Mechanical  Engineering,MEng,FullTime,0,0,4,25000,156.5
+10007799,Mechanical  Engineering  with  Bioengineering,MEng,FullTime,0,0,4,25000,155.875
+10007799,Mechanical  Engineering  with  Energy,MEng,FullTime,0,1,4,25000,155.875
+10007799,Mechanical  Engineering  with  Preparatory  Year,BEng,FullTime,2,0,4,25000,128
+10007799,Mechanical  Engineering  with  Preparatory  Year,MEng,FullTime,2,0,5,25000,155.875
+10007799,Microelectronic  Engineering,BEng,FullTime,0,0,3,25000,142.44444444444446
+10007799,Microelectronic  Engineering  with  Industrial  Placement,MEng,FullTime,0,2,4,25000,142.44444444444446
+10007138,Computing  (Computer  Networks  Engineering),BEng,FullTime,0,1,3,28000,101.0
+10007138,Computing  (Computer  Systems  Engineering),BEng,FullTime,0,1,3,28000,99.0
+10007138,Computing  (Software  Engineering),BSc,FullTime,0,1,3,23000,112
+10007138,Electrical  &  Electronic  Engineering,MEng,FullTime,0,1,3,26000,103.5
+10007138,Engineering,HND,FullTime,0,0,2,26000,69.0
+10007138,Engineering,BSc,FullTime,0,0,3,28000,101.0
+10007138,Engineering,BSc,FullTime,2,0,4,28000,101.0
+10007138,Engineering,HND,PartTime,0,0,,29000,0
+10007138,Engineering  Electromechanical  Engineering,MEng,FullTime,0,1,3,26000,99.75
+10007138,Mechanical  Engineering,MEng,FullTime,0,1,4,26000,99.75
+10001282,Automotive  Engineering,BEng,FullTime,1,1,3,25000,144.55555555555554
+10001282,Automotive  Engineering,MEng,FullTime,0,1,4,25000,144.55555555555554
+10001282,Civil  Engineering,BEng,FullTime,1,1,3,25000,135.5
+10001282,Civil  Engineering,MEng,FullTime,0,1,4,25000,135.5
+10001282,Construction  Engineering  Management,BSc,PartTime,0,0,,32000,0
+10001282,Construction  Engineering  Management,BSc,FullTime,1,1,3,25000,138.0
+10001282,Electrical  and  Electronic  Engineering,BEng,PartTime,0,0,,30000,0
+10001282,Electrical  and  Electronic  Engineering,MEng,FullTime,0,1,4,25000,151.5
+10001282,Electrical  and  Electronic  Engineering,BEng,FullTime,1,1,3,25000,151.5
+10001282,Engineering  Foundation  Year,BEng,FullTime,2,1,4,25000,98.83783783783784
+10001282,Mechanical  and  Architectural  Engineering,BEng,PartTime,0,0,,33000,0
+10001282,Mechanical  and  Architectural  Engineering,MEng,PartTime,0,0,,33000,0
+10001282,Mechanical  and  Architectural  Engineering,MEng,FullTime,0,1,4,25000,135.5
+10001282,Mechanical  and  Architectural  Engineering,BEng,FullTime,1,1,3,25000,135.5
+10001282,Mechanical  and  Automotive  Engineering,BEng,PartTime,0,0,,29000,0
+10001282,Mechanical  and  Automotive  Engineering,BEng,FullTime,1,1,3,25000,144.55555555555554
+10001282,Mechanical  and  Automotive  Engineering,MEng,FullTime,0,1,4,25000,144.55555555555554
+10001282,Mechanical  Engineering,BEng,PartTime,0,0,,29000,0
+10001282,Mechanical  Engineering,MEng,PartTime,0,0,,29000,0
+10001282,Mechanical  Engineering,BEng,FullTime,1,1,3,25000,144.55555555555554
+10001282,Mechanical  Engineering,MEng,FullTime,0,1,4,25000,144.55555555555554
+10004797,Biomedical  Engineering,BEng,FullTime,0,0,3,26000,120.03571428571429
+10004797,Biomedical  Engineering,BEng,FullTime,0,2,4,26000,120.03571428571429
+10004797,Biomedical  Engineering,MEng,FullTime,0,0,4,26000,120.03571428571429
+10004797,Biomedical  Engineering,MEng,FullTime,0,2,5,26000,120.03571428571429
+10004797,Civil  Engineering,BSc,FullTime,0,2,4,26000,109.125
+10004797,Civil  Engineering,BEng,FullTime,0,2,4,26000,133.0
+10004797,Civil  Engineering,BSc,FullTime,0,0,3,26000,106.0
+10004797,Civil  Engineering,BEng,FullTime,0,0,3,26000,121.23076923076923
+10004797,Civil  Engineering  Design  and  Construction,MEng,FullTime,0,0,4,26000,120.03571428571429
+10004797,Civil  Engineering  Design  and  Construction,MEng,FullTime,0,2,5,26000,120.03571428571429
+10004797,Computer  Systems  Engineering,MComp,FullTime,0,2,5,22000,135.5
+10004797,Computer  Systems  Engineering,MComp,FullTime,0,1,4,22000,135.5
+10004797,Computer  Systems  Engineering,BSc,FullTime,0,0,3,22000,135.5
+10004797,Computer  Systems  Engineering,BSc,FullTime,0,2,4,22000,135.5
+10004797,Electronic  Engineering,MEng,FullTime,0,0,4,26000,120.03571428571429
+10004797,Electronic  Engineering,MEng,FullTime,0,2,5,26000,120.03571428571429
+10004797,Electronic  Engineering,BEng,FullTime,0,0,3,26000,120.03571428571429
+10004797,Electronic  Engineering,BEng,FullTime,0,2,4,26000,120.03571428571429
+10004797,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,120.03571428571429
+10004797,Mechanical  Engineering,BEng,FullTime,0,2,4,26000,120.03571428571429
+10004797,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,120.03571428571429
+10004797,Software  Engineering,BSc,FullTime,0,2,4,22000,150.42857142857142
+10004797,Software  Engineering,BSc,FullTime,0,0,3,22000,135.5
+10004797,Sport  Engineering,MEng,FullTime,0,0,4,26000,120.03571428571429
+10004797,Sport  Engineering,MEng,FullTime,0,2,5,26000,120.03571428571429
+10004797,Sport  Engineering,BEng,FullTime,0,0,3,26000,120.03571428571429
+10004797,Sport  Engineering,BEng,FullTime,0,2,4,26000,120.03571428571429
+10007154,Aerospace  Engineering,MEng,FullTime,1,0,4,26000,167.77777777777777
+10007154,Aerospace  Engineering,BEng,FullTime,1,0,3,26000,167.77777777777777
+10007154,Aerospace  Engineering  including  an  Industrial  Year,BEng,FullTime,1,2,4,26000,167.77777777777777
+10007154,Aerospace  Engineering  including  an  Industrial  Year,MEng,FullTime,1,2,5,26000,167.77777777777777
+10007154,Architectural  Environment  Engineering,BEng,FullTime,1,0,3,22000,132.0909090909091
+10007154,Chemical  Engineering,BEng,FullTime,1,0,3,27000,155.25
+10007154,Chemical  Engineering,MEng,FullTime,1,0,4,27000,167.5
+10007154,Chemical  Engineering  including  an  Industrial  Year,MEng,FullTime,1,2,5,27000,179.75
+10007154,Chemical  Engineering  including  an  Industrial  Year,BEng,FullTime,1,2,4,27000,169.54545454545453
+10007154,Chemical  Engineering  with  Environmental  Engineering,MEng,FullTime,1,0,4,27000,169.54545454545453
+10007154,Chemical  Engineering  with  Environmental  Engineering,BEng,FullTime,1,0,3,27000,169.54545454545453
+10007154,Chemical  Engineering  with  Environmental  Engineering  including  an  Industrial  Year,MEng,FullTime,1,2,5,27000,169.54545454545453
+10007154,Chemical  Engineering  with  Environmental  Engineering  including  an  Industrial  Year,BEng,FullTime,1,2,4,27000,169.54545454545453
+10007154,Civil  Engineering,BEng,FullTime,1,0,3,26000,146.5
+10007154,Civil  Engineering,MEng,FullTime,1,0,4,26000,166.42857142857142
+10007154,Civil  Engineering  including  an  Industrial  Year,BEng,FullTime,1,2,4,26000,155.875
+10007154,Civil  Engineering  including  an  Industrial  Year,MEng,FullTime,1,2,5,26000,155.875
+10007154,Electrical  and  Electronic  Engineering,MEng,FullTime,1,0,4,25000,163.75
+10007154,Electrical  and  Electronic  Engineering,BEng,FullTime,1,0,3,25000,154.0
+10007154,Electrical  and  Electronic  Engineering  including  an  Industrial  Year,BEng,FullTime,1,2,4,25000,156.0
+10007154,Electrical  and  Electronic  Engineering  including  an  Industrial  Year,MEng,FullTime,1,2,5,25000,156.0
+10007154,Electrical  and  Electronic  Engineering  with  a  Year  Abroad,MEng,FullTime,1,0,4,25000,156.0
+10007154,Electrical  and  Electronic  Engineering  with  a  Year  Abroad,BEng,FullTime,1,0,3,25000,156.0
+10007154,Electrical  Engineering,MEng,FullTime,1,0,4,25000,156.0
+10007154,Electrical  Engineering,BEng,FullTime,1,0,3,25000,156.0
+10007154,Electronic  and  Communications  Engineering,MEng,FullTime,1,0,4,25000,156.0
+10007154,Electronic  and  Communications  Engineering,BEng,FullTime,1,0,3,25000,156.0
+10007154,Electronic  and  Computer  Engineering,MEng,FullTime,1,0,4,25000,156.0
+10007154,Electronic  and  Computer  Engineering,BEng,FullTime,1,0,3,25000,156.0
+10007154,Electronic  Engineering,MEng,FullTime,1,0,4,25000,156.0
+10007154,Electronic  Engineering,BEng,FullTime,1,0,3,25000,156.0
+10007154,Environmental  Engineering,MEng,FullTime,1,0,4,27000,169.54545454545453
+10007154,Environmental  Engineering,BEng,FullTime,1,0,3,27000,169.54545454545453
+10007154,Environmental  Engineering  including  an  Industrial  Year,MEng,FullTime,1,2,5,27000,169.54545454545453
+10007154,Environmental  Engineering  including  an  Industrial  Year,BEng,FullTime,1,2,4,27000,169.54545454545453
+10007154,Manufacturing  Engineering,MEng,FullTime,1,0,4,26000,167.77777777777777
+10007154,Manufacturing  Engineering,BEng,FullTime,1,0,3,26000,167.77777777777777
+10007154,Manufacturing  Engineering  including  an  Industrial  Year,BEng,FullTime,1,2,4,26000,167.77777777777777
+10007154,Manufacturing  Engineering  including  an  Industrial  Year,MEng,FullTime,1,2,5,26000,167.77777777777777
+10007154,Mechanical  Engineering,BEng,FullTime,1,0,3,26000,157.75
+10007154,Mechanical  Engineering,MEng,FullTime,1,0,4,26000,177.30434782608697
+10007154,Mechanical  Engineering  including  an  Industrial  Year,BEng,FullTime,1,2,4,26000,167.77777777777777
+10007154,Mechanical  Engineering  including  an  Industrial  Year,MEng,FullTime,1,2,5,26000,186.0
+10007154,Mechanical  Engineering  with  Study  Abroad,MEng,FullTime,1,0,4,26000,167.77777777777777
+10007154,Mechanical  Engineering  with  Study  Abroad,MEng,FullTime,1,0,4,26000,167.77777777777777
+10007154,Mechanical  Engineering  with  Study  Abroad,BEng,FullTime,1,0,3,26000,167.77777777777777
+10004930,Automotive  Engineering,MEng,FullTime,1,1,4,26000,149.2941176470588
+10004930,Automotive  Engineering,BEng,FullTime,1,1,3,26000,134.66666666666666
+10004930,Mechanical  Engineering,BEng,FullTime,1,1,3,26000,128
+10004930,Mechanical  Engineering,MEng,FullTime,1,1,4,26000,149.2941176470588
+10004930,Mechanical  Engineering,BSc,FullTime,1,1,3,26000,149.2941176470588
+10004930,Motorsport  Engineering,BEng,FullTime,1,1,3,26000,151.5
+10004930,Motorsport  Engineering,MEng,FullTime,1,1,4,26000,149.2941176470588
+10007774,Biomedical  Engineering  (4  years),MEng,FullTime,0,0,4,28000,231.5
+10007774,Chemical  Engineering  (4  years),MEng,FullTime,0,0,4,28000,231.5
+10007774,Civil  Engineering  (4  years),MEng,FullTime,0,0,4,28000,231.5
+10007774,Electrical  Engineering  (4  years),MEng,FullTime,0,0,4,28000,231.5
+10007774,Engineering,MEng,FullTime,0,0,3,28000,231.5
+10007774,Information  Engineering  (4  years),MEng,FullTime,0,0,4,28000,231.5
+10007774,Mechanical  Engineering  (4  years),MEng,FullTime,0,0,4,28000,231.5
+10005128,Civil  Engineering,FdSc,PartTime,0,0,,28000,0
+10005128,Electrical  and  Electronic  Engineering,CertHE,PartTime,0,0,,28000,0
+10005128,Mechanical  Engineering,FdSc,PartTime,0,0,,25000,0
+10007801,Architectural  Engineering,BSc,FullTime,0,1,3,25000,119.5
+10007801,Civil  and  Coastal  Engineering,BEng,FullTime,1,1,3,25000,96
+10007801,Civil  and  Coastal  Engineering,MEng,FullTime,1,1,4,25000,139.25
+10007801,Civil  Engineering,BEng,FullTime,1,1,3,25000,99.0
+10007801,Civil  Engineering,MEng,FullTime,1,1,4,25000,121.0
+10007801,Civil  Engineering  with  Foundation  Year,BEng,FullTime,2,0,4,25000,103.5
+10007801,Electrical  and  Electronic  Engineering,BEng,FullTime,1,1,3,26000,115.75
+10007801,Electrical  and  Electronic  Engineering,MEng,FullTime,1,1,4,26000,108.11538461538461
+10007801,Electrical  and  Electronic  Engineering,BSc,FullTime,1,1,3,26000,108.11538461538461
+10007801,Electronic  and  Electrical  Engineering  with  Foundation  Year,BEng,FullTime,2,0,4,26000,108.11538461538461
+10007801,Mechanical  Engineering,MEng,FullTime,1,1,4,26000,137.0
+10007801,Mechanical  Engineering,BEng,FullTime,1,1,3,26000,99.0
+10007801,Mechanical  Engineering  with  Composites,MEng,FullTime,1,1,4,26000,99.75
+10007801,Mechanical  Engineering  with  Composites,BEng,FullTime,1,1,3,26000,103.5
+10007801,Mechanical  Engineering  with  Foundation  Year,BEng,FullTime,2,0,4,26000,82.14285714285714
+10007801,Robotic  Engineering  with  Foundation  Year,BEng,FullTime,2,0,4,26000,108.11538461538461
+10007155,Civil  Engineering,MEng,FullTime,1,1,4,26000,131.0
+10007155,Civil  Engineering,BEng,FullTime,1,1,3,26000,96
+10007155,Construction  Engineering  Management,BEng,FullTime,1,1,3,29000,99.75
+10007155,Electronic  Engineering,BEng,FullTime,1,1,3,26000,112
+10007155,Electronic  Engineering,MEng,FullTime,1,1,4,26000,129.875
+10007155,Engineering  And  Technology,BEng,FullTime,1,1,4,26000,72.18181818181819
+10007155,Engineering  Geology  And  Geotechnics,BEng,FullTime,0,1,3,20000,112
+10007155,Innovation  Engineering,MEng,FullTime,0,1,4,26000,106.0
+10007155,Innovation  Engineering,BEng,FullTime,0,1,3,26000,106.0
+10007155,Mechanical  And  Manufacturing  Engineering,BEng,FullTime,1,1,3,26000,102.0
+10007155,Mechanical  Engineering,BEng,FullTime,1,1,3,26000,104.65384615384616
+10007155,Mechanical  Engineering,MEng,FullTime,1,1,5,26000,140.85714285714286
+10007155,Petroleum  Engineering,MEng,FullTime,0,1,4,26000,140.0
+10007155,Petroleum  Engineering,BEng,FullTime,1,1,3,26000,140.0
+10007155,Software  Engineering,BSc,FullTime,0,1,3,25000,121.0
+10007775," ""Design  Innovation  and  Creative  Engineering """,MEng,FullTime,0,0,4,26000,137.375
+10007775,Aerospace  Engineering,BEng,FullTime,0,0,3,26000,112
+10007775,Aerospace  Engineering,MEng,FullTime,0,0,4,26000,144
+10007775,Aerospace  Engineering,MEng,FullTime,0,0,5,26000,144
+10007775,Aerospace  Engineering,BEng,FullTime,0,0,4,26000,112
+10007775,Aerospace  Engineering,BEng,FullTime,0,2,4,26000,139.25
+10007775,Aerospace  Engineering,MEng,FullTime,0,2,5,26000,130.14285714285714
+10007775,Biomedical  Engineering,BEng,FullTime,0,0,4,26000,147.33333333333334
+10007775,Biomedical  Engineering,BEng,FullTime,0,2,4,26000,147.33333333333334
+10007775,Biomedical  Engineering,BEng,FullTime,0,0,3,26000,163.0
+10007775,Biomedical  Engineering,MEng,FullTime,0,2,5,26000,139.1290322580645
+10007775,Biomedical  Engineering,MEng,FullTime,0,0,4,26000,139.1290322580645
+10007775,Chemical  Engineering,MEng,FullTime,0,0,5,26000,138.8
+10007775,Chemical  Engineering,BEng,FullTime,0,0,4,26000,138.8
+10007775,Chemical  Engineering,BEng,FullTime,0,2,4,26000,138.8
+10007775,Chemical  Engineering,BEng,FullTime,0,0,3,26000,138.8
+10007775,Chemical  Engineering,MEng,FullTime,0,2,5,26000,138.8
+10007775,Chemical  Engineering,MEng,FullTime,0,0,4,26000,138.8
+10007775,Design  Innovation  and  Creative  Engineering,MEng,FullTime,0,0,5,26000,137.375
+10007775,Design  Innovation  and  Creative  Engineering,BEng,FullTime,0,0,4,26000,137.375
+10007775,Design  Innovation  and  Creative  Engineering,BEng,FullTime,0,0,3,26000,137.375
+10007775,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,26000,139.25
+10007775,Electrical  and  Electronic  Engineering,BEng,FullTime,0,2,4,26000,139.25
+10007775,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,26000,128
+10007775,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,4,26000,139.25
+10007775,Electronic  Engineering,BEng,FullTime,0,2,4,26000,128
+10007775,Electronic  Engineering,BEng,FullTime,0,0,4,26000,128
+10007775,Electronic  Engineering,BEng,FullTime,0,0,3,26000,128
+10007775,Electronic  Engineering  and  Telecommunications,BEng,FullTime,0,2,4,26000,128
+10007775,Electronic  Engineering  and  Telecommunications,MEng,FullTime,0,0,5,26000,128
+10007775,Electronic  Engineering  and  Telecommunications,BEng,FullTime,0,0,4,26000,128
+10007775,Electronic  Engineering  and  Telecommunications,MEng,FullTime,0,0,4,26000,128
+10007775,Electronic  Engineering  and  Telecommunications,BEng,FullTime,0,0,3,26000,128
+10007775,Materials  Science  and  Engineering,MEng,FullTime,0,0,5,21000,139.25
+10007775,Materials  Science  and  Engineering,MEng,FullTime,0,0,4,21000,139.25
+10007775,Materials  Science  and  Engineering,BEng,FullTime,0,0,4,21000,139.25
+10007775,Materials  Science  and  Engineering,BEng,FullTime,0,0,3,21000,137.375
+10007775,Materials  Science  and  Engineering,MEng,FullTime,0,2,5,21000,139.25
+10007775,Materials  Science  and  Engineering,BEng,FullTime,0,2,4,21000,139.25
+10007775,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,144
+10007775,Mechanical  Engineering,MEng,FullTime,0,0,5,26000,144
+10007775,Mechanical  Engineering,BEng,FullTime,0,2,4,26000,132.28571428571428
+10007775,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,134.75
+10007775,Mechanical  Engineering,MEng,FullTime,0,2,5,26000,139.1290322580645
+10007775,Mechanical  Engineering,BEng,FullTime,0,0,4,26000,134.75
+10007775,Science  &  Engineering  Foundation  Programme  (Biological  Sciences  4  Year),BSc,FullTime,2,1,4,22000,113.55172413793103
+10007775,Science  &  Engineering  Foundation  Programme  (Biological  Sciences  5  years),MSci,FullTime,2,1,5,21000,138.3846153846154
+10007775,Science  &  Engineering  Foundation  Programme  (Chemistry  4  Year),BSc,FullTime,2,1,4,25000,104.18181818181819
+10007775,Science  &  Engineering  Foundation  Programme  (Chemistry  5  Year),MSci,FullTime,2,1,5,25000,112
+10007775,Science  &  Engineering  Foundation  Programme  (Computer  Science  4  Year),BSc,FullTime,2,1,4,26000,109.63636363636364
+10007775,Science  &  Engineering  Foundation  Programme  (Computer  Science  5  Year),MSci,FullTime,2,1,5,26000,132.77272727272728
+10007775,Science  &  Engineering  Foundation  Programme  (Electronic  Engineering  4  Year),BEng,FullTime,2,1,4,26000,108.5
+10007775,Science  &  Engineering  Foundation  Programme  (Electronic  Engineering  5  Year),MEng,FullTime,2,1,5,26000,128
+10007775,Science  &  Engineering  Foundation  Programme  (Engineering  4  Year),BEng,FullTime,2,1,4,26000,120.86363636363636
+10007775,Science  &  Engineering  Foundation  Programme  (Engineering  5  Year),MEng,FullTime,2,1,5,26000,139.1290322580645
+10007775,Science  &  Engineering  Foundation  Programme  (Materials  Science  4  Year),BEng,FullTime,2,1,4,21000,139.25
+10007775,Science  &  Engineering  Foundation  Programme  (Materials  Science  5  Year),MEng,FullTime,2,1,5,21000,139.25
+10007775,Science  &  Engineering  Foundation  Programme  (Mathematical  Science  4  Year),BSc,FullTime,2,1,4,26000,117.0
+10007775,Science  &  Engineering  Foundation  Programme  (Physics  4  Year),BSc,FullTime,2,1,4,27000,80
+10007775,Science  &  Engineering  Foundation  Programme  (Physics  5  Year),MSci,FullTime,2,1,5,27000,96
+10007775,Software  Engineering  for  Business,BSc,FullTime,0,0,4,26000,132.77272727272728
+10007775,Software  Engineering  for  Business,BSc,FullTime,0,2,4,26000,132.77272727272728
+10007775,Software  Engineering  for  Business,BSc,FullTime,0,0,3,26000,132.77272727272728
+10007775,Sustainable  Energy  Engineering,MEng,FullTime,0,0,5,26000,139.1290322580645
+10007775,Sustainable  Energy  Engineering,BEng,FullTime,0,0,4,26000,139.1290322580645
+10007775,Sustainable  Energy  Engineering,BEng,FullTime,0,2,4,26000,139.1290322580645
+10007775,Sustainable  Energy  Engineering,BEng,FullTime,0,0,3,26000,139.1290322580645
+10007775,Sustainable  Energy  Engineering,MEng,FullTime,0,2,5,26000,139.1290322580645
+10007775,Sustainable  Energy  Engineering,MEng,FullTime,0,0,4,26000,139.1290322580645
+10007802,Biomedical  Engineering,BEng,FullTime,0,1,3,25000,132.28571428571428
+10007802,Biomedical  Engineering,MEng,FullTime,0,1,4,25000,132.28571428571428
+10005500,Electronic  and  Electrical  Engineering,BEng,FullTime,0,0,4,26000,166.42857142857142
+10005500,Electronic  and  Electrical  Engineering,MEng,FullTime,0,0,5,26000,179.75
+10005500,Mechanical  and  Offshore  Engineering,MEng,FullTime,0,0,5,25000,160
+10005500,Mechanical  and  Offshore  Engineering,BEng,FullTime,0,0,4,25000,160
+10005500,Mechanical  Engineering,BEng,FullTime,0,0,4,25000,163.75
+10005500,Mechanical  Engineering,MEng,FullTime,0,0,5,25000,179.33333333333334
+10005553,Computer  Science  (Software  Engineering),BSc,FullTime,0,0,3,25000,141.26923076923077
+10005553,Computer  Science  (Software  Engineering),MSci,FullTime,0,0,4,25000,141.26923076923077
+10005553,Computer  Science  (Software  Engineering)  with  Year  in  Industry,BSc,FullTime,0,2,4,25000,141.26923076923077
+10005553,Computer  Science  (Software  Engineering)  with  Year  in  Industry,MSci,FullTime,0,2,5,25000,141.26923076923077
+10007156,Acoustical  and  Audio  Engineering,BEng,FullTime,0,0,3,19000,131.75
+10007156,Acoustical  and  Audio  Engineering,MEng,FullTime,0,0,4,26000,103.5
+10007156,Acoustical  and  Audio  Engineering  with  Foundation  Year,BSc,FullTime,2,0,4,26000,103.5
+10007156,Acoustical  and  Audio  Engineering  with  Professional  Experience,BEng,FullTime,0,2,4,19000,131.75
+10007156,Acoustical  and  Audio  Engineering  with  Professional  Experience,MEng,FullTime,0,2,5,26000,103.5
+10007156,Aeronautical  Engineering,BEng,FullTime,0,1,3,24000,115.0
+10007156,Aeronautical  Engineering,MEng,FullTime,0,1,4,24000,122.0
+10007156,Aeronautical  Engineering  with  Foundation  Year,BEng,FullTime,2,1,4,24000,102.42857142857143
+10007156,Aircraft  Engineering  with  Pilot  Studies,MEng,FullTime,0,1,4,24000,124.0
+10007156,Aircraft  Engineering  with  Pilot  Studies,BEng,FullTime,0,1,3,24000,120.57142857142857
+10007156,Architectural  Engineering,BSc,FullTime,0,0,3,18000,122.0
+10007156,Architectural  Engineering  with  Foundation  Year,BSc,FullTime,2,0,4,18000,122.0
+10007156,Civil  Engineering,BEng,FullTime,0,1,3,25000,119.5
+10007156,Civil  Engineering,MEng,FullTime,0,1,4,25000,90.8
+10007156,Civil  Engineering,BSc,FullTime,0,1,3,25000,96
+10007156,Civil  Engineering  with  Foundation  Year,BEng,FullTime,2,1,4,25000,83.75
+10007156,Electronic  Engineering,BEng,FullTime,0,1,3,25000,133.8695652173913
+10007156,Electronic  Engineering  with  Foundation  Year,BEng,FullTime,2,1,4,25000,133.8695652173913
+10007156,Mechanical  Engineering,BEng,FullTime,0,1,3,26000,122.0
+10007156,Mechanical  Engineering,MEng,FullTime,0,1,4,26000,103.5
+10007156,Mechanical  Engineering  with  Foundation  Year,BEng,FullTime,2,1,4,26000,92.5
+10007156,Software  Engineering,BSc,FullTime,0,1,3,21000,154.0
+10007156,Software  Engineering  with  Foundation  Year,BSc,FullTime,2,0,4,21000,154.0
+10007156,Software  Engineering  with  Professional  Experience,BSc,FullTime,0,2,4,21000,133.25
+10005790,Aerospace  Engineering,FDEng,PartTime,0,0,,28000,0
+10005790,Aerospace  Engineering,BEng,FullTime,0,1,3,25000,96
+10005790,Aerospace  Engineering,MEng,FullTime,0,1,4,25000,144
+10005790,Automotive  Engineering,BEng,FullTime,0,1,3,25000,122.0
+10005790,Automotive  Engineering,MEng,FullTime,0,1,4,25000,118.66666666666667
+10005790,Chemical  Engineering,MEng,FullTime,0,1,4,25000,118.25
+10005790,Chemical  Engineering,BEng,FullTime,0,1,3,25000,118.25
+10005790,Computer  Systems  Engineering,BEng,FullTime,0,1,3,22000,108.0
+10005790,Electrical  and  Electronic  Engineering,BEng,FullTime,0,1,3,25000,121.0
+10005790,Electrical  and  Electronic  Engineering,MEng,FullTime,0,1,4,25000,122.0
+10005790,Electrical  Power  Engineering,BEng,FullTime,0,1,3,25000,118.0
+10005790,Electronic  Engineering,BEng,FullTime,0,1,3,25000,97.875
+10005790,Food  Engineering,MEng,FullTime,0,0,4,25000,118.66666666666667
+10005790,Food  Engineering,BEng,FullTime,0,0,3,25000,118.66666666666667
+10005790,Food  Engineering,BEng,PartTime,0,0,,31000,0
+10005790,Integrated  Engineering  (Mechanical),FDEng,PartTime,0,0,,29549,0
+10005790,Materials  Engineering,BEng,FullTime,0,1,3,22000,96
+10005790,Materials  Engineering,MEng,FullTime,0,1,4,22000,117.0
+10005790,Mechanical  Engineering,BEng,FullTime,0,1,3,32000,118.0
+10005790,Mechanical  Engineering,MEng,FullTime,0,1,4,25000,122.0
+10005790,Software  Engineering,BEng,FullTime,0,1,3,22000,101.0
+10005790,Software  Engineering,MEng,FullTime,0,1,4,22000,118.0
+10007157,Aerospace  Engineering,BEng,FullTime,1,1,3,26000,149.0
+10007157,Aerospace  Engineering,BEng,FullTime,1,2,4,26000,154.0
+10007157,Aerospace  Engineering,MEng,FullTime,1,2,5,26000,156.85714285714286
+10007157,Aerospace  Engineering,MEng,FullTime,1,1,4,26000,179.75
+10007157,Aerospace  Engineering  (Private  Pilot  Instruction),BEng,FullTime,1,1,3,26000,152.57142857142858
+10007157,Aerospace  Engineering  (Private  Pilot  Instruction),MEng,FullTime,1,1,4,26000,172.0
+10007157,Aerospace  Engineering  with  a  Year  in  North  America,MEng,FullTime,1,0,4,26000,179.75
+10007157,Architectural  Engineering,MEng,FullTime,1,1,4,26000,157.88888888888889
+10007157,Architectural  Engineering,MEng,FullTime,1,2,5,26000,157.88888888888889
+10007157,Bioengineering,BEng,FullTime,1,1,3,25000,150.42857142857142
+10007157,Bioengineering,MEng,FullTime,1,1,4,25000,182.0
+10007157,Bioengineering,BEng,FullTime,1,2,4,25000,160
+10007157,Bioengineering,MEng,FullTime,1,2,5,25000,160
+10007157,Biomaterials  Science  and  Engineering,MEng,FullTime,1,1,4,23000,167.5
+10007157,Chemical  Engineering,MEng,FullTime,1,1,4,26000,166.31578947368422
+10007157,Chemical  Engineering,BEng,FullTime,1,1,3,26000,155.25
+10007157,Chemical  Engineering,MEng,FullTime,1,2,5,26000,167.05882352941177
+10007157,Chemical  Engineering  with  Energy,MEng,FullTime,1,1,4,26000,155.25
+10007157,Chemical  Engineering  with  Industrial  Experience,BEng,FullTime,0,0,4,26000,167.05882352941177
+10007157,Chemical  Engineering  with  Nuclear  Technology,MEng,FullTime,1,1,4,26000,167.05882352941177
+10007157,Civil  and  Structural  Engineering,MEng,FullTime,1,1,4,26000,160
+10007157,Civil  and  Structural  Engineering,MEng,FullTime,1,2,5,26000,150.0
+10007157,Civil  Engineering,MEng,FullTime,1,1,4,26000,163.75
+10007157,Civil  Engineering,BEng,FullTime,1,1,3,26000,146.5
+10007157,Civil  Engineering,MEng,FullTime,1,2,5,26000,156.85714285714286
+10007157,Civil  Engineering,BEng,FullTime,1,2,4,26000,157.88888888888889
+10007157,Electrical  and  Electronic  Engineering,MEng,FullTime,1,1,4,25000,151.5
+10007157,Electrical  and  Electronic  Engineering,BEng,FullTime,1,2,4,25000,158.28571428571428
+10007157,Electrical  and  Electronic  Engineering,MEng,FullTime,1,2,5,25000,158.28571428571428
+10007157,Electrical  and  Electronic  Engineering,BEng,FullTime,1,1,3,25000,140.0
+10007157,Electrical  Engineering,BEng,FullTime,1,2,4,25000,158.28571428571428
+10007157,Electrical  Engineering,MEng,FullTime,1,2,5,25000,158.28571428571428
+10007157,Electrical  Engineering,BEng,FullTime,1,1,3,25000,138.0
+10007157,Electrical  Engineering,MEng,FullTime,1,1,4,25000,149.45454545454547
+10007157,Electronic  and  Communications  Engineering,BEng,FullTime,1,2,4,25000,158.28571428571428
+10007157,Electronic  and  Communications  Engineering,MEng,FullTime,1,2,5,25000,158.28571428571428
+10007157,Electronic  and  Communications  Engineering,MEng,FullTime,1,1,4,25000,158.28571428571428
+10007157,Electronic  and  Communications  Engineering,BEng,FullTime,1,1,3,25000,158.28571428571428
+10007157,Electronic  Engineering,BEng,FullTime,1,2,4,25000,158.28571428571428
+10007157,Electronic  Engineering,MEng,FullTime,1,2,5,25000,158.28571428571428
+10007157,Electronic  Engineering,BEng,FullTime,1,1,3,25000,128
+10007157,Electronic  Engineering,MEng,FullTime,1,1,4,25000,171.25
+10007157,Engineering,MEng,FullTime,0,0,4,26000,169.75
+10007157,Engineering,MEng,FullTime,0,2,5,26000,169.75
+10007157,Materials  Science  and  Engineering,MEng,FullTime,1,1,4,23000,160
+10007157,Materials  Science  and  Engineering,BEng,FullTime,1,1,3,23000,157.125
+10007157,Materials  Science  and  Engineering,BEng,FullTime,1,2,4,23000,167.5
+10007157,Materials  Science  and  Engineering  (Biomaterials),BEng,FullTime,1,1,3,23000,167.5
+10007157,Materials  Science  and  Engineering  (Research),MEng,FullTime,1,1,4,23000,167.5
+10007157,Mechanical  Engineering,MEng,FullTime,1,1,4,26000,178.14285714285714
+10007157,Mechanical  Engineering,MEng,FullTime,1,2,5,26000,176.6818181818182
+10007157,Mechanical  Engineering,BEng,FullTime,1,1,3,26000,169.0
+10007157,Mechanical  Engineering,BEng,FullTime,1,2,4,26000,179.0
+10007157,Mechanical  Engineering  with  a  Year  in  North  America,MEng,FullTime,1,1,4,26000,179.75
+10007157,Mechanical  Engineering  with  Nuclear  Technology,MEng,FullTime,1,1,4,26000,181.0
+10007157,Mechanical  Engineering  with  Nuclear  Technology,MEng,FullTime,1,2,5,26000,176.6818181818182
+10007157,Mechatronic  and  Robotic  Engineering,MEng,FullTime,1,1,4,26000,155.25
+10007157,Mechatronic  and  Robotic  Engineering,BEng,FullTime,1,1,3,26000,141.33333333333334
+10007157,Mechatronic  and  Robotic  Engineering,BEng,FullTime,1,2,4,26000,176.6818181818182
+10007157,Mechatronic  and  Robotic  Engineering,MEng,FullTime,1,2,5,26000,160
+10007157,Software  Engineering,BEng,FullTime,1,2,4,23000,153.0
+10007157,Software  Engineering,BEng,FullTime,1,1,3,23000,153.0
+10007157,Software  Engineering,MEng,FullTime,1,1,4,23000,153.0
+10007157,Software  Engineering,MEng,FullTime,1,2,5,23000,153.0
+10007157,Systems  and  Control  Engineering,BEng,FullTime,1,2,4,25000,158.28571428571428
+10007157,Systems  and  Control  Engineering,MEng,FullTime,1,2,5,25000,158.28571428571428
+10007157,Systems  and  Control  Engineering,MEng,FullTime,1,1,4,25000,158.28571428571428
+10007157,Systems  and  Control  Engineering,BEng,FullTime,1,1,3,25000,158.28571428571428
+10005946,Electrical  and  Electronic  Engineering,FDEng,PartTime,0,0,,28000,0
+10005946,Mechanical  Engineering,FDEng,PartTime,0,0,,26000,0
+10006022,Audio  And  Acoustic  Engineering,BEng,FullTime,0,0,3,26000,90.0
+10006022,Audio  And  Acoustic  Engineering,MEng,FullTime,0,0,4,26000,90.0
+10006022,Audio  And  Acoustic  Engineering  (With  Language  Year),BEng,FullTime,2,0,4,26000,90.0
+10006022,Audio  And  Acoustic  Engineering  (With  Media  Technology  Year),BEng,FullTime,2,0,4,26000,90.0
+10006022,Audio  Engineering,BSc,FullTime,0,0,3,26000,96
+10006022,Audio  Engineering  (With  Language  Year),BSc,FullTime,2,0,4,26000,96
+10006022,Audio  Engineering  (With  Media  Technology  Year),BSc,FullTime,2,0,4,26000,96
+10006022,Electronic  Engineering,BEng,FullTime,0,0,3,26000,70.42857142857143
+10006022,Electronic  Engineering  (With  Language  Year),BEng,FullTime,2,0,4,26000,70.42857142857143
+10006022,Electronic  Engineering  (With  Science  &  Engineering  Year),BEng,FullTime,2,0,4,26000,70.42857142857143
+10006022,Engineering  Design  And  Manufacture,BSc,FullTime,0,0,3,26000,64
+10006022,Engineering  Design  And  Manufacture  (With  Language  Year),BSc,FullTime,2,0,4,26000,64
+10006022,Engineering  Design  And  Manufacture  (With  Science  &  Engineering  Year),BSc,FullTime,2,0,4,26000,64
+10006022,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,74.0
+10006022,Mechanical  Engineering  (With  Language  Year),BEng,FullTime,2,0,4,26000,74.0
+10006022,Mechanical  Engineering  (With  Science  &  Engineering  Year),BEng,FullTime,2,0,4,26000,74.0
+10006022,Renewable  Energy  Engineering,BEng,FullTime,0,0,3,26000,92.0
+10006022,Software  Engineering,BSc,FullTime,0,0,3,25000,73.0
+10006022,Software  Engineering,BSc,FullTime,0,2,4,25000,80
+10006022,Software  Engineering  (With  Computing  Year),BSc,FullTime,2,2,5,25000,80
+10006022,Software  Engineering  (With  Computing  Year),BSc,FullTime,2,0,4,25000,73.0
+10006022,Software  Engineering  (With  Language  Year),BSc,FullTime,2,0,4,25000,73.0
+10006022,Sustainability  Science  (With  Science  &  Engineering  Year),BSc,FullTime,2,0,4,21000,87.5
+10006022,Vehicle  Engineering,BEng,FullTime,0,0,3,26000,90.0
+10006022,Vehicle  Engineering  (With  Science  &  Engineering  Year),BEng,FullTime,2,0,4,26000,90.0
+10006022,Yacht  And  Powercraft  Design  (With  Science  &  Engineering  Year),BEng,FullTime,2,0,4,26000,105.375
+10006022,Yacht  Design  And  Production  (With  Science  &  Engineering  Year),BEng,FullTime,2,0,4,26000,99.75
+10007158,Acoustical  Engineering,MEng,FullTime,2,0,5,26000,163.0
+10007158,Acoustical  Engineering,MEng,FullTime,0,0,4,26000,163.0
+10007158,Acoustical  Engineering,BEng,FullTime,2,0,4,26000,182.0
+10007158,Acoustical  Engineering,BEng,FullTime,0,0,3,26000,182.0
+10007158,Acoustical  Engineering  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,163.0
+10007158,Acoustical  Engineering  with  Industrial  Placement  Year,BEng,FullTime,0,2,4,26000,182.0
+10007158,Aeronautics  and  Astronautics  /  Computational  Engineering  Design,MEng,FullTime,0,0,4,26000,160
+10007158,Aeronautics  and  Astronautics  /  Engineering  Management,MEng,FullTime,0,0,4,26000,160
+10007158,Aeronautics  and  Astronautics/Computational  Engineering  and  Design  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,160
+10007158,Aeronautics  and  Astronautics/Engineering  Management  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,160
+10007158,Aeronautics  and  Astronautics/Spacecraft  Engineering  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,183.5
+10007158,Aeronautiics  and  Astronautics/Spacecraft  Engineering,MEng,FullTime,0,0,4,26000,183.5
+10007158,Civil  and  Environmental  Engineering,MEng,FullTime,2,0,5,26000,160
+10007158,Civil  and  Environmental  Engineering,MEng,FullTime,0,0,4,26000,160
+10007158,Civil  and  Environmental  Engineering  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,160
+10007158,Civil  Engineering,MEng,FullTime,2,0,5,26000,170.0
+10007158,Civil  Engineering,BEng,FullTime,0,0,3,26000,165.0
+10007158,Civil  Engineering,BEng,FullTime,2,0,4,26000,165.0
+10007158,Civil  Engineering,MEng,FullTime,0,0,4,26000,170.0
+10007158,Civil  Engineering  and  Architecture,MEng,FullTime,2,0,5,26000,160
+10007158,Civil  Engineering  and  Architecture,MEng,FullTime,0,0,4,26000,160
+10007158,Civil  Engineering  and  Architecture  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,160
+10007158,Civil  Engineering  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,176
+10007158,Civil  Engineering  with  Industrial  Placement  Year,BEng,FullTime,0,2,4,26000,160
+10007158,Electrical  and  Electronic  Engineering,MEng,FullTime,0,1,4,26000,160
+10007158,Electrical  and  Electronic  Engineering,BEng,FullTime,2,0,4,26000,167.5
+10007158,Electrical  and  Electronic  Engineering,MEng,FullTime,2,0,5,26000,160
+10007158,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,26000,167.5
+10007158,Electrical  and  Electronic  Engineering  with  Industrial  Studies,MEng,FullTime,0,2,5,26000,183.5
+10007158,Electrical  Engineering,MEng,FullTime,2,0,5,26000,181.0
+10007158,Electrical  Engineering,BEng,FullTime,2,0,4,26000,144
+10007158,Electrical  Engineering,MEng,FullTime,0,1,4,26000,181.0
+10007158,Electrical  Engineering,BEng,FullTime,0,0,3,26000,144
+10007158,Electrical  Engineering  with  Industrial  Studies,MEng,FullTime,0,2,5,26000,183.5
+10007158,Electronic  Engineering,MEng,FullTime,2,0,5,26000,202.0
+10007158,Electronic  Engineering,MEng,FullTime,0,1,4,26000,202.0
+10007158,Electronic  Engineering,BEng,FullTime,0,0,3,26000,168.57142857142858
+10007158,Electronic  Engineering,BEng,FullTime,2,0,4,26000,168.57142857142858
+10007158,Electronic  Engineering  with  Industrial  Studies,MEng,FullTime,0,2,5,26000,202.0
+10007158,Electronic  Engineering  with  Mobile  &  Secure  Systems,MEng,FullTime,0,0,4,26000,183.5
+10007158,Electronic  Engineering  with  Nanotechnology,MEng,FullTime,0,0,4,26000,183.5
+10007158,Electronic  Engineering  with  Photonics,MEng,FullTime,0,0,4,26000,183.5
+10007158,Electronic  Engineering  with  Wireless  Communications,MEng,FullTime,0,0,4,26000,183.5
+10007158,Mechanical  Engineering,MEng,FullTime,2,0,5,26000,180.41176470588235
+10007158,Mechanical  Engineering,BEng,FullTime,2,0,4,26000,172.0
+10007158,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,172.0
+10007158,Mechanical  Engineering,MEng,FullTime,0,1,4,26000,182.0
+10007158,Mechanical  Engineering  /  Acoustical  Engineering,MEng,FullTime,0,1,4,26000,182.0
+10007158,Mechanical  Engineering  /  Biomedical  Engineering,MEng,FullTime,0,1,4,26000,182.0
+10007158,Mechanical  Engineering  /  Computational  Engineering  and  Design,MEng,FullTime,0,1,4,26000,182.0
+10007158,Mechanical  Engineering  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,182.0
+10007158,Mechanical  Engineering  with  Industrial  Placement  Year,BEng,FullTime,0,2,4,26000,182.0
+10007158,Mechanical  Engineering/Acoustical  Engineering  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,182.0
+10007158,Mechanical  Engineering/Advanced  Materials,MEng,FullTime,0,1,4,26000,182.0
+10007158,Mechanical  Engineering/Advanced  Materials  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,182.0
+10007158,Mechanical  Engineering/Aerospace,MEng,FullTime,0,1,4,26000,160
+10007158,Mechanical  Engineering/Aerospace  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,160
+10007158,Mechanical  Engineering/Automotive,MEng,FullTime,0,1,4,26000,186.0
+10007158,Mechanical  Engineering/Automotive  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,186.0
+10007158,Mechanical  Engineering/Biomedical  Engineering  with  Industrial  Placement  Year,MEng,FullTime,0,2,5,26000,182.0
+10007158,Mechanical  Engineering/Computational  Engineering  and  Design,MEng,FullTime,0,2,5,26000,182.0
+10007158,Mechanical  Engineering/Engineering  Management,MEng,FullTime,0,2,5,26000,182.0
+10007158,Mechanical  Engineering/Engineering  Management,MEng,FullTime,0,1,4,26000,182.0
+10007158,Mechanical  Engineering/Mechatronics,MEng,FullTime,0,1,4,26000,182.0
+10007158,Mechanical  Engineering/Mechatronics,MEng,FullTime,0,2,5,26000,182.0
+10007158,Mechanical  Engineering/Naval  Engineering,MEng,FullTime,0,2,5,26000,182.0
+10007158,Mechanical  Engineering/Naval  Engineering,MEng,FullTime,0,1,4,26000,182.0
+10007158,Mechanical  Engineering/Sustainable  Energy  Systems,MEng,FullTime,0,1,4,26000,182.0
+10007158,Mechanical  Engineering/Sustainable  Energy  Systems,MEng,FullTime,0,2,5,26000,182.0
+10007158,Mechantronic  Engineering,BEng,FullTime,2,0,4,26000,182.0
+10007158,Mechatronic  Engineering,BSc,FullTime,0,0,3,26000,182.0
+10007158,Mechatronic  Engineering,MEng,FullTime,0,0,4,26000,182.0
+10007158,Mechatronic  Engineering,MEng,FullTime,2,0,5,26000,182.0
+10007158,Mechatronic  Engineering  with  Industrial  Studies,MEng,FullTime,0,2,5,26000,182.0
+10007158,Ship  Science/Engineering  Management,MEng,FullTime,0,0,4,26000,172.0
+10007158,Ship  Science/Engineering  Management,MEng,FullTime,0,2,5,26000,172.0
+10007158,Ship  Science/Naval  Engineering,MEng,FullTime,0,0,4,26000,172.0
+10007158,Ship  Science/Naval  Engineering,MEng,FullTime,0,2,5,26000,172.0
+10007158,Ship  Science/Offshore  Engineering,MEng,FullTime,0,0,4,26000,172.0
+10007158,Ship  Science/Offshore  Engineering,MEng,FullTime,0,2,5,26000,172.0
+10007158,Software  Engineering,MEng,FullTime,0,1,4,25000,174.21052631578948
+10007158,Software  Engineering,BEng,FullTime,2,0,4,25000,174.21052631578948
+10007158,Software  Engineering,BEng,FullTime,0,0,3,25000,174.21052631578948
+10007158,Software  Engineering,MEng,FullTime,2,0,5,25000,174.21052631578948
+10007158,Software  Engineering  with  Industrial  Studies,MEng,FullTime,0,2,5,25000,174.21052631578948
+10006299,Aeronautical  Engineering,MEng,FullTime,0,0,4,25000,101.0
+10006299,Aeronautical  Engineering,BEng,FullTime,0,0,3,25000,101.0
+10006299,Aeronautical  Engineering  (with  a  placement  year),BEng,FullTime,0,2,4,25000,101.0
+10006299,Automotive  Engineering,BEng,FullTime,0,2,4,26000,117.0
+10006299,Automotive  Engineering,BEng,FullTime,0,0,3,26000,117.0
+10006299,Automotive  Engineering,BEng,PartTime,0,0,,35000,0
+10006299,Automotive  Engineering,MEng,FullTime,0,0,4,26000,117.0
+10006299,Electrical  And  Electronic  Engineering,BEng,PartTime,0,0,,33000,0
+10006299,Electrical  And  Electronic  Engineering,MEng,FullTime,0,0,4,26000,122.0
+10006299,Electrical  And  Electronic  Engineering,BEng,FullTime,0,0,3,26000,122.0
+10006299,Electrical  And  Electronic  Engineering,BEng,FullTime,0,2,4,26000,122.0
+10006299,Electrical  Engineering,BEng,PartTime,0,0,,33000,0
+10006299,Electronic  Engineering,BEng,PartTime,0,0,,33000,0
+10006299,Engineering  With  A  Foundation  Year,BEng,FullTime,2,0,4,26000,48
+10006299,Mechanical  Engineering,BEng,FullTime,0,2,4,26000,117.0
+10006299,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,103.5
+10006299,Mechanical  Engineering,BEng,PartTime,0,0,,35000,0
+10006299,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,117.0
+10006299,Motorsport  Engineering,BEng,FullTime,0,0,3,26000,108.0
+10006299,Motorsport  Engineering,MEng,FullTime,0,0,4,26000,117.0
+10006299,Motorsport  Engineering  (with  a  placement  year),BEng,FullTime,0,2,4,26000,117.0
+10006299,Software  Engineering,BSc,FullTime,0,2,4,22000,116.5
+10006299,Software  Engineering,MSci,FullTime,0,0,4,22000,116.5
+10006299,Software  Engineering,BSc,FullTime,0,0,3,22000,116.5
+10014001,Network  Engineering,FdSc,PartTime,0,0,,30000,0
+10014001,Software  Engineering,FdSc,PartTime,0,0,,30000,0
+10007159,Automotive  Engineering,BEng,FullTime,0,1,3,25000,64
+10007159,Automotive  Engineering  with  Integrated  Foundation  Year,BEng,FullTime,2,0,4,25000,64
+10007159,Electronic  and  Electrical  Engineering,BEng,FullTime,0,1,3,25000,112
+10007159,Electronic  and  Electrical  Engineering  with  Integrated  Foundation  Year,BEng,FullTime,2,0,4,25000,80
+10007159,Manufacturing  Engineering,BEng,FullTime,0,1,3,25000,64
+10007159,Manufacturing  Engineering  with  Integrated  Foundation  Year,BEng,FullTime,2,0,4,25000,64
+10007159,Mechanical  Engineering,BEng,FullTime,0,1,3,25000,100.28571428571428
+10007159,Mechanical  Engineering  with  Integrated  Foundation  Year,BEng,FullTime,2,0,4,25000,64
+10007160,Aerospace  Engineering,MEng,FullTime,0,0,4,26000,204.85714285714286
+10007160,Aerospace  Engineering,MEng,FullTime,0,2,5,26000,204.85714285714286
+10007160,Aerospace  Engineering,BEng,FullTime,0,0,3,26000,167.5
+10007160,Aerospace  Engineering,BEng,FullTime,0,2,4,26000,167.5
+10007160,Automotive  Engineering,MEng,FullTime,0,2,5,26000,180.3548387096774
+10007160,Automotive  Engineering,MEng,FullTime,0,0,4,26000,180.3548387096774
+10007160,Automotive  Engineering,BEng,FullTime,0,0,3,26000,180.3548387096774
+10007160,Automotive  Engineering,BEng,FullTime,0,2,4,26000,180.3548387096774
+10007160,Biomedical  Engineering,BEng,FullTime,0,0,3,26000,180.3548387096774
+10007160,Biomedical  Engineering,BEng,FullTime,0,2,4,26000,180.3548387096774
+10007160,Biomedical  Engineering,MEng,FullTime,0,0,4,26000,180.3548387096774
+10007160,Biomedical  Engineering,MEng,FullTime,0,2,5,26000,180.3548387096774
+10007160,Chemical  and  Petroleum  Engineering,MEng,FullTime,0,2,5,28000,158.51612903225808
+10007160,Chemical  and  Petroleum  Engineering,BEng,FullTime,0,0,3,28000,158.51612903225808
+10007160,Chemical  and  Petroleum  Engineering,BEng,FullTime,0,2,4,28000,158.51612903225808
+10007160,Chemical  and  Petroleum  Engineering,MEng,FullTime,0,0,4,28000,158.51612903225808
+10007160,Chemical  Engineering,MEng,FullTime,0,2,5,28000,170.0
+10007160,Chemical  Engineering,BEng,FullTime,0,0,3,28000,154.14705882352942
+10007160,Chemical  Engineering,MEng,FullTime,0,0,4,28000,170.0
+10007160,Chemical  Engineering,BEng,FullTime,0,2,4,28000,154.14705882352942
+10007160,Civil  Engineering,MEng,FullTime,0,2,5,27000,169.375
+10007160,Civil  Engineering,BEng,FullTime,0,0,3,27000,155.25
+10007160,Civil  Engineering,BEng,FullTime,0,2,4,27000,155.25
+10007160,Civil  Engineering,MEng,FullTime,0,0,4,27000,169.375
+10007160,Computer  and  Internet  Engineering,BEng,FullTime,0,0,3,25000,187.25
+10007160,Computer  and  Internet  Engineering,BEng,FullTime,0,2,4,25000,187.25
+10007160,Computer  and  Internet  Engineering,MEng,FullTime,0,0,4,25000,187.25
+10007160,Computer  and  Internet  Engineering,MEng,FullTime,0,2,5,25000,187.25
+10007160,Electrical  and  Electronic  Engineering,BEng,FullTime,0,2,4,25000,173.63636363636363
+10007160,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,25000,183.5
+10007160,Electrical  and  Electronic  Engineering,MEng,FullTime,0,2,5,25000,183.5
+10007160,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,25000,173.63636363636363
+10007160,Electronic  Engineering,MEng,FullTime,0,2,5,25000,192
+10007160,Electronic  Engineering,MEng,FullTime,0,0,4,25000,192
+10007160,Electronic  Engineering,BEng,FullTime,0,0,3,25000,181.0
+10007160,Electronic  Engineering,BEng,FullTime,0,2,4,25000,181.0
+10007160,Electronic  Engineering  with  Computer  Systems,BEng,FullTime,0,0,3,25000,187.25
+10007160,Electronic  Engineering  with  Computer  Systems,BEng,FullTime,0,2,4,25000,187.25
+10007160,Electronic  Engineering  with  Computer  Systems,MEng,FullTime,0,0,4,25000,187.25
+10007160,Electronic  Engineering  with  Computer  Systems,MEng,FullTime,0,2,5,25000,187.25
+10007160,Electronic  Engineering  with  Nanotechnology,BEng,FullTime,0,0,3,25000,187.25
+10007160,Electronic  Engineering  with  Nanotechnology,BEng,FullTime,0,2,4,25000,187.25
+10007160,Electronic  Engineering  with  Nanotechnology,MEng,FullTime,0,0,4,25000,187.25
+10007160,Electronic  Engineering  with  Nanotechnology,MEng,FullTime,0,2,5,25000,187.25
+10007160,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,160
+10007160,Mechanical  Engineering,BEng,FullTime,0,2,4,26000,160
+10007160,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,183.5
+10007160,Mechanical  Engineering,MEng,FullTime,0,2,5,26000,183.5
+10007806,Automotive  Engineering,MEng,FullTime,1,1,4,26000,131.75
+10007806,Automotive  Engineering,BEng,FullTime,1,1,3,26000,134.42857142857142
+10007806,Automotive  Engineering  (with  an  industrial  placement  year),BEng,FullTime,1,2,4,26000,131.75
+10007806,Automotive  Engineering  (with  an  industrial  placement  year),MEng,FullTime,1,2,5,26000,131.75
+10007806,Electrical  and  Electronic  Engineering,BEng,FullTime,1,1,3,26000,139.25
+10007806,Electrical  and  Electronic  Engineering,MEng,FullTime,1,1,4,26000,125.33333333333333
+10007806,Electrical  and  Electronic  Engineering  (with  an  industrial  placement  year),BEng,FullTime,1,2,4,26000,125.33333333333333
+10007806,Electrical  and  Electronic  Engineering  (with  an  industrial  placement  year),MEng,FullTime,1,2,5,26000,125.33333333333333
+10007806,Mechanical  Engineering,BEng,FullTime,1,1,3,26000,112
+10007806,Mechanical  Engineering,MEng,FullTime,1,1,4,26000,138.71428571428572
+10007806,Mechanical  Engineering  (with  an  industrial  placement  year),BEng,FullTime,1,2,4,26000,134.42857142857142
+10007806,Mechanical  Engineering  (with  an  industrial  placement  year),MEng,FullTime,1,2,5,26000,131.75
+10007855,Aerospace  Engineering,MEng,FullTime,0,0,5,25000,138.71428571428572
+10007855,Aerospace  Engineering,MEng,FullTime,0,2,5,25000,183.5
+10007855,Aerospace  Engineering,MEng,FullTime,0,0,4,25000,161.66666666666666
+10007855,Aerospace  Engineering,BEng,FullTime,0,0,3,25000,135.5
+10007855,Aerospace  Engineering,BEng,FullTime,2,0,4,25000,116.28571428571428
+10007855,Aerospace  Engineering,BEng,FullTime,0,2,4,25000,128
+10007855,Aerospace  Engineering  (with  a  Year  Abroad),BEng,FullTime,0,0,4,25000,138.71428571428572
+10007855,Chemical  Engineering,MEng,FullTime,0,2,5,27000,150.0
+10007855,Chemical  Engineering,BSc,FullTime,2,0,4,27000,106.71428571428571
+10007855,Chemical  Engineering,BEng,FullTime,0,2,4,27000,135.5
+10007855,Chemical  Engineering,BEng,FullTime,0,0,3,27000,136.57142857142858
+10007855,Chemical  Engineering,BEng,FullTime,0,0,4,27000,130.3684210526316
+10007855,Chemical  Engineering,MEng,FullTime,0,0,5,27000,130.3684210526316
+10007855,Civil  Engineering,MEng,FullTime,0,2,5,25000,157.125
+10007855,Civil  Engineering,MEng,FullTime,0,0,5,25000,129.875
+10007855,Civil  Engineering,BEng,FullTime,0,0,3,25000,139.25
+10007855,Civil  Engineering,BEng,FullTime,2,0,4,25000,106.0
+10007855,Civil  Engineering,BEng,FullTime,0,2,4,25000,112
+10007855,Civil  Engineering  (with  a  Year  Abroad),BEng,FullTime,0,0,4,25000,129.875
+10007855,Electronic  and  Electrical  Engineering,MEng,FullTime,0,2,5,25000,112
+10007855,Electronic  and  Electrical  Engineering,BEng,FullTime,0,0,3,25000,120.57142857142857
+10007855,Electronic  and  Electrical  Engineering,BEng,FullTime,2,0,4,25000,118.0
+10007855,Electronic  and  Electrical  Engineering,MEng,FullTime,0,0,4,25000,112
+10007855,Electronic  and  Electrical  Engineering  (with  a  Year  Abroad),BEng,FullTime,0,0,4,25000,122.71428571428571
+10007855,Engineering,BEng,FullTime,2,0,4,25000,101.0
+10007855,Materials  Science  and  Engineering,BEng,FullTime,0,0,3,25000,115.0
+10007855,Materials  Science  and  Engineering,MEng,FullTime,0,0,5,25000,115.0
+10007855,Materials  Science  and  Engineering,MEng,FullTime,0,0,4,25000,115.0
+10007855,Materials  Science  and  Engineering,MEng,FullTime,0,2,5,25000,115.0
+10007855,Materials  Science  and  Engineering,BEng,FullTime,2,0,4,25000,100.5
+10007855,Materials  Science  and  Engineering,BEng,FullTime,0,2,4,25000,117.0
+10007855,Materials  Science  and  Engineering  (with  a  Year  Abroad),BEng,FullTime,0,0,4,25000,115.0
+10007855,Mechanical  Engineering,BEng,FullTime,2,0,4,25000,108.5
+10007855,Mechanical  Engineering,BEng,FullTime,0,2,4,25000,138.0
+10007855,Mechanical  Engineering,MEng,FullTime,0,0,4,25000,128
+10007855,Mechanical  Engineering,MEng,FullTime,0,2,5,25000,172.0
+10007855,Mechanical  Engineering,BEng,FullTime,0,0,3,25000,133.0
+10007855,Medical  Engineering,MEng,FullTime,0,0,4,25000,112
+10007855,Medical  Engineering,MEng,FullTime,0,0,5,25000,112
+10007855,Medical  Engineering,MEng,FullTime,0,2,5,25000,112
+10007855,Medical  Engineering,BEng,FullTime,0,2,4,25000,112
+10007855,Medical  Engineering,BEng,FullTime,0,0,3,25000,112
+10007855,Medical  Engineering,BEng,FullTime,2,0,4,25000,112
+10007855,Medical  Engineering,BEng,FullTime,0,0,4,25000,112
+10007855,Software  Engineering,BSc,FullTime,0,2,4,22000,124.0
+10007855,Software  Engineering,BSc,FullTime,0,0,3,22000,138.71428571428572
+10007161,Aerospace  Engineering,BEng,FullTime,2,0,4,25000,75.25
+10007161,Aerospace  Engineering,MEng,FullTime,0,0,4,25000,105.0
+10007161,Aerospace  Engineering,BEng,FullTime,0,0,3,25000,105.0
+10007161,Aerospace  Engineering  with  Industry,MEng,FullTime,0,2,5,25000,105.0
+10007161,Aerospace  Engineering  with  Industry,BEng,FullTime,2,2,5,25000,105.0
+10007161,Aerospace  Engineering  with  Industry,BEng,FullTime,0,2,4,25000,118.42857142857143
+10007161,Chemical  Engineering,MEng,FullTime,0,0,4,26000,124.85714285714286
+10007161,Chemical  Engineering,BEng,PartTime,0,0,,30000,0
+10007161,Chemical  Engineering,BEng,FullTime,2,0,4,26000,85.0
+10007161,Chemical  Engineering,BEng,FullTime,0,0,3,26000,107.25
+10007161,Chemical  Engineering  by  Flexible  Open  Learning,HND,PartTime,0,0,,40000,0
+10007161,Chemical  Engineering  with  Industry,BEng,FullTime,0,2,4,26000,98.14285714285714
+10007161,Chemical  Engineering  with  Industry,MEng,FullTime,0,2,5,26000,122.0
+10007161,Chemical  Engineering  with  Industry,BEng,FullTime,2,2,5,26000,70.42857142857143
+10007161,Civil  Engineering,BEng,FullTime,0,0,3,25000,90.0
+10007161,Civil  Engineering,BEng,FullTime,2,0,4,25000,48
+10007161,Civil  Engineering,BEng,PartTime,0,0,,29000,0
+10007161,Civil  Engineering,MEng,FullTime,0,0,4,25000,90.0
+10007161,Civil  Engineering  with  Industry,BEng,FullTime,0,2,4,25000,90.0
+10007161,Civil  Engineering  with  Industry,BEng,FullTime,2,2,5,25000,83.75
+10007161,Civil  Engineering  with  Industry,MEng,FullTime,0,2,5,25000,90.0
+10007161,Electrical  and  Electronic  Engineering,BEng,PartTime,0,0,,37000,0
+10007161,Electrical  and  Electronic  Engineering,BEng,FullTime,2,0,4,25000,69.0
+10007161,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,25000,114.8125
+10007161,Electrical  and  Electronic  Engineering,MEng,FullTime,0,0,4,25000,114.8125
+10007161,Electrical  and  Electronic  Engineering  by  Flexible  Open  Learning,HND,PartTime,0,0,,31900,0
+10007161,Electrical  and  Electronic  Engineering  with  Industry,BEng,FullTime,0,2,4,25000,131.0
+10007161,Electrical  and  Electronic  Engineering  with  Industry,BEng,FullTime,2,2,5,25000,114.8125
+10007161,Electrical  and  Electronic  Engineering  with  Industry,MEng,FullTime,0,2,5,25000,114.8125
+10007161,Instrumentation  and  Control  Engineering,BEng,FullTime,0,0,3,25000,114.8125
+10007161,Instrumentation  and  Control  Engineering,BEng,PartTime,0,0,,37000,0
+10007161,Instrumentation  and  Control  Engineering,BEng,FullTime,2,0,4,25000,114.8125
+10007161,Instrumentation  and  Control  Engineering,MEng,FullTime,0,0,4,25000,114.8125
+10007161,Instrumentation  and  Control  Engineering  by  Flexible  Open  Learning,HND,PartTime,0,0,,31900,0
+10007161,Instrumentation  and  Control  Engineering  with  Industry,BEng,FullTime,0,2,4,25000,114.8125
+10007161,Instrumentation  and  Control  Engineering  with  Industry,BEng,FullTime,2,2,5,25000,114.8125
+10007161,Instrumentation  and  Control  Engineering  with  Industry,MEng,FullTime,0,2,5,25000,114.8125
+10007161,Mechanical  Engineering,BEng,PartTime,0,0,,30000,0
+10007161,Mechanical  Engineering,BEng,FullTime,2,0,4,25000,81.66666666666667
+10007161,Mechanical  Engineering,BEng,FullTime,0,0,3,25000,135.5
+10007161,Mechanical  Engineering,MEng,FullTime,0,0,4,25000,163.75
+10007161,Mechanical  Engineering  by  Flexible  Open  Learning,HND,PartTime,0,0,,29000,0
+10007161,Mechanical  Engineering  with  Industry,MEng,FullTime,0,2,5,25000,112
+10007161,Mechanical  Engineering  with  Industry,BEng,FullTime,0,2,4,25000,85.0
+10007161,Mechanical  Engineering  with  Industry,BEng,FullTime,2,2,5,25000,64
+10005999,ETO  Engineering,FD,PartTime,0,0,,30000,0
+10005999,Marine  Engineering,FD,PartTime,0,0,,28000,0
+10007784,Bioprocessing  of  New  Medicines  (Science  and  Engineering),BSc,FullTime,0,0,3,28000,189.125
+10007784,Engineering  (Biochemical),MEng,FullTime,0,0,4,28000,211.0
+10007784,Engineering  (Biochemical),BEng,FullTime,0,0,3,28000,189.125
+10007784,Engineering  (Biomedical),BEng,FullTime,0,0,3,25000,195.52941176470588
+10007784,Engineering  (Biomedical),MEng,FullTime,0,0,4,25000,203.25
+10007784,Engineering  (Chemical),MEng,FullTime,0,0,4,28000,195.0
+10007784,Engineering  (Chemical),BEng,FullTime,0,0,3,28000,187.25
+10007784,Engineering  (Civil),MEng,FullTime,0,0,4,27000,176
+10007784,Engineering  (Civil),BEng,FullTime,0,0,3,27000,160
+10007784,Engineering  (Electronic  and  Electrical),BEng,FullTime,0,0,3,25000,176
+10007784,Engineering  (Electronic  and  Electrical),MEng,FullTime,0,0,4,25000,176
+10007784,Engineering  (Mechanical  with  Business  Finance),MEng,FullTime,0,0,4,26000,197.0
+10007784,Engineering  (Mechanical),MEng,FullTime,0,0,4,26000,197.0
+10007784,Engineering  (Mechanical),BEng,FullTime,0,0,3,26000,185.0
+10007784,Medical  Sciences  and  Engineering,MSci,FullTime,0,0,4,21000,176
+10007164,Aerospace  Engineering,BEng,FullTime,2,1,4,26000,126.4
+10007164,Aerospace  Engineering,BEng,FullTime,0,1,3,26000,125.8
+10007164,Aerospace  Engineering,MEng,FullTime,0,1,4,26000,126.4
+10007164,Aerospace  Engineering  with  Pilot  Studies,BEng,FullTime,0,1,3,26000,126.4
+10007164,Aerospace  Engineering  with  Pilot  Studies,MEng,FullTime,0,1,4,26000,126.4
+10007164,Aerospace  Engineering  with  Pilot  Studies,BEng,FullTime,2,1,4,26000,126.4
+10007164,Architecture  and  Environmental  Engineering,BEng,FullTime,0,0,3,19000,135.5
+10007164,Architecture  and  Environmental  Engineering,BEng,FullTime,2,0,4,19000,138.26315789473685
+10007164,Automotive  Engineering,BEng,FullTime,0,1,3,26000,128
+10007164,Automotive  Engineering,BEng,FullTime,2,1,4,26000,123.11111111111111
+10007164,Automotive  Engineering,MEng,FullTime,0,1,4,26000,123.11111111111111
+10007164,Civil  and  Environmental  Engineering,BEng,FullTime,2,1,4,26000,117.0
+10007164,Civil  and  Environmental  Engineering,BEng,FullTime,0,1,3,26000,117.0
+10007164,Civil  and  Environmental  Engineering,BEng,PartTime,0,1,,30000,0
+10007164,Electronic  Engineering,MEng,PartTime,0,1,,35000,0
+10007164,Electronic  Engineering,BEng,PartTime,0,1,,35000,0
+10007164,Electronic  Engineering,BEng,FullTime,2,1,4,26000,133.0
+10007164,Electronic  Engineering,MEng,FullTime,0,1,4,26000,133.0
+10007164,Electronic  Engineering,BEng,FullTime,0,1,3,26000,133.0
+10007164,Mechanical  Engineering,MEng,PartTime,0,1,,32000,0
+10007164,Mechanical  Engineering,BEng,PartTime,0,1,,32000,0
+10007164,Mechanical  Engineering,MEng,FullTime,0,1,4,26000,123.11111111111111
+10007164,Mechanical  Engineering,BEng,FullTime,2,1,4,26000,123.11111111111111
+10007164,Mechanical  Engineering,BEng,FullTime,0,1,3,26000,121.0
+10007164,Software  Engineering  for  Business,BSc,FullTime,0,1,3,24000,128
+10007164,Software  Engineering  for  Business,BSc,FullTime,2,1,4,24000,128
+10007858,Automotive  Engineering,BEng,FullTime,0,0,3,26000,80
+10007858,Automotive  Engineering,BEng,PartTime,2,0,,33000,0
+10007858,Automotive  Engineering,BSc,FullTime,0,0,3,26000,80
+10007858,Automotive  Engineering,BEng,PartTime,0,0,,33000,0
+10007858,Automotive  Engineering,BSc,PartTime,0,0,,33000,0
+10007858,Automotive  Engineering,BEng,FullTime,2,0,3,26000,80
+10007858,Electrical  &  Electronic  Engineering,BEng,FullTime,0,0,3,25000,91.25
+10007858,Electronics  Engineering,HND,PartTime,0,0,,29000,0
+10007858,Energy  &  Environmental  Engineering,BEng,FullTime,2,0,3,25000,91.25
+10007858,Energy  &  Environmental  Engineering,BEng,FullTime,0,0,3,25000,91.25
+10007858,Humanitarian  Engineering,BEng,FullTime,2,0,3,25000,91.25
+10007858,Humanitarian  Engineering,BEng,FullTime,0,0,3,25000,91.25
+10007858,Mechanical  &  Manufacturing  Engineering,BEng,PartTime,2,0,,33000,0
+10007858,Mechanical  &  Manufacturing  Engineering,BEng,PartTime,0,0,,33000,0
+10007858,Mechanical  &  Manufacturing  Engineering,BEng,FullTime,2,0,3,26000,80
+10007858,Mechanical  &  Manufacturing  Engineering,BEng,FullTime,0,0,3,26000,80
+10007858,Motorcycle  Engineering,BEng,FullTime,0,0,3,26000,80
+10007858,Motorcycle  Engineering,BEng,PartTime,0,0,,33000,0
+10007858,Motorcycle  Engineering,BEng,PartTime,2,0,,33000,0
+10007858,Motorcycle  Engineering,BEng,FullTime,2,0,3,26000,80
+10007858,Motorsport  Engineering,BSc,FullTime,0,0,3,26000,87.5
+10007858,Motorsport  Engineering,BSc,PartTime,0,0,,33000,0
+10007858,Motorsport  Engineering,BEng,PartTime,0,0,,33000,0
+10007858,Motorsport  Engineering,BEng,PartTime,2,0,,33000,0
+10007858,Motorsport  Engineering,BEng,FullTime,2,0,3,26000,80
+10007858,Motorsport  Engineering,BEng,FullTime,0,0,3,26000,80
+10007858,Software  Engineering,BSc,FullTime,0,0,3,20000,101.0
+10007858,Software  Engineering  With  A  Year  In  Industry,BSc,FullTime,0,2,3,20000,101.0
+10007163,Automotive  Engineering,BEng,FullTime,0,1,4,26000,166.0
+10007163,Automotive  Engineering,MEng,FullTime,0,1,4,26000,176
+10007163,Civil  Engineering,BEng,FullTime,0,1,3,27000,154.0
+10007163,Civil  Engineering,MEng,FullTime,0,1,4,27000,183.5
+10007163,Electrical  and  Electronic  Engineering,MEng,FullTime,0,1,4,26000,167.5
+10007163,Electrical  and  Electronic  Engineering,BEng,FullTime,0,1,4,26000,167.5
+10007163,Electronic  Engineering,MEng,FullTime,0,1,4,26000,167.5
+10007163,Electronic  Engineering,BEng,FullTime,0,1,3,26000,167.5
+10007163,Engineering,BEng,FullTime,0,1,3,27000,169.54545454545453
+10007163,Engineering,MEng,FullTime,0,1,4,27000,198.0
+10007163,Manufacturing  and  Mechanical  Engineering,MEng,FullTime,0,1,4,26000,164.77272727272728
+10007163,Manufacturing  and  Mechanical  Engineering,BEng,FullTime,0,1,3,26000,164.77272727272728
+10007163,Mechanical  Engineering,BEng,FullTime,0,1,3,26000,161.42857142857142
+10007163,Mechanical  Engineering,MEng,FullTime,0,1,4,26000,188.5
+10006566,Applied  Sound  Engineering,BSc,FullTime,2,0,4,26000,80
+10006566,Applied  Sound  Engineering,BSc,FullTime,0,0,3,26000,80
+10006566,Civil  and  Environmental  Engineering,BEng,FullTime,0,0,3,26000,96
+10006566,Civil  and  Environmental  Engineering,BEng,FullTime,2,0,4,26000,55.5
+10006566,Electrical  and  Electronic  Engineering,BEng,FullTime,2,0,4,26000,80
+10006566,Electrical  and  Electronic  Engineering,BEng,FullTime,0,0,3,26000,80
+10007165,Biomedical  Electronic  and  Instrumentation  Engineering,BSc,FullTime,0,0,3,26000,99.75
+10007165,Building  Engineering,BSc,PartTime,0,0,,38000,0
+10007165,Computer  Systems  Engineering,BSc,FullTime,2,1,4,26000,99.75
+10007165,Computer  Systems  Engineering,BSc,FullTime,0,1,3,26000,99.75
+10007165,Software  Engineering,BEng,FullTime,0,1,3,26000,103.5
+10007165,Software  Engineering,MEng,FullTime,0,1,4,26000,107.73913043478261
+10007165,Software  Engineering,BEng,FullTime,2,1,4,26000,103.5
+10007166,Aerospace  Engineering,BEng,PartTime,0,0,,35000,0
+10007166,Aerospace  Engineering,MEng,PartTime,0,0,,35000,0
+10007166,Aerospace  Engineering,BEng,FullTime,0,2,4,26000,80
+10007166,Aerospace  Engineering,BEng,FullTime,0,0,3,26000,80
+10007166,Aerospace  Engineering,MEng,FullTime,0,0,4,26000,80
+10007166,Aerospace  Engineering  with  Foundation  Year,BEng,PartTime,2,0,,35000,0
+10007166,Aerospace  Engineering  with  Foundation  Year,BEng,FullTime,2,0,4,26000,80
+10007166,Automotive  Engineering,BEng,PartTime,0,0,,35000,0
+10007166,Automotive  Engineering,MEng,PartTime,0,0,,35000,0
+10007166,Automotive  Engineering,BEng,FullTime,0,2,4,26000,80
+10007166,Automotive  Engineering,BEng,FullTime,0,0,3,26000,80
+10007166,Automotive  Engineering,MEng,FullTime,0,0,4,26000,80
+10007166,Chemical  Engineering,BEng,PartTime,0,0,,35000,0
+10007166,Chemical  Engineering,BEng,FullTime,0,2,4,26000,88.57142857142857
+10007166,Chemical  Engineering,BEng,FullTime,0,0,3,26000,88.57142857142857
+10007166,Chemical  Engineering  with  Chemistry,BSc,PartTime,0,0,,35000,0
+10007166,Chemical  Engineering  with  Chemistry,BSc,FullTime,0,0,3,26000,88.57142857142857
+10007166,Chemical  Engineering  with  Chemistry,BSc,FullTime,0,2,4,26000,88.57142857142857
+10007166,Chemical  Engineering  with  Foundation  Year,BEng,PartTime,2,0,,35000,0
+10007166,Chemical  Engineering  with  Foundation  Year,BEng,FullTime,2,0,4,26000,88.57142857142857
+10007166,Chemical  Engineering  with  Pharmaceutical  Science,BSc,PartTime,0,0,,35000,0
+10007166,Chemical  Engineering  with  Pharmaceutical  Science,BSc,FullTime,0,2,4,26000,88.57142857142857
+10007166,Chemical  Engineering  with  Pharmaceutical  Science,BSc,FullTime,0,0,3,26000,88.57142857142857
+10007166,Chemistry  with  Chemical  Engineering,BSc,FullTime,0,0,3,20000,80
+10007166,Chemistry  with  Chemical  Engineering,BSc,FullTime,0,2,4,20000,80
+10007166,Civil  and  Transportation  Engineering,BEng,PartTime,0,0,,35000,0
+10007166,Civil  and  Transportation  Engineering,BEng,FullTime,0,2,4,26000,80
+10007166,Civil  and  Transportation  Engineering,BEng,FullTime,0,0,3,26000,80
+10007166,Civil  and  Transportation  Engineering  with  FY,BEng,FullTime,2,0,4,26000,80
+10007166,Civil  and  Transportation  Engineering  with  FY,BEng,PartTime,2,0,,35000,0
+10007166,Civil  Engineering,BEng,FullTime,0,0,3,26000,80
+10007166,Civil  Engineering,BEng,FullTime,0,2,4,26000,80
+10007166,Computer  Science  (Software  Engineering),BSc,PartTime,0,0,,25000,0
+10007166,Computer  Science  (Software  Engineering),BSc,FullTime,0,0,3,22000,80
+10007166,Computer  Science  (Software  Engineering),BSc,FullTime,0,2,4,22000,92.1875
+10007166,Electronics  and  Telecommunications  Engineering,MEng,PartTime,0,0,,35000,0
+10007166,Electronics  and  Telecommunications  Engineering,BEng,FullTime,0,0,3,26000,81.5
+10007166,Electronics  and  Telecommunications  Engineering,BEng,PartTime,0,0,,35000,0
+10007166,Electronics  and  Telecommunications  Engineering,MEng,FullTime,0,0,4,26000,80
+10007166,Infrastructure  Engineering  and  Management,BEng,PartTime,0,0,,35000,0
+10007166,Infrastructure  Engineering  and  Management,BEng,FullTime,0,0,3,26000,87.5
+10007166,Mechanical  Engineering,MEng,PartTime,0,0,,35000,0
+10007166,Mechanical  Engineering,BEng,FullTime,0,2,4,26000,80
+10007166,Mechanical  Engineering,BEng,FullTime,0,0,3,26000,103.5
+10007166,Mechanical  Engineering,MEng,FullTime,0,0,4,26000,80
+10007166,Mechanical  Engineering,BEng,PartTime,0,0,,35000,0
+10007166,Mechanical  Engineering  with  Foundation  Year,BEng,PartTime,2,0,,35000,0
+10007166,Mechanical  Engineering  with  Foundation  Year,BEng,FullTime,2,0,4,26000,80
+10007166,Mechatronics  Engineering,MEng,PartTime,0,0,,35000,0
+10007166,Mechatronics  Engineering,BEng,FullTime,0,2,4,26000,80
+10007166,Mechatronics  Engineering,BEng,PartTime,0,0,,35000,0
+10007166,Mechatronics  Engineering,BEng,FullTime,0,0,3,26000,80
+10007166,Mechatronics  Engineering,MEng,FullTime,0,0,4,26000,80
+10007166,Motorsport  Engineering,MEng,PartTime,0,0,,35000,0
+10007166,Motorsport  Engineering,BEng,PartTime,0,0,,35000,0
+10007166,Motorsport  Engineering,BEng,FullTime,0,2,4,26000,80
+10007166,Motorsport  Engineering,BEng,FullTime,0,0,3,26000,80
+10007166,Motorsport  Engineering,MEng,FullTime,0,0,4,26000,80
+10007166,Motorsport  Engineering  with  Foundation  Year,BEng,PartTime,2,0,,35000,0
+10007166,Motorsport  Engineering  with  Foundation  Year,BEng,FullTime,2,0,4,26000,80
+10007167,Computer  Science  with  Embedded  Systems  Engineering,BEng,FullTime,0,1,3,24000,161.42857142857142
+10007167,Computer  Science  with  Embedded  Systems  Engineering,BEng,FullTime,0,2,4,24000,161.42857142857142
+10007167,Computer  Science  with  Embedded  Systems  Engineering,MEng,FullTime,0,1,4,24000,161.42857142857142
+10007167,Computer  Science  with  Embedded  Systems  Engineering,MEng,FullTime,0,2,5,24000,161.42857142857142
+10007167,Electronic  and  Communication  Engineering,MEng,FullTime,0,2,5,25000,148.03846153846155
+10007167,Electronic  and  Communication  Engineering,MEng,FullTime,0,1,4,25000,148.03846153846155
+10007167,Electronic  and  Communication  Engineering,BEng,FullTime,0,1,3,25000,148.03846153846155
+10007167,Electronic  and  Communication  Engineering,BEng,FullTime,0,2,4,25000,148.03846153846155
+10007167,Electronic  and  Computer  Engineering,BEng,FullTime,0,1,3,25000,148.03846153846155
+10007167,Electronic  and  Computer  Engineering,BEng,FullTime,0,2,4,25000,148.03846153846155
+10007167,Electronic  and  Computer  Engineering,MEng,FullTime,0,2,5,25000,148.03846153846155
+10007167,Electronic  and  Computer  Engineering,MEng,FullTime,0,1,4,25000,148.03846153846155
+10007167,Electronic  Engineering,MEng,FullTime,0,1,4,25000,148.03846153846155
+10007167,Electronic  Engineering,BEng,FullTime,0,2,4,25000,131.75
+10007167,Electronic  Engineering,BEng,FullTime,0,1,3,25000,151.5
+10007167,Electronic  Engineering,BEng,FullTime,2,1,4,25000,103.5
+10007167,Electronic  Engineering,MEng,FullTime,0,2,5,25000,148.03846153846155
+10007167,Electronic  Engineering  with  Music  Technology  Systems,MEng,FullTime,0,1,4,25000,148.03846153846155
+10007167,Electronic  Engineering  with  Music  Technology  Systems,MEng,FullTime,0,2,5,25000,148.03846153846155
+10007167,Electronic  Engineering  with  Music  Technology  Systems,BEng,FullTime,0,2,4,25000,148.03846153846155
+10007167,Electronic  Engineering  with  Music  Technology  Systems,BEng,FullTime,0,1,3,25000,128
+10007167,Electronic  Engineering  with  Nanotechnology,MEng,FullTime,0,1,4,25000,148.03846153846155
+10007167,Electronic  Engineering  with  Nanotechnology,BEng,FullTime,0,2,4,25000,148.03846153846155
+10007167,Electronic  Engineering  with  Nanotechnology,BEng,FullTime,0,1,3,25000,148.03846153846155
+10007167,Electronic  Engineering  with  Nanotechnology,MEng,FullTime,0,2,5,25000,148.03846153846155
