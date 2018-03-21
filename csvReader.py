@@ -17,6 +17,8 @@ physicsPure = []
 
 header = "Institution, Course, Type, Study Mode, Foundation Year(s), Sandwich Year(s), Total years, Salary (6 months after), Median Tariff"
 
+
+
 with open("FullDataSet.csv","r") as dataFile:
     read = csv.reader(dataFile)
     for count,row in enumerate(read):
