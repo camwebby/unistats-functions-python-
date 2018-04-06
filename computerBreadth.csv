@@ -1,0 +1,689 @@
+"Institution, Course, Type, Study Mode, Foundation Year(s), Sandwich Year(s), Total years, Salary (6 months after), Median Tariff"
+10007849,Computer  Arts,BA,FullTime,0,0,4,17000,176
+10007849,Computer  Game  Applications  Development,BSc,FullTime,0,0,4,17000,156.5
+10007849,Computer  Games  Technology,BSc,FullTime,0,0,4,17000,195.75
+10000291,Applied  Computer  Science,BSc,FullTime,0,0,3,24000,94.21052631578948
+10000291,Computer  Games  Art,BA,FullTime,0,0,3,24000,133.0
+10000291,Computer  Gaming  Technology,BSc,FullTime,0,0,3,24000,98.5
+10000291,Computer  Gaming  Technology,BSc,FullTime,2,0,4,24000,57.375
+10000291,Computer  Gaming  Technology,BSc,FullTime,0,2,4,24000,94.21052631578948
+10000291,Computer  Networks,BSc,FullTime,0,2,4,24000,94.21052631578948
+10000291,Computer  Networks,BSc,FullTime,0,0,3,24000,87.5
+10000291,Computer  Science,BEng,FullTime,0,2,4,24000,94.21052631578948
+10000291,Computer  Science,BEng,FullTime,0,0,3,24000,80
+10007857,Computer  Information  Systems,BSc,FullTime,0,0,3,21000,106.0
+10007857,Computer  Information  Systems  for  Business,BSc,FullTime,0,0,3,21000,121.23076923076923
+10007857,Computer  Science,BSc,FullTime,0,0,3,21000,112
+10007857,Computer  Systems  Engineering,BEng,FullTime,0,0,3,24000,115.75
+10007857,Computer  Systems  Engineering,BSc,FullTime,0,0,3,24000,115.75
+10007857,Computer  Systems  Engineering,MEng,FullTime,0,0,4,24000,115.75
+10007850,Computer  Science,BSc,FullTime,0,0,3,25000,173.125
+10007850,Computer  Science,MComp,FullTime,0,0,5,25000,180.28571428571428
+10007850,Computer  Science,BSc,FullTime,0,0,4,25000,180.28571428571428
+10007850,Computer  Science,MComp,FullTime,0,0,4,25000,160
+10007850,Computer  Science,MComp,FullTime,0,2,5,25000,160
+10007850,Computer  Science,BSc,FullTime,0,2,4,25000,160
+10007850,Computer  Systems  Engineering,BEng,FullTime,0,0,3,26000,170.3125
+10007850,Computer  Systems  Engineering,BEng,FullTime,0,2,4,26000,170.3125
+10007850,Computer  Systems  Engineering,MEng,FullTime,0,0,4,26000,170.3125
+10007850,Computer  Systems  Engineering,MEng,FullTime,0,2,5,26000,170.3125
+10007152,Computer  Animation  and  Visual  Effects,BSc,FullTime,0,0,3,17000,74.0
+10007152,Computer  Games  Development,BSc,FullTime,0,2,5,24000,87.10526315789474
+10007152,Computer  Games  Development,BSc,FullTime,2,0,5,24000,87.10526315789474
+10007152,Computer  Games  Development,BSc,FullTime,0,0,3,24000,82.5
+10007152,Computer  Networking,BSc,FullTime,0,2,5,24000,87.10526315789474
+10007152,Computer  Networking,BSc,FullTime,0,0,3,24000,64
+10007152,Computer  Networking,BSc,FullTime,2,0,5,24000,87.10526315789474
+10007152,Computer  Science,BSc,FullTime,0,2,5,24000,87.10526315789474
+10007152,Computer  Science,BSc,FullTime,0,0,3,24000,64
+10007152,Computer  Science,BSc,FullTime,2,0,5,24000,87.10526315789474
+10007152,Computer  Science  and  Robotics,BSc,FullTime,0,2,5,24000,87.10526315789474
+10007152,Computer  Science  and  Robotics,BSc,FullTime,2,0,5,24000,87.10526315789474
+10007152,Computer  Science  and  Robotics,BSc,FullTime,0,0,3,24000,87.10526315789474
+10007152,Computer  Science  and  Software  Engineering,BSc,FullTime,0,2,5,24000,87.10526315789474
+10007152,Computer  Science  and  Software  Engineering,BSc,FullTime,2,0,5,24000,87.10526315789474
+10007152,Computer  Science  and  Software  Engineering,BSc,FullTime,0,0,3,24000,87.10526315789474
+10007152,Computer  Security  and  Forensics,BSc,FullTime,0,2,5,24000,87.10526315789474
+10007152,Computer  Security  and  Forensics,BSc,FullTime,2,0,5,24000,87.10526315789474
+10007152,Computer  Security  and  Forensics,BSc,FullTime,0,0,3,24000,100.28571428571428
+10007140,Computer  Forensics,MSci,FullTime,0,1,4,22000,125.92857142857143
+10007140,Computer  Forensics,BSc,FullTime,0,1,3,19000,112
+10007140,Computer  Games  Technology,MSci,FullTime,0,1,4,22000,125.92857142857143
+10007140,Computer  Games  Technology,BSc,FullTime,0,1,3,22000,123.25
+10007140,Computer  Networks,MSci,FullTime,0,1,4,22000,125.92857142857143
+10007140,Computer  Networks,BSc,FullTime,0,1,3,25000,137.0
+10007140,Computer  Networks  and  Security,MSci,FullTime,0,1,4,22000,125.92857142857143
+10007140,Computer  Networks  and  Security,BSc,FullTime,0,1,3,25000,128
+10007140,Computer  Science,MSci,FullTime,0,1,4,22000,125.92857142857143
+10007140,Computer  Science,BSc,FullTime,0,1,3,22000,119.5
+10006840,Artificial  Intelligence  and  Computer  Science,BSc,FullTime,1,0,3,24000,187.42857142857142
+10006840,Artificial  Intelligence/Computer  Science  with  an  Industrial  Year,BSc,FullTime,1,2,4,24000,171.25
+10006840,Computer  Science,BSc,FullTime,1,0,3,24000,183.5
+10006840,Computer  Science,MSci,FullTime,1,0,4,24000,201.0
+10006840,Computer  Science  and  Software  Engineering,MEng,FullTime,1,0,4,24000,187.42857142857142
+10006840,Computer  Science  and  Software  Engineering  with  an  Ind  Yr,MEng,FullTime,1,2,5,24000,187.42857142857142
+10006840,Computer  Science  with  an  Industrial  Year,BSc,FullTime,1,2,4,24000,183.5
+10006840,Computer  Science  with  an  Industrial  Year,MSci,FullTime,1,2,5,24000,195.75
+10006840,Computer  Science  with  Study  Abroad,MSci,FullTime,1,0,5,24000,187.42857142857142
+10006840,Computer  Science  with  Study  Abroad,BSc,FullTime,1,0,4,24000,187.42857142857142
+10006841,Computer  Networks  and  Security,BSc,FullTime,0,0,3,21000,105.23076923076923
+10006841,Computer  Networks  and  Security  wih  Foundation,BSc,FullTime,2,0,4,21000,1
+10000824,Computer  Animation  Art  and  Design,BA,FullTime,0,1,3,18000,151.8
+10000824,Computer  Animation  Technical  Arts,BA,FullTime,0,1,3,18000,151.8
+10000824,Computer  Networks,BSc,FullTime,0,2,4,25000,124.5
+10000840,Computer  Networks  And  Systems  Support,BSc,FullTime,0,0,3,21000,0
+10007785,Computer  Science,BSc,FullTime,0,0,3,21000,131.0
+10007785,Computer  Science,BSc,FullTime,0,2,4,21000,130.5
+10007785,Computer  Science  for  Cyber  Security,BSc,FullTime,0,0,3,21000,132.8
+10007785,Computer  Science  for  Cyber  Security,BSc,FullTime,0,2,4,21000,132.8
+10007785,Computer  Science  for  Games,BSc,FullTime,0,2,4,21000,112
+10007785,Computer  Science  for  Games,BSc,FullTime,0,0,3,21000,132.8
+10000886,Computer  Science,BSc,FullTime,0,1,3,25000,118.0
+10000886,Computer  Science  for  Games,BSc,FullTime,0,1,3,25000,96
+10000886,Computer  Science  with  Artificial  Intelligence,BSc,FullTime,0,1,3,25000,119.10526315789474
+10000886,Electronic  and  Computer  Engineering,BEng,FullTime,0,1,3,25000,103.5
+10000886,Electronic  and  Computer  Engineering,BEng,FullTime,2,1,4,25000,103.5
+10000886,Electronic  and  Computer  Engineering,MEng,FullTime,0,1,4,25000,103.5
+10007786,Computer  Science,BSc,FullTime,0,0,3,25000,187.25
+10007786,Computer  Science,MEng,FullTime,0,0,4,25000,203.25
+10007786,Computer  Science  with  Study  in  Continental  Europe,MEng,FullTime,0,0,4,25000,198.1764705882353
+10000961,Business  Computing  (Human-Computer  Interaction),BSc,FullTime,1,2,4,26000,113.36363636363636
+10000961,Business  Computing  (Human-Computer  Interaction),BSc,FullTime,1,0,3,26000,113.36363636363636
+10000961,Computer  Science,BSc,FullTime,1,2,4,26000,96
+10000961,Computer  Science,BSc,FullTime,1,0,3,26000,128
+10000961,Computer  Science  (Artificial  Intelligence),BSc,FullTime,1,2,4,26000,113.36363636363636
+10000961,Computer  Science  (Artificial  Intelligence),BSc,FullTime,1,0,3,26000,113.36363636363636
+10000961,Computer  Science  (Digital  Media  and  Games),BSc,FullTime,1,0,3,26000,113.36363636363636
+10000961,Computer  Science  (Digital  Media  and  Games),BSc,FullTime,1,2,4,26000,112
+10000961,Computer  Science  (Network  Computing),BSc,FullTime,1,0,3,26000,113.36363636363636
+10000961,Computer  Science  (Network  Computing),BSc,FullTime,1,2,4,26000,113.36363636363636
+10000961,Computer  Science  (Software  Engineering),BSc,FullTime,1,0,3,26000,153.0
+10000961,Computer  Science  (Software  Engineering),BSc,FullTime,1,2,4,26000,149.0
+10000961,Computer  Systems  Engineering,BEng,FullTime,1,2,4,26000,138.0
+10000961,Computer  Systems  Engineering,MEng,FullTime,0,2,5,26000,138.0
+10000961,Computer  Systems  Engineering,MEng,FullTime,0,0,4,26000,138.0
+10000961,Computer  Systems  Engineering,BEng,FullTime,1,0,3,26000,138.0
+10000961,Electronic  and  Computer  Engineering,BEng,FullTime,1,0,3,26000,138.0
+10000961,Electronic  and  Computer  Engineering,MEng,FullTime,0,0,4,26000,138.0
+10000961,Electronic  and  Computer  Engineering,BEng,FullTime,1,2,4,26000,138.0
+10000961,Electronic  and  Computer  Engineering,MEng,FullTime,0,2,5,26000,138.0
+10000961,Mathematics  with  Computer  Science,BSc,FullTime,1,0,3,26000,121.6774193548387
+10000961,Mathematics  with  Computer  Science,BSc,FullTime,1,2,4,26000,118.42857142857143
+10007788,Computer  Science,BA,FullTime,0,0,3,25000,242.58620689655172
+10001143,Computer  Forensics  and  Security,BSc,FullTime,0,0,3,25000,104.57142857142857
+10001143,Computer  Science,BSc,FullTime,0,0,3,25000,108.0
+10007854,Computer  Games  Design  and  Development,BSc,FullTime,1,1,3,21000,90.71428571428571
+10007854,Computer  Science,BSc,FullTime,1,1,3,21000,103.5
+10007814,Computer  Science,BSc,FullTime,0,0,3,22000,155.25
+10007814,Computer  Science,BSc,FullTime,0,2,4,22000,151.5
+10007814,Computer  Science  with  a  Year  of  Study  Abroad,BSc,FullTime,0,0,4,22000,161.40625
+10007814,Computer  Science  with  High  Performance  Computing,BSc,FullTime,0,0,3,22000,161.40625
+10007814,Computer  Science  with  High  Performance  Computing,BSc,FullTime,0,2,4,22000,161.40625
+10007814,Computer  Science  with  High  Performance  Computing  with  a  Year  of  Study  Abroad,BSc,FullTime,0,0,4,22000,161.40625
+10007814,Computer  Science  with  Security  and  Forensics,BSc,FullTime,0,0,3,22000,161.40625
+10007814,Computer  Science  with  Security  and  Forensics,BSc,FullTime,0,2,4,22000,144
+10007814,Computer  Science  with  Security  and  Forensics  with  a  Year  of  Study  Abroad,BSc,FullTime,0,0,4,22000,161.40625
+10007814,Computer  Science  with  Visual  Computing,BSc,FullTime,0,0,3,22000,161.40625
+10007814,Computer  Science  with  Visual  Computing,BSc,FullTime,0,2,4,22000,161.40625
+10007814,Computer  Science  with  Visual  Computing  with  a  Year  of  Study  Abroad,BSc,FullTime,0,0,4,22000,161.40625
+10007141,Computer  Aided  Engineering,BEng,FullTime,1,1,3,25000,164.28571428571428
+10007141,Computer  Aided  Engineering,MEng,FullTime,1,1,4,25000,164.28571428571428
+10007141,Computer  Aided  Engineering,BEng,FullTime,2,1,4,25000,164.28571428571428
+10007141,Computer  Aided  Engineering,MEng,FullTime,2,1,5,25000,164.28571428571428
+10007141,Computer  Games  Development,MComp,FullTime,0,1,4,21000,121.0
+10007141,Computer  Games  Development,BSc,FullTime,2,1,4,21000,124.0
+10007141,Computer  Games  Development,BSc,FullTime,1,1,3,21000,124.0
+10007141,Computer  Networks  and  Security,BSc,FullTime,2,1,4,21000,144
+10007141,Computer  Networks  and  Security,BSc,FullTime,1,1,3,21000,144
+10007141,Computer  Networks  and  Security,MComp,FullTime,2,1,5,21000,122.38461538461539
+10007141,Computer  Networks  and  Security,MComp,FullTime,1,1,4,21000,122.38461538461539
+10007141,Computer  Science,BSc,FullTime,2,1,4,21000,122.38461538461539
+10007141,Computer  Science,BSc,FullTime,1,1,3,21000,122.38461538461539
+10007848,Computer  Science,BSc,FullTime,0,0,3,21000,105.0
+10007848,Computer  Science,MComp,FullTime,0,0,4,21000,112.68181818181819
+10001478,Computer  Science,BSc,FullTime,0,1,3,26000,151.85714285714286
+10001478,Computer  Science  with  Games  Technology,BSc,FullTime,0,1,3,26000,144
+10001726,Computer  Hardware  and  Software  Engineering,BEng,FullTime,0,1,3,25000,124.5
+10001726,Computer  Science,BSc,FullTime,0,1,3,23000,129.76470588235293
+10006427,Computer  Animation  Arts,BA,FullTime,0,0,3,17000,115.0
+10006427,Computer  Games  Arts,BA,FullTime,0,0,3,19000,112
+10001883,Computer  Games  Programming,BSc,FullTime,0,1,3,23000,106.3125
+10001883,Computer  Science,BSc,FullTime,1,1,3,23000,105.54545454545455
+10001883,Computer  Security,BSc,FullTime,0,1,3,23000,105.54545454545455
+10007851,Computer  Forensic  Investigation,BSc,FullTime,1,1,3,23000,96
+10007851,Computer  Forensic  Investigation  with  Industrial  Year,BSc,FullTime,1,2,4,23000,117.76923076923077
+10007851,Computer  Games  -  Modelling  and  Animation,BA,FullTime,1,1,3,23000,147.0
+10007851,Computer  Games  -  Modelling  and  Animation  with  Industrial  Year,BA,FullTime,1,2,4,23000,117.76923076923077
+10007851,Computer  Games  Programming,BSc,FullTime,1,1,3,23000,119.5
+10007851,Computer  Games  Programming  with  Industrial  Year,BSc,FullTime,1,2,4,23000,117.76923076923077
+10007851,Computer  Network  Engineering,BEng,FullTime,1,1,3,23000,117.76923076923077
+10007851,Computer  Network  Engineering  with  Industrial  Year,BEng,FullTime,1,2,4,23000,117.76923076923077
+10007851,Computer  Networks  and  Security,BSc,FullTime,1,1,3,23000,96
+10007851,Computer  Networks  and  Security  with  Industrial  Year,BSc,FullTime,1,2,4,23000,117.76923076923077
+10007851,Computer  Science,BSc,FullTime,1,1,3,23000,96
+10007851,Computer  Science  with  Industrial  Year,BSc,FullTime,1,2,4,23000,117.76923076923077
+10007852,Applied  Computing:  Human  Computer  Interaction,BSc,FullTime,0,0,3,23000,165.0
+10007143,Computer  Science,BSc,FullTime,2,0,4,25000,192
+10007143,Computer  Science,MEng,FullTime,0,0,4,25000,219.25
+10007143,Computer  Science,BSc,FullTime,0,0,3,25000,198.0
+10007789,Computer  Graphics  Imaging  and  Multimedia,BSc,FullTime,0,0,3,24000,137.375
+10007789,Computer  Graphics  Imaging  and  Multimedia  with  a  Year  in  Industry,BSc,FullTime,0,2,4,24000,137.375
+10007144,Computer  Game  Development,BSc,FullTime,1,0,3,19000,102.66666666666667
+10007144,Computer  Games  Design:  Story  Development,BA,FullTime,1,0,3,19000,92.85714285714286
+10007144,Computer  Science,BSc,PartTime,1,1,,26000,0
+10007144,Computer  Science,BSc,FullTime,1,1,3,26000,117.0
+10007823,Computer  Science,BSc,FullTime,0,1,3,21000,122.0
+10007823,Computer  Science  &  Mathematics,BSc,FullTime,0,1,3,21000,122.0
+10007823,Computer  Security  &  Networks,MComp,FullTime,0,1,4,21000,122.0
+10007791,Computer  Games,BSc,FullTime,0,0,3,24000,135.5
+10007791,Computer  Games,BSc,FullTime,0,0,4,24000,118.5625
+10007791,Computer  Games,BSc,FullTime,0,2,4,24000,163.33333333333334
+10007791,Computer  Networks,BEng,FullTime,0,0,3,24000,118.5625
+10007791,Computer  Networks,BEng,FullTime,0,0,4,24000,118.5625
+10007791,Computer  Networks,BEng,FullTime,0,2,4,24000,118.5625
+10007791,Computer  Science,BSc,FullTime,2,0,4,24000,88.5
+10007791,Computer  Science,BSc,FullTime,0,2,4,24000,133.0
+10007791,Computer  Science,BSc,FullTime,0,0,3,24000,128
+10007791,Computer  Science,BSc,FullTime,0,0,4,24000,151.5
+10007791,Computer  Science,MSci,FullTime,0,0,4,24000,118.5625
+10007791,Computer  Science,MSci,FullTime,0,2,5,24000,118.5625
+10007791,Computer  Systems  Engineering,BEng,FullTime,0,0,3,24000,103.5
+10007792,Computer  Science  and  Mathematics,BSc,FullTime,0,1,3,24000,165.0
+10007145,Computer  and  Cyber  Forensics,BSc,FullTime,0,0,3,24000,117.625
+10007145,Computer  and  Cyber  Forensics  SW,BSc,FullTime,0,2,4,24000,124.85714285714286
+10007145,Computer  Games  Design,BSc,FullTime,0,0,3,24000,117.45454545454545
+10007145,Computer  Games  Design  SW,BSc,FullTime,0,2,4,24000,124.5
+10007145,Computer  Games  Programming,BSc,FullTime,0,0,3,24000,122.5
+10007145,Computer  Games  Programming  SW,BSc,FullTime,0,2,4,24000,133.0
+10007145,Cyber  and  Computer  Secuity,BSc,FullTime,0,0,3,24000,122.5
+10007145,Cyber  and  Computer  Security  SW,BSc,FullTime,0,2,4,24000,122.5
+10007833,Computer  Game  Design  and  Enterprise,BSc,FullTime,1,0,3,21000,64
+10007833,Computer  Game  Development,BSc,FullTime,1,0,3,21000,87.5
+10007833,Computer  Networks  and  Security,BSc,FullTime,1,0,3,21000,64
+10007833,Computer  Science,BSc,FullTime,1,0,3,21000,48
+10002718,Computer  Science,BSc,FullTime,0,1,3,26000,121.16666666666667
+10002718,Computer  Science  with  Foundation  Year  (Integrated  Degree),BSc,FullTime,2,1,4,26000,64
+10007146,Computer  Engineering,BEng,PartTime,0,1,,33000,0
+10007146,Computer  Engineering,BEng,FullTime,0,1,3,26000,90.0
+10007146,Computer  Engineering,MEng,FullTime,0,1,4,26000,90.0
+10007146,Computer  Engineering,MEng,PartTime,0,1,,33000,0
+10007146,Computer  Engineering  (Extended),BEng,PartTime,2,1,,33000,0
+10007146,Computer  Engineering  (Extended),BEng,FullTime,2,1,4,26000,64
+10007146,Computer  Science,BSc,PartTime,0,1,,26000,0
+10007146,Computer  Science,BSc,FullTime,0,1,3,25000,145.8
+10007146,Computer  Security  and  Forensics,BSc,PartTime,0,1,,26000,0
+10007146,Computer  Security  and  Forensics,BSc,FullTime,0,1,3,25000,140.0
+10007764,Computer  Science,BSc,FullTime,0,0,4,23000,163.0
+10007764,Computer  Science  (Artificial  Intelligence),BSc,FullTime,0,0,4,23000,163.0
+10007764,Computer  Science  (Games  Programming),BSc,FullTime,0,0,4,23000,163.0
+10007764,Computer  Science  (Software  Engineering),BSc,FullTime,0,0,4,23000,163.0
+10007764,Computer  Science  with  Diploma  in  Industrial  Training,BSc,FullTime,0,2,5,23000,164.2
+10007764,Computer  Systems,BSc,FullTime,0,0,4,23000,164.2
+10007764,Computer  Systems  (Computer  Games  Programming),BSc,FullTime,0,0,4,23000,164.2
+10007764,Computer  Systems  with  Diploma  in  Industrial  Training,BSc,FullTime,0,2,5,23000,164.2
+10007147,3d  Computer  Animation  And  Modelling,BA,FullTime,0,1,3,18000,136.33333333333334
+10007147,Computer  Science,MEng,FullTime,0,1,4,25000,125.63636363636364
+10007147,Computer  Science,BSc,FullTime,0,1,3,25000,118.81818181818181
+10007147,Computer  Science  (Artificial  Intelligence),BSc,FullTime,0,1,3,25000,120.18181818181819
+10007147,Computer  Science  (Networks),BSc,FullTime,0,1,3,25000,120.18181818181819
+10007147,Computer  Science  (Software  Engineering),BSc,FullTime,0,1,3,25000,120.18181818181819
+10007147,Computer  Technology  And  Networks,BSc,FullTime,0,1,3,25000,101.0
+10007148,Computer  Games  Design,BA,FullTime,0,1,3,22000,144
+10007148,Electronic  Engineering  and  Computer  Systems,BEng,FullTime,1,1,3,25000,112
+10007149,Computer  Science,BSc,FullTime,0,0,3,22000,118.42857142857143
+10007149,Computer  Science,MEng,FullTime,0,0,4,22000,118.42857142857143
+10007149,Computer  Science  (Software  Engineering),MEng,FullTime,0,0,4,22000,118.42857142857143
+10007149,Computer  Science  (Software  Engineering)  (with  Foundation  Year),BSc,FullTime,2,0,4,22000,118.42857142857143
+10007149,Computer  Science  (Software  Engineering)  (with  Study  Abroad),BSc,FullTime,0,0,4,22000,118.42857142857143
+10007149,Computer  Science  (Software  Engineering)  with  Industrial  Experience,BSc,FullTime,0,0,4,22000,118.42857142857143
+10007149,Computer  Science  (with  Foundation  Year),BSc,FullTime,2,0,4,22000,118.42857142857143
+10007149,Computer  Science  (with  Industrial  Experience),BSc,FullTime,0,2,4,22000,118.42857142857143
+10007149,Computer  Science  (with  Study  Abroad),BSc,FullTime,0,0,4,22000,118.42857142857143
+10007149,Computer  Science  for  Games  Development,BSc,FullTime,0,0,3,22000,118.42857142857143
+10007149,Computer  Science  for  Games  Development,MEng,FullTime,0,0,4,22000,118.42857142857143
+10007149,Computer  Science  for  Games  Development  (with  Foundation  Year),BSc,FullTime,2,0,4,22000,118.42857142857143
+10007149,Computer  Science  for  Games  Development  (with  Industrial  Experience),BSc,FullTime,0,0,4,22000,118.42857142857143
+10007149,Computer  Science  for  Games  Development  (with  Study  Abroad),BSc,FullTime,0,0,4,22000,118.42857142857143
+10007149,Computer  Science  Software  Engineering,BSc,FullTime,0,0,3,22000,118.42857142857143
+10007767,Computer  Science,BSc,FullTime,0,1,3,22000,133.0
+10007767,Computer  Science,MComp,FullTime,0,1,4,22000,121.75
+10007767,Computer  Science  with  a  Foundation  Year,BSc,FullTime,2,0,4,22000,121.75
+10007150,Computer  Science,BSc,FullTime,0,0,3,25000,147.75
+10007150,Computer  Science  (Artificial  Intelligence),BSc,FullTime,0,0,3,25000,150.42857142857142
+10007150,Computer  Science  (Artificial  Intelligence)  with  a  Year  in  Industry,BSc,FullTime,0,2,4,25000,128
+10007150,Computer  Science  (Consultancy),BSc,FullTime,0,0,3,25000,150.42857142857142
+10007150,Computer  Science  (Consultancy)  With  a  Year  in  Industry,BSc,FullTime,0,2,4,25000,150.42857142857142
+10007150,Computer  Science  (Networks),BSc,FullTime,0,0,3,25000,150.42857142857142
+10007150,Computer  Science  (Networks)  With  a  Year  in  Industry,BSc,FullTime,0,2,4,25000,151.5
+10007150,Computer  Science  with  a  Year  in  Industry,BSc,FullTime,0,2,4,25000,153.6
+10007150,Computer  Systems  Engineering,MEng,FullTime,0,0,4,26000,103.14285714285714
+10007150,Computer  Systems  Engineering,BEng,FullTime,0,0,3,26000,103.14285714285714
+10007150,Computer  Systems  Engineering  including  a  Foundation  Year,BEng,FullTime,2,0,4,26000,92.0
+10007150,Computer  Systems  Engineering  with  a  Year  in  Industry,BEng,FullTime,0,2,4,26000,103.14285714285714
+10007150,Computer  Systems  Engineering  with  a  Year  in  Industry,MEng,FullTime,0,2,5,26000,103.14285714285714
+10003645,Computer  Science,BSc,FullTime,0,1,3,26000,167.28571428571428
+10003645,Computer  Science,MSci,FullTime,0,0,4,26000,165.0
+10003645,Computer  Science  with  a  year  abroad,BSc,FullTime,0,0,4,26000,165.3846153846154
+10003645,Computer  Science  with  a  year  in  industry,BSc,FullTime,0,2,4,26000,164.5
+10003645,Computer  Science  with  Intelligent  Systems,BSc,FullTime,0,0,3,26000,165.3846153846154
+10003678,Computer  Games  Programming,BSc,PartTime,0,0,,26000,0
+10003678,Computer  Games  Programming,BSc,FullTime,0,2,4,25000,112
+10003678,Computer  Games  Programming,BSc,FullTime,0,0,3,25000,118.0
+10003678,Computer  Science,BSc,FullTime,0,2,4,25000,105.0
+10003678,Computer  Science,BSc,FullTime,0,0,3,25000,103.5
+10003678,Computer  Science,BSc,PartTime,0,0,,26000,0
+10007768,Computer  Science,BSc,FullTime,0,0,3,22000,161.53846153846155
+10007768,Computer  Science  (Study  Abroad),BSc,FullTime,0,0,3,22000,162.33333333333334
+10007768,Computer  Science  (with  Industrial  Experience),MSci,FullTime,0,2,4,22000,168.1818181818182
+10003861,Computer  Animation  and  Visual  Effects,BSc,FullTime,0,1,3,17000,119.5
+10003861,Computer  Forensics,BSc,FullTime,0,1,3,22000,96
+10003861,Computer  Forensics  and  Security,BSc,FullTime,0,1,3,22000,117.83333333333333
+10003861,Computer  Forensics  and  Security,MEng,FullTime,0,0,4,22000,109.23529411764706
+10003861,Computer  Science,MEng,FullTime,0,0,4,22000,96
+10003861,Computer  Security,BSc,FullTime,0,1,3,22000,109.23529411764706
+10007795,Applied  Computer  Science,MEng,FullTime,0,1,4,23000,165.37735849056605
+10007795,Computer  Science,BSc,FullTime,0,1,3,23000,169.23076923076923
+10007795,Computer  Science,MEng,FullTime,0,1,4,23000,156.0
+10007795,Computer  Science  (Digital  &  Technology  Solutions),BSc,FullTime,0,2,4,23000,165.37735849056605
+10007795,Computer  Science  with  Artificial  Intelligence,BSc,FullTime,0,1,3,23000,165.37735849056605
+10007795,Computer  Science  with  Artificial  Intelligence,MEng,FullTime,0,1,4,23000,165.37735849056605
+10007795,Computer  Science  with  High  Performance  Graphics  and  Games  Engineering,MEng,FullTime,0,1,4,23000,165.37735849056605
+10007796,Computer  Science,BSc,FullTime,0,2,4,24000,156.0
+10007796,Computer  Science,BSc,FullTime,0,0,4,24000,149.25
+10007796,Computer  Science,BSc,FullTime,2,0,4,24000,149.25
+10007796,Computer  Science,MComp,FullTime,0,1,4,24000,161.66666666666666
+10007796,Computer  Science,BSc,FullTime,0,0,3,24000,147.75
+10007796,Major  in  Computer  Science,BSc,FullTime,0,0,3,24000,149.25
+10007151,Computer  Science,BSc,FullTime,2,1,4,22000,130.4
+10007151,Computer  Science,MComp,FullTime,0,1,4,22000,130.14285714285714
+10007151,Computer  Science,BSc,FullTime,0,1,3,22000,129.15384615384616
+10003956,Computer  Science,BSc,FullTime,0,2,4,21000,123.25
+10003956,Computer  Science,BSc,FullTime,0,0,3,21000,122.0
+10003957,Computer  Forensics,MComp,FullTime,0,1,4,21000,139.25
+10003957,Computer  Forensics,BSc,FullTime,0,2,4,21000,140.5
+10003957,Computer  Forensics,BSc,FullTime,2,2,5,21000,140.5
+10003957,Computer  Games  Development,BSc,FullTime,0,2,4,21000,139.25
+10003957,Computer  Games  Development,MComp,FullTime,0,1,4,21000,139.25
+10003957,Computer  Games  Development,BSc,FullTime,2,2,5,21000,139.25
+10003957,Computer  Networks,BSc,FullTime,2,2,5,21000,139.25
+10003957,Computer  Networks,MComp,FullTime,0,1,4,21000,139.25
+10003957,Computer  Networks,BSc,FullTime,0,2,4,21000,139.25
+10003957,Computer  Science,BSc,FullTime,2,2,5,21000,139.25
+10003957,Computer  Science,BSc,FullTime,0,2,4,21000,139.25
+10003957,Computer  Science,MComp,FullTime,0,1,4,21000,139.25
+10003957,Computer  Security,MComp,FullTime,2,2,5,21000,139.25
+10003957,Computer  Security,BSc,FullTime,0,2,4,21000,139.25
+10003957,Computer  Security,MComp,FullTime,0,1,4,21000,139.25
+10003957,Computer  Studies,BSc,FullTime,2,2,5,21000,137.44444444444446
+10003957,Computer  Studies,MComp,FullTime,0,1,4,21000,139.25
+10003957,Computer  Studies,BSc,FullTime,0,2,4,21000,137.44444444444446
+10006842,Computer  Science,BSc,FullTime,0,0,3,22000,140.0
+10006842,Computer  Science,MEng,FullTime,0,0,4,22000,139.25
+10006842,Computer  Science    (Foundation)  (4  year  route  with  Carmel  C,BSc,FullTime,0,0,4,22000,102.42857142857143
+10006842,Computer  Science  with  a  Year  in  Industry,BSc,FullTime,0,2,4,22000,134.8181818181818
+10006842,Mathematics  and  Computer  Science  with  a  Year  in  Industry  BSc  (Joint  Honours),BA,FullTime,0,2,4,22000,139.91176470588235
+10004048,Computer  Games  Programming,BSc,FullTime,1,0,3,26000,96
+10004048,Computer  Network  Engineering  Extended  Degree,BSc,FullTime,2,0,3,26000,77.125
+10004048,Computer  Networking,BEng,FullTime,1,0,3,26000,77.125
+10004048,Computer  Networking  and  IT  Security,BSc,FullTime,1,0,3,26000,77.125
+10004048,Computer  Science,BSc,FullTime,1,0,3,26000,91.25
+10004048,Computer  Systems  Engineering,BEng,FullTime,1,0,3,26000,77.125
+10004078,Computer  Engineering,MEng,FullTime,1,1,4,26000,53.0
+10004078,Computer  Engineering,BEng,FullTime,1,1,3,26000,53.0
+10004078,Computer  Science,BSc,FullTime,1,1,3,26000,53.0
+10004078,Computer  Systems  and  Networks,BEng,FullTime,1,1,3,26000,53.0
+10004078,Computer  Systems  and  Networks  Engineering,MEng,FullTime,1,1,4,26000,114.14285714285714
+10004078,Computer  Systems  and  Networks  Engineering,MEng,PartTime,1,0,,38000,0
+10004078,Computer  Systems  Management,BSc,FullTime,1,1,3,26000,53.0
+10004113,Computer  Science,BSc,FullTime,0,2,4,25000,147.46153846153845
+10004113,Computer  Science,BSc,FullTime,0,0,3,25000,147.46153846153845
+10004113,Computer  Science,MSci,FullTime,0,0,4,25000,145.36363636363637
+10004113,Computer  Science,MSci,FullTime,0,2,5,25000,145.36363636363637
+10004113,Computer  Science  and  Artificial  Intelligence,MSci,FullTime,0,0,4,25000,145.36363636363637
+10004113,Computer  Science  and  Artificial  Intelligence,MSci,FullTime,0,2,5,25000,145.36363636363637
+10004113,Computer  Science  and  Artificial  Intelligence,BSc,FullTime,0,2,4,25000,139.25
+10004113,Computer  Science  and  Artificial  Intelligence,BSc,FullTime,0,0,3,25000,139.25
+10004113,Computer  Science  with  a  Foundation  Year,BSc,FullTime,2,0,4,25000,118.66666666666667
+10004113,Computer  Science  with  an  International  Foundation  Year,BSc,FullTime,2,0,4,25000,145.36363636363637
+10004113,Electronic  and  Computer  Systems  Engineering,MEng,FullTime,0,2,5,26000,142.55882352941177
+10004113,Electronic  and  Computer  Systems  Engineering,BEng,FullTime,0,0,3,26000,132.5
+10004113,Electronic  and  Computer  Systems  Engineering,MEng,FullTime,0,0,4,26000,142.55882352941177
+10004113,Electronic  and  Computer  Systems  Engineering,BEng,FullTime,0,2,4,26000,132.5
+10004180,Computer  and  Network  Technology,BSc,FullTime,0,1,3,25000,147.0
+10004180,Computer  Animation  and  Visual  Effects,BSc,FullTime,2,0,4,21000,129.15384615384616
+10004180,Computer  Animation  and  Visual  Effects,BSc,FullTime,0,1,3,21000,129.15384615384616
+10004180,Computer  Forensics  and  Security,BSc,FullTime,0,1,3,21000,147.75
+10004180,Computer  Forensics  and  Security,BSc,FullTime,2,1,4,21000,138.0
+10004180,Computer  Games  Technology,BSc,FullTime,0,1,3,21000,128
+10004180,Computer  Games  Technology,BSc,FullTime,2,1,4,21000,131.0
+10004180,Computer  Science,BSc,FullTime,2,1,4,21000,124.3529411764706
+10004180,Computer  Science,BSc,FullTime,0,1,3,21000,134.0
+10004180,Computer  Science,MComp,FullTime,0,0,4,21000,129.15384615384616
+10007798,Computer  Science,BSc,FullTime,1,2,4,22000,186.0
+10007798,Computer  Science,MEng,FullTime,1,0,4,22000,230.0
+10007798,Computer  Science,MEng,FullTime,1,2,5,22000,179.26086956521738
+10007798,Computer  Science,BSc,FullTime,1,0,3,22000,181.0
+10007798,Computer  Science  (Human  Computer  Interaction),MEng,FullTime,1,0,4,22000,179.26086956521738
+10007798,Computer  Science  (Human  Computer  Interaction),BSc,FullTime,1,0,3,22000,179.26086956521738
+10007798,Computer  Science  (Human  Computer  Interaction),BSc,FullTime,1,2,4,22000,179.26086956521738
+10007798,Computer  Science  (Human  Computer  Interaction)  with  Industrial  Experience,MEng,FullTime,1,2,5,22000,179.26086956521738
+10007798,Computer  Systems  Engineering,BEng,FullTime,1,2,4,22000,179.26086956521738
+10007798,Computer  Systems  Engineering,MEng,FullTime,1,0,4,22000,179.26086956521738
+10007798,Computer  Systems  Engineering,MEng,FullTime,1,2,5,22000,179.26086956521738
+10007798,Computer  Systems  Engineering,BEng,FullTime,1,0,3,22000,179.26086956521738
+10004351,Computer  Communications  and  Networks,BEng,FullTime,1,1,3,25000,128
+10004351,Computer  Forensics,BSc,FullTime,1,1,3,25000,123.25
+10004351,Computer  Networks,BSc,FullTime,1,1,3,25000,119.5
+10004351,Computer  Science,BSc,FullTime,1,1,3,25000,132.41176470588235
+10007799,Computer  Science,BSc,FullTime,0,0,3,22000,154.9090909090909
+10007799,Computer  Science,MComp,FullTime,0,0,4,22000,176
+10007799,Computer  Science  (Bio-Computing),MComp,FullTime,0,0,4,22000,153.80769230769232
+10007799,Computer  Science  (Bio-Computing),BSc,FullTime,0,0,3,22000,153.80769230769232
+10007799,Computer  Science  (Game  Engineering),MComp,FullTime,0,0,4,22000,153.0
+10007799,Computer  Science  (Game  Engineering),BSc,FullTime,0,0,3,22000,144
+10007799,Computer  Science  (Human-Computer  Interaction),BSc,FullTime,0,0,3,22000,153.80769230769232
+10007799,Computer  Science  (Mobile  and  Distributed  Systems),MComp,FullTime,0,0,4,22000,153.80769230769232
+10007799,Computer  Science  (Mobile  and  Distributed  Systems),BSc,FullTime,0,0,3,22000,153.80769230769232
+10007799,Computer  Science  (Security  and  Resilience),BSc,FullTime,0,0,3,22000,153.80769230769232
+10007799,Computer  Science  (Security  and  Resilience),MComp,FullTime,0,0,4,22000,153.80769230769232
+10007799,Computer  Science  (Software  Engineering),BSc,FullTime,0,0,3,22000,171.25
+10007799,Computer  Science  with  Industrial  Placement,BSc,FullTime,0,2,4,22000,156.0
+10007799,Computer  Science  with  Industrial  Placement,MComp,FullTime,0,2,5,22000,163.0
+10007799,Computer  Science  with  Industrial  Placement  (Bio-Computing),BSc,FullTime,0,2,4,22000,153.80769230769232
+10007799,Computer  Science  with  Industrial  Placement  (Bio-Computing),MComp,FullTime,0,2,5,22000,153.80769230769232
+10007799,Computer  Science  with  Industrial  Placement  (Game  Engineering),BSc,FullTime,0,2,4,22000,155.25
+10007799,Computer  Science  with  Industrial  Placement  (Game  Engineering),MComp,FullTime,0,2,5,22000,153.80769230769232
+10007799,Computer  Science  with  Industrial  Placement  (Human-Computer  Interaction),BSc,FullTime,0,2,4,22000,153.80769230769232
+10007799,Computer  Science  with  Industrial  Placement  (Mobile  and  Distributed  Systems),BSc,FullTime,0,2,4,22000,153.80769230769232
+10007799,Computer  Science  with  Industrial  Placement  (Mobile  and  Distributed  Systems),MComp,FullTime,0,2,5,22000,153.80769230769232
+10007799,Computer  Science  with  Industrial  Placement  (Security  and  Resilience),BSc,FullTime,0,2,4,22000,153.80769230769232
+10007799,Computer  Science  with  Industrial  Placement  (Security  and  Resilience),MComp,FullTime,0,2,5,22000,153.80769230769232
+10007799,Computer  Science  with  Industrial  Placement  (Software  Engineering),BSc,FullTime,0,2,4,22000,153.80769230769232
+10007799,Computer  Science  with  International  Study,MComp,FullTime,0,0,4,22000,153.80769230769232
+10007138,Computer  Games  Development,BSc,FullTime,0,0,3,23000,103.5
+10007138,Computing  (Computer  Networks  Engineering),BEng,FullTime,0,1,3,28000,101.0
+10007138,Computing  (Computer  Systems  Engineering),BEng,FullTime,0,1,3,28000,99.0
+10001282,Computer  and  Digital  Forensics,MComp,FullTime,0,1,4,21000,133.625
+10001282,Computer  and  Digital  Forensics,BSc,FullTime,1,1,3,21000,133.625
+10001282,Computer  Networks  and  Cyber  Security,MComp,FullTime,0,1,4,21000,133.625
+10001282,Computer  Networks  and  Cyber  Security,BSc,FullTime,1,1,3,21000,133.625
+10001282,Computer  Science,MComp,FullTime,0,1,4,21000,133.625
+10001282,Computer  Science,BSc,FullTime,1,1,3,21000,133.625
+10001282,Computer  Science  with  Animation  Graphics  and  Vision,MComp,FullTime,0,1,4,21000,133.625
+10001282,Computer  Science  with  Animation  Graphics  and  Vision,BSc,FullTime,1,1,3,21000,133.625
+10001282,Computer  Science  with  Artificial  Intelligence,MComp,FullTime,0,1,4,21000,133.625
+10001282,Computer  Science  with  Artificial  Intelligence,BSc,FullTime,1,1,3,21000,133.625
+10001282,Computer  Science  with  Games  Development,BSc,FullTime,1,1,3,21000,133.625
+10001282,Computer  Science  with  Games  Development,MComp,FullTime,0,1,4,21000,133.625
+10001282,Computer  Science  with  Web  Development,MComp,FullTime,0,1,4,21000,133.625
+10001282,Computer  Science  with  Web  Development,BSc,FullTime,1,1,3,21000,133.625
+10004797,Computer  Science,BSc,FullTime,0,2,4,22000,112
+10004797,Computer  Science,BSc,FullTime,0,0,3,22000,128
+10004797,Computer  Science,MComp,FullTime,0,2,5,22000,135.5
+10004797,Computer  Science,MComp,FullTime,0,1,4,22000,135.5
+10004797,Computer  Science  (Games  Technology),BSc,FullTime,0,2,4,22000,133.0
+10004797,Computer  Science  (Games  Technology),BSc,FullTime,0,0,3,22000,133.0
+10004797,Computer  Systems  (Forensic  and  Security),BSc,FullTime,0,0,3,22000,135.5
+10004797,Computer  Systems  (Forensic  and  Security),BSc,FullTime,0,2,4,22000,135.5
+10004797,Computer  Systems  (Networks),BSc,FullTime,0,0,3,22000,135.5
+10004797,Computer  Systems  (Networks),BSc,FullTime,0,2,4,22000,135.5
+10004797,Computer  Systems  Engineering,MComp,FullTime,0,2,5,22000,135.5
+10004797,Computer  Systems  Engineering,MComp,FullTime,0,1,4,22000,135.5
+10004797,Computer  Systems  Engineering,BSc,FullTime,0,0,3,22000,135.5
+10004797,Computer  Systems  Engineering,BSc,FullTime,0,2,4,22000,135.5
+10007154,Computer  Science,MSci,FullTime,1,0,4,23000,169.0
+10007154,Computer  Science,BSc,FullTime,1,0,3,23000,156.1153846153846
+10007154,Computer  Science  and  Artificial  Intelligence  with  Year  in  Industry,BSc,FullTime,1,2,4,23000,163.125
+10007154,Computer  Science  including  International  Year,MSci,FullTime,1,0,4,23000,170.0
+10007154,Computer  Science  with  Artificial  Intelligence,MSci,FullTime,1,0,4,23000,163.125
+10007154,Computer  Science  with  Artificial  Intelligence,BSc,FullTime,1,0,3,23000,163.125
+10007154,Computer  Science  with  Artificial  Intelligence  including  International  Year,MSci,FullTime,1,0,4,23000,163.125
+10007154,Computer  Science  with  Year  in  Industry,BSc,FullTime,1,2,4,23000,162.5
+10007154,Electronic  and  Computer  Engineering,MEng,FullTime,1,0,4,25000,156.0
+10007154,Electronic  and  Computer  Engineering,BEng,FullTime,1,0,3,25000,156.0
+10004930,Computer  Science,BSc,FullTime,1,1,3,25000,115.75
+10004930,Computer  Science  for  Cyber  Security,BSc,FullTime,0,1,3,25000,106.2
+10007774,Computer  Science  (3  or  4  years),MCompSci,FullTime,0,0,4,25000,234.0
+10007801,Computer  and  Information  Security,BSc,FullTime,1,1,3,24000,119.5
+10007801,Computer  Science,MSci,FullTime,0,1,4,24000,117.625
+10007801,Computer  Science,BSc,FullTime,1,1,3,24000,120.18181818181819
+10007801,Computer  Systems  and  Networks,BSc,FullTime,1,1,3,24000,80
+10007155,Computer  Animation  And  Visual  Effects,BSc,FullTime,0,1,3,25000,138.0
+10007155,Computer  Games  Technology,BSc,FullTime,0,1,3,25000,138.71428571428572
+10007155,Computer  Networks,BSc,FullTime,1,1,3,26000,119.5
+10007155,Computer  Science,BSc,FullTime,0,1,3,25000,113.57894736842105
+10007155,Computer  Science,MEng,FullTime,0,1,4,25000,123.05263157894737
+10007775,Computer  Science,BSc,FullTime,0,2,4,26000,128
+10007775,Computer  Science,MSci,FullTime,0,0,5,26000,132.77272727272728
+10007775,Computer  Science,BSc,FullTime,0,0,4,26000,136.33333333333334
+10007775,Computer  Science,BSc,FullTime,0,0,3,26000,136.33333333333334
+10007775,Computer  Science,MSci,FullTime,0,0,4,26000,132.77272727272728
+10007775,Computer  Science  and  Multimedia,BSc,FullTime,0,0,4,26000,132.77272727272728
+10007775,Computer  Science  and  Multimedia,BSc,FullTime,0,2,4,26000,132.77272727272728
+10007775,Computer  Science  and  Multimedia,BSc,FullTime,0,0,3,26000,149.0
+10007775,Science  &  Engineering  Foundation  Programme  (Computer  Science  4  Year),BSc,FullTime,2,1,4,26000,109.63636363636364
+10007775,Science  &  Engineering  Foundation  Programme  (Computer  Science  5  Year),MSci,FullTime,2,1,5,26000,132.77272727272728
+10007802,Computer  Science,BSc,FullTime,0,1,3,25000,112
+10007802,Computer  Science  with  Industrial  Year,BSc,FullTime,0,2,4,25000,135.85714285714286
+10005500,Computer  Network  Management  and  Design,BSc,FullTime,0,0,2,23000,147.0
+10005500,Computer  Science,BSc,FullTime,0,0,4,23000,151.5
+10005553,Computer  Science,MSci,FullTime,0,0,4,25000,141.26923076923077
+10005553,Computer  Science,BSc,FullTime,0,0,3,25000,128
+10005553,Computer  Science  (Artificial  Intelligence),MSci,FullTime,0,0,4,25000,141.26923076923077
+10005553,Computer  Science  (Artificial  Intelligence),BSc,FullTime,0,0,3,25000,141.26923076923077
+10005553,Computer  Science  (Artificial  Intelligence)  with  Year  in  Industry,BSc,FullTime,0,2,4,25000,141.26923076923077
+10005553,Computer  Science  (Artificial  Intelligence)  with  Year  in  Industry,MSci,FullTime,0,2,5,25000,141.26923076923077
+10005553,Computer  Science  (Distributed  and  Networked  Systems),BSc,FullTime,0,0,3,25000,141.26923076923077
+10005553,Computer  Science  (Distributed  and  Networked  Systems),MSci,FullTime,0,0,4,25000,141.26923076923077
+10005553,Computer  Science  (Distributed  and  Networked  Systems)  with  Year  in  Industry,BSc,FullTime,0,2,4,25000,141.26923076923077
+10005553,Computer  Science  (Distributed  and  Networked  Systems)  with  Year  in  Industry,MSci,FullTime,0,2,5,25000,141.26923076923077
+10005553,Computer  Science  (Information  Security),MSci,FullTime,0,0,4,25000,141.26923076923077
+10005553,Computer  Science  (Information  Security),BSc,FullTime,0,0,3,25000,141.26923076923077
+10005553,Computer  Science  (Information  Security)  with  Year  in  Industry,BSc,FullTime,0,2,4,25000,141.26923076923077
+10005553,Computer  Science  (Information  Security)  with  Year  in  Industry,MSci,FullTime,0,2,5,25000,141.26923076923077
+10005553,Computer  Science  (Software  Engineering),BSc,FullTime,0,0,3,25000,141.26923076923077
+10005553,Computer  Science  (Software  Engineering),MSci,FullTime,0,0,4,25000,141.26923076923077
+10005553,Computer  Science  (Software  Engineering)  with  Year  in  Industry,BSc,FullTime,0,2,4,25000,141.26923076923077
+10005553,Computer  Science  (Software  Engineering)  with  Year  in  Industry,MSci,FullTime,0,2,5,25000,141.26923076923077
+10005553,Computer  Science  with  Year  in  Industry,BSc,FullTime,0,2,4,25000,131.75
+10005553,Computer  Science  with  Year  in  Industry,MSci,FullTime,0,2,5,25000,141.26923076923077
+10007156,Computer  and  Video  Games,BSc,FullTime,0,0,3,21000,121.0
+10007156,Computer  and  Video  Games  with  Foundation  Year,BSc,FullTime,2,0,4,21000,121.0
+10007156,Computer  and  Video  Games  with  Industry  Placement,BSc,FullTime,0,0,3,21000,133.25
+10007156,Computer  Networks,BSc,FullTime,0,1,3,21000,135.5
+10007156,Computer  Science,BSc,FullTime,0,1,3,21000,132.41176470588235
+10007156,Computer  Science  with  Cyber  Security,BSc,FullTime,0,1,3,21000,133.25
+10007156,Computer  Science  with  Cyber  Security  with  Foundation  Year,BSc,FullTime,2,0,4,21000,133.25
+10007156,Computer  Science  with  Cyber  Security  with  Professional  Experience,BSc,FullTime,0,2,4,21000,133.25
+10007156,Computer  Science  with  Data  Analytics,BSc,FullTime,0,1,3,21000,133.25
+10007156,Computer  Science  with  Data  Analytics  with  Foundation  Year,BSc,FullTime,2,0,4,21000,133.25
+10007156,Computer  Science  with  Data  Analytics  with  Professional  Experience,BSc,FullTime,0,2,4,21000,133.25
+10007156,Computer  Science  with  Foundation  Year,BSc,FullTime,2,0,4,21000,132.41176470588235
+10007156,Computer  Science  with  Professional  Experience,BSc,FullTime,0,2,4,21000,133.25
+10007156,Computer  Science  with  Web  Development,BSc,FullTime,0,1,3,21000,133.25
+10007156,Computer  Science  with  Web  Development  with  Foundation  Year,BSc,FullTime,2,0,4,21000,133.25
+10007156,Computer  Science  with  Web  Development  with  Professional  Experience,BSc,FullTime,0,2,4,21000,133.25
+10005790,Computer  and  Information  Security,BSc,FullTime,0,1,3,22000,131.75
+10005790,Computer  Networks,BSc,FullTime,0,1,3,22000,133.0
+10005790,Computer  Science,BSc,FullTime,0,1,3,22000,112.9375
+10005790,Computer  Science  for  Games,BSc,FullTime,0,1,3,22000,112
+10005790,Computer  Science  for  Games,MComp,FullTime,0,1,4,22000,112
+10005790,Computer  Security  with  Forensics,BSc,FullTime,0,1,3,22000,112
+10005790,Computer  Systems  Engineering,BEng,FullTime,0,1,3,22000,108.0
+10007157,Artificial  Intelligence  and  Computer  Science,BSc,FullTime,1,2,4,23000,153.0
+10007157,Artificial  Intelligence  and  Computer  Science,MComp,FullTime,1,1,4,23000,153.0
+10007157,Artificial  Intelligence  and  Computer  Science,MComp,FullTime,1,2,5,23000,153.0
+10007157,Artificial  Intelligence  and  Computer  Science,BSc,FullTime,1,1,3,23000,153.0
+10007157,Computer  Science,BSc,FullTime,1,2,4,23000,153.0
+10007157,Computer  Science,MComp,FullTime,1,1,4,23000,140.0
+10007157,Computer  Science,BSc,FullTime,1,1,3,23000,128
+10007157,Computer  Science,MComp,FullTime,1,2,5,23000,153.0
+10006022,Computer  Games  (Art),BA,FullTime,0,0,3,25000,89.0
+10006022,Computer  Games  (Art)  (With  Digital  Arts  Year),BA,FullTime,2,0,4,25000,89.0
+10006022,Computer  Games  (Design),BA,FullTime,0,0,3,25000,89.0
+10006022,Computer  Games  (Design)  (With  Digital  Arts  Year),BA,FullTime,2,0,4,25000,89.0
+10006022,Computer  Games  (Indie),BSc,FullTime,0,2,4,25000,89.0
+10006022,Computer  Games  (Indie),BSc,FullTime,0,0,3,25000,83.75
+10006022,Computer  Games  (Indie)  (With  Digital  Arts  Year),BSc,FullTime,2,0,4,25000,83.75
+10006022,Computer  Games  (Indie)  (With  Digital  Arts  Year),BSc,FullTime,2,2,5,25000,89.0
+10006022,Computer  Games  (Software  Development),BSc,FullTime,0,2,4,25000,107.25
+10006022,Computer  Games  (Software  Development),BSc,FullTime,0,0,3,25000,103.5
+10006022,Computer  Games  (Software  Development)  (With  Digital  Arts  Year),BSc,FullTime,2,0,4,25000,103.5
+10006022,Computer  Games  (Software  Development)  (With  Digital  Arts  Year),BSc,FullTime,2,2,5,25000,107.25
+10006022,Computer  Generated  Imagery,BA,FullTime,0,0,3,25000,124.0
+10006022,Computer  Generated  Imagery  (With  Digital  Arts  Year),BA,FullTime,2,0,4,25000,124.0
+10006022,Computer  Networks  And  Web  Design,BSc,FullTime,0,2,4,25000,89.0
+10006022,Computer  Networks  And  Web  Design,BSc,FullTime,0,0,3,25000,83.75
+10006022,Computer  Networks  And  Web  Design  (With  Computing  Year),BSc,FullTime,2,2,5,25000,89.0
+10006022,Computer  Networks  And  Web  Design  (With  Computing  Year),BSc,FullTime,2,0,4,25000,83.75
+10006022,Computer  Networks  And  Web  Design  (With  Language  Year),BSc,FullTime,2,0,4,25000,83.75
+10007158,Computer  Science,BSc,FullTime,0,0,3,25000,171.25
+10007158,Computer  Science,MEng,FullTime,0,1,4,25000,194.5
+10007158,Computer  Science,BSc,FullTime,2,0,4,25000,171.25
+10007158,Computer  Science  with  Artificial  Intelligence,MEng,FullTime,0,0,4,25000,174.21052631578948
+10007158,Computer  Science  with  Cyber  Security,MEng,FullTime,0,0,4,25000,174.21052631578948
+10007158,Computer  Science  with  Image  and  Multimedia  Systems,MEng,FullTime,0,0,4,25000,174.21052631578948
+10007158,Computer  Science  with  Industrial  Studies,MEng,FullTime,0,2,5,25000,174.21052631578948
+10007158,Computer  Science  with  Mobile  and  Secure  Systems,MEng,FullTime,0,0,4,25000,174.21052631578948
+10007803,Computer  Science,MSci,FullTime,0,0,5,24000,176
+10007803,Computer  Science,BSc,FullTime,0,0,4,24000,181.0
+10007803,Computer  Science  (Gateway),BSc,FullTime,0,0,4,24000,197.0
+10007803,Computer  Science  (Gateway),MSci,FullTime,0,0,5,24000,197.0
+10006299,Computer  Gameplay  Design  And  Production,BSc,FullTime,0,0,3,22000,116.5
+10006299,Computer  Gameplay  Design  And  Production,BEng,PartTime,0,0,,27000,0
+10006299,Computer  Gameplay  Design  And  Production,BSc,PartTime,0,0,,27000,0
+10006299,Computer  Games  Animation,BA,PartTime,0,0,,27000,0
+10006299,Computer  Games  Animation,BA,FullTime,0,0,3,22000,116.5
+10006299,Computer  Games  Design,BEng,FullTime,0,0,3,22000,124.85714285714286
+10006299,Computer  Games  Design,BSc,FullTime,0,0,3,22000,112
+10006299,Computer  Games  Design,BEng,PartTime,0,0,,27000,0
+10006299,Computer  Games  Design,BSc,PartTime,0,0,,27000,0
+10006299,Computer  Games  Design,BSc,PartTime,0,0,,27000,0
+10006299,Computer  Games  Design  And  Programming,BSc,FullTime,0,0,3,22000,114.14285714285714
+10006299,Computer  Games  Design  And  Programming,BSc,PartTime,0,0,,27000,0
+10006299,Computer  Games  Design  With  Foundation  Year,BSc,FullTime,2,0,4,22000,81.66666666666667
+10006299,Computer  Games  Development,BSc,FullTime,0,0,3,22000,116.5
+10006299,Computer  Games  Development,BSc,FullTime,0,2,4,22000,116.5
+10006299,Computer  Games  Development  (With  a  Foundation  Year),BSc,FullTime,2,0,4,22000,116.5
+10006299,Computer  Games  Programming,BSc,FullTime,0,2,4,22000,119.5
+10006299,Computer  Games  Programming,BSc,FullTime,0,0,3,22000,116.5
+10006299,Computer  Games  Programming  (Virtual  Reality),BSc,FullTime,0,0,3,22000,116.5
+10006299,Computer  Games  Programming  (Virtual  Reality),BSc,FullTime,0,2,4,22000,119.5
+10006299,Computer  Games  Programming  (Virtual  Reality)  (With  a  Foundation  Year),BSc,FullTime,2,0,4,22000,116.5
+10006299,Computer  Networks  &  Security,MSci,FullTime,0,0,4,22000,116.5
+10006299,Computer  Networks  And  Security,BSc,FullTime,0,2,4,22000,106.0
+10006299,Computer  Networks  And  Security,BSc,FullTime,0,0,3,22000,116.5
+10006299,Computer  Science,BSc,FullTime,0,2,4,22000,116.5
+10006299,Computer  Science,MSci,FullTime,0,0,4,22000,116.5
+10006299,Computer  Science,BSc,FullTime,0,0,3,22000,116.5
+10006299,Computer  Science  with  a  Foundation  year,BSc,FullTime,2,0,4,22000,116.5
+10007159,Computer  Science,BSc,FullTime,0,1,3,21000,104.33333333333333
+10007159,Computer  Science  with  Integrated  Foundation  Year,BSc,FullTime,2,0,4,21000,116.77272727272728
+10007160,Computer  and  Internet  Engineering,BEng,FullTime,0,0,3,25000,187.25
+10007160,Computer  and  Internet  Engineering,BEng,FullTime,0,2,4,25000,187.25
+10007160,Computer  and  Internet  Engineering,MEng,FullTime,0,0,4,25000,187.25
+10007160,Computer  and  Internet  Engineering,MEng,FullTime,0,2,5,25000,187.25
+10007160,Computer  Science,BSc,FullTime,0,2,4,25000,171.35135135135135
+10007160,Computer  Science,BSc,FullTime,0,0,3,25000,171.35135135135135
+10007160,Electronic  Engineering  with  Computer  Systems,BEng,FullTime,0,0,3,25000,187.25
+10007160,Electronic  Engineering  with  Computer  Systems,BEng,FullTime,0,2,4,25000,187.25
+10007160,Electronic  Engineering  with  Computer  Systems,MEng,FullTime,0,0,4,25000,187.25
+10007160,Electronic  Engineering  with  Computer  Systems,MEng,FullTime,0,2,5,25000,187.25
+10007806,Computer  Science,MComp,FullTime,1,1,4,25000,131.26086956521738
+10007806,Computer  Science,BSc,FullTime,1,1,3,25000,133.625
+10007806,Computer  Science  (with  an  industrial  placement  year),BSc,FullTime,1,2,4,25000,139.25
+10007806,Computer  Science  (with  an  industrial  placement  year),MComp,FullTime,1,2,5,25000,131.26086956521738
+10007806,Computer  Science  and  Artificial  Intelligence,BSc,FullTime,1,1,3,25000,131.26086956521738
+10007806,Computer  Science  and  Artificial  Intelligence  (with  an  industrial  placement  year),BSc,FullTime,1,2,4,25000,131.26086956521738
+10007855,Computer  Science,BSc,FullTime,2,0,4,22000,102.0
+10007855,Computer  Science,BSc,FullTime,0,0,3,22000,134.0
+10007855,Computer  Science,MSci,FullTime,0,0,4,22000,124.0
+10007855,Computer  Science,BSc,FullTime,0,2,4,22000,124.0
+10007855,Computer  Science,MSci,FullTime,0,2,5,22000,124.0
+10007161,Computer  and  Digital  Forensics,BSc,FullTime,0,1,3,17000,124.0
+10007161,Computer  and  Digital  Forensics,BSc,FullTime,2,1,4,17000,124.0
+10007161,Computer  Animation,BA,FullTime,2,1,4,21000,91.25
+10007161,Computer  Animation,BA,FullTime,0,1,3,21000,151.5
+10007161,Computer  Character  Animation,BA,FullTime,0,1,3,21000,119.5
+10007161,Computer  Character  Animation,BA,FullTime,2,1,4,21000,105.0
+10007161,Computer  Games  Art,BA,FullTime,0,1,3,21000,112
+10007161,Computer  Games  Art,BA,FullTime,2,1,4,21000,83.75
+10007161,Computer  Games  Design,BA,FullTime,0,1,3,21000,125.75
+10007161,Computer  Games  Design,BA,FullTime,2,1,4,21000,76.5
+10007161,Computer  Games  Design,MComp,FullTime,0,1,4,21000,92.0
+10007161,Computer  Games  Programming,BSc,FullTime,0,1,3,21000,112
+10007161,Computer  Games  Programming,MComp,FullTime,0,1,4,21000,114.14285714285714
+10007161,Computer  Games  Programming,BSc,FullTime,2,1,4,21000,114.14285714285714
+10007161,Computer  Science,MComp,FullTime,0,1,4,21000,114.14285714285714
+10007161,Computer  Science,BSc,FullTime,0,1,3,21000,102.0
+10007161,Computer  Science,BSc,FullTime,2,1,4,21000,61.125
+10007784,Computer  Science,BSc,FullTime,0,0,3,27000,219.25
+10007784,Computer  Science,MEng,FullTime,0,0,4,27000,218.0
+10007164,Computer  Science,BSc,FullTime,2,1,4,24000,128
+10007164,Computer  Science,BSc,FullTime,0,1,3,24000,144.75
+10007858,Computer  Games  Development,BSc,FullTime,0,0,3,20000,85.0
+10007858,Computer  Games  Development  With  A  Year  In  Industry,BSc,FullTime,0,2,3,20000,101.0
+10007858,Computer  Networks,BSc,FullTime,0,0,3,20000,100.28571428571428
+10007858,Computer  Networks  With  A  Year  In  Industry,BSc,FullTime,0,2,3,20000,101.0
+10007858,Computer  Systems  &  Electronics,BEng,PartTime,2,0,,33000,0
+10007858,Computer  Systems  &  Electronics,BEng,FullTime,0,0,3,25000,91.25
+10007858,Computer  Systems  &  Electronics,BEng,FullTime,2,0,3,26000,91.25
+10007858,Computer  Systems  &  Electronics,BEng,PartTime,0,0,,30000,0
+10007858,Computer  Systems  &  Electronics  With  A  Year  In  Industry,BEng,FullTime,0,2,3,25000,91.25
+10007858,Creative  Computer  Games  Design,MDes,FullTime,0,0,4,20000,101.0
+10007858,Creative  Computer  Games  Design,BA,FullTime,0,0,3,16000,87.5
+10007163,Computer  Science,BSc,FullTime,0,1,3,24000,179.75
+10007163,Computer  Science,MEng,FullTime,0,1,4,24000,208.75
+10006566,Computer  Games  Technology,BSc,FullTime,0,0,3,25000,87.5
+10006566,Computer  Games  Technology,BSc,FullTime,2,0,4,25000,87.5
+10006566,Computer  Science,BSc,PartTime,0,0,,27000,0
+10006566,Computer  Science,BSc,FullTime,2,0,4,25000,67.75
+10006566,Computer  Science,BSc,FullTime,0,0,3,25000,106.0
+10006566,Computer  Science,BSc,FullTime,0,2,4,25000,87.5
+10007165,Computer  Games  Development,BSc,FullTime,2,1,4,26000,105.0
+10007165,Computer  Games  Development,BSc,FullTime,0,1,3,26000,105.0
+10007165,Computer  Network  Security,BSc,FullTime,0,1,3,26000,96
+10007165,Computer  Network  Security,BSc,FullTime,2,1,4,26000,107.73913043478261
+10007165,Computer  Science,BSc,FullTime,0,1,3,26000,105.23076923076923
+10007165,Computer  Science,BSc,FullTime,2,1,4,26000,105.23076923076923
+10007165,Computer  Systems  Engineering,BSc,FullTime,2,1,4,26000,99.75
+10007165,Computer  Systems  Engineering,BSc,FullTime,0,1,3,26000,99.75
+10003614,Computer  Aided  Design,BSc,FullTime,0,0,3,17000,96
+10003614,Computer  Aided  Design:  Exhibition  Design,BSc,FullTime,0,0,3,17000,96
+10003614,Computer  Aided  Design:  Product  and  Packaging  Design,BSc,FullTime,0,0,3,17000,96
+10003614,Computer  Aided  Design:  Spatial  Design  (Interior  and  Landscape),BSc,FullTime,0,0,3,17000,96
+10003614,Computer  Aided  Design:  User  Centred  Design,BSc,FullTime,0,0,3,17000,96
+10007166,Computer  Games  Design,BA,PartTime,0,0,,16000,0
+10007166,Computer  Games  Design,BA,FullTime,0,0,3,18000,90.71428571428571
+10007166,Computer  Games  Design  with  Foundation  Year,BA,PartTime,2,0,,16000,0
+10007166,Computer  Games  Design  with  Foundation  Year,BA,FullTime,2,0,4,18000,80
+10007166,Computer  Science,BSc,PartTime,0,0,,25000,0
+10007166,Computer  Science,BSc,FullTime,0,2,4,22000,92.1875
+10007166,Computer  Science,BSc,FullTime,0,0,3,22000,92.1875
+10007166,Computer  Science  (Games  Development),BSc,PartTime,0,0,,25000,0
+10007166,Computer  Science  (Games  Development),BSc,FullTime,0,0,3,22000,80
+10007166,Computer  Science  (Games  Development),BSc,FullTime,0,2,4,22000,92.1875
+10007166,Computer  Science  (Smart  Technologies),BSc,FullTime,0,0,3,22000,92.1875
+10007166,Computer  Science  (Smart  Technologies),BSc,FullTime,0,2,4,22000,92.1875
+10007166,Computer  Science  (Smart  Technologies),BSc,PartTime,0,0,,25000,0
+10007166,Computer  Science  (Software  Engineering),BSc,PartTime,0,0,,25000,0
+10007166,Computer  Science  (Software  Engineering),BSc,FullTime,0,0,3,22000,80
+10007166,Computer  Science  (Software  Engineering),BSc,FullTime,0,2,4,22000,92.1875
+10007166,Computer  Science  with  Foundation  Year,BSc,PartTime,2,0,,25000,0
+10007166,Computer  Science  with  Foundation  Year,BSc,FullTime,2,0,4,22000,92.1875
+10007166,Computer  Science  with  Secondary  Education  (QTS),BSc,FullTime,0,0,3,22000,123.53846153846153
+10007139,Computer  Games  Design  and  Development,BSc,FullTime,0,1,3,22000,92.0
+10007167,Computer  Science,BEng/BSc,FullTime,0,2,4,24000,154.6451612903226
+10007167,Computer  Science,BEng/BSc,FullTime,0,1,3,24000,144
+10007167,Computer  Science,MEng,FullTime,0,1,4,24000,179.75
+10007167,Computer  Science,MEng,FullTime,0,2,5,24000,169.0
+10007167,Computer  Science  with  Artificial  Intelligence,MEng,FullTime,0,2,5,24000,160
+10007167,Computer  Science  with  Artificial  Intelligence,MEng,FullTime,0,1,4,24000,161.42857142857142
+10007167,Computer  Science  with  Embedded  Systems  Engineering,BEng,FullTime,0,1,3,24000,161.42857142857142
+10007167,Computer  Science  with  Embedded  Systems  Engineering,BEng,FullTime,0,2,4,24000,161.42857142857142
+10007167,Computer  Science  with  Embedded  Systems  Engineering,MEng,FullTime,0,1,4,24000,161.42857142857142
+10007167,Computer  Science  with  Embedded  Systems  Engineering,MEng,FullTime,0,2,5,24000,161.42857142857142
+10007167,Electronic  and  Computer  Engineering,BEng,FullTime,0,1,3,25000,148.03846153846155
+10007167,Electronic  and  Computer  Engineering,BEng,FullTime,0,2,4,25000,148.03846153846155
+10007167,Electronic  and  Computer  Engineering,MEng,FullTime,0,2,5,25000,148.03846153846155
+10007167,Electronic  and  Computer  Engineering,MEng,FullTime,0,1,4,25000,148.03846153846155

@@ -1,0 +1,377 @@
+"Institution, Course, Type, Study Mode, Foundation Year(s), Sandwich Year(s), Total years, Salary (6 months after), Median Tariff"
+10007759,Computing  Science  and  Mathematics,BSc,FullTime,0,2,4,23000,147.52941176470588
+10007759,Mathematics,BSc,FullTime,0,2,4,22000,132.21875
+10007759,Mathematics  for  Industry,BSc,FullTime,0,2,4,22000,126.23076923076923
+10007759,Mathematics  with  Economics,BSc,FullTime,0,2,4,27000,112
+10007850,Mathematical  Sciences,BSc,FullTime,0,0,4,25000,198.5625
+10007850,Mathematical  Sciences,BSc,FullTime,0,0,3,25000,195.57142857142858
+10007850,Mathematical  Sciences,BSc,FullTime,0,2,4,25000,176
+10007850,Mathematics,MMath,FullTime,0,0,4,25000,213.0
+10007850,Mathematics,MMath,FullTime,0,2,5,25000,198.5625
+10007850,Mathematics,MMath,FullTime,0,0,4,25000,190.34782608695653
+10007850,Mathematics,BSc,FullTime,0,0,4,25000,198.5625
+10007850,Mathematics,BSc,FullTime,0,0,3,25000,201.47368421052633
+10007850,Mathematics,BSc,FullTime,0,2,4,25000,199.5
+10007850,Mathematics  and  Statistics,BSc,FullTime,0,0,4,25000,198.5625
+10007850,Mathematics  and  Statistics,BSc,FullTime,0,0,3,25000,192
+10007850,Mathematics  and  Statistics,BSc,FullTime,0,2,4,25000,198.5625
+10007152,Computing  and  Mathematics,BSc,FullTime,0,2,5,24000,87.10526315789474
+10007152,Computing  and  Mathematics,BSc,FullTime,2,0,5,24000,87.10526315789474
+10007152,Computing  and  Mathematics,BSc,FullTime,0,0,3,24000,87.10526315789474
+10007152,Mathematics  and  Finance,BSc,FullTime,2,0,3,22000,64
+10007152,Mathematics  and  Finance,BSc,FullTime,0,2,3,22000,64
+10007760,Economics  and/with  Mathematics,BSc,PartTime,0,0,,32000,0
+10007760,Mathematics  and  Accounting,BSc,PartTime,0,0,,24000,0
+10007760,Mathematics  with  Economics,BSc,PartTime,0,0,,32000,0
+10007760,Mathematics  with  Management,BSc,PartTime,0,0,,27000,0
+10006840,Mathematical  Economics  and  Statistics,BSc,FullTime,0,0,3,25000,170.0
+10006840,Mathematics,MSci,FullTime,1,0,4,23000,176
+10006840,Mathematics,BSc,FullTime,1,0,3,23000,169.28571428571428
+10006840,Mathematics  with  a  Year  in  Industry,BSc,FullTime,0,2,4,23000,174.3181818181818
+10006840,Mathematics  with  Business  Management,BSc,FullTime,1,0,3,24000,144
+10006840,Mathematics  with  International  Year,BSc,FullTime,0,0,4,23000,174.3181818181818
+10006840,Mathematics  with  Study  in  Continental  Europe,BSc,FullTime,1,0,4,23000,160
+10007811,Education  Studies  and  Mathematics,BSc,FullTime,0,0,3,22000,106.0
+10000886,Mathematics,MMath,FullTime,0,1,4,25000,106.0
+10000886,Mathematics,BSc,FullTime,0,1,3,25000,102.42857142857143
+10000886,Mathematics  (with  Integrated  Foundation  Year),BSc,FullTime,2,1,4,25000,106.0
+10000886,Mathematics  for  Data  Science,MMath,FullTime,0,1,4,25000,106.0
+10000886,Mathematics  with  Business,BSc,FullTime,0,1,3,25000,106.0
+10000886,Mathematics  with  Finance,BSc,FullTime,0,1,3,25000,102.0
+10000886,Primary  Mathematics  Education  with  QTS,BA,FullTime,0,0,3,22000,114.5
+10000886,Secondary  Mathematics  Education  with  QTS,BA,FullTime,0,0,2,22000,147.26086956521738
+10007786,Engineering  Mathematics,MEng,FullTime,0,0,4,24000,181.0
+10007786,Engineering  Mathematics,BEng,FullTime,0,0,3,24000,197.0
+10007786,Engineering  Mathematics  with  Study  Abroad,MEng,FullTime,0,0,4,24000,179.0
+10007786,Mathematics,BSc,FullTime,0,0,3,24000,201.0
+10007786,Mathematics,MSci,FullTime,0,0,4,24000,194.14285714285714
+10007786,Mathematics  with  Statistics,BSc,FullTime,0,0,3,24000,181.0
+10007786,Mathematics  with  Statistics,MSci,FullTime,0,0,4,24000,195.52941176470588
+10007786,Mathematics  with  Study  Abroad,MSci,FullTime,0,0,4,24000,195.52941176470588
+10007786,Mathematics  with  Study  in  Continental  Europe,BSc,FullTime,0,0,4,24000,195.52941176470588
+10007786,Mathematics  with  Study  in  Continental  Europe,MSci,FullTime,0,0,4,24000,208
+10000961,Financial  Mathematics,BSc,FullTime,1,2,4,26000,117.0
+10000961,Financial  Mathematics,BSc,FullTime,1,0,3,26000,121.0
+10000961,Mathematics,BSc,FullTime,1,0,3,26000,118.81818181818181
+10000961,Mathematics,MMath,FullTime,0,0,4,26000,121.6774193548387
+10000961,Mathematics,MMath,FullTime,0,2,5,26000,121.6774193548387
+10000961,Mathematics,BSc,FullTime,1,2,4,26000,122.71428571428571
+10000961,Mathematics  and  Computing  with  Integrated  Foundation  Year  and  Professional  Development,BSc,FullTime,2,2,4,26000,92.79411764705883
+10000961,Mathematics  and  Statistics  with  Management,BSc,FullTime,1,2,4,26000,122.0
+10000961,Mathematics  and  Statistics  with  Management,BSc,FullTime,1,0,3,26000,121.6774193548387
+10000961,Mathematics  with  Computer  Science,BSc,FullTime,1,0,3,26000,121.6774193548387
+10000961,Mathematics  with  Computer  Science,BSc,FullTime,1,2,4,26000,118.42857142857143
+10007788,Mathematics,BA,FullTime,0,0,3,25000,224
+10001143,Mathematics  With  Secondary  Education  (QTS),BSc,FullTime,0,0,3,23000,112
+10001143,Primary  Education  (Mathematics  Specialism  5-11),BA,FullTime,0,0,3,23000,123.25
+10007814,Financial  Mathematics  with  A  Year  of  Study  Abroad,BSc,FullTime,0,0,4,21000,163.75
+10007814,Master  of  Mathematics  Operational  Research  and  Statistics,MMath,FullTime,0,0,4,21000,163.75
+10007814,Master  of  Mathematics  Operational  Research  and  Statistics  with  a  Year  of  Study  Abroad  (MMORS),MMath,FullTime,0,0,5,21000,163.75
+10007814,Mathematics,MMath,FullTime,0,0,4,21000,160
+10007814,Mathematics,BSc,FullTime,0,0,4,21000,163.75
+10007814,Mathematics,BSc,FullTime,0,0,3,21000,156.6315789473684
+10007814,Mathematics,MMath,FullTime,0,0,5,21000,163.75
+10007814,Mathematics  Operational  Research  and  Statistics,BSc,FullTime,0,0,3,21000,156.5
+10007141,Mathematics,BSc,FullTime,2,0,4,21000,149.0
+10007141,Mathematics,BSc,FullTime,1,0,3,21000,149.0
+10007141,Mathematics,MMath,FullTime,1,0,4,21000,149.0
+10007848,Mathematics,BSc,FullTime,0,0,3,21000,115.0
+10007137,Mathematics  and  Teaching  for  Key  Stages  2  and  3,BSc,FullTime,0,0,3,22000,99.0
+10001478,Mathematics  and  Finance,BSc,FullTime,0,1,3,25000,133.0
+10001726,Mathematics,BSc,FullTime,0,1,3,22000,109.33333333333333
+10001726,Mathematics  and  Data  Analytics,MSci,FullTime,0,1,4,22000,112.83333333333333
+10001726,Mathematics  and  Statistics,BSc,FullTime,0,1,3,22000,96
+10007851,Accounting  and  Mathematics,BA/BSc,PartTime,1,1,,30000,0
+10007851,Early  Childhood  Studies  and  Mathematics,BA/BSc,PartTime,1,1,,21000,0
+10007851,Mathematics  and  Business  Management,BA/BSc,PartTime,1,1,,32000,0
+10007851,Mathematics  and  Human  Resource  Management,BA/BSc,PartTime,1,1,,32000,0
+10007852,Mathematical  Biology,BSc,FullTime,0,0,4,24000,128
+10007852,Mathematical  Biology,MSci,FullTime,0,0,5,24000,128
+10007852,Mathematics,MMath,FullTime,0,0,5,24000,128
+10007852,Mathematics,BSc,FullTime,0,0,4,24000,119.5
+10007143,Mathematics,MMath,FullTime,0,0,4,24000,215.10526315789474
+10007143,Mathematics,BSc,FullTime,0,1,3,24000,217.47368421052633
+10007143,Mathematics,BSc,FullTime,2,1,4,24000,219.66666666666666
+10007789,Master  Of  Mathematics,MMath,FullTime,0,0,4,25000,153.0
+10007789,Mathematics,BSc,FullTime,0,0,3,25000,128
+10007789,Mathematics,MMath,FullTime,0,0,4,25000,141.63636363636363
+10007789,Mathematics  with  a  Foundation  Year,BSc,FullTime,2,0,4,25000,141.63636363636363
+10007789,Mathematics  with  a  Year  in  Industry,BSc,FullTime,0,2,4,25000,141.63636363636363
+10007823,Computer  Science  &  Mathematics,BSc,FullTime,0,1,3,21000,122.0
+10007823,Secondary  Mathematics  Education  With  Qts,BSc,FullTime,0,0,3,22000,106.0
+10007791,Mathematics,BSc,FullTime,2,0,4,25000,124.5
+10007791,Mathematics,BSc,FullTime,0,0,3,25000,124.85714285714286
+10007791,Mathematics,BSc,FullTime,0,0,4,25000,124.5
+10007791,Mathematics,BSc,FullTime,0,2,4,25000,124.5
+10007791,Mathematics  and  Statistics,BSc,FullTime,2,0,4,25000,124.5
+10007791,Mathematics  and  Statistics,BSc,FullTime,0,0,4,25000,124.5
+10007791,Mathematics  and  Statistics,BSc,FullTime,0,0,3,25000,124.5
+10007791,Mathematics  and  Statistics,BSc,FullTime,0,2,4,25000,124.5
+10007791,Mathematics  with  Physics,BSc,FullTime,0,2,4,25000,124.5
+10007791,Mathematics  with  Physics,BSc,FullTime,0,0,3,25000,124.5
+10007791,Mathematics  with  Physics,BSc,FullTime,0,0,4,25000,124.5
+10007792,Computer  Science  and  Mathematics,BSc,FullTime,0,1,3,24000,165.0
+10007792,Mathematical  Sciences,BSc,FullTime,0,0,3,24000,183.14285714285714
+10007792,Mathematical  Sciences  (  Enviromental  Sciences),BSc,FullTime,0,0,4,24000,183.14285714285714
+10007792,Mathematical  Sciences  (Ecology  &  Evolution),BSc,FullTime,0,0,4,24000,183.14285714285714
+10007792,Mathematical  Sciences  (Energy  Systems  &  Control),BSc,FullTime,0,0,4,24000,183.14285714285714
+10007792,Mathematics,MMath,FullTime,0,0,4,24000,187.25
+10007792,Mathematics,BSc,FullTime,0,0,3,24000,179.1578947368421
+10007792,Mathematics,MSci,FullTime,0,0,4,24000,186.0
+10007792,Mathematics  with  International  Study,MMath,FullTime,0,0,4,24000,202.0
+10007792,Mathematics  with  Professional  Experience,MMath,FullTime,0,0,4,24000,183.14285714285714
+10007146,Financial  Mathematics,BSc,FullTime,0,1,3,27000,96
+10007146,Mathematics,MMath,FullTime,0,1,4,27000,117.45454545454545
+10007146,Mathematics,BSc,FullTime,0,1,3,27000,119.17391304347827
+10007146,Mathematics  (Extended),BSc,FullTime,2,1,4,27000,117.45454545454545
+10007146,Mathematics  and  Computing,BSc,PartTime,0,1,,26000,0
+10007146,Mathematics  with  Economics,BSc,PartTime,0,1,,28000,0
+10007764,Financial  Mathematics,BSc,FullTime,0,0,4,23000,172.5
+10007764,Mathematical  Physics,BSc,FullTime,0,0,4,20000,156.5
+10007764,Mathematical  Physics,MPhys,FullTime,0,0,5,20000,160
+10007764,Mathematical  Statistical  and  Actuarial  Sciences  with  Diploma  in  Industrial  Training,BSc,FullTime,0,2,4,23000,172.5
+10007764,Mathematical  Statistical  and  Actuarial  Sciences,BSc,FullTime,0,0,4,23000,139.25
+10007764,Mathematics,MMath,FullTime,0,0,5,23000,151.5
+10007764,Mathematics,BSc,FullTime,0,0,4,23000,147.75
+10007764,Mathematics  with  Finance  with  Diploma  in  Industrial  Training,BSc,FullTime,0,2,4,23000,172.5
+10007764,Mathematics  with  Statistics,BSc,FullTime,0,0,4,23000,172.5
+10007147,Business/Mathematics,BSc,PartTime,0,1,,28000,0
+10007147,Financial  Mathematics,BSc,FullTime,0,1,3,24000,102.42857142857143
+10007147,Initial  Year  For  Extended  Degree  In  Science  -  Mathematics,BSc,FullTime,2,1,4,24000,103.08333333333333
+10007147,Mathematics,BSc,FullTime,0,1,3,24000,102.42857142857143
+10007147,Mathematics  And  Psychology,BSc,PartTime,0,1,,23000,0
+10003270,Mathematics,BSc,FullTime,0,0,3,26000,230.25
+10003270,Mathematics,MSci,FullTime,0,0,4,26000,231.5
+10003270,Mathematics  (Pure  Mathematics),BSc,FullTime,0,0,3,26000,208
+10003270,Mathematics  with  a  Year  in  Europe,MSci,FullTime,0,0,4,26000,229.0
+10003270,Mathematics  with  Mathematical  Computation,BSc,FullTime,0,0,3,26000,231.14285714285714
+10003270,Mathematics  with  Statistics,BSc,FullTime,0,0,3,26000,229.625
+10003270,Mathematics  with  Statistics  for  Finance,BSc,FullTime,0,0,3,26000,234.0
+10003270,Mathematics  Optimisation  and  Statistics,BSc,FullTime,0,0,3,26000,231.14285714285714
+10007767,Mathematics,BSc,FullTime,0,0,3,22000,129.8
+10007767,Mathematics,MMath,FullTime,0,1,4,22000,123.4
+10007767,Mathematics  with  a  Foundation  Year,BSc,FullTime,2,0,4,22000,123.4
+10007150,Financial  Mathematics,BSc,FullTime,0,0,3,25000,122.0
+10007150,Mathematics,MMath,FullTime,0,0,4,25000,120.2258064516129
+10007150,Mathematics,BSc,FullTime,0,0,3,25000,112
+10007150,Mathematics  and  Statistics,MMath,FullTime,0,0,4,25000,120.2258064516129
+10007150,Mathematics  and  Statistics,BSc,FullTime,0,0,3,25000,120.75
+10007150,Mathematics  including  a  Foundation  Year,BSc,FullTime,2,0,4,25000,105.0
+10007150,Mathematics  with  a  Year  in  Industry,BSc,FullTime,0,2,4,25000,130.14285714285714
+10003645,Mathematics,MSci,FullTime,0,0,4,25000,185.0
+10003645,Mathematics,BSc,FullTime,0,0,3,25000,172.32142857142858
+10003645,Mathematics  with  Management  &  Finance,BSc,FullTime,0,0,3,24000,170.71428571428572
+10003645,Mathematics  with  Statistics,BSc,FullTime,0,0,3,25000,174.44444444444446
+10003678,Mathematics,BSc,FullTime,2,0,4,26000,80
+10003678,Mathematics,BSc,FullTime,0,0,3,26000,80
+10003678,Mathematics,BSc,FullTime,0,2,4,26000,91.25
+10007768,Mathematics,BSc,FullTime,0,0,3,23000,160.75
+10007768,Mathematics,MSci,FullTime,0,0,4,23000,162.14285714285714
+10007768,Mathematics  (Study  Abroad),MSci,FullTime,0,0,4,23000,160
+10007768,Mathematics  with  Statistics,BSc,FullTime,0,0,3,23000,164.56521739130434
+10007768,Mathematics  with  Statistics,MSci,FullTime,0,0,4,23000,164.56521739130434
+10007768,Mathematics  with  Statistics  (Study  Abroad),MSci,FullTime,0,0,4,23000,164.56521739130434
+10007795,Financial  Mathematics,BSc,FullTime,0,1,3,22000,167.5
+10007795,Mathematical  Studies,BSc,FullTime,0,1,3,23000,173.57142857142858
+10007795,Mathematics,BSc,FullTime,0,1,3,23000,172.95454545454547
+10007795,Mathematics,MMath,FullTime,0,1,4,23000,180.03846153846155
+10007795,Mathematics  and  Philosophy,BSc,FullTime,0,1,3,23000,163.0
+10007795,Mathematics  and  Statistics,BSc,FullTime,0,1,3,23000,161.875
+10007795,Mathematics  and  Statistics,MMath,FullTime,0,1,4,23000,173.57142857142858
+10007796,Mathematics,MMath,FullTime,0,1,4,23000,163.75
+10007796,Mathematics,BSc,FullTime,0,0,3,23000,140.5
+10007796,Mathematics,BSc,FullTime,2,0,4,23000,109.63636363636364
+10007796,Mathematics  (Major  for  Pathway),BSc,FullTime,0,0,3,23000,140.69230769230768
+10007796,Mathematics  (Year  in  Europe),BSc,FullTime,0,0,4,23000,140.69230769230768
+10007796,Mathematics  (Year  in  USA),MMath,FullTime,0,0,4,23000,140.69230769230768
+10007796,Mathematics  (Year  in  USA),BSc,FullTime,0,0,3,23000,140.69230769230768
+10007796,Mathematics  and  Actuarial  Science,BSc,FullTime,0,1,3,25000,140.85714285714286
+10007151,Chemistry  with  Mathematics,MChem,FullTime,0,1,4,20000,115.75
+10007151,Chemistry  with  Mathematics,BSc,FullTime,0,0,3,20000,115.75
+10003957,Applied  Mathematics  with  Engineering,BSc,FullTime,0,2,4,21000,124.85714285714286
+10003957,Applied  Mathematics  with  Engineering,BSc,FullTime,2,2,5,21000,124.85714285714286
+10003957,Mathematics,BSc,FullTime,2,2,5,21000,124.85714285714286
+10003957,Mathematics,BSc,FullTime,0,2,4,21000,124.85714285714286
+10003957,Mathematics  and  Data  Science,BSc,FullTime,2,2,5,21000,124.85714285714286
+10003957,Mathematics  and  Data  Science,BSc,FullTime,0,2,4,21000,124.85714285714286
+10003957,Mathematics  with  Finance,BSc,FullTime,2,2,5,21000,124.85714285714286
+10003957,Mathematics  with  Finance,BSc,FullTime,0,2,4,21000,124.85714285714286
+10006842,Actuarial  Mathematics,BSc,FullTime,0,0,3,22000,151.5
+10006842,Mathematical  Sciences  entry  route  leading  to    (4  year  route  including,BSc,FullTime,0,0,4,22000,139.91176470588235
+10006842,Mathematics,BSc,FullTime,0,0,3,22000,137.7058823529412
+10006842,Mathematics  and  Computer  Science  with  a  Year  in  Industry  BSc  (Joint  Honours),BA,FullTime,0,2,4,22000,139.91176470588235
+10006842,Mathematics  and  Statistics,BSc,FullTime,0,0,3,22000,139.91176470588235
+10006842,Mathematics  MMath,MMath,FullTime,0,0,4,22000,156.0
+10006842,Mathematics  with  Finance,BSc,FullTime,0,0,3,24000,136.1818181818182
+10004048,Computing  Technology  and  Mathematics  Extended  Degree,BSc,FullTime,2,0,3,26000,77.125
+10004048,Mathematical  Sciences,BSc,FullTime,1,0,3,27000,66.5
+10004048,Mathematics,BSc,FullTime,1,0,3,27000,70.42857142857143
+10004048,Mathematics  Extended  Degree,BSc,FullTime,2,0,3,27000,66.5
+10004063,Business  Mathematics  and  Statistics,BSc,FullTime,0,0,3,27000,194.5
+10004063,Financial  Mathematics  and  Statistics,BSc,FullTime,0,0,3,27000,212.5
+10004063,Mathematics  and  Economics,BSc,FullTime,0,0,3,29000,214.31578947368422
+10004063,Mathematics  with  Economics,BSc,FullTime,0,0,3,28000,215.5
+10004113,Financial  Mathematics,BSc,FullTime,0,2,4,24000,128
+10004113,Financial  Mathematics,BSc,FullTime,0,0,3,24000,128
+10004113,Mathematics,BSc,FullTime,0,2,4,24000,145.57894736842104
+10004113,Mathematics,MMath,FullTime,0,0,4,24000,163.75
+10004113,Mathematics,MMath,FullTime,0,2,5,24000,163.75
+10004113,Mathematics,BSc,FullTime,0,0,3,24000,145.57894736842104
+10004113,Mathematics  and  Accounting  and  Financial  Management,BSc,FullTime,0,0,3,24000,155.25
+10004113,Mathematics  and  Accounting  and  Financial  Management,BSc,FullTime,0,2,4,24000,155.25
+10004113,Mathematics  and  Management,BSc,FullTime,0,0,3,24000,151.85714285714286
+10004113,Mathematics  and  Management,BSc,FullTime,0,2,4,24000,151.85714285714286
+10004113,Mathematics  and  Sport  Science,BSc,FullTime,0,0,3,26000,167.5
+10004113,Mathematics  and  Sport  Science,BSc,FullTime,0,2,4,26000,167.5
+10004113,Mathematics  with  a  Foundation  Year,BSc,FullTime,2,0,4,24000,151.85714285714286
+10004113,Mathematics  with  an  International  Foundation  Year,BSc,FullTime,2,0,4,24000,151.85714285714286
+10004113,Mathematics  with  Mathematics  Education,BSc,FullTime,0,0,3,24000,151.85714285714286
+10004113,Mathematics  with  Mathematics  Education,BSc,FullTime,0,2,4,24000,151.85714285714286
+10004113,Mathematics  with  Statistics,BSc,FullTime,0,0,3,24000,153.375
+10004113,Mathematics  with  Statistics,BSc,FullTime,0,2,4,24000,153.375
+10004180,Mathematics,BSc,FullTime,0,0,3,21000,124.0
+10004180,Mathematics,MMath,FullTime,0,0,4,21000,117.0
+10004180,Mathematics,BSc,FullTime,2,0,4,21000,116.16666666666667
+10004180,Primary  Education  with  Mathematics,BA,FullTime,0,0,3,22000,134.5625
+10004180,Secondary  Mathematics  Education  with  QTS,BSc,FullTime,0,0,3,22000,134.5625
+10007798,Actuarial  Science  and  Mathematics,BSc,FullTime,1,0,3,22000,199.5
+10007798,Mathematics,MMath,FullTime,1,0,4,22000,186.55555555555554
+10007798,Mathematics,BSc,FullTime,1,0,3,22000,186.0
+10007798,Mathematics  and  Statistics,BSc,FullTime,1,0,3,22000,181.0
+10007798,Mathematics  and  Statistics,MMath,FullTime,1,0,4,22000,185.75
+10007798,Mathematics  with  Finance,BSc,FullTime,1,0,3,22000,179.75
+10007798,Mathematics  with  Financial  Mathematics,MMath,FullTime,1,0,4,22000,185.75
+10007799,Mathematical  Sciences  with  Preparatory  Year,BSc,FullTime,2,0,4,21000,157.63636363636363
+10007799,Mathematics,BSc,FullTime,0,1,3,21000,155.05263157894737
+10007799,Mathematics,MMath,FullTime,0,1,4,21000,165.0
+10007799,Mathematics  and  Statistics,BSc,FullTime,0,1,3,21000,151.5
+10007799,Mathematics  and  Statistics,MMath,FullTime,0,1,4,21000,157.63636363636363
+10001282,Foundation  Year  in  Mathematics  and  Physics,BSc,FullTime,2,1,4,20000,136.57142857142858
+10001282,Mathematics,MMath,FullTime,1,1,4,21000,135.5
+10001282,Mathematics,BSc,FullTime,1,1,3,21000,135.5
+10004797,Financial  Mathematics,BSc,FullTime,0,2,4,22000,117.0
+10004797,Financial  Mathematics,BSc,FullTime,0,0,3,22000,115.0
+10004797,Mathematics,BSc,FullTime,0,0,3,22000,112
+10004797,Mathematics,MMath,FullTime,0,0,4,22000,125.33333333333333
+10004797,Mathematics,MMath,FullTime,0,2,5,22000,125.33333333333333
+10004797,Mathematics,BSc,FullTime,0,2,4,22000,119.5
+10007154,Financial  Mathematics,BSc,FullTime,1,0,3,23000,144
+10007154,Mathematical  Physics,MSci,FullTime,1,0,4,24000,176
+10007154,Mathematical  Physics,BSc,FullTime,1,0,3,24000,165.625
+10007154,Mathematics,MMath,FullTime,1,0,4,23000,181.76923076923077
+10007154,Mathematics,BSc,FullTime,1,0,3,23000,182.92307692307693
+10007154,Mathematics  (International  Study),BSc,FullTime,1,0,4,23000,176
+10007774,Mathematics  (3  or  4  years),MMath,FullTime,0,0,4,25000,235.25
+10007774,Mathematics  and  Statistics  (3  or  4  years),MMath,FullTime,0,0,4,25000,243.75
+10007801,Mathematics,BSc,FullTime,1,1,3,24000,112
+10007801,Mathematics  and  Statistics,BSc,FullTime,1,1,3,24000,118.0
+10007801,Mathematics  with  Foundation  Year,BSc,FullTime,2,0,4,24000,75.25
+10007801,Primary  (Mathematics),BEd,FullTime,0,0,3,22000,122.71428571428571
+10007155,Mathematics,MMath,FullTime,0,1,4,25000,107.5909090909091
+10007155,Mathematics,BSc,FullTime,0,1,3,25000,106.0
+10007155,Mathematics  For  Finance  And  Management,BSc,FullTime,0,1,3,25000,108.5
+10007155,Mathematics  With  Statistics,BSc,FullTime,0,1,3,25000,115.75
+10007775,Mathematics,BSc,FullTime,0,0,3,26000,134.5625
+10007775,Mathematics,MSci,FullTime,0,0,4,26000,156.0
+10007775,Mathematics,MSci,FullTime,0,0,5,26000,156.0
+10007775,Mathematics,BSc,FullTime,0,2,4,26000,134.5625
+10007775,Mathematics,BSc,FullTime,0,0,4,26000,134.5625
+10007775,Mathematics  and  Statistics,BSc,FullTime,0,0,3,26000,155.25
+10007775,Mathematics  and  Statistics,BSc,FullTime,0,2,4,26000,155.25
+10007775,Mathematics  and  Statistics,BSc,FullTime,0,0,4,26000,155.25
+10007775,Mathematics  with  Finance  and  Accounting,BSc,FullTime,0,0,3,25000,145.875
+10007775,Mathematics  with  Finance  and  Accounting,BSc,FullTime,0,2,4,25000,145.875
+10007775,Mathematics  with  Finance  and  Accounting,BSc,FullTime,0,0,4,25000,145.875
+10007775,Mathematics  with  Statistics,MSci,FullTime,0,0,5,26000,139.25
+10007775,Mathematics  with  Statistics,MSci,FullTime,0,0,4,26000,139.25
+10007775,Pure  Mathematics,BSc,FullTime,0,0,4,26000,137.0
+10007775,Pure  Mathematics,BSc,FullTime,0,0,3,26000,137.0
+10007775,Science  &  Engineering  Foundation  Programme  (Mathematical  Science  4  Year),BSc,FullTime,2,1,4,26000,117.0
+10007802,Mathematics,BSc,FullTime,0,1,3,25000,131.125
+10007802,Mathematics,MMath,FullTime,0,1,4,25000,132.56521739130434
+10007802,Mathematics  and  Statistics,BSc,FullTime,0,1,3,25000,154.0
+10007802,Mathematics  and  Statistics  with  a  Placement  Year,BSc,FullTime,0,2,4,25000,132.56521739130434
+10007802,Mathematics  with  a  Placement  Year,MMath,FullTime,0,2,5,25000,132.56521739130434
+10007802,Mathematics  with  a  Placement  Year,BSc,FullTime,0,2,4,25000,132.56521739130434
+10007802,Primary  Education  with  Mathematics,BA,FullTime,0,0,3,22000,155.25
+10005553,Mathematical  Studies,BSc,FullTime,0,0,3,25000,138.0
+10005553,Mathematics,BSc,FullTime,0,0,3,25000,133.0
+10005553,Mathematics,MSci,FullTime,0,0,4,25000,144
+10005553,Mathematics  with  Statistics,BSc,FullTime,0,0,3,25000,128
+10005790,Mathematics,BSc,FullTime,0,1,3,22000,107.25
+10005790,Mathematics  with  Education  and  Qualified  Teacher  Status,BSc,FullTime,0,0,3,22000,100.28571428571428
+10007157,Mathematics,MMath,FullTime,0,1,4,22000,165.0
+10007157,Mathematics,MMath,FullTime,0,1,4,22000,182.0
+10007157,Mathematics,BSc,FullTime,0,1,3,22000,152.25
+10007157,Mathematics  and  Statistics,MMath,FullTime,0,1,4,22000,155.5909090909091
+10007157,Mathematics  and  Statistics,BSc,FullTime,0,1,3,22000,155.5909090909091
+10007157,Mathematics  with  Study  in  Europe,MMath,FullTime,0,1,4,22000,155.5909090909091
+10007158,Mathematical  Studies,BSc,FullTime,0,0,3,25000,161.5
+10007158,Mathematics,MMath,FullTime,2,0,5,25000,169.0
+10007158,Mathematics,BSc,FullTime,2,0,4,25000,163.26086956521738
+10007158,Mathematics,BSc,FullTime,0,0,3,25000,163.26086956521738
+10007158,Mathematics,MMath,FullTime,0,0,4,25000,169.0
+10007158,Mathematics  with  Actuarial  Science,BSc,FullTime,0,0,3,25000,144
+10007158,Mathematics  with  Statistics,BSc,FullTime,0,0,3,25000,144
+10007158,MORSE  (Mathematics  Operational  Research  Statistics  and  Economics),BSc,FullTime,0,0,3,28000,144
+10007803,Applied  Mathematics,MMath,FullTime,0,0,5,23000,235.25
+10007803,Applied  Mathematics    (Fast  Track),MMath,FullTime,0,0,4,23000,235.25
+10007803,Mathematics,MA,FullTime,0,0,4,23000,176
+10007803,Mathematics,MMath,FullTime,0,0,5,23000,241.5
+10007803,Mathematics,BSc,FullTime,0,0,4,23000,230.42857142857142
+10007803,Mathematics    (Fast  Track),MMath,FullTime,0,0,4,23000,235.25
+10007803,Pure  Mathematics,MMath,FullTime,0,0,5,23000,235.25
+10007803,Pure  Mathematics    (Fast  Track),MMath,FullTime,0,0,4,23000,235.25
+10007159,Mathematics  Education,BSc,FullTime,0,0,3,22000,130.64705882352942
+10007159,Physics  with  Mathematics  Education,BSc,FullTime,0,0,4,22000,130.64705882352942
+10007160,Financial  Mathematics,BSc,FullTime,0,0,3,25000,165.0
+10007160,Financial  Mathematics,BSc,FullTime,0,2,4,25000,165.0
+10007160,Mathematics,BSc,FullTime,0,0,3,25000,144
+10007160,Mathematics,MMath,FullTime,0,0,4,25000,176
+10007160,Mathematics,MMath,FullTime,0,2,5,25000,176
+10007160,Mathematics,BSc,FullTime,0,2,4,25000,144
+10007160,Mathematics  with  Statistics,BSc,FullTime,0,0,3,25000,160
+10007160,Mathematics  with  Statistics,BSc,FullTime,0,2,4,25000,160
+10007806,Mathematics,BSc,FullTime,1,1,3,25000,133.73529411764707
+10007806,Mathematics,MMath,FullTime,1,1,4,25000,167.5
+10007806,Mathematics  (research  placement),MMath,FullTime,1,0,4,25000,132.2
+10007855,Mathematics  and  Sports  Science,BSc,FullTime,0,0,3,17000,122.0
+10007161,Financial  Mathematics,BSc,FullTime,2,1,4,20000,106.0
+10007161,Financial  Mathematics,BSc,FullTime,0,1,3,20000,106.0
+10007784,Mathematical  Computation,MEng,FullTime,0,0,4,27000,241.36363636363637
+10007784,Mathematics,BSc,FullTime,0,0,3,27000,195.1578947368421
+10007784,Mathematics,MSci,FullTime,0,0,4,27000,227.75
+10007784,Mathematics  and  Statistical  Science,BSc,FullTime,0,0,3,27000,199.5
+10007784,Mathematics  and  Statistical  Science,MSci,FullTime,0,0,4,27000,203.25
+10007164,Mathematics,BSc,FullTime,1,1,3,23000,135.5
+10007164,Mathematics,MMath,FullTime,0,1,4,23000,133.0
+10007164,Mathematics,BSc,FullTime,2,1,4,23000,133.0
+10007164,Mathematics  and  Statistics,BSc,FullTime,0,1,3,23000,133.0
+10007164,Mathematics  and  Statistics,BSc,FullTime,2,1,4,23000,133.0
+10007164,Mathematics  with  Qualified  Teacher  Status,BSc,FullTime,2,0,4,22000,141.57142857142858
+10007164,Mathematics  with  Qualified  Teacher  Status,BSc,FullTime,0,0,3,22000,141.57142857142858
+10007163,Discrete  Mathematics,BSc,FullTime,0,1,3,28000,194.14285714285714
+10007163,Mathematics,BSc,FullTime,0,1,3,24000,208
+10007163,Mathematics,MMath,FullTime,0,1,4,24000,208
+10007163,Mathematics  and  Physics,MMath&Phys,FullTime,0,1,4,25000,217.0
+10007163,Mathematics  and  Physics,BSc,FullTime,0,1,3,25000,198.0
+10007163,Mathematics  and  Statistics,BSc,FullTime,0,1,3,24000,176
+10007163,Mathematics  and  Statistics,MMath,FullTime,0,1,4,24000,213.0
+10007163,MathematicsOperational  ResearchStatistics  and  Economics,MMath,FullTime,0,1,4,30000,206.25
+10007163,MathematicsOperational  ResearchStatistics  and  Economics,BSc,FullTime,0,1,3,31000,192
+10003614,Education  Studies  and  Mathematics,BA,FullTime,0,0,3,17000,110.16666666666667
+10003614,Mathematics  and  Economics,BSc,FullTime,0,1,3,21000,108.14285714285714
+10003614,Mathematics  and  Education  Studies,BSc,FullTime,0,1,3,17000,110.16666666666667
+10003614,Mathematics  and  Finance,BSc,FullTime,0,1,3,22000,80
+10003614,Mathematics  and  Management,BSc,FullTime,0,1,3,23000,112.83333333333333
+10007166,Mathematics  with  Secondary  Education  (QTS),BSc,FullTime,0,0,3,22000,123.53846153846153
+10007139,Biology  and  Mathematics,BSc,FullTime,0,0,3,19000,96
+10007139,Computing  and  Mathematics,BSc,FullTime,0,0,3,22000,102.0
+10007139,Education  Studies  and  Mathematics,BSc,FullTime,0,0,3,16000,103.5
+10007139,Geography  and  Mathematics,BSc,FullTime,0,0,3,19000,80
+10007139,Mathematics  and  Physical  Education,BSc,FullTime,0,0,3,17000,136.57142857142858
+10007139,Mathematics  and  Psychology,BSc,FullTime,0,0,3,18000,109.39285714285714
+10007167,Mathematics,BA/BSc,FullTime,0,1,4,22000,161.95652173913044
+10007167,Mathematics,BA/BSc,FullTime,0,1,3,22000,157.75
+10007167,Mathematics,MMath,FullTime,0,1,4,22000,162.14285714285714
+10007167,Mathematics/Statistics,BA/BSc,FullTime,0,1,3,22000,150.0
