@@ -45,7 +45,7 @@ def getSalary(institution, course, studyMode):
     salary = []
     for x in getStat(institution, course, studyMode):
         for y in x["Details"]:
-            if y["Code"] == "MED":
+            if y["Code"] == "INSTMED":
                 salary.append(y["Value"])            
     return salary
 
@@ -56,8 +56,6 @@ def getTariffs(institution, course, studyMode):
             for y in x["Details"]:
                 tariffs.append(y["Code"])
                 tariffs.append(y["Value"])
-
-                
     if len(tariffs) > 28:
         tariffs = [tariffs[i:i+28] for i in range(0, len(tariffs), 28)] 
     return tariffs
@@ -106,6 +104,18 @@ def tariffAvg(cumul):
             ratio = (y2 - 50)/(y2-y1)
             median = x2-((x2-x1)*ratio)
     return median
+
+def minTariff(tariff):
+    minTariffs = []
+    if len(tariff) == 28:
+        for y, x in enumerate(tariff):
+            if isinstance(x,int) and x >= 5:
+                minTariffs.append(tariff[y-1])
+                break
+    return int(minTariffs[0][1:])
+            
+    
+
 
 
 ##print(tariffAvg(getCumulative(getTariffs(essex,"10502","FullTime"))))

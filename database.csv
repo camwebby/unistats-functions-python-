@@ -1,0 +1,341 @@
+Institution ,  Course ,  Label ,  Mode ,  Salary ,  avgTariff ,  lowerTariff ,  employment
+University  Of  Aberdeen,Accountancy  and  Finance,MA,FullTime,21000,186.0,80,90
+University  Of  Aberdeen,Animal  Behaviour,BSc,FullTime,18000,176,112,90
+University  Of  Aberdeen,Anthropology,MA,FullTime,19000,135.5,96,90
+University  Of  Aberdeen,Archaeology,BSc,FullTime,18000,166.8181818181818,96,85
+University  Of  Aberdeen,Archaeology,MA,FullTime,18000,166.8181818181818,96,85
+University  Of  Aberdeen,Bachelor  of  Divinity,BD,FullTime,18000,128,96,75
+University  Of  Aberdeen,Bachelor  of  Music,BMus,FullTime,18000,170.0,64,90
+University  Of  Aberdeen,Bachelor  of  Theology,BTh,FullTime,18000,128,96,75
+University  Of  Aberdeen,Behavioural  Biology,BSc,FullTime,18000,176,112,90
+University  Of  Aberdeen,Behavioural  Studies,MA,FullTime,18000,183.5,1,91
+University  Of  Aberdeen,Behavioural  Studies,BSc,FullTime,18000,183.5,1,91
+University  Of  Aberdeen,Biochemistry,BSc,FullTime,18000,112,1,90
+University  Of  Aberdeen,Biochemistry  with  Industrial  Placement,MSci,FullTime,18000,128,1,90
+University  Of  Aberdeen,Biological  Sciences,MSci,FullTime,18000,176,112,90
+University  Of  Aberdeen,Biological  Sciences,MA,FullTime,18000,176,112,90
+University  Of  Aberdeen,Biology,BSc,FullTime,18000,176,112,80
+University  Of  Aberdeen,Biomedical  Science  (Molecular  Biology)  with  Industrial  Placement,MSci,FullTime,18000,128,1,90
+University  Of  Aberdeen,Biomedical  Science  (Pharmacology)  with  Industrial  Placement,MSci,FullTime,19000,160,64,100
+University  Of  Aberdeen,Biomedical  Science  (Physiology)  with  Industrial  Placement,MSci,FullTime,18000,195.0,48,95
+University  Of  Aberdeen,Biomedical  Sciences  (Anatomy),BSc,FullTime,18000,197.625,1,95
+University  Of  Aberdeen,Biomedical  Sciences  (Anatomy)  with  Industrial  Placement,MSci,FullTime,18000,195.0,48,95
+University  Of  Aberdeen,Biomedical  Sciences  (Developmental  Biology),BSc,FullTime,18000,176,112,90
+University  Of  Aberdeen,Biomedical  Sciences  (Developmental  Biology)  with  Industrial  Placement,MSci,FullTime,18000,176,112,90
+University  Of  Aberdeen,Biomedical  Sciences  (Molecular  Biology),BSc,FullTime,18000,128,1,90
+University  Of  Aberdeen,Biomedical  Sciences  (Pharmacology),BSc,FullTime,19000,160,64,100
+University  Of  Aberdeen,Biomedical  Sciences  (Physiology),BSc,FullTime,18000,195.0,48,100
+University  Of  Aberdeen,Biotechnology  (Applied  Molecular  Biology),BSc,FullTime,26000,170.5,96,85
+University  Of  Aberdeen,Biotechnology  (Applied  Molecular  Biology)  with  Industrial  Placement,MSci,FullTime,26000,170.5,96,85
+University  Of  Aberdeen,Business  Management,MA,FullTime,21000,176,112,85
+University  Of  Aberdeen,Business  Management  and  Information  Systems,BSc,FullTime,26000,144,1,100
+University  Of  Aberdeen,Business  Management  and  Real  Estate,MA,FullTime,21000,160,1,80
+University  Of  Aberdeen,Celtic  &  Anglo-Saxon  Studies,MA,FullTime,19000,176,48,90
+University  Of  Aberdeen,Celtic  &  Anglo-Saxon  Studies  and  Film  &  Visual  Culture,MA,FullTime,19000,176,48,90
+University  Of  Aberdeen,Celtic  &  Anglo-Saxon  Studies  and  Gaelic  Studies,MA,FullTime,19000,176,48,90
+University  Of  Aberdeen,Chemical  Engineering,MEng,FullTime,30000,185.23076923076923,128,85
+University  Of  Aberdeen,Chemical  Engineering,BEng,FullTime,29000,146.14285714285714,96,65
+University  Of  Aberdeen,Chemistry,BSc,FullTime,20000,144,112,60
+University  Of  Aberdeen,Chemistry,MChem,FullTime,20000,160,112,95
+University  Of  Aberdeen,Civil  and  Environmental  Engineering,BEng,FullTime,26000,176,112,100
+University  Of  Aberdeen,Civil  and  Environmental  Engineering,MEng,FullTime,26000,176,112,100
+University  Of  Aberdeen,Civil  and  Structural  Engineering,MEng,FullTime,26000,176,112,100
+University  Of  Aberdeen,Civil  and  Structural  Engineering,BEng,FullTime,26000,176,112,100
+University  Of  Aberdeen,Civil  Engineering,BEng,FullTime,26000,176,112,100
+University  Of  Aberdeen,Civil  Engineering,MEng,FullTime,26000,176,112,100
+University  Of  Aberdeen,Civil  Engineering  with  Subsea  Technology,MEng,FullTime,26000,176,112,100
+University  Of  Aberdeen,Computing,MA,FullTime,26000,144,1,100
+University  Of  Aberdeen,Computing  Science,BSc,FullTime,26000,154.0,1,100
+University  Of  Aberdeen,Computing  Science,MEng,FullTime,26000,144,1,100
+University  Of  Aberdeen,Computing  Science  with  Industrial  Placement,MSci,FullTime,26000,144,1,100
+University  Of  Aberdeen,Computing  With  Industrial  Placement,MA,FullTime,26000,144,1,100
+University  Of  Aberdeen,Conservation  Biology,BSc,FullTime,18000,176,112,90
+University  Of  Aberdeen,Ecology,BSc,FullTime,18000,176,112,90
+University  Of  Aberdeen,Economics,MA,FullTime,20000,154.0,96,88
+University  Of  Aberdeen,Education,BMus,FullTime,22000,180.28571428571428,96,100
+University  Of  Aberdeen,Electrical  and  Electronic  Engineering,MEng,FullTime,26000,167.5,1,70
+University  Of  Aberdeen,Electrical  and  Electronic  Engineering,BEng,FullTime,26000,138.0,1,75
+University  Of  Aberdeen,Electrical  and  Electronic  Engineering  withRenewable  Energy,MEng,FullTime,26000,167.5,1,75
+University  Of  Aberdeen,Electronic  and  Software  Engineering,MEng,FullTime,26000,167.5,1,75
+University  Of  Aberdeen,Engineering,MEng,FullTime,25000,201.0,80,93
+University  Of  Aberdeen,Engineering,BEng,FullTime,25000,197.0,80,93
+University  Of  Aberdeen,Engineering  (Electronic  and  Software),MA,FullTime,26000,167.5,1,75
+University  Of  Aberdeen,English,MA,FullTime,18000,139.25,80,90
+University  Of  Aberdeen,English  and  Scottish  Literature,MA,FullTime,18000,128,1,90
+University  Of  Aberdeen,English  Law  and  European  Legal  Studies,LLB,FullTime,19000,198.42857142857142,144,94
+University  Of  Aberdeen,Environmental  Chemistry,BSc,FullTime,20000,160,112,70
+University  Of  Aberdeen,Environmental  Chemistry,MChem,FullTime,20000,160,112,70
+University  Of  Aberdeen,Environmental  Science,BSc,FullTime,22000,160,96,85
+University  Of  Aberdeen,Exercise  and  Health  Science,BSc,FullTime,18000,183.5,64,91
+University  Of  Aberdeen,Exercise  and  Health  Science  with  Industrial  Placement,BTh,FullTime,18000,183.5,64,91
+University  Of  Aberdeen,Film  and  Visual  Culture,MA,FullTime,18000,169.0,1,90
+University  Of  Aberdeen,Finance  and  Real  Estate,MA,FullTime,22000,181.0,80,100
+University  Of  Aberdeen,French  and  Spanish  &  Latin  American  Studies,MA,FullTime,19000,195.0,160,90
+University  Of  Aberdeen,French  Studies,MA,FullTime,19000,195.75,1,90
+University  Of  Aberdeen,French  Studies,MA,FullTime,19000,195.75,1,90
+University  Of  Aberdeen,Gaelic  Studies,MA,FullTime,19000,176,48,90
+University  Of  Aberdeen,Genetics,BSc,FullTime,18000,140.0,1,100
+University  Of  Aberdeen,Genetics  (Immunology),BSc,FullTime,18000,140.0,1,100
+University  Of  Aberdeen,Genetics  (Immunology)  with  Industrial  Placement,MSci,FullTime,18000,140.0,1,100
+University  Of  Aberdeen,Genetics  with  Industrial  Placement,MSci,FullTime,18000,140.0,1,100
+University  Of  Aberdeen,Geography,BSc,FullTime,22000,156.0,112,80
+University  Of  Aberdeen,Geography,MA,FullTime,22000,202.71428571428572,144,90
+University  Of  Aberdeen,Geology,MGeoSci,FullTime,18000,195.0,112,88
+University  Of  Aberdeen,Geology  and  Petroleum  Geology,BSc,FullTime,20000,165.0,96,88
+University  Of  Aberdeen,German  Studies,MA,FullTime,19000,144,1,90
+University  Of  Aberdeen,History,MA,FullTime,17000,178.30769230769232,96,95
+University  Of  Aberdeen,History  and  History  of  Art,MA,FullTime,18000,172.0,96,90
+University  Of  Aberdeen,History  of  Art,MA,FullTime,18000,172.0,96,80
+University  Of  Aberdeen,Immunology,BSc,FullTime,18000,181.0,1,95
+University  Of  Aberdeen,Immunology  with  Industrial  Placement,MSci,FullTime,19000,181.0,1,95
+University  Of  Aberdeen,Language  and  Linguistics,MA,FullTime,19000,128,112,85
+University  Of  Aberdeen,Law,LLB,FullTime,19000,203.25,128,94
+University  Of  Aberdeen,Law  Accelerated,LLB,FullTime,19000,198.42857142857142,144,94
+University  Of  Aberdeen,Law  with  English  Law,LLB,FullTime,19000,202.0,112,94
+University  Of  Aberdeen,Law  with  European  Legal  Studies,LLB,FullTime,19000,172.0,1,94
+University  Of  Aberdeen,Law  with  French  Law,LLB,FullTime,19000,198.42857142857142,144,100
+University  Of  Aberdeen,Law  with  German  Law,LLB,FullTime,19000,198.42857142857142,144,94
+University  Of  Aberdeen,Law  with  options  in  Accountancy,LLB,FullTime,19000,198.42857142857142,144,94
+University  Of  Aberdeen,Law  with  options  in  Business  Management,LLB,FullTime,19000,192,144,94
+University  Of  Aberdeen,Law  with  options  in  Economics,LLB,FullTime,19000,198.42857142857142,144,94
+University  Of  Aberdeen,Law  with  options  in  French  Language,LLB,FullTime,19000,198.42857142857142,144,94
+University  Of  Aberdeen,Law  with  options  in  Gaelic  Language,LLB,FullTime,19000,198.42857142857142,144,94
+University  Of  Aberdeen,Law  with  options  in  German  Language,LLB,FullTime,19000,198.42857142857142,144,94
+University  Of  Aberdeen,Law  with  options  in  Music,LLB,FullTime,19000,198.42857142857142,144,94
+University  Of  Aberdeen,Law  with  options  in  Spanish  Language,LLB,FullTime,19000,198.42857142857142,144,94
+University  Of  Aberdeen,Law  with  Spanish  Law,LLB,FullTime,19000,198.42857142857142,144,94
+University  Of  Aberdeen,Marine  Biology,BSc,FullTime,18000,186.0,96,95
+University  Of  Aberdeen,Master  of  Arts  Education,BEd,FullTime,22000,166.0,112,99
+University  Of  Aberdeen,Mechanical  Engineering,MEng,FullTime,25000,176,112,95
+University  Of  Aberdeen,Mechanical  Engineering,BEng,FullTime,25000,178.5,96,93
+University  Of  Aberdeen,Mechanical  Engineering  with  Business  Management,MEng,FullTime,25000,181.0,112,93
+University  Of  Aberdeen,Mechanical  Engineering  with  Oil  and  Gas  Studies,BEng,FullTime,25000,160,112,93
+University  Of  Aberdeen,Mechanical  Engineering  with  Subsea  Technology,MEng,FullTime,25000,181.0,112,90
+University  Of  Aberdeen,Medicine,MBChB,FullTime,30000,230.0,160,100
+University  Of  Aberdeen,Mental  Philosophy,MA,FullTime,18000,128,96,75
+University  Of  Aberdeen,Microbiology,BSc,FullTime,19000,181.0,1,95
+University  Of  Aberdeen,Microbiology  with  Industrial  Placement,MSci,FullTime,19000,181.0,1,95
+University  Of  Aberdeen,Music  and  Communities,BMus,FullTime,18000,160,64,95
+University  Of  Aberdeen,Natural  Philosophy,MA,FullTime,18000,171.25,1,90
+University  Of  Aberdeen,Oil  and  Gas  Chemistry,MChem,FullTime,20000,160,112,70
+University  Of  Aberdeen,Oil  and  Gas  Chemistry,BSc,FullTime,20000,160,112,70
+University  Of  Aberdeen,Petroleum  Engineering,MEng,FullTime,29000,186.0,112,70
+University  Of  Aberdeen,Petroleum  Engineering,BEng,FullTime,29000,112,48,70
+University  Of  Aberdeen,Pharmacology,BSc,FullTime,19000,163.75,64,100
+University  Of  Aberdeen,Pharmacology  with  Industrial  Placement,MSci,FullTime,19000,160,64,100
+University  Of  Aberdeen,Physical  Sciences,BSc,FullTime,18000,171.25,1,90
+University  Of  Aberdeen,Physics,BSc,FullTime,18000,169.0,112,90
+University  Of  Aberdeen,Physiology,BSc,FullTime,18000,144,48,85
+University  Of  Aberdeen,Physiology  with  Industrial  Placement,MSci,FullTime,18000,195.0,48,95
+University  Of  Aberdeen,Politics  and  International  Relations,MA,FullTime,20000,160,1,90
+University  Of  Aberdeen,Psychology,MA,FullTime,18000,160,1,90
+University  Of  Aberdeen,Psychology,BSc,FullTime,18000,197.0,96,95
+University  Of  Aberdeen,Sociology,MA,FullTime,20000,176,80,75
+University  Of  Aberdeen,Spanish  &  Latin  American  Studies,MA,FullTime,18000,149.0,1,90
+University  Of  Aberdeen,Sport  and  Exercise  Science,BSc,FullTime,18000,176,64,91
+University  Of  Aberdeen,Sports  and  Exercise  Science  with  Industrial  Placement,MSci,FullTime,18000,183.5,64,91
+University  Of  Aberdeen,Theology  &  Religious  Studies,MA,FullTime,18000,128,96,75
+University  Of  Aberdeen,Zoology,BSc,FullTime,18000,171.25,112,95
+University  Of  Abertay  Dundee,Accounting  and  Finance,BA,FullTime,20000,170.0,112,80
+University  Of  Abertay  Dundee,Biomedical  Sciences,BSc,FullTime,22000,156.0,64,85
+University  Of  Abertay  Dundee,Business  and  Human  Resource  Management,BA,FullTime,20000,154.0,96,92
+University  Of  Abertay  Dundee,Business  Management,BA,FullTime,20000,128,80,95
+University  Of  Abertay  Dundee,Computer  Arts,BA,FullTime,20000,176,96,82
+University  Of  Abertay  Dundee,Computer  Game  Applications  Development,BSc,FullTime,20000,156.5,112,82
+University  Of  Abertay  Dundee,Computer  Games  Technology,BSc,FullTime,22000,195.75,128,90
+University  Of  Abertay  Dundee,Computing,BSc,FullTime,18000,154.0,96,100
+University  Of  Abertay  Dundee,Criminology,BA,FullTime,14000,144,96,90
+University  Of  Abertay  Dundee,Ethical  Hacking,BSc,FullTime,22000,151.5,112,86
+University  Of  Abertay  Dundee,Fitness  Nutrition  and  Health,BSc,FullTime,18000,155.25,96,95
+University  Of  Abertay  Dundee,Food  and  Consumer  Sciences,BSc,FullTime,18000,155.25,96,95
+University  Of  Abertay  Dundee,Food  Nutrition  and  Health,BSc,FullTime,18000,151.5,96,100
+University  Of  Abertay  Dundee,Forensic  Sciences,BSc,FullTime,14000,144,112,90
+University  Of  Abertay  Dundee,Game  Design  and  Production  Management,BA,FullTime,20000,144,112,100
+University  Of  Abertay  Dundee,Management  and  the  Games  Industry,BA,FullTime,20000,154.0,96,92
+University  Of  Abertay  Dundee,Marketing  and  Business,BA,FullTime,20000,166.0,96,90
+University  Of  Abertay  Dundee,Nursing  (Mental  Health  Nursing),BSc,FullTime,22000,107.25,48,100
+University  Of  Abertay  Dundee,Psychology,BSc,FullTime,16000,179.0,128,100
+University  Of  Abertay  Dundee,Psychology  and  Counselling,BSc,FullTime,18000,167.5,80,97
+University  Of  Abertay  Dundee,Psychology  and  Forensic  Biology,BSc,FullTime,18000,162.14285714285714,112,90
+University  Of  Abertay  Dundee,Psychology  and  Human  Resource  Management,BSc,FullTime,18000,172.0,112,97
+University  Of  Abertay  Dundee,Social  Science,BA,FullTime,17000,149.0,112,95
+University  Of  Abertay  Dundee,Sociology,BA,FullTime,17000,149.0,112,95
+University  Of  Abertay  Dundee,Sound  and  Music  for  Games,BA,FullTime,20000,160,128,90
+University  Of  Abertay  Dundee,Sport  and  Exercise,BSc,FullTime,19000,144,112,95
+University  Of  Abertay  Dundee,Sport  and  Management,BA,FullTime,19000,112,64,92
+University  Of  Abertay  Dundee,Sport  and  Psychology,BSc,FullTime,19000,137.0,80,92
+Aberystwyth  University,Accounting  and  Finance,BSc,FullTime,17000,115.75,48,95
+Aberystwyth  University,Adventure  Tourism  Management,BSc,FullTime,19000,133.0,1,100
+Aberystwyth  University,Agriculture,BSc,FullTime,18000,122.9090909090909,48,79
+Aberystwyth  University,Agriculture  (with  integrated  year  in  industry),BSc,FullTime,18000,139.25,48,85
+Aberystwyth  University,Agriculture  with  Animal  Science  (with  integrated  year  in  industry),BSc,FullTime,18000,133.0,48,79
+Aberystwyth  University,Animal  Behaviour,BSc,FullTime,16000,133.0,64,89
+Aberystwyth  University,Animal  Behaviour  (with  year  in  industry),BSc,FullTime,16000,108.0,64,89
+Aberystwyth  University,Animal  Science,BSc,FullTime,18000,107.66666666666667,48,100
+Aberystwyth  University,Animal  Science  (with  year  in  industry),BSc,FullTime,18000,96,64,100
+Aberystwyth  University,Applied  Mathematics/Pure  Mathematics,BSc,FullTime,18000,117.0,1,90
+Aberystwyth  University,Applied  Mathematics/Statistics,BSc,FullTime,18000,117.0,1,90
+Aberystwyth  University,Art  History,BA,FullTime,16000,115.94736842105263,48,90
+Aberystwyth  University,Artificial  Intelligence  and  Robotics,BSc,FullTime,23000,108.0,1,98
+Aberystwyth  University,Artificial  Intelligence  and  Robotics  (inc  Integrated  Industrial  and  Professional  Training),BSc,FullTime,23000,83.0,1,98
+Aberystwyth  University,Astrophysics,BSc,FullTime,23000,80,64,100
+Aberystwyth  University,Astrophysics  (includes  year  zero),BSc,FullTime,23000,102.875,1,80
+Aberystwyth  University,Astudiaethau  Celtaidd,BA,FullTime,18000,151.5,80,95
+Aberystwyth  University,Astudiaethau  Ffilm  a  Theledu,BA,FullTime,16000,118.0,1,85
+Aberystwyth  University,Biochemistry,MBiol,FullTime,16000,115.75,64,90
+Aberystwyth  University,Biochemistry,BSc,FullTime,16000,117.0,64,90
+Aberystwyth  University,Biochemistry  (with  year  in  industry),BSc,FullTime,16000,115.75,64,90
+Aberystwyth  University,Biology,MBiol,FullTime,16000,108.0,64,89
+Aberystwyth  University,Biology,BSc,FullTime,16000,80,48,90
+Aberystwyth  University,Biology  (with  year  in  industry),BSc,FullTime,16000,108.0,64,89
+Aberystwyth  University,Business  &  Management,BSc,FullTime,19000,107.25,48,90
+Aberystwyth  University,Business  Economics,BSc,FullTime,16000,85.0,1,90
+Aberystwyth  University,Business  Finance,BSc,FullTime,18000,108.0,48,100
+Aberystwyth  University,Business  Information  Technology,BSc,FullTime,23000,98.3076923076923,1,90
+Aberystwyth  University,Business  Information  Technology  (includes  year  zero),BSc,FullTime,23000,98.3076923076923,1,98
+Aberystwyth  University,Business  Information  Technology  (with  integrated  year  in  industry),BSc,FullTime,23000,98.3076923076923,1,100
+Aberystwyth  University,Business  Law,LLB,FullTime,16000,119.5,64,95
+Aberystwyth  University,Celtic  Studies,BA,FullTime,18000,151.5,80,95
+Aberystwyth  University,Childhood  Studies,BA,FullTime,15000,119.5,48,100
+Aberystwyth  University,Computer  Graphics ,  Vision  and  Games,BSc,FullTime,23000,114.5,1,98
+Aberystwyth  University,Computer  Graphics ,  Vision  and  Games  (with  integrated  year  in  industry),BSc,FullTime,23000,115.75,48,98
+Aberystwyth  University,Computer  Science,BSc,FullTime,22000,101.0,1,100
+Aberystwyth  University,Computer  Science,MComp,FullTime,23000,98.3076923076923,1,98
+Aberystwyth  University,Computer  Science  (includes  year  zero),BSc,FullTime,23000,61.125,1,98
+Aberystwyth  University,Computer  Science  (with  integrated  year  in  industry),BSc,FullTime,23000,80,48,100
+Aberystwyth  University,Computer  Science  (with  integrated  year  in  industry),MComp,FullTime,23000,98.3076923076923,1,98
+Aberystwyth  University,Computer  Science  and  Artificial  Intelligence  (with  integrated  year  in  industry),BSc,FullTime,23000,96,1,98
+Aberystwyth  University,Computer  Science/Artificial  Intelligence,BSc,FullTime,23000,98.3076923076923,1,98
+Aberystwyth  University,Countryside  Conservation,BSc,FullTime,18000,122.9090909090909,48,80
+Aberystwyth  University,Countryside  Conservation  (with  integrated  year  in  industry),BSc,FullTime,18000,122.9090909090909,48,79
+Aberystwyth  University,Countryside  Management,BSc,FullTime,18000,122.9090909090909,48,79
+Aberystwyth  University,Countryside  Management  (with  integrated  year  in  industry),BSc,FullTime,18000,122.9090909090909,48,79
+Aberystwyth  University,Criminal  Law,LLB,FullTime,16000,119.5,64,95
+Aberystwyth  University,Criminology,BSc,FullTime,17000,112,1,91
+Aberystwyth  University,Cymraeg  (i  fyfyrwyr  iaith  gyntaf  ac  ail  iaith),BA,FullTime,18000,147.75,80,100
+Aberystwyth  University,Cymraeg  a'r  Ieithoedd  Celtaidd,BA,FullTime,18000,151.5,80,95
+Aberystwyth  University,Cymraeg  Proffesiynol,BA,FullTime,18000,178.14285714285714,128,95
+Aberystwyth  University,Daearyddiaeth,BSc,FullTime,16000,144,96,85
+Aberystwyth  University,Drama  &  Theatre  Studies,BA,FullTime,16000,117.0,1,90
+Aberystwyth  University,Drama  ac  Astudiaethau  Theatr,BA,FullTime,16000,119.5,48,90
+Aberystwyth  University,Ecology,BSc,FullTime,16000,96,64,75
+Aberystwyth  University,Ecology  (with  year  in  industry),BSc,FullTime,16000,108.0,64,89
+Aberystwyth  University,Economics,BSc,FullTime,16000,80,1,95
+Aberystwyth  University,Education,BA,FullTime,15000,112,64,100
+Aberystwyth  University,Engineering  Physics,BEng,FullTime,23000,102.875,1,80
+Aberystwyth  University,Engineering  Physics  (with  integrated  year  in  industry),MEng,FullTime,23000,102.875,1,80
+Aberystwyth  University,Engineering  Physics  (with  year  in  industry),BEng,FullTime,23000,102.875,1,80
+Aberystwyth  University,English  Literature,BA,FullTime,16000,106.0,64,90
+Aberystwyth  University,English  Literature  and  Creative  Writing,BA,FullTime,16000,112,48,85
+Aberystwyth  University,Environmental  Earth  Science,BSc,FullTime,23000,115.0,64,90
+Aberystwyth  University,Environmental  Science,BSc,FullTime,16000,117.21739130434783,80,89
+Aberystwyth  University,Equine  Science,BSc,FullTime,18000,112,64,80
+Aberystwyth  University,Equine  Science  (with  year  in  industry),BSc,FullTime,18000,122.9090909090909,48,79
+Aberystwyth  University,European  Law,LLB,FullTime,16000,119.5,64,95
+Aberystwyth  University,Film  &  Television  Studies,BA,FullTime,16000,119.5,1,93
+Aberystwyth  University,French,BA,FullTime,18000,123.25,48,95
+Aberystwyth  University,Genetics,BSc,FullTime,16000,102.42857142857143,64,95
+Aberystwyth  University,Genetics  (with  year  in  industry),BSc,FullTime,16000,103.5,64,100
+Aberystwyth  University,Genetics/Biochemistry,BSc,FullTime,16000,119.5,64,90
+Aberystwyth  University,Geography,BSc,FullTime,16000,118.81818181818181,64,92
+Aberystwyth  University,Geography  (with  integrated  year  in  industry),BSc,FullTime,16000,117.21739130434783,80,89
+Aberystwyth  University,Geography  (with  integrated  year  studying  abroad),BSc,FullTime,16000,117.21739130434783,80,89
+Aberystwyth  University,Gwleidyddiaeth,BA,FullTime,16000,110.21052631578948,64,88
+Aberystwyth  University,Gwleidyddiaeth  Ryngwladol,BA,FullTime,16000,110.21052631578948,64,88
+Aberystwyth  University,Gwleidyddiaeth  Ryngwladol  a  Gwleidyddiaeth  Cymru,BA,FullTime,16000,110.21052631578948,64,88
+Aberystwyth  University,Hanes,BA,FullTime,16000,115.94736842105263,48,90
+Aberystwyth  University,Hanes  a  Hanes  Cymru,BA,FullTime,16000,115.94736842105263,48,90
+Aberystwyth  University,History,BA,FullTime,16000,114.25,48,90
+Aberystwyth  University,History  (with  integrated  year  studying  abroad),BA,FullTime,16000,115.94736842105263,48,90
+Aberystwyth  University,History  and  Welsh  History,BA,FullTime,16000,115.94736842105263,48,90
+Aberystwyth  University,Human  Geography,MArts,FullTime,18000,103.5,64,80
+Aberystwyth  University,Human  Geography,BA,FullTime,16000,80,64,80
+Aberystwyth  University,Human  Geography  (with  integrated  year  in  industry),BA,FullTime,18000,103.5,64,80
+Aberystwyth  University,Human  Geography  (with  integrated  year  studying  abroad),BA,FullTime,18000,103.5,64,80
+Aberystwyth  University,Human  Rights,LLB,FullTime,16000,119.5,64,95
+Aberystwyth  University,International  Politics,BA,FullTime,16000,102.0,48,90
+Aberystwyth  University,International  Politics  and  Global  Development,BA,FullTime,16000,110.21052631578948,64,88
+Aberystwyth  University,International  Politics  and  Strategic  Studies,BA,FullTime,16000,122.0,64,88
+Aberystwyth  University,Internet  Computing  and  Systems  Administration,BSc,FullTime,23000,98.3076923076923,1,80
+Aberystwyth  University,Internet  Computing  and  Systems  Administration  (with  integrated  year  in  industry),BSc,FullTime,23000,98.3076923076923,1,98
+Aberystwyth  University,Law,BA,FullTime,16000,119.5,64,95
+Aberystwyth  University,Law,LLB,FullTime,16000,101.0,48,94
+Aberystwyth  University,Law  2  YEAR,LLB,FullTime,16000,119.5,64,95
+Aberystwyth  University,Marine  &  Freshwater  Biology,BSc,FullTime,16000,118.0,1,95
+Aberystwyth  University,Marine  and  Freshwater  Biology,BSc,FullTime,16000,108.0,64,89
+Aberystwyth  University,Marine  and  Freshwater  Biology  (with  year  in  industry),BSc,FullTime,16000,108.0,64,89
+Aberystwyth  University,Marketing,BSc,FullTime,19000,121.0,64,75
+Aberystwyth  University,Mathematical  and  Theoretical  Physics,MMath,FullTime,23000,102.875,1,80
+Aberystwyth  University,Mathematical  and  Theoretical  Physics,BSc,FullTime,23000,102.875,1,80
+Aberystwyth  University,Mathematics,BSc,FullTime,19000,112,1,95
+Aberystwyth  University,Mathematics,MMath,FullTime,18000,112,112,90
+Aberystwyth  University,Mathematics  (includes  year  zero),BSc,FullTime,18000,117.0,1,90
+Aberystwyth  University,Medieval  and  Early  Modern  History,BA,FullTime,16000,96,1,95
+Aberystwyth  University,Microbiology,MBiol,FullTime,16000,80,1,95
+Aberystwyth  University,Microbiology,BSc,FullTime,16000,106.0,1,100
+Aberystwyth  University,Microbiology  (with  year  in  industry),BSc,FullTime,16000,80,1,95
+Aberystwyth  University,Modern  and  Contemporary  History,BA,FullTime,16000,115.94736842105263,48,85
+Aberystwyth  University,Modern  Languages,BA,FullTime,18000,112,48,80
+Aberystwyth  University,Physical  Geography,BSc,FullTime,20000,96,1,80
+Aberystwyth  University,Physical  Geography,MSci,FullTime,16000,117.21739130434783,80,89
+Aberystwyth  University,Physical  Geography  (with  integrated  year  in  industry),BSc,FullTime,16000,117.21739130434783,80,89
+Aberystwyth  University,Physical  Geography  (with  integrated  year  studying  abroad),BSc,FullTime,16000,117.21739130434783,80,89
+Aberystwyth  University,Physics,BSc,FullTime,23000,106.0,48,80
+Aberystwyth  University,Physics,MPhys,FullTime,23000,116.28571428571428,80,75
+Aberystwyth  University,Physics  (includes  year  zero),BSc,FullTime,23000,75.25,1,80
+Aberystwyth  University,Physics  (with  integrated  year  in  industry),MPhys,FullTime,23000,102.875,1,80
+Aberystwyth  University,Physics  (with  integrated  year  in  industry),BSc,FullTime,23000,102.875,1,80
+Aberystwyth  University,Physics  with  Planetary  &  Space  Physics,BSc,FullTime,23000,102.875,1,80
+Aberystwyth  University,Physics  with  Planetary  &  Space  Physics,MPhys,FullTime,23000,102.875,1,80
+Aberystwyth  University,Plant  Biology,BSc,FullTime,16000,122.0,48,100
+Aberystwyth  University,Plant  Biology  (with  year  in  industry),BSc,FullTime,16000,122.0,48,100
+Aberystwyth  University,Politics,BA,FullTime,16000,110.21052631578948,64,88
+Aberystwyth  University,Psychology,BSc,FullTime,16000,116.16666666666667,64,90
+Aberystwyth  University,Psychology  (with  integrated  year  in  industry),BSc,FullTime,16000,112.88235294117646,64,90
+Aberystwyth  University,Psychology  (with  integrated  year  studying  abroad),BSc,FullTime,16000,112.88235294117646,64,90
+Aberystwyth  University,Pure  Mathematics/Statistics,BSc,FullTime,18000,117.0,1,90
+Aberystwyth  University,Scenography  &  Theatre  Design/Drama  &  Theatre  Studies,BA,FullTime,16000,119.5,48,90
+Aberystwyth  University,Software  Engineering  (with  integrated  year  in  industry),BEng,FullTime,33000,96,1,100
+Aberystwyth  University,Software  Engineering  (with  integrated  year  in  industry),MEng,FullTime,23000,98.3076923076923,1,100
+Aberystwyth  University,Sport  and  Exercise  Science,BSc,FullTime,18000,107.25,1,95
+Aberystwyth  University,Sport  and  Exercise  Science  (with  year  in  industry),BSc,FullTime,18000,107.25,1,95
+Aberystwyth  University,Tourism  Management,BSc,FullTime,19000,119.5,1,100
+Aberystwyth  University,Veterinary  Biosciences,BSc,FullTime,18000,96,80,100
+Aberystwyth  University,Veterinary  Biosciences  (with  year  in  industry),BSc,FullTime,18000,96,64,100
+Aberystwyth  University,Welsh  (for  Beginners),BA,FullTime,18000,151.5,80,95
+Aberystwyth  University,Zoology,MBiol,FullTime,16000,119.5,1,95
+Aberystwyth  University,Zoology,BSc,FullTime,16000,112,1,95
+Aberystwyth  University,Zoology  (with  year  in  industry),BSc,FullTime,16000,119.5,1,95
+Academy  of  Live  and  Recorded  Arts,Professional  Acting,BA,FullTime,15000,139.25,48,95
+AECC,Chiropractic,MChiro,FullTime,27000,131.46153846153845,80,100
+Anglia  Ruskin  University,Abnormal  and  Clinical  Psychology,BSc,FullTime,19000,108.0,64,80
+Anglia  Ruskin  University,Accounting  and  Finance,BSc,FullTime,18000,71.5,1,84
+Anglia  Ruskin  University,Accounting  and  Finance,BSc,FullTime,18000,73.0,1,85
+Anglia  Ruskin  University,Accounting  and  Finance,BSc,FullTime,18000,64,1,85
+Anglia  Ruskin  University,Animal  Behaviour,BSc,FullTime,19000,67.75,1,90
+Anglia  Ruskin  University,Animal  Behaviour,BSc,FullTime,19000,112,1,75
+Anglia  Ruskin  University,Animal  Behaviour,BSc,FullTime,16000,88.33333333333333,1,95
+Anglia  Ruskin  University,Applied  Computer  Science,BSc,FullTime,22000,94.21052631578948,1,77
+Anglia  Ruskin  University,Applied  Nutritional  Science,BSc,FullTime,17000,101.625,48,91
+Anglia  Ruskin  University,Applied  Nutritional  Science,BSc,FullTime,17000,101.625,48,91
+Anglia  Ruskin  University,Archaeology  and  Landscape  History,BA,FullTime,18000,87.5,1,80
+Anglia  Ruskin  University,Architectural  Technology,BSc,FullTime,18000,92.0,48,95
+Anglia  Ruskin  University,Architectural  Technology,BSc,FullTime,18000,80,1,80
+Anglia  Ruskin  University,Architecture,BA,FullTime,18000,100.0909090909091,1,90
+Anglia  Ruskin  University,Architecture,BA,FullTime,18000,80,1,80
+Anglia  Ruskin  University,Assistant  Practitioner  (Nursing),FdSc,FullTime,22000,86.42857142857143,1,98
+Anglia  Ruskin  University,Audio  and  Music  Technology,BSc,FullTime,23000,108.0,48,85
+Anglia  Ruskin  University,Audio  and  Music  Technology,BSc,FullTime,23000,108.0,48,85
+Anglia  Ruskin  University,Banking  and  Finance,BSc,FullTime,18000,86.0,1,85
+Anglia  Ruskin  University,Banking  and  Finance,BSc,FullTime,18000,86.0,1,85
+Anglia  Ruskin  University,Biomedical  Science,BSc,FullTime,17000,99.0,48,81
+Anglia  Ruskin  University,Biomedical  Science,BSc,FullTime,17000,92.27272727272727,1,86
+Anglia  Ruskin  University,Bioscience,BSc,FullTime,18000,64,1,85
+Anglia  Ruskin  University,Building  Surveying,BSc,FullTime,25000,115.75,64,100
+Anglia  Ruskin  University,Building  Surveying,BSc,FullTime,25000,89.0,48,100
+Anglia  Ruskin  University,Business  and  Events  Management,BSc,FullTime,23000,107.25,1,85
+Anglia  Ruskin  University,Business  and  Healthcare  Management,BSc,FullTime,25000,82.36842105263158,1,84
+Anglia  Ruskin  University,Business  and  Healthcare  Management,BSc,FullTime,25000,82.36842105263158,1,84
+Anglia  Ruskin  University,Business  and  Hospitality  Management,BSc,FullTime,25000,82.36842105263158,1,84
+Anglia  Ruskin  University,Business  and  Hospitality  Management,BSc,FullTime,25000,82.36842105263158,1,84
+Anglia  Ruskin  University,Business  and  Human  Resource  Management,BSc,FullTime,20000,103.5,64,90

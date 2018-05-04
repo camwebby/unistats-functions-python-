@@ -24,27 +24,54 @@ UWE = "10007783"
 ##    if "Psychoanalytic Studies" in x["Title"]:
 ##        print(getCumulative(getTariffs(essex,x["KisCourseId"],x["KisMode"])))
 
+##for tution in getInstis():
+##    id1 = tution["PUBUKPRN"]
+##
+##    if tution["TEFOutcome"] != "DidNotParticipate" and tution["TEFOutcome"] != "Provisional":
+##
+##        for x in getData(id1):
+##            sleep(0.3)
+##            b = x["KisCourseId"]
+##            c = x["KisMode"]
+##            y = getCumulative(getTariffs(id1,b,c))
+##            info = getInfo(id1,b,c)
+##            ##    print("{} is the tariff for {}".format(y,x["Title"]))
+##            if len(getSalary(id1,b,c)) == 1:
+##                try:
+##                    print(id1,x["Title"],getSalary(id1,b,c)[0],tariffAvg(y),info["KisMode"],
+##                          info["KisAimLabel"],info["FoundationYearAvailable"],info["KisMode"],
+##                          info["LengthInYears"],info["SandwichAvailable"])
+##
+##                except:
+##                    continue
+##
+##
+
 for tution in getInstis():
     id1 = tution["PUBUKPRN"]
+    institution = tution["Name"]
 
-    if tution["TEFOutcome"] != "DidNotParticipate" and tution["TEFOutcome"] != "Provisional":
-
-        for x in getData(id1):
-            sleep(0.3)
+    for x in getData(id1):
+            sleep(0.4)
             b = x["KisCourseId"]
             c = x["KisMode"]
-            y = getCumulative(getTariffs(id1,b,c))
-            info = getInfo(id1,b,c)
-            ##    print("{} is the tariff for {}".format(y,x["Title"]))
-            if len(getSalary(id1,b,c)) == 1:
+            
+            if len(getSalary(id1, b, c)) == 1:
+                
+                info = getInfo(id1, b, c)
+                y = getCumulative(getTariffs(id1,b,c))
                 try:
-                    print(id1,x["Title"],getSalary(id1,b,c)[0],tariffAvg(y),info["KisMode"],
-                          info["KisAimLabel"],info["FoundationYearAvailable"],info["KisMode"],
-                          info["LengthInYears"],info["SandwichAvailable"])
-
+                    courseTitle = x["Title"]
+                    courseURL = info["CoursePageUrl"]
+                    courseLabel = info["KisAimLabel"]
+                    courseMode = c
+                    courseSalary = getSalary(id1, b, c)
+                    avgTariff = tariffAvg(y)
+                    miniTariff = minTariff(getTariffs(id1,b,c))
+                    courseEmployment = getWorkStudy(id1,b,c)
                 except:
-                    continue
-
+                    pass
+        #print(courseTitle, courseURL, courseLabel, courseMode, courseSalary, institution)
 
 
 
