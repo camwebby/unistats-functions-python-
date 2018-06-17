@@ -3,10 +3,9 @@ from time import sleep
 import csv
 
 
-with open("data2.csv","w") as dataFile:
+with open("data3.csv","w") as dataFile:
     wr = csv.writer(dataFile,quoting=csv.QUOTE_NONE,escapechar=' ')
     wr.writerow(["Institution, Course, Type, Study Mode, Foundation Year(s), Sandwich Year(s), Total years, Salary (6 months after), Median Tariff"])
-    print("Lol")
     for tution in getInstis():
         id1 = tution["PUBUKPRN"]
 

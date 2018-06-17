@@ -1,341 +1,859 @@
-Institution ,  Course ,  Label ,  Mode ,  Salary ,  avgTariff ,  lowerTariff ,  employment
-University  Of  Aberdeen,Accountancy  and  Finance,MA,FullTime,21000,186.0,80,90
-University  Of  Aberdeen,Animal  Behaviour,BSc,FullTime,18000,176,112,90
-University  Of  Aberdeen,Anthropology,MA,FullTime,19000,135.5,96,90
-University  Of  Aberdeen,Archaeology,BSc,FullTime,18000,166.8181818181818,96,85
-University  Of  Aberdeen,Archaeology,MA,FullTime,18000,166.8181818181818,96,85
-University  Of  Aberdeen,Bachelor  of  Divinity,BD,FullTime,18000,128,96,75
-University  Of  Aberdeen,Bachelor  of  Music,BMus,FullTime,18000,170.0,64,90
-University  Of  Aberdeen,Bachelor  of  Theology,BTh,FullTime,18000,128,96,75
-University  Of  Aberdeen,Behavioural  Biology,BSc,FullTime,18000,176,112,90
-University  Of  Aberdeen,Behavioural  Studies,MA,FullTime,18000,183.5,1,91
-University  Of  Aberdeen,Behavioural  Studies,BSc,FullTime,18000,183.5,1,91
-University  Of  Aberdeen,Biochemistry,BSc,FullTime,18000,112,1,90
-University  Of  Aberdeen,Biochemistry  with  Industrial  Placement,MSci,FullTime,18000,128,1,90
-University  Of  Aberdeen,Biological  Sciences,MSci,FullTime,18000,176,112,90
-University  Of  Aberdeen,Biological  Sciences,MA,FullTime,18000,176,112,90
-University  Of  Aberdeen,Biology,BSc,FullTime,18000,176,112,80
-University  Of  Aberdeen,Biomedical  Science  (Molecular  Biology)  with  Industrial  Placement,MSci,FullTime,18000,128,1,90
-University  Of  Aberdeen,Biomedical  Science  (Pharmacology)  with  Industrial  Placement,MSci,FullTime,19000,160,64,100
-University  Of  Aberdeen,Biomedical  Science  (Physiology)  with  Industrial  Placement,MSci,FullTime,18000,195.0,48,95
-University  Of  Aberdeen,Biomedical  Sciences  (Anatomy),BSc,FullTime,18000,197.625,1,95
-University  Of  Aberdeen,Biomedical  Sciences  (Anatomy)  with  Industrial  Placement,MSci,FullTime,18000,195.0,48,95
-University  Of  Aberdeen,Biomedical  Sciences  (Developmental  Biology),BSc,FullTime,18000,176,112,90
-University  Of  Aberdeen,Biomedical  Sciences  (Developmental  Biology)  with  Industrial  Placement,MSci,FullTime,18000,176,112,90
-University  Of  Aberdeen,Biomedical  Sciences  (Molecular  Biology),BSc,FullTime,18000,128,1,90
-University  Of  Aberdeen,Biomedical  Sciences  (Pharmacology),BSc,FullTime,19000,160,64,100
-University  Of  Aberdeen,Biomedical  Sciences  (Physiology),BSc,FullTime,18000,195.0,48,100
-University  Of  Aberdeen,Biotechnology  (Applied  Molecular  Biology),BSc,FullTime,26000,170.5,96,85
-University  Of  Aberdeen,Biotechnology  (Applied  Molecular  Biology)  with  Industrial  Placement,MSci,FullTime,26000,170.5,96,85
-University  Of  Aberdeen,Business  Management,MA,FullTime,21000,176,112,85
-University  Of  Aberdeen,Business  Management  and  Information  Systems,BSc,FullTime,26000,144,1,100
-University  Of  Aberdeen,Business  Management  and  Real  Estate,MA,FullTime,21000,160,1,80
-University  Of  Aberdeen,Celtic  &  Anglo-Saxon  Studies,MA,FullTime,19000,176,48,90
-University  Of  Aberdeen,Celtic  &  Anglo-Saxon  Studies  and  Film  &  Visual  Culture,MA,FullTime,19000,176,48,90
-University  Of  Aberdeen,Celtic  &  Anglo-Saxon  Studies  and  Gaelic  Studies,MA,FullTime,19000,176,48,90
-University  Of  Aberdeen,Chemical  Engineering,MEng,FullTime,30000,185.23076923076923,128,85
-University  Of  Aberdeen,Chemical  Engineering,BEng,FullTime,29000,146.14285714285714,96,65
-University  Of  Aberdeen,Chemistry,BSc,FullTime,20000,144,112,60
-University  Of  Aberdeen,Chemistry,MChem,FullTime,20000,160,112,95
-University  Of  Aberdeen,Civil  and  Environmental  Engineering,BEng,FullTime,26000,176,112,100
-University  Of  Aberdeen,Civil  and  Environmental  Engineering,MEng,FullTime,26000,176,112,100
-University  Of  Aberdeen,Civil  and  Structural  Engineering,MEng,FullTime,26000,176,112,100
-University  Of  Aberdeen,Civil  and  Structural  Engineering,BEng,FullTime,26000,176,112,100
-University  Of  Aberdeen,Civil  Engineering,BEng,FullTime,26000,176,112,100
-University  Of  Aberdeen,Civil  Engineering,MEng,FullTime,26000,176,112,100
-University  Of  Aberdeen,Civil  Engineering  with  Subsea  Technology,MEng,FullTime,26000,176,112,100
-University  Of  Aberdeen,Computing,MA,FullTime,26000,144,1,100
-University  Of  Aberdeen,Computing  Science,BSc,FullTime,26000,154.0,1,100
-University  Of  Aberdeen,Computing  Science,MEng,FullTime,26000,144,1,100
-University  Of  Aberdeen,Computing  Science  with  Industrial  Placement,MSci,FullTime,26000,144,1,100
-University  Of  Aberdeen,Computing  With  Industrial  Placement,MA,FullTime,26000,144,1,100
-University  Of  Aberdeen,Conservation  Biology,BSc,FullTime,18000,176,112,90
-University  Of  Aberdeen,Ecology,BSc,FullTime,18000,176,112,90
-University  Of  Aberdeen,Economics,MA,FullTime,20000,154.0,96,88
-University  Of  Aberdeen,Education,BMus,FullTime,22000,180.28571428571428,96,100
-University  Of  Aberdeen,Electrical  and  Electronic  Engineering,MEng,FullTime,26000,167.5,1,70
-University  Of  Aberdeen,Electrical  and  Electronic  Engineering,BEng,FullTime,26000,138.0,1,75
-University  Of  Aberdeen,Electrical  and  Electronic  Engineering  withRenewable  Energy,MEng,FullTime,26000,167.5,1,75
-University  Of  Aberdeen,Electronic  and  Software  Engineering,MEng,FullTime,26000,167.5,1,75
-University  Of  Aberdeen,Engineering,MEng,FullTime,25000,201.0,80,93
-University  Of  Aberdeen,Engineering,BEng,FullTime,25000,197.0,80,93
-University  Of  Aberdeen,Engineering  (Electronic  and  Software),MA,FullTime,26000,167.5,1,75
-University  Of  Aberdeen,English,MA,FullTime,18000,139.25,80,90
-University  Of  Aberdeen,English  and  Scottish  Literature,MA,FullTime,18000,128,1,90
-University  Of  Aberdeen,English  Law  and  European  Legal  Studies,LLB,FullTime,19000,198.42857142857142,144,94
-University  Of  Aberdeen,Environmental  Chemistry,BSc,FullTime,20000,160,112,70
-University  Of  Aberdeen,Environmental  Chemistry,MChem,FullTime,20000,160,112,70
-University  Of  Aberdeen,Environmental  Science,BSc,FullTime,22000,160,96,85
-University  Of  Aberdeen,Exercise  and  Health  Science,BSc,FullTime,18000,183.5,64,91
-University  Of  Aberdeen,Exercise  and  Health  Science  with  Industrial  Placement,BTh,FullTime,18000,183.5,64,91
-University  Of  Aberdeen,Film  and  Visual  Culture,MA,FullTime,18000,169.0,1,90
-University  Of  Aberdeen,Finance  and  Real  Estate,MA,FullTime,22000,181.0,80,100
-University  Of  Aberdeen,French  and  Spanish  &  Latin  American  Studies,MA,FullTime,19000,195.0,160,90
-University  Of  Aberdeen,French  Studies,MA,FullTime,19000,195.75,1,90
-University  Of  Aberdeen,French  Studies,MA,FullTime,19000,195.75,1,90
-University  Of  Aberdeen,Gaelic  Studies,MA,FullTime,19000,176,48,90
-University  Of  Aberdeen,Genetics,BSc,FullTime,18000,140.0,1,100
-University  Of  Aberdeen,Genetics  (Immunology),BSc,FullTime,18000,140.0,1,100
-University  Of  Aberdeen,Genetics  (Immunology)  with  Industrial  Placement,MSci,FullTime,18000,140.0,1,100
-University  Of  Aberdeen,Genetics  with  Industrial  Placement,MSci,FullTime,18000,140.0,1,100
-University  Of  Aberdeen,Geography,BSc,FullTime,22000,156.0,112,80
-University  Of  Aberdeen,Geography,MA,FullTime,22000,202.71428571428572,144,90
-University  Of  Aberdeen,Geology,MGeoSci,FullTime,18000,195.0,112,88
-University  Of  Aberdeen,Geology  and  Petroleum  Geology,BSc,FullTime,20000,165.0,96,88
-University  Of  Aberdeen,German  Studies,MA,FullTime,19000,144,1,90
-University  Of  Aberdeen,History,MA,FullTime,17000,178.30769230769232,96,95
-University  Of  Aberdeen,History  and  History  of  Art,MA,FullTime,18000,172.0,96,90
-University  Of  Aberdeen,History  of  Art,MA,FullTime,18000,172.0,96,80
-University  Of  Aberdeen,Immunology,BSc,FullTime,18000,181.0,1,95
-University  Of  Aberdeen,Immunology  with  Industrial  Placement,MSci,FullTime,19000,181.0,1,95
-University  Of  Aberdeen,Language  and  Linguistics,MA,FullTime,19000,128,112,85
-University  Of  Aberdeen,Law,LLB,FullTime,19000,203.25,128,94
-University  Of  Aberdeen,Law  Accelerated,LLB,FullTime,19000,198.42857142857142,144,94
-University  Of  Aberdeen,Law  with  English  Law,LLB,FullTime,19000,202.0,112,94
-University  Of  Aberdeen,Law  with  European  Legal  Studies,LLB,FullTime,19000,172.0,1,94
-University  Of  Aberdeen,Law  with  French  Law,LLB,FullTime,19000,198.42857142857142,144,100
-University  Of  Aberdeen,Law  with  German  Law,LLB,FullTime,19000,198.42857142857142,144,94
-University  Of  Aberdeen,Law  with  options  in  Accountancy,LLB,FullTime,19000,198.42857142857142,144,94
-University  Of  Aberdeen,Law  with  options  in  Business  Management,LLB,FullTime,19000,192,144,94
-University  Of  Aberdeen,Law  with  options  in  Economics,LLB,FullTime,19000,198.42857142857142,144,94
-University  Of  Aberdeen,Law  with  options  in  French  Language,LLB,FullTime,19000,198.42857142857142,144,94
-University  Of  Aberdeen,Law  with  options  in  Gaelic  Language,LLB,FullTime,19000,198.42857142857142,144,94
-University  Of  Aberdeen,Law  with  options  in  German  Language,LLB,FullTime,19000,198.42857142857142,144,94
-University  Of  Aberdeen,Law  with  options  in  Music,LLB,FullTime,19000,198.42857142857142,144,94
-University  Of  Aberdeen,Law  with  options  in  Spanish  Language,LLB,FullTime,19000,198.42857142857142,144,94
-University  Of  Aberdeen,Law  with  Spanish  Law,LLB,FullTime,19000,198.42857142857142,144,94
-University  Of  Aberdeen,Marine  Biology,BSc,FullTime,18000,186.0,96,95
-University  Of  Aberdeen,Master  of  Arts  Education,BEd,FullTime,22000,166.0,112,99
-University  Of  Aberdeen,Mechanical  Engineering,MEng,FullTime,25000,176,112,95
-University  Of  Aberdeen,Mechanical  Engineering,BEng,FullTime,25000,178.5,96,93
-University  Of  Aberdeen,Mechanical  Engineering  with  Business  Management,MEng,FullTime,25000,181.0,112,93
-University  Of  Aberdeen,Mechanical  Engineering  with  Oil  and  Gas  Studies,BEng,FullTime,25000,160,112,93
-University  Of  Aberdeen,Mechanical  Engineering  with  Subsea  Technology,MEng,FullTime,25000,181.0,112,90
-University  Of  Aberdeen,Medicine,MBChB,FullTime,30000,230.0,160,100
-University  Of  Aberdeen,Mental  Philosophy,MA,FullTime,18000,128,96,75
-University  Of  Aberdeen,Microbiology,BSc,FullTime,19000,181.0,1,95
-University  Of  Aberdeen,Microbiology  with  Industrial  Placement,MSci,FullTime,19000,181.0,1,95
-University  Of  Aberdeen,Music  and  Communities,BMus,FullTime,18000,160,64,95
-University  Of  Aberdeen,Natural  Philosophy,MA,FullTime,18000,171.25,1,90
-University  Of  Aberdeen,Oil  and  Gas  Chemistry,MChem,FullTime,20000,160,112,70
-University  Of  Aberdeen,Oil  and  Gas  Chemistry,BSc,FullTime,20000,160,112,70
-University  Of  Aberdeen,Petroleum  Engineering,MEng,FullTime,29000,186.0,112,70
-University  Of  Aberdeen,Petroleum  Engineering,BEng,FullTime,29000,112,48,70
-University  Of  Aberdeen,Pharmacology,BSc,FullTime,19000,163.75,64,100
-University  Of  Aberdeen,Pharmacology  with  Industrial  Placement,MSci,FullTime,19000,160,64,100
-University  Of  Aberdeen,Physical  Sciences,BSc,FullTime,18000,171.25,1,90
-University  Of  Aberdeen,Physics,BSc,FullTime,18000,169.0,112,90
-University  Of  Aberdeen,Physiology,BSc,FullTime,18000,144,48,85
-University  Of  Aberdeen,Physiology  with  Industrial  Placement,MSci,FullTime,18000,195.0,48,95
-University  Of  Aberdeen,Politics  and  International  Relations,MA,FullTime,20000,160,1,90
-University  Of  Aberdeen,Psychology,MA,FullTime,18000,160,1,90
-University  Of  Aberdeen,Psychology,BSc,FullTime,18000,197.0,96,95
-University  Of  Aberdeen,Sociology,MA,FullTime,20000,176,80,75
-University  Of  Aberdeen,Spanish  &  Latin  American  Studies,MA,FullTime,18000,149.0,1,90
-University  Of  Aberdeen,Sport  and  Exercise  Science,BSc,FullTime,18000,176,64,91
-University  Of  Aberdeen,Sports  and  Exercise  Science  with  Industrial  Placement,MSci,FullTime,18000,183.5,64,91
-University  Of  Aberdeen,Theology  &  Religious  Studies,MA,FullTime,18000,128,96,75
-University  Of  Aberdeen,Zoology,BSc,FullTime,18000,171.25,112,95
-University  Of  Abertay  Dundee,Accounting  and  Finance,BA,FullTime,20000,170.0,112,80
-University  Of  Abertay  Dundee,Biomedical  Sciences,BSc,FullTime,22000,156.0,64,85
-University  Of  Abertay  Dundee,Business  and  Human  Resource  Management,BA,FullTime,20000,154.0,96,92
-University  Of  Abertay  Dundee,Business  Management,BA,FullTime,20000,128,80,95
-University  Of  Abertay  Dundee,Computer  Arts,BA,FullTime,20000,176,96,82
-University  Of  Abertay  Dundee,Computer  Game  Applications  Development,BSc,FullTime,20000,156.5,112,82
-University  Of  Abertay  Dundee,Computer  Games  Technology,BSc,FullTime,22000,195.75,128,90
-University  Of  Abertay  Dundee,Computing,BSc,FullTime,18000,154.0,96,100
-University  Of  Abertay  Dundee,Criminology,BA,FullTime,14000,144,96,90
-University  Of  Abertay  Dundee,Ethical  Hacking,BSc,FullTime,22000,151.5,112,86
-University  Of  Abertay  Dundee,Fitness  Nutrition  and  Health,BSc,FullTime,18000,155.25,96,95
-University  Of  Abertay  Dundee,Food  and  Consumer  Sciences,BSc,FullTime,18000,155.25,96,95
-University  Of  Abertay  Dundee,Food  Nutrition  and  Health,BSc,FullTime,18000,151.5,96,100
-University  Of  Abertay  Dundee,Forensic  Sciences,BSc,FullTime,14000,144,112,90
-University  Of  Abertay  Dundee,Game  Design  and  Production  Management,BA,FullTime,20000,144,112,100
-University  Of  Abertay  Dundee,Management  and  the  Games  Industry,BA,FullTime,20000,154.0,96,92
-University  Of  Abertay  Dundee,Marketing  and  Business,BA,FullTime,20000,166.0,96,90
-University  Of  Abertay  Dundee,Nursing  (Mental  Health  Nursing),BSc,FullTime,22000,107.25,48,100
-University  Of  Abertay  Dundee,Psychology,BSc,FullTime,16000,179.0,128,100
-University  Of  Abertay  Dundee,Psychology  and  Counselling,BSc,FullTime,18000,167.5,80,97
-University  Of  Abertay  Dundee,Psychology  and  Forensic  Biology,BSc,FullTime,18000,162.14285714285714,112,90
-University  Of  Abertay  Dundee,Psychology  and  Human  Resource  Management,BSc,FullTime,18000,172.0,112,97
-University  Of  Abertay  Dundee,Social  Science,BA,FullTime,17000,149.0,112,95
-University  Of  Abertay  Dundee,Sociology,BA,FullTime,17000,149.0,112,95
-University  Of  Abertay  Dundee,Sound  and  Music  for  Games,BA,FullTime,20000,160,128,90
-University  Of  Abertay  Dundee,Sport  and  Exercise,BSc,FullTime,19000,144,112,95
-University  Of  Abertay  Dundee,Sport  and  Management,BA,FullTime,19000,112,64,92
-University  Of  Abertay  Dundee,Sport  and  Psychology,BSc,FullTime,19000,137.0,80,92
-Aberystwyth  University,Accounting  and  Finance,BSc,FullTime,17000,115.75,48,95
-Aberystwyth  University,Adventure  Tourism  Management,BSc,FullTime,19000,133.0,1,100
-Aberystwyth  University,Agriculture,BSc,FullTime,18000,122.9090909090909,48,79
-Aberystwyth  University,Agriculture  (with  integrated  year  in  industry),BSc,FullTime,18000,139.25,48,85
-Aberystwyth  University,Agriculture  with  Animal  Science  (with  integrated  year  in  industry),BSc,FullTime,18000,133.0,48,79
-Aberystwyth  University,Animal  Behaviour,BSc,FullTime,16000,133.0,64,89
-Aberystwyth  University,Animal  Behaviour  (with  year  in  industry),BSc,FullTime,16000,108.0,64,89
-Aberystwyth  University,Animal  Science,BSc,FullTime,18000,107.66666666666667,48,100
-Aberystwyth  University,Animal  Science  (with  year  in  industry),BSc,FullTime,18000,96,64,100
-Aberystwyth  University,Applied  Mathematics/Pure  Mathematics,BSc,FullTime,18000,117.0,1,90
-Aberystwyth  University,Applied  Mathematics/Statistics,BSc,FullTime,18000,117.0,1,90
-Aberystwyth  University,Art  History,BA,FullTime,16000,115.94736842105263,48,90
-Aberystwyth  University,Artificial  Intelligence  and  Robotics,BSc,FullTime,23000,108.0,1,98
-Aberystwyth  University,Artificial  Intelligence  and  Robotics  (inc  Integrated  Industrial  and  Professional  Training),BSc,FullTime,23000,83.0,1,98
-Aberystwyth  University,Astrophysics,BSc,FullTime,23000,80,64,100
-Aberystwyth  University,Astrophysics  (includes  year  zero),BSc,FullTime,23000,102.875,1,80
-Aberystwyth  University,Astudiaethau  Celtaidd,BA,FullTime,18000,151.5,80,95
-Aberystwyth  University,Astudiaethau  Ffilm  a  Theledu,BA,FullTime,16000,118.0,1,85
-Aberystwyth  University,Biochemistry,MBiol,FullTime,16000,115.75,64,90
-Aberystwyth  University,Biochemistry,BSc,FullTime,16000,117.0,64,90
-Aberystwyth  University,Biochemistry  (with  year  in  industry),BSc,FullTime,16000,115.75,64,90
-Aberystwyth  University,Biology,MBiol,FullTime,16000,108.0,64,89
-Aberystwyth  University,Biology,BSc,FullTime,16000,80,48,90
-Aberystwyth  University,Biology  (with  year  in  industry),BSc,FullTime,16000,108.0,64,89
-Aberystwyth  University,Business  &  Management,BSc,FullTime,19000,107.25,48,90
-Aberystwyth  University,Business  Economics,BSc,FullTime,16000,85.0,1,90
-Aberystwyth  University,Business  Finance,BSc,FullTime,18000,108.0,48,100
-Aberystwyth  University,Business  Information  Technology,BSc,FullTime,23000,98.3076923076923,1,90
-Aberystwyth  University,Business  Information  Technology  (includes  year  zero),BSc,FullTime,23000,98.3076923076923,1,98
-Aberystwyth  University,Business  Information  Technology  (with  integrated  year  in  industry),BSc,FullTime,23000,98.3076923076923,1,100
-Aberystwyth  University,Business  Law,LLB,FullTime,16000,119.5,64,95
-Aberystwyth  University,Celtic  Studies,BA,FullTime,18000,151.5,80,95
-Aberystwyth  University,Childhood  Studies,BA,FullTime,15000,119.5,48,100
-Aberystwyth  University,Computer  Graphics ,  Vision  and  Games,BSc,FullTime,23000,114.5,1,98
-Aberystwyth  University,Computer  Graphics ,  Vision  and  Games  (with  integrated  year  in  industry),BSc,FullTime,23000,115.75,48,98
-Aberystwyth  University,Computer  Science,BSc,FullTime,22000,101.0,1,100
-Aberystwyth  University,Computer  Science,MComp,FullTime,23000,98.3076923076923,1,98
-Aberystwyth  University,Computer  Science  (includes  year  zero),BSc,FullTime,23000,61.125,1,98
-Aberystwyth  University,Computer  Science  (with  integrated  year  in  industry),BSc,FullTime,23000,80,48,100
-Aberystwyth  University,Computer  Science  (with  integrated  year  in  industry),MComp,FullTime,23000,98.3076923076923,1,98
-Aberystwyth  University,Computer  Science  and  Artificial  Intelligence  (with  integrated  year  in  industry),BSc,FullTime,23000,96,1,98
-Aberystwyth  University,Computer  Science/Artificial  Intelligence,BSc,FullTime,23000,98.3076923076923,1,98
-Aberystwyth  University,Countryside  Conservation,BSc,FullTime,18000,122.9090909090909,48,80
-Aberystwyth  University,Countryside  Conservation  (with  integrated  year  in  industry),BSc,FullTime,18000,122.9090909090909,48,79
-Aberystwyth  University,Countryside  Management,BSc,FullTime,18000,122.9090909090909,48,79
-Aberystwyth  University,Countryside  Management  (with  integrated  year  in  industry),BSc,FullTime,18000,122.9090909090909,48,79
-Aberystwyth  University,Criminal  Law,LLB,FullTime,16000,119.5,64,95
-Aberystwyth  University,Criminology,BSc,FullTime,17000,112,1,91
-Aberystwyth  University,Cymraeg  (i  fyfyrwyr  iaith  gyntaf  ac  ail  iaith),BA,FullTime,18000,147.75,80,100
-Aberystwyth  University,Cymraeg  a'r  Ieithoedd  Celtaidd,BA,FullTime,18000,151.5,80,95
-Aberystwyth  University,Cymraeg  Proffesiynol,BA,FullTime,18000,178.14285714285714,128,95
-Aberystwyth  University,Daearyddiaeth,BSc,FullTime,16000,144,96,85
-Aberystwyth  University,Drama  &  Theatre  Studies,BA,FullTime,16000,117.0,1,90
-Aberystwyth  University,Drama  ac  Astudiaethau  Theatr,BA,FullTime,16000,119.5,48,90
-Aberystwyth  University,Ecology,BSc,FullTime,16000,96,64,75
-Aberystwyth  University,Ecology  (with  year  in  industry),BSc,FullTime,16000,108.0,64,89
-Aberystwyth  University,Economics,BSc,FullTime,16000,80,1,95
-Aberystwyth  University,Education,BA,FullTime,15000,112,64,100
-Aberystwyth  University,Engineering  Physics,BEng,FullTime,23000,102.875,1,80
-Aberystwyth  University,Engineering  Physics  (with  integrated  year  in  industry),MEng,FullTime,23000,102.875,1,80
-Aberystwyth  University,Engineering  Physics  (with  year  in  industry),BEng,FullTime,23000,102.875,1,80
-Aberystwyth  University,English  Literature,BA,FullTime,16000,106.0,64,90
-Aberystwyth  University,English  Literature  and  Creative  Writing,BA,FullTime,16000,112,48,85
-Aberystwyth  University,Environmental  Earth  Science,BSc,FullTime,23000,115.0,64,90
-Aberystwyth  University,Environmental  Science,BSc,FullTime,16000,117.21739130434783,80,89
-Aberystwyth  University,Equine  Science,BSc,FullTime,18000,112,64,80
-Aberystwyth  University,Equine  Science  (with  year  in  industry),BSc,FullTime,18000,122.9090909090909,48,79
-Aberystwyth  University,European  Law,LLB,FullTime,16000,119.5,64,95
-Aberystwyth  University,Film  &  Television  Studies,BA,FullTime,16000,119.5,1,93
-Aberystwyth  University,French,BA,FullTime,18000,123.25,48,95
-Aberystwyth  University,Genetics,BSc,FullTime,16000,102.42857142857143,64,95
-Aberystwyth  University,Genetics  (with  year  in  industry),BSc,FullTime,16000,103.5,64,100
-Aberystwyth  University,Genetics/Biochemistry,BSc,FullTime,16000,119.5,64,90
-Aberystwyth  University,Geography,BSc,FullTime,16000,118.81818181818181,64,92
-Aberystwyth  University,Geography  (with  integrated  year  in  industry),BSc,FullTime,16000,117.21739130434783,80,89
-Aberystwyth  University,Geography  (with  integrated  year  studying  abroad),BSc,FullTime,16000,117.21739130434783,80,89
-Aberystwyth  University,Gwleidyddiaeth,BA,FullTime,16000,110.21052631578948,64,88
-Aberystwyth  University,Gwleidyddiaeth  Ryngwladol,BA,FullTime,16000,110.21052631578948,64,88
-Aberystwyth  University,Gwleidyddiaeth  Ryngwladol  a  Gwleidyddiaeth  Cymru,BA,FullTime,16000,110.21052631578948,64,88
-Aberystwyth  University,Hanes,BA,FullTime,16000,115.94736842105263,48,90
-Aberystwyth  University,Hanes  a  Hanes  Cymru,BA,FullTime,16000,115.94736842105263,48,90
-Aberystwyth  University,History,BA,FullTime,16000,114.25,48,90
-Aberystwyth  University,History  (with  integrated  year  studying  abroad),BA,FullTime,16000,115.94736842105263,48,90
-Aberystwyth  University,History  and  Welsh  History,BA,FullTime,16000,115.94736842105263,48,90
-Aberystwyth  University,Human  Geography,MArts,FullTime,18000,103.5,64,80
-Aberystwyth  University,Human  Geography,BA,FullTime,16000,80,64,80
-Aberystwyth  University,Human  Geography  (with  integrated  year  in  industry),BA,FullTime,18000,103.5,64,80
-Aberystwyth  University,Human  Geography  (with  integrated  year  studying  abroad),BA,FullTime,18000,103.5,64,80
-Aberystwyth  University,Human  Rights,LLB,FullTime,16000,119.5,64,95
-Aberystwyth  University,International  Politics,BA,FullTime,16000,102.0,48,90
-Aberystwyth  University,International  Politics  and  Global  Development,BA,FullTime,16000,110.21052631578948,64,88
-Aberystwyth  University,International  Politics  and  Strategic  Studies,BA,FullTime,16000,122.0,64,88
-Aberystwyth  University,Internet  Computing  and  Systems  Administration,BSc,FullTime,23000,98.3076923076923,1,80
-Aberystwyth  University,Internet  Computing  and  Systems  Administration  (with  integrated  year  in  industry),BSc,FullTime,23000,98.3076923076923,1,98
-Aberystwyth  University,Law,BA,FullTime,16000,119.5,64,95
-Aberystwyth  University,Law,LLB,FullTime,16000,101.0,48,94
-Aberystwyth  University,Law  2  YEAR,LLB,FullTime,16000,119.5,64,95
-Aberystwyth  University,Marine  &  Freshwater  Biology,BSc,FullTime,16000,118.0,1,95
-Aberystwyth  University,Marine  and  Freshwater  Biology,BSc,FullTime,16000,108.0,64,89
-Aberystwyth  University,Marine  and  Freshwater  Biology  (with  year  in  industry),BSc,FullTime,16000,108.0,64,89
-Aberystwyth  University,Marketing,BSc,FullTime,19000,121.0,64,75
-Aberystwyth  University,Mathematical  and  Theoretical  Physics,MMath,FullTime,23000,102.875,1,80
-Aberystwyth  University,Mathematical  and  Theoretical  Physics,BSc,FullTime,23000,102.875,1,80
-Aberystwyth  University,Mathematics,BSc,FullTime,19000,112,1,95
-Aberystwyth  University,Mathematics,MMath,FullTime,18000,112,112,90
-Aberystwyth  University,Mathematics  (includes  year  zero),BSc,FullTime,18000,117.0,1,90
-Aberystwyth  University,Medieval  and  Early  Modern  History,BA,FullTime,16000,96,1,95
-Aberystwyth  University,Microbiology,MBiol,FullTime,16000,80,1,95
-Aberystwyth  University,Microbiology,BSc,FullTime,16000,106.0,1,100
-Aberystwyth  University,Microbiology  (with  year  in  industry),BSc,FullTime,16000,80,1,95
-Aberystwyth  University,Modern  and  Contemporary  History,BA,FullTime,16000,115.94736842105263,48,85
-Aberystwyth  University,Modern  Languages,BA,FullTime,18000,112,48,80
-Aberystwyth  University,Physical  Geography,BSc,FullTime,20000,96,1,80
-Aberystwyth  University,Physical  Geography,MSci,FullTime,16000,117.21739130434783,80,89
-Aberystwyth  University,Physical  Geography  (with  integrated  year  in  industry),BSc,FullTime,16000,117.21739130434783,80,89
-Aberystwyth  University,Physical  Geography  (with  integrated  year  studying  abroad),BSc,FullTime,16000,117.21739130434783,80,89
-Aberystwyth  University,Physics,BSc,FullTime,23000,106.0,48,80
-Aberystwyth  University,Physics,MPhys,FullTime,23000,116.28571428571428,80,75
-Aberystwyth  University,Physics  (includes  year  zero),BSc,FullTime,23000,75.25,1,80
-Aberystwyth  University,Physics  (with  integrated  year  in  industry),MPhys,FullTime,23000,102.875,1,80
-Aberystwyth  University,Physics  (with  integrated  year  in  industry),BSc,FullTime,23000,102.875,1,80
-Aberystwyth  University,Physics  with  Planetary  &  Space  Physics,BSc,FullTime,23000,102.875,1,80
-Aberystwyth  University,Physics  with  Planetary  &  Space  Physics,MPhys,FullTime,23000,102.875,1,80
-Aberystwyth  University,Plant  Biology,BSc,FullTime,16000,122.0,48,100
-Aberystwyth  University,Plant  Biology  (with  year  in  industry),BSc,FullTime,16000,122.0,48,100
-Aberystwyth  University,Politics,BA,FullTime,16000,110.21052631578948,64,88
-Aberystwyth  University,Psychology,BSc,FullTime,16000,116.16666666666667,64,90
-Aberystwyth  University,Psychology  (with  integrated  year  in  industry),BSc,FullTime,16000,112.88235294117646,64,90
-Aberystwyth  University,Psychology  (with  integrated  year  studying  abroad),BSc,FullTime,16000,112.88235294117646,64,90
-Aberystwyth  University,Pure  Mathematics/Statistics,BSc,FullTime,18000,117.0,1,90
-Aberystwyth  University,Scenography  &  Theatre  Design/Drama  &  Theatre  Studies,BA,FullTime,16000,119.5,48,90
-Aberystwyth  University,Software  Engineering  (with  integrated  year  in  industry),BEng,FullTime,33000,96,1,100
-Aberystwyth  University,Software  Engineering  (with  integrated  year  in  industry),MEng,FullTime,23000,98.3076923076923,1,100
-Aberystwyth  University,Sport  and  Exercise  Science,BSc,FullTime,18000,107.25,1,95
-Aberystwyth  University,Sport  and  Exercise  Science  (with  year  in  industry),BSc,FullTime,18000,107.25,1,95
-Aberystwyth  University,Tourism  Management,BSc,FullTime,19000,119.5,1,100
-Aberystwyth  University,Veterinary  Biosciences,BSc,FullTime,18000,96,80,100
-Aberystwyth  University,Veterinary  Biosciences  (with  year  in  industry),BSc,FullTime,18000,96,64,100
-Aberystwyth  University,Welsh  (for  Beginners),BA,FullTime,18000,151.5,80,95
-Aberystwyth  University,Zoology,MBiol,FullTime,16000,119.5,1,95
-Aberystwyth  University,Zoology,BSc,FullTime,16000,112,1,95
-Aberystwyth  University,Zoology  (with  year  in  industry),BSc,FullTime,16000,119.5,1,95
-Academy  of  Live  and  Recorded  Arts,Professional  Acting,BA,FullTime,15000,139.25,48,95
-AECC,Chiropractic,MChiro,FullTime,27000,131.46153846153845,80,100
-Anglia  Ruskin  University,Abnormal  and  Clinical  Psychology,BSc,FullTime,19000,108.0,64,80
-Anglia  Ruskin  University,Accounting  and  Finance,BSc,FullTime,18000,71.5,1,84
-Anglia  Ruskin  University,Accounting  and  Finance,BSc,FullTime,18000,73.0,1,85
-Anglia  Ruskin  University,Accounting  and  Finance,BSc,FullTime,18000,64,1,85
-Anglia  Ruskin  University,Animal  Behaviour,BSc,FullTime,19000,67.75,1,90
-Anglia  Ruskin  University,Animal  Behaviour,BSc,FullTime,19000,112,1,75
-Anglia  Ruskin  University,Animal  Behaviour,BSc,FullTime,16000,88.33333333333333,1,95
-Anglia  Ruskin  University,Applied  Computer  Science,BSc,FullTime,22000,94.21052631578948,1,77
-Anglia  Ruskin  University,Applied  Nutritional  Science,BSc,FullTime,17000,101.625,48,91
-Anglia  Ruskin  University,Applied  Nutritional  Science,BSc,FullTime,17000,101.625,48,91
-Anglia  Ruskin  University,Archaeology  and  Landscape  History,BA,FullTime,18000,87.5,1,80
-Anglia  Ruskin  University,Architectural  Technology,BSc,FullTime,18000,92.0,48,95
-Anglia  Ruskin  University,Architectural  Technology,BSc,FullTime,18000,80,1,80
-Anglia  Ruskin  University,Architecture,BA,FullTime,18000,100.0909090909091,1,90
-Anglia  Ruskin  University,Architecture,BA,FullTime,18000,80,1,80
-Anglia  Ruskin  University,Assistant  Practitioner  (Nursing),FdSc,FullTime,22000,86.42857142857143,1,98
-Anglia  Ruskin  University,Audio  and  Music  Technology,BSc,FullTime,23000,108.0,48,85
-Anglia  Ruskin  University,Audio  and  Music  Technology,BSc,FullTime,23000,108.0,48,85
-Anglia  Ruskin  University,Banking  and  Finance,BSc,FullTime,18000,86.0,1,85
-Anglia  Ruskin  University,Banking  and  Finance,BSc,FullTime,18000,86.0,1,85
-Anglia  Ruskin  University,Biomedical  Science,BSc,FullTime,17000,99.0,48,81
-Anglia  Ruskin  University,Biomedical  Science,BSc,FullTime,17000,92.27272727272727,1,86
-Anglia  Ruskin  University,Bioscience,BSc,FullTime,18000,64,1,85
-Anglia  Ruskin  University,Building  Surveying,BSc,FullTime,25000,115.75,64,100
-Anglia  Ruskin  University,Building  Surveying,BSc,FullTime,25000,89.0,48,100
-Anglia  Ruskin  University,Business  and  Events  Management,BSc,FullTime,23000,107.25,1,85
-Anglia  Ruskin  University,Business  and  Healthcare  Management,BSc,FullTime,25000,82.36842105263158,1,84
-Anglia  Ruskin  University,Business  and  Healthcare  Management,BSc,FullTime,25000,82.36842105263158,1,84
-Anglia  Ruskin  University,Business  and  Hospitality  Management,BSc,FullTime,25000,82.36842105263158,1,84
-Anglia  Ruskin  University,Business  and  Hospitality  Management,BSc,FullTime,25000,82.36842105263158,1,84
-Anglia  Ruskin  University,Business  and  Human  Resource  Management,BSc,FullTime,20000,103.5,64,90
+Institution,Course,Label,URL,Mode,Salary,avgTariff,lowerTariff,Employment
+University Of Aberdeen,Accountancy and Finance,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/NN34/,FullTime,21000,186.0,80,90
+University Of Aberdeen,Animal Behaviour,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C349/,FullTime,18000,176,112,90
+University Of Aberdeen,Anthropology,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/L600/,FullTime,19000,135.5,96,90
+University Of Aberdeen,Archaeology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/F420/,FullTime,18000,166.8181818181818,96,85
+University Of Aberdeen,Archaeology,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/F421/,FullTime,18000,166.8181818181818,96,85
+University Of Aberdeen,Bachelor of Divinity,BD,http://www.abdn.ac.uk/prospectus/ugrad/study/V600/,FullTime,18000,128,96,75
+University Of Aberdeen,Bachelor of Music,BMus,http://www.abdn.ac.uk/prospectus/ugrad/study/W300/,FullTime,18000,170.0,64,90
+University Of Aberdeen,Bachelor of Theology,BTh,http://www.abdn.ac.uk/prospectus/ugrad/study/V612/,FullTime,18000,128,96,75
+University Of Aberdeen,Behavioural Biology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C859/,FullTime,18000,176,112,90
+University Of Aberdeen,Behavioural Studies,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/C801/,FullTime,18000,183.5,1,91
+University Of Aberdeen,Behavioural Studies,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C803/,FullTime,18000,183.5,1,91
+University Of Aberdeen,Biochemistry,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C700,FullTime,18000,112,1,90
+University Of Aberdeen,Biochemistry with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/C701,FullTime,18000,128,1,90
+University Of Aberdeen,Biological Sciences,MSci,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/458/C900/,FullTime,18000,176,112,90
+University Of Aberdeen,Biological Sciences,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/C901/,FullTime,18000,176,112,90
+University Of Aberdeen,Biology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C100/,FullTime,18000,176,112,80
+University Of Aberdeen,Biomedical Science (Molecular Biology) with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/B9CR,FullTime,18000,128,1,90
+University Of Aberdeen,Biomedical Science (Pharmacology) with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/B9BF,FullTime,19000,160,64,100
+University Of Aberdeen,Biomedical Science (Physiology) with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/B9BA,FullTime,18000,195.0,48,95
+University Of Aberdeen,Biomedical Sciences (Anatomy),BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/B9BC,FullTime,18000,197.625,1,95
+University Of Aberdeen,Biomedical Sciences (Anatomy) with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/B9BD,FullTime,18000,195.0,48,95
+University Of Aberdeen,Biomedical Sciences (Developmental Biology),BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/B9C1,FullTime,18000,176,112,90
+University Of Aberdeen,Biomedical Sciences (Developmental Biology) with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/B9CC,FullTime,18000,176,112,90
+University Of Aberdeen,Biomedical Sciences (Molecular Biology),BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/B9C7,FullTime,18000,128,1,90
+University Of Aberdeen,Biomedical Sciences (Pharmacology),BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/B9B2,FullTime,19000,160,64,100
+University Of Aberdeen,Biomedical Sciences (Physiology),BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/B9B1,FullTime,18000,195.0,48,100
+University Of Aberdeen,Biotechnology (Applied Molecular Biology),BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/J700,FullTime,26000,170.5,96,85
+University Of Aberdeen,Biotechnology (Applied Molecular Biology) with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/J701/,FullTime,26000,170.5,96,85
+University Of Aberdeen,Business Management,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/N200,FullTime,21000,176,112,85
+University Of Aberdeen,Business Management and Information Systems,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/GN54/,FullTime,26000,144,1,100
+University Of Aberdeen,Business Management and Real Estate,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/K483/,FullTime,21000,160,1,80
+University Of Aberdeen,Celtic & Anglo-Saxon Studies,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/5Q28/,FullTime,19000,176,48,90
+University Of Aberdeen,Celtic & Anglo-Saxon Studies and Film & Visual Culture,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/7PQ9/,FullTime,19000,176,48,90
+University Of Aberdeen,Celtic & Anglo-Saxon Studies and Gaelic Studies,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/52Q8/,FullTime,19000,176,48,90
+University Of Aberdeen,Chemical Engineering,MEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H810/,FullTime,30000,185.23076923076923,128,85
+University Of Aberdeen,Chemical Engineering,BEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H813/,FullTime,29000,146.14285714285714,96,65
+University Of Aberdeen,Chemistry,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/F100/,FullTime,20000,144,112,60
+University Of Aberdeen,Chemistry,MChem,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/520/F105/,FullTime,20000,160,112,95
+University Of Aberdeen,Civil and Environmental Engineering,BEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H220/,FullTime,26000,176,112,100
+University Of Aberdeen,Civil and Environmental Engineering,MEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H255/,FullTime,26000,176,112,100
+University Of Aberdeen,Civil and Structural Engineering,MEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H225/,FullTime,26000,176,112,100
+University Of Aberdeen,Civil and Structural Engineering,BEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H221/,FullTime,26000,176,112,100
+University Of Aberdeen,Civil Engineering,BEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H200/,FullTime,26000,176,112,100
+University Of Aberdeen,Civil Engineering,MEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H205/,FullTime,26000,176,112,100
+University Of Aberdeen,Civil Engineering with Subsea Technology,MEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H229/,FullTime,26000,176,112,100
+University Of Aberdeen,Computing,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/G402/,FullTime,26000,144,1,100
+University Of Aberdeen,Computing Science,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/G400/,FullTime,26000,154.0,1,100
+University Of Aberdeen,Computing Science,MEng,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/528/I101/,FullTime,26000,144,1,100
+University Of Aberdeen,Computing Science with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/G401/,FullTime,26000,144,1,100
+University Of Aberdeen,Computing With Industrial Placement,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/G405/,FullTime,26000,144,1,100
+University Of Aberdeen,Conservation Biology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C161,FullTime,18000,176,112,90
+University Of Aberdeen,Ecology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/D430/,FullTime,18000,176,112,90
+University Of Aberdeen,Economics,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/L100/,FullTime,20000,154.0,96,88
+University Of Aberdeen,Education,BMus,http://www.abdn.ac.uk/prospectus/ugrad/study/XW13/,FullTime,22000,180.28571428571428,96,100
+University Of Aberdeen,Electrical and Electronic Engineering,MEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H605/,FullTime,26000,167.5,1,70
+University Of Aberdeen,Electrical and Electronic Engineering,BEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H620/,FullTime,26000,138.0,1,75
+University Of Aberdeen,Electrical and Electronic Engineering withRenewable Energy,MEng,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/902/H6H6/,FullTime,26000,167.5,1,75
+University Of Aberdeen,Electronic and Software Engineering,MEng,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/903/H6H3/,FullTime,26000,167.5,1,75
+University Of Aberdeen,Engineering,MEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H104/,FullTime,25000,201.0,80,93
+University Of Aberdeen,Engineering,BEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H100/,FullTime,25000,197.0,80,93
+University Of Aberdeen,Engineering (Electronic and Software),MA,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/904/H6H4/engineering-electronic-and-software/,FullTime,26000,167.5,1,75
+University Of Aberdeen,English,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/Q300/,FullTime,18000,139.25,80,90
+University Of Aberdeen,English and Scottish Literature,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/Q314/,FullTime,18000,128,1,90
+University Of Aberdeen,English Law and European Legal Studies,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M117/,FullTime,19000,198.42857142857142,144,94
+University Of Aberdeen,Environmental Chemistry,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/F142/,FullTime,20000,160,112,70
+University Of Aberdeen,Environmental Chemistry,MChem,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/598/F143/,FullTime,20000,160,112,70
+University Of Aberdeen,Environmental Science,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/F900/,FullTime,22000,160,96,85
+University Of Aberdeen,Exercise and Health Science,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C603/,FullTime,18000,183.5,64,91
+University Of Aberdeen,Exercise and Health Science with Industrial Placement,BTh,http://www.abdn.ac.uk/prospectus/ugrad/study/C601/,FullTime,18000,183.5,64,91
+University Of Aberdeen,Film and Visual Culture,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/W690/,FullTime,18000,169.0,1,90
+University Of Aberdeen,Finance and Real Estate,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/NK32/,FullTime,22000,181.0,80,100
+University Of Aberdeen,French and Spanish & Latin American Studies,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/RR14/,FullTime,19000,195.0,160,90
+University Of Aberdeen,French Studies,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/R120/,FullTime,19000,195.75,1,90
+University Of Aberdeen,French Studies,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/R101/,FullTime,19000,195.75,1,90
+University Of Aberdeen,Gaelic Studies,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/Q530/,FullTime,19000,176,48,90
+University Of Aberdeen,Genetics,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C400,FullTime,18000,140.0,1,100
+University Of Aberdeen,Genetics (Immunology),BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C450/,FullTime,18000,140.0,1,100
+University Of Aberdeen,Genetics (Immunology) with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/C451,FullTime,18000,140.0,1,100
+University Of Aberdeen,Genetics with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/C401,FullTime,18000,140.0,1,100
+University Of Aberdeen,Geography,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/F800,FullTime,22000,156.0,112,80
+University Of Aberdeen,Geography,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/L700,FullTime,22000,202.71428571428572,144,90
+University Of Aberdeen,Geology,MGeoSci,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/679/F600/,FullTime,18000,195.0,112,88
+University Of Aberdeen,Geology and Petroleum Geology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/F602/,FullTime,20000,165.0,96,88
+University Of Aberdeen,German Studies,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/R220/,FullTime,19000,144,1,90
+University Of Aberdeen,History,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/V100/,FullTime,17000,178.30769230769232,96,95
+University Of Aberdeen,History and History of Art,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/VV13/,FullTime,18000,172.0,96,90
+University Of Aberdeen,History of Art,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/V350/,FullTime,18000,172.0,96,80
+University Of Aberdeen,Immunology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C552,FullTime,18000,181.0,1,95
+University Of Aberdeen,Immunology with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/C550/,FullTime,19000,181.0,1,95
+University Of Aberdeen,Language and Linguistics,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/Q190/,FullTime,19000,128,112,85
+University Of Aberdeen,Law,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M114/,FullTime,19000,203.25,128,94
+University Of Aberdeen,Law Accelerated,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M115/,FullTime,19000,198.42857142857142,144,94
+University Of Aberdeen,Law with English Law,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M2M1/,FullTime,19000,202.0,112,94
+University Of Aberdeen,Law with European Legal Studies,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M127/,FullTime,19000,172.0,1,94
+University Of Aberdeen,Law with French Law,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M121/,FullTime,19000,198.42857142857142,144,100
+University Of Aberdeen,Law with German Law,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M123/,FullTime,19000,198.42857142857142,144,94
+University Of Aberdeen,Law with options in Accountancy,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M1N4/,FullTime,19000,198.42857142857142,144,94
+University Of Aberdeen,Law with options in Business Management,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M1N2/,FullTime,19000,192,144,94
+University Of Aberdeen,Law with options in Economics,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M1L1/,FullTime,19000,198.42857142857142,144,94
+University Of Aberdeen,Law with options in French Language,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M125/,FullTime,19000,198.42857142857142,144,94
+University Of Aberdeen,Law with options in Gaelic Language,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M128/,FullTime,19000,198.42857142857142,144,94
+University Of Aberdeen,Law with options in German Language,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M124/,FullTime,19000,198.42857142857142,144,94
+University Of Aberdeen,Law with options in Music,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M1W3/,FullTime,19000,198.42857142857142,144,94
+University Of Aberdeen,Law with options in Spanish Language,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M122/,FullTime,19000,198.42857142857142,144,94
+University Of Aberdeen,Law with Spanish Law,LLB,http://www.abdn.ac.uk/prospectus/ugrad/study/M126/,FullTime,19000,198.42857142857142,144,94
+University Of Aberdeen,Marine Biology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C350/,FullTime,18000,186.0,96,95
+University Of Aberdeen,Master of Arts Education,BEd,http://www.abdn.ac.uk/prospectus/ugrad/study/X120/,FullTime,22000,166.0,112,99
+University Of Aberdeen,Mechanical Engineering,MEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H305/,FullTime,25000,176,112,95
+University Of Aberdeen,Mechanical Engineering,BEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H300/,FullTime,25000,178.5,96,93
+University Of Aberdeen,Mechanical Engineering with Business Management,MEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H3N2/,FullTime,25000,181.0,112,93
+University Of Aberdeen,Mechanical Engineering with Oil and Gas Studies,BEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H3H8/,FullTime,25000,160,112,93
+University Of Aberdeen,Mechanical Engineering with Subsea Technology,MEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H309/,FullTime,25000,181.0,112,90
+University Of Aberdeen,Medicine,MBChB,http://www.abdn.ac.uk/prospectus/ugrad/study/A100/,FullTime,30000,230.0,160,100
+University Of Aberdeen,Mental Philosophy,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/V500/,FullTime,18000,128,96,75
+University Of Aberdeen,Microbiology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C500/,FullTime,19000,181.0,1,95
+University Of Aberdeen,Microbiology with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/C501/,FullTime,19000,181.0,1,95
+University Of Aberdeen,Music and Communities,BMus,http://www.abdn.ac.uk/prospectus/ugrad/study/W390/,FullTime,18000,160,64,95
+University Of Aberdeen,Natural Philosophy,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/F301,FullTime,18000,171.25,1,90
+University Of Aberdeen,Oil and Gas Chemistry,MChem,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/808/F110/,FullTime,20000,160,112,70
+University Of Aberdeen,Oil and Gas Chemistry,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/F111/,FullTime,20000,160,112,70
+University Of Aberdeen,Petroleum Engineering,MEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H850/,FullTime,29000,186.0,112,70
+University Of Aberdeen,Petroleum Engineering,BEng,http://www.abdn.ac.uk/prospectus/ugrad/study/H851/,FullTime,29000,112,48,70
+University Of Aberdeen,Pharmacology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/B210,FullTime,19000,163.75,64,100
+University Of Aberdeen,Pharmacology with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/B211/,FullTime,19000,160,64,100
+University Of Aberdeen,Physical Sciences,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/F302/,FullTime,18000,171.25,1,90
+University Of Aberdeen,Physics,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/F300/,FullTime,18000,169.0,112,90
+University Of Aberdeen,Physiology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/B120,FullTime,18000,144,48,85
+University Of Aberdeen,Physiology with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/B121,FullTime,18000,195.0,48,95
+University Of Aberdeen,Politics and International Relations,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/L240/,FullTime,20000,160,1,90
+University Of Aberdeen,Psychology,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/C802/,FullTime,18000,160,1,90
+University Of Aberdeen,Psychology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C800/,FullTime,18000,197.0,96,95
+University Of Aberdeen,Sociology,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/L300,FullTime,20000,176,80,75
+University Of Aberdeen,Spanish & Latin American Studies,MA,http://www.abdn.ac.uk/prospectus/ugrad/study/T711/,FullTime,18000,149.0,1,90
+University Of Aberdeen,Sport and Exercise Science,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C600/,FullTime,18000,176,64,91
+University Of Aberdeen,Sports and Exercise Science with Industrial Placement,MSci,http://www.abdn.ac.uk/prospectus/ugrad/study/C602,FullTime,18000,183.5,64,91
+University Of Aberdeen,Theology & Religious Studies,MA,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/535/V605/theology-and-religious-studies/,FullTime,18000,128,96,75
+University Of Aberdeen,Zoology,BSc,http://www.abdn.ac.uk/prospectus/ugrad/study/C300/,FullTime,18000,171.25,112,95
+University Of Abertay Dundee,Accounting and Finance,BA,http://www.abertay.ac.uk/studying/ug/accounting-and-finance-ba/,FullTime,20000,170.0,112,80
+University Of Abertay Dundee,Biomedical Sciences,BSc,http://www.abertay.ac.uk/studying/ug/biomedical-science-bsc/,FullTime,22000,156.0,64,85
+University Of Abertay Dundee,Business and Human Resource Management,BA,https://www.abertay.ac.uk/studying/undergraduate/ba-business-and-human-resource-management/name-33249-en.php,FullTime,20000,154.0,96,92
+University Of Abertay Dundee,Business Management,BA,http://www.abertay.ac.uk/studying/ug/business-management-ba/,FullTime,20000,128,80,95
+University Of Abertay Dundee,Computer Arts,BA,http://www.abertay.ac.uk/studying/ug/comparts/,FullTime,20000,176,96,82
+University Of Abertay Dundee,Computer Game Applications Development,BSc,http://www.abertay.ac.uk/studying/ug/cgad/,FullTime,20000,156.5,112,82
+University Of Abertay Dundee,Computer Games Technology,BSc,http://www.abertay.ac.uk/studying/ug/comopgamestech/,FullTime,22000,195.75,128,90
+University Of Abertay Dundee,Computing,BSc,http://www.abertay.ac.uk/studying/ug/computing/,FullTime,18000,154.0,96,100
+University Of Abertay Dundee,Criminology,BA,http://www.abertay.ac.uk/studying/ug/criminology-ug-bsc/,FullTime,14000,144,96,90
+University Of Abertay Dundee,Ethical Hacking,BSc,http://www.abertay.ac.uk/studying/ug/ethhac/,FullTime,22000,151.5,112,86
+University Of Abertay Dundee,Fitness Nutrition and Health,BSc,https://www.abertay.ac.uk/studying/undergraduate/bsc-fitness-nutrition-and-health/name-33252-en.php,FullTime,18000,155.25,96,95
+University Of Abertay Dundee,Food and Consumer Sciences,BSc,http://www.abertay.ac.uk/studying/ug/fcscience/,FullTime,18000,155.25,96,95
+University Of Abertay Dundee,Food Nutrition and Health,BSc,http://www.abertay.ac.uk/studying/ug/fnh/,FullTime,18000,151.5,96,100
+University Of Abertay Dundee,Forensic Sciences,BSc,http://www.abertay.ac.uk/studying/ug/forsc/,FullTime,14000,144,112,90
+University Of Abertay Dundee,Game Design and Production Management,BA,http://www.abertay.ac.uk/studying/ug/gdpm/,FullTime,20000,144,112,100
+University Of Abertay Dundee,Management and the Games Industry,BA,https://www.abertay.ac.uk/studying/undergraduate/ba-management-and-the-games-industry/name-33251-en.php,FullTime,20000,154.0,96,92
+University Of Abertay Dundee,Marketing and Business,BA,http://www.abertay.ac.uk/studying/ug/mb/,FullTime,20000,166.0,96,90
+University Of Abertay Dundee,Nursing (Mental Health Nursing),BSc,http://www.abertay.ac.uk/studying/ug/mhn/,FullTime,22000,107.25,48,100
+University Of Abertay Dundee,Psychology,BSc,http://www.abertay.ac.uk/studying/ug/psych/,FullTime,16000,179.0,128,100
+University Of Abertay Dundee,Psychology and Counselling,BSc,http://www.abertay.ac.uk/studying/ug/psycounsel/,FullTime,18000,167.5,80,97
+University Of Abertay Dundee,Psychology and Forensic Biology,BSc,http://www.abertay.ac.uk/studying/ug/psychology-forensic-biology-bsc/,FullTime,18000,162.14285714285714,112,90
+University Of Abertay Dundee,Psychology and Human Resource Management,BSc,https://www.abertay.ac.uk/studying/undergraduate/bsc-psychology-and-human-resource-management/name-33253-en.php,FullTime,18000,172.0,112,97
+University Of Abertay Dundee,Social Science,BA,http://www.abertay.ac.uk/studying/ug/sosc/,FullTime,17000,149.0,112,95
+University Of Abertay Dundee,Sociology,BA,http://www.abertay.ac.uk/studying/ug/soc/,FullTime,17000,149.0,112,95
+University Of Abertay Dundee,Sound and Music for Games,BA,http://www.abertay.ac.uk/studying/ug/sound-music-games-ba/,FullTime,20000,160,128,90
+University Of Abertay Dundee,Sport and Exercise,BSc,http://www.abertay.ac.uk/studying/ug/spex/,FullTime,19000,144,112,95
+University Of Abertay Dundee,Sport and Management,BA,http://www.abertay.ac.uk/studying/ug/sm/,FullTime,19000,112,64,92
+University Of Abertay Dundee,Sport and Psychology,BSc,http://www.abertay.ac.uk/studying/ug/spsy/,FullTime,19000,137.0,80,92
+Aberystwyth University,Accounting and Finance,BSc,http://www.aber.ac.uk/courses/?73D9YL,FullTime,17000,115.75,48,95
+Aberystwyth University,Adventure Tourism Management,BSc,http://www.aber.ac.uk/courses/?6UGHXV,FullTime,19000,133.0,1,100
+Aberystwyth University,Agriculture,BSc,http://www.aber.ac.uk/courses/?R85VW8,FullTime,18000,122.9090909090909,48,79
+Aberystwyth University,Agriculture (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?4S5HG8,FullTime,18000,139.25,48,85
+Aberystwyth University,Agriculture with Animal Science (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?P3C69U,FullTime,18000,133.0,48,79
+Aberystwyth University,Animal Behaviour,BSc,http://www.aber.ac.uk/courses/?7HUXJN,FullTime,16000,133.0,64,89
+Aberystwyth University,Animal Behaviour (with year in industry),BSc,http://www.aber.ac.uk/courses/?ZDPRAE,FullTime,16000,108.0,64,89
+Aberystwyth University,Animal Science,BSc,http://www.aber.ac.uk/courses/?V23QGA,FullTime,18000,107.66666666666667,48,100
+Aberystwyth University,Animal Science (with year in industry),BSc,http://www.aber.ac.uk/courses/?LSXXE3,FullTime,18000,96,64,100
+Aberystwyth University,Applied Mathematics/Pure Mathematics,BSc,http://www.aber.ac.uk/courses/?VHVG4Y,FullTime,18000,117.0,1,90
+Aberystwyth University,Applied Mathematics/Statistics,BSc,http://www.aber.ac.uk/courses/?PVJF4H,FullTime,18000,117.0,1,90
+Aberystwyth University,Art History,BA,http://www.aber.ac.uk/courses/?JNXE6Y,FullTime,16000,115.94736842105263,48,90
+Aberystwyth University,Artificial Intelligence and Robotics,BSc,http://www.aber.ac.uk/courses/?2V5QLZ,FullTime,23000,108.0,1,98
+Aberystwyth University,Artificial Intelligence and Robotics (inc Integrated Industrial and Professional Training),BSc,http://www.aber.ac.uk/courses/?HSWGEN,FullTime,23000,83.0,1,98
+Aberystwyth University,Astrophysics,BSc,http://www.aber.ac.uk/courses/?CJZ7C4,FullTime,23000,80,64,100
+Aberystwyth University,Astrophysics,MPhys,http://www.aber.ac.uk/courses/?ZWQPUK,FullTime,23000,107.25,1,75
+Aberystwyth University,Astrophysics (includes year zero),BSc,http://www.aber.ac.uk/courses/?4QGUKU,FullTime,23000,102.875,1,80
+Aberystwyth University,Astudiaethau Celtaidd,BA,http://www.aber.ac.uk/courses/?RM88UJ,FullTime,18000,151.5,80,95
+Aberystwyth University,Astudiaethau Ffilm a Theledu,BA,http://www.aber.ac.uk/courses/?LBBWQ2,FullTime,16000,118.0,1,85
+Aberystwyth University,Biochemistry,MBiol,http://www.aber.ac.uk/courses/?WFRNFF,FullTime,16000,115.75,64,90
+Aberystwyth University,Biochemistry,BSc,http://www.aber.ac.uk/courses/?AHNAQF,FullTime,16000,117.0,64,90
+Aberystwyth University,Biochemistry (with year in industry),BSc,http://www.aber.ac.uk/courses/?CSHTS6,FullTime,16000,115.75,64,90
+Aberystwyth University,Biology,MBiol,http://www.aber.ac.uk/courses/?Y2B3UY,FullTime,16000,108.0,64,89
+Aberystwyth University,Biology,BSc,http://www.aber.ac.uk/courses/?FF3VHG,FullTime,16000,80,48,90
+Aberystwyth University,Biology (with year in industry),BSc,http://www.aber.ac.uk/courses/?WGBTMP,FullTime,16000,108.0,64,89
+Aberystwyth University,Business & Management,BSc,http://www.aber.ac.uk/courses/?E9CDKY,FullTime,19000,107.25,48,90
+Aberystwyth University,Business Economics,BSc,http://www.aber.ac.uk/courses/?DYTE48,FullTime,16000,85.0,1,90
+Aberystwyth University,Business Finance,BSc,http://www.aber.ac.uk/courses/?9X6FVF,FullTime,18000,108.0,48,100
+Aberystwyth University,Business Information Technology,BSc,http://www.aber.ac.uk/courses/?KRVNF6,FullTime,23000,98.3076923076923,1,90
+Aberystwyth University,Business Information Technology (includes year zero),BSc,http://www.aber.ac.uk/courses/?VVEGHS,FullTime,23000,98.3076923076923,1,98
+Aberystwyth University,Business Information Technology (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?A2LZGD,FullTime,23000,98.3076923076923,1,100
+Aberystwyth University,Business Law,LLB,http://www.aber.ac.uk/courses/?RGGD97,FullTime,16000,119.5,64,95
+Aberystwyth University,Celtic Studies,BA,http://www.aber.ac.uk/courses/?XAHEH3,FullTime,18000,151.5,80,95
+Aberystwyth University,Childhood Studies,BA,http://www.aber.ac.uk/courses/?DVRFCB,FullTime,15000,119.5,48,100
+Aberystwyth University,Computer Graphics~, Vision and Games,BSc,http://www.aber.ac.uk/courses/?GJJW5Z,FullTime,23000,114.5,1,98
+Aberystwyth University,Computer Graphics~, Vision and Games (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?W2ZLXP,FullTime,23000,115.75,48,98
+Aberystwyth University,Computer Science,BSc,http://www.aber.ac.uk/courses/?8RT59E,FullTime,22000,101.0,1,100
+Aberystwyth University,Computer Science,MComp,http://www.aber.ac.uk/courses/?LLW2JY,FullTime,23000,98.3076923076923,1,98
+Aberystwyth University,Computer Science (includes year zero),BSc,http://www.aber.ac.uk/courses/?C5XREH,FullTime,23000,61.125,1,98
+Aberystwyth University,Computer Science (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?QDDKMK,FullTime,23000,80,48,100
+Aberystwyth University,Computer Science (with integrated year in industry),MComp,http://www.aber.ac.uk/courses/?N24C2J,FullTime,23000,98.3076923076923,1,98
+Aberystwyth University,Computer Science and Artificial Intelligence (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?6UDPVA,FullTime,23000,96,1,98
+Aberystwyth University,Computer Science/Artificial Intelligence,BSc,http://www.aber.ac.uk/courses/?AKU8YA,FullTime,23000,98.3076923076923,1,98
+Aberystwyth University,Countryside Conservation,BSc,http://www.aber.ac.uk/courses/?FU387J,FullTime,18000,122.9090909090909,48,80
+Aberystwyth University,Countryside Conservation (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?QRUCQ6,FullTime,18000,122.9090909090909,48,79
+Aberystwyth University,Countryside Management,BSc,http://www.aber.ac.uk/courses/?PFUSCK,FullTime,18000,122.9090909090909,48,79
+Aberystwyth University,Countryside Management (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?QYDGTL,FullTime,18000,122.9090909090909,48,79
+Aberystwyth University,Criminal Law,LLB,http://www.aber.ac.uk/courses/?ZJKN73,FullTime,16000,119.5,64,95
+Aberystwyth University,Criminology,BSc,http://www.aber.ac.uk/courses/?QA6VFH,FullTime,17000,112,1,91
+Aberystwyth University,Cymraeg (i fyfyrwyr iaith gyntaf ac ail iaith),BA,http://www.aber.ac.uk/courses/?FXNBWK,FullTime,18000,147.75,80,100
+Aberystwyth University,Cymraeg a'r Ieithoedd Celtaidd,BA,http://www.aber.ac.uk/courses/?BWMPE9,FullTime,18000,151.5,80,95
+Aberystwyth University,Cymraeg Proffesiynol,BA,http://www.aber.ac.uk/courses/?PXG8F6,FullTime,18000,178.14285714285714,128,95
+Aberystwyth University,Daearyddiaeth,BSc,http://www.aber.ac.uk/courses/?USMVG2,FullTime,16000,144,96,85
+Aberystwyth University,Drama & Theatre Studies,BA,http://www.aber.ac.uk/courses/?CXHGPQ,FullTime,16000,117.0,1,90
+Aberystwyth University,Drama ac Astudiaethau Theatr,BA,http://www.aber.ac.uk/courses/?VXG9MC,FullTime,16000,119.5,48,90
+Aberystwyth University,Ecology,BSc,http://www.aber.ac.uk/courses/?N4SD66,FullTime,16000,96,64,75
+Aberystwyth University,Ecology (with year in industry),BSc,http://www.aber.ac.uk/courses/?7R5JYW,FullTime,16000,108.0,64,89
+Aberystwyth University,Economics,BSc,http://www.aber.ac.uk/courses/?BVES87,FullTime,16000,80,1,95
+Aberystwyth University,Education,BA,http://www.aber.ac.uk/courses/?X9YBQY,FullTime,15000,112,64,100
+Aberystwyth University,Engineering Physics,BEng,http://www.aber.ac.uk/courses/?9TNKU5,FullTime,23000,102.875,1,80
+Aberystwyth University,Engineering Physics (with integrated year in industry),MEng,http://www.aber.ac.uk/courses/?74G9DY,FullTime,23000,102.875,1,80
+Aberystwyth University,Engineering Physics (with year in industry),BEng,http://www.aber.ac.uk/courses/?PP3URP,FullTime,23000,102.875,1,80
+Aberystwyth University,English Literature,BA,http://www.aber.ac.uk/courses/?H3XD2C,FullTime,16000,106.0,64,90
+Aberystwyth University,English Literature and Creative Writing,BA,http://www.aber.ac.uk/courses/?WNMSJD,FullTime,16000,112,48,85
+Aberystwyth University,Environmental Earth Science,BSc,http://www.aber.ac.uk/courses/?L79NU3,FullTime,23000,115.0,64,90
+Aberystwyth University,Environmental Science,BSc,http://www.aber.ac.uk/courses/?U5TEW5,FullTime,16000,117.21739130434783,80,89
+Aberystwyth University,Equine Science,BSc,http://www.aber.ac.uk/courses/?CGRMGS,FullTime,18000,112,64,80
+Aberystwyth University,Equine Science (with year in industry),BSc,http://www.aber.ac.uk/courses/?GQYCC4,FullTime,18000,122.9090909090909,48,79
+Aberystwyth University,European Law,LLB,http://www.aber.ac.uk/courses/?SNFC6H,FullTime,16000,119.5,64,95
+Aberystwyth University,Film & Television Studies,BA,http://www.aber.ac.uk/courses/?2MGP3W,FullTime,16000,119.5,1,93
+Aberystwyth University,French,BA,http://www.aber.ac.uk/courses/?Z4367U,FullTime,18000,123.25,48,95
+Aberystwyth University,Genetics,BSc,http://www.aber.ac.uk/courses/?4E8LNP,FullTime,16000,102.42857142857143,64,95
+Aberystwyth University,Genetics (with year in industry),BSc,http://www.aber.ac.uk/courses/?6M9NF9,FullTime,16000,103.5,64,100
+Aberystwyth University,Genetics/Biochemistry,BSc,http://www.aber.ac.uk/courses/?NDACCB,FullTime,16000,119.5,64,90
+Aberystwyth University,Geography,BSc,http://www.aber.ac.uk/courses/?TD6VK4,FullTime,16000,118.81818181818181,64,92
+Aberystwyth University,Geography (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?E9DMPP,FullTime,16000,117.21739130434783,80,89
+Aberystwyth University,Geography (with integrated year studying abroad),BSc,http://www.aber.ac.uk/courses/?HYNGZV,FullTime,16000,117.21739130434783,80,89
+Aberystwyth University,Gwleidyddiaeth,BA,http://www.aber.ac.uk/courses/?BGPHD7,FullTime,16000,110.21052631578948,64,88
+Aberystwyth University,Gwleidyddiaeth Ryngwladol,BA,http://www.aber.ac.uk/courses/?8KAS3W,FullTime,16000,110.21052631578948,64,88
+Aberystwyth University,Gwleidyddiaeth Ryngwladol a Gwleidyddiaeth Cymru,BA,http://www.aber.ac.uk/courses/?WPKKVK,FullTime,16000,110.21052631578948,64,88
+Aberystwyth University,Hanes,BA,http://www.aber.ac.uk/courses/?L24LFC,FullTime,16000,115.94736842105263,48,90
+Aberystwyth University,Hanes a Hanes Cymru,BA,http://www.aber.ac.uk/courses/?C5X3FC,FullTime,16000,115.94736842105263,48,90
+Aberystwyth University,History,BA,http://www.aber.ac.uk/courses/?KXBK7N,FullTime,16000,114.25,48,90
+Aberystwyth University,History (with integrated year studying abroad),BA,http://www.aber.ac.uk/courses/?RFU329,FullTime,16000,115.94736842105263,48,90
+Aberystwyth University,History and Welsh History,BA,http://www.aber.ac.uk/courses/?Y6YF7X,FullTime,16000,115.94736842105263,48,90
+Aberystwyth University,Human Geography,MArts,http://www.aber.ac.uk/courses/?HGWS8E,FullTime,18000,103.5,64,80
+Aberystwyth University,Human Geography,BA,http://www.aber.ac.uk/courses/?G4B4TW,FullTime,16000,80,64,80
+Aberystwyth University,Human Geography (with integrated year in industry),BA,http://www.aber.ac.uk/courses/?6L535K,FullTime,18000,103.5,64,80
+Aberystwyth University,Human Geography (with integrated year studying abroad),BA,http://www.aber.ac.uk/courses/?Z6SFUJ,FullTime,18000,103.5,64,80
+Aberystwyth University,Human Rights,LLB,http://www.aber.ac.uk/courses/?2TX4XV,FullTime,16000,119.5,64,95
+Aberystwyth University,International Politics,BA,http://www.aber.ac.uk/courses/?D7652T,FullTime,16000,102.0,48,90
+Aberystwyth University,International Politics and Global Development,BA,http://www.aber.ac.uk/courses/?E2EQBG,FullTime,16000,110.21052631578948,64,88
+Aberystwyth University,International Politics and Strategic Studies,BA,http://www.aber.ac.uk/courses/?8NZZQ5,FullTime,16000,122.0,64,88
+Aberystwyth University,Internet Computing and Systems Administration,BSc,http://www.aber.ac.uk/courses/?JMH3YU,FullTime,23000,98.3076923076923,1,80
+Aberystwyth University,Internet Computing and Systems Administration (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?7Q9GUZ,FullTime,23000,98.3076923076923,1,98
+Aberystwyth University,Law,BA,http://www.aber.ac.uk/courses/?SHHRUR,FullTime,16000,119.5,64,95
+Aberystwyth University,Law,LLB,http://www.aber.ac.uk/courses/?X648DV,FullTime,16000,101.0,48,94
+Aberystwyth University,Law 2 YEAR,LLB,http://www.aber.ac.uk/courses/?JK82YA,FullTime,16000,119.5,64,95
+Aberystwyth University,Marine & Freshwater Biology,BSc,http://www.aber.ac.uk/courses/?A4QM5A,FullTime,16000,118.0,1,95
+Aberystwyth University,Marine and Freshwater Biology,BSc,http://www.aber.ac.uk/courses/?7GPFZN,FullTime,16000,108.0,64,89
+Aberystwyth University,Marine and Freshwater Biology (with year in industry),BSc,http://www.aber.ac.uk/courses/?D63759,FullTime,16000,108.0,64,89
+Aberystwyth University,Marketing,BSc,http://www.aber.ac.uk/courses/?U847HG,FullTime,19000,121.0,64,75
+Aberystwyth University,Mathematical and Theoretical Physics,MMath,http://www.aber.ac.uk/courses/?DSG6LH,FullTime,23000,102.875,1,80
+Aberystwyth University,Mathematical and Theoretical Physics,BSc,http://www.aber.ac.uk/courses/?6LX5JX,FullTime,23000,102.875,1,80
+Aberystwyth University,Mathematics,BSc,http://www.aber.ac.uk/courses/?AWSMAD,FullTime,19000,112,1,95
+Aberystwyth University,Mathematics,MMath,http://www.aber.ac.uk/courses/?P3YPVZ,FullTime,18000,112,112,90
+Aberystwyth University,Mathematics (includes year zero),BSc,http://www.aber.ac.uk/courses/?ZCSD5K,FullTime,18000,117.0,1,90
+Aberystwyth University,Medieval and Early Modern History,BA,http://www.aber.ac.uk/courses/?TRLMX8,FullTime,16000,96,1,95
+Aberystwyth University,Microbiology,MBiol,http://www.aber.ac.uk/courses/?6Q7PY6,FullTime,16000,80,1,95
+Aberystwyth University,Microbiology,BSc,http://www.aber.ac.uk/courses/?UJJUHX,FullTime,16000,106.0,1,100
+Aberystwyth University,Microbiology (with year in industry),BSc,http://www.aber.ac.uk/courses/?HBK8L6,FullTime,16000,80,1,95
+Aberystwyth University,Modern and Contemporary History,BA,http://www.aber.ac.uk/courses/?MNYSEV,FullTime,16000,115.94736842105263,48,85
+Aberystwyth University,Modern Languages,BA,http://www.aber.ac.uk/courses/?6E46P2,FullTime,18000,112,48,80
+Aberystwyth University,Physical Geography,BSc,http://www.aber.ac.uk/courses/?U2YT2B,FullTime,20000,96,1,80
+Aberystwyth University,Physical Geography,MSci,http://www.aber.ac.uk/courses/?G3YDRR,FullTime,16000,117.21739130434783,80,89
+Aberystwyth University,Physical Geography (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?MHVFRJ,FullTime,16000,117.21739130434783,80,89
+Aberystwyth University,Physical Geography (with integrated year studying abroad),BSc,http://www.aber.ac.uk/courses/?569DPB,FullTime,16000,117.21739130434783,80,89
+Aberystwyth University,Physics,BSc,http://www.aber.ac.uk/courses/?FEUK3H,FullTime,23000,106.0,48,80
+Aberystwyth University,Physics,MPhys,http://www.aber.ac.uk/courses/?K8VJKE,FullTime,23000,116.28571428571428,80,75
+Aberystwyth University,Physics (includes year zero),BSc,http://www.aber.ac.uk/courses/?L96WND,FullTime,23000,75.25,1,80
+Aberystwyth University,Physics (with integrated year in industry),MPhys,http://www.aber.ac.uk/courses/?NHY6EU,FullTime,23000,102.875,1,80
+Aberystwyth University,Physics (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?3RE3HS,FullTime,23000,102.875,1,80
+Aberystwyth University,Physics with Planetary & Space Physics,BSc,http://www.aber.ac.uk/courses/?MJRTQU,FullTime,23000,102.875,1,80
+Aberystwyth University,Physics with Planetary & Space Physics,MPhys,http://www.aber.ac.uk/courses/?YZ6VR2,FullTime,23000,102.875,1,80
+Aberystwyth University,Plant Biology,BSc,http://www.aber.ac.uk/courses/?TUBUGW,FullTime,16000,122.0,48,100
+Aberystwyth University,Plant Biology (with year in industry),BSc,http://www.aber.ac.uk/courses/?4U2X9V,FullTime,16000,122.0,48,100
+Aberystwyth University,Politics,BA,http://www.aber.ac.uk/courses/?WQ9L7C,FullTime,16000,110.21052631578948,64,88
+Aberystwyth University,Psychology,BSc,http://www.aber.ac.uk/courses/?9KG2VS,FullTime,16000,116.16666666666667,64,90
+Aberystwyth University,Psychology (with integrated year in industry),BSc,http://www.aber.ac.uk/courses/?RTB8SV,FullTime,16000,112.88235294117646,64,90
+Aberystwyth University,Psychology (with integrated year studying abroad),BSc,http://www.aber.ac.uk/courses/?TJB5SK,FullTime,16000,112.88235294117646,64,90
+Aberystwyth University,Pure Mathematics/Statistics,BSc,http://www.aber.ac.uk/courses/?8G7PJH,FullTime,18000,117.0,1,90
+Aberystwyth University,Scenography & Theatre Design,BA,http://www.aber.ac.uk/courses/?YX5TRP,FullTime,16000,112,80,90
+Aberystwyth University,Scenography & Theatre Design/Drama & Theatre Studies,BA,http://www.aber.ac.uk/courses/?7ZTXTP,FullTime,16000,119.5,48,90
+Aberystwyth University,Software Engineering (with integrated year in industry),BEng,http://www.aber.ac.uk/courses/?XRDQQK,FullTime,33000,96,1,100
+Aberystwyth University,Software Engineering (with integrated year in industry),MEng,http://www.aber.ac.uk/courses/?BM2PNF,FullTime,23000,98.3076923076923,1,100
+Aberystwyth University,Sport and Exercise Science,BSc,http://www.aber.ac.uk/courses/?RSEWA4,FullTime,18000,107.25,1,95
+Aberystwyth University,Sport and Exercise Science (with year in industry),BSc,http://www.aber.ac.uk/courses/?M37PJM,FullTime,18000,107.25,1,95
+Aberystwyth University,Tourism Management,BSc,http://www.aber.ac.uk/courses/?2V9LVG,FullTime,19000,119.5,1,100
+Aberystwyth University,Veterinary Biosciences,BSc,http://www.aber.ac.uk/courses/?3SMMW8,FullTime,18000,96,80,100
+Aberystwyth University,Veterinary Biosciences (with year in industry),BSc,http://www.aber.ac.uk/courses/?6NGZCF,FullTime,18000,96,64,100
+Aberystwyth University,Welsh (for Beginners),BA,http://www.aber.ac.uk/courses/?CPEFGG,FullTime,18000,151.5,80,95
+Aberystwyth University,Zoology,MBiol,http://www.aber.ac.uk/courses/?F46QWE,FullTime,16000,119.5,1,95
+Aberystwyth University,Zoology,BSc,http://www.aber.ac.uk/courses/?5FNN6Q,FullTime,16000,112,1,95
+Aberystwyth University,Zoology (with year in industry),BSc,http://www.aber.ac.uk/courses/?8YLF3P,FullTime,16000,119.5,1,95
+Academy of Live and Recorded Arts,Professional Acting,BA,http://alra.co.uk/courses/acting/professional,FullTime,15000,139.25,48,95
+AECC,Chiropractic,MChiro,http://www.aecc.ac.uk/undergraduate/mchiro/,FullTime,27000,131.46153846153845,80,100
+Anglia Ruskin University,Abnormal and Clinical Psychology,BSc,http://www.anglia.ac.uk/study/undergraduate/abnormal-and-clinical-psychology,FullTime,19000,108.0,64,80
+Anglia Ruskin University,Accounting and Finance,BSc,http://www.anglia.ac.uk/study/undergraduate/accounting-and-finance,FullTime,18000,71.5,1,84
+Anglia Ruskin University,Accounting and Finance,BSc,http://www.anglia.ac.uk/study/undergraduate/accounting-and-finance,FullTime,18000,73.0,1,85
+Anglia Ruskin University,Accounting and Finance,BSc,http://www.anglia.ac.uk/study/undergraduate/accounting-and-finance-peterborough,FullTime,18000,64,1,85
+Anglia Ruskin University,Animal Behaviour,BSc,http://www.anglia.ac.uk/study/undergraduate/animal-behaviour-with-foundation-year,FullTime,19000,67.75,1,90
+Anglia Ruskin University,Animal Behaviour,BSc,http://www.anglia.ac.uk/study/undergraduate/animal-behaviour,FullTime,19000,112,1,75
+Anglia Ruskin University,Animal Behaviour,BSc,http://www.anglia.ac.uk/study/undergraduate/animal-behaviour,FullTime,16000,88.33333333333333,1,95
+Anglia Ruskin University,Applied Computer Science,BSc,http://www.anglia.ac.uk/study/undergraduate/applied-computer-science-west-anglia,FullTime,22000,94.21052631578948,1,77
+Anglia Ruskin University,Applied Nutritional Science,BSc,http://www.anglia.ac.uk/study/undergraduate/applied-nutritional-science,FullTime,17000,101.625,48,91
+Anglia Ruskin University,Applied Nutritional Science,BSc,http://www.anglia.ac.uk/study/undergraduate/applied-nutritional-science-with-foundation-year,FullTime,17000,101.625,48,91
+Anglia Ruskin University,Archaeology and Landscape History,BA,http://www.anglia.ac.uk/study/undergraduate/archaeology-and-landscape-history-peterborough,FullTime,18000,87.5,1,80
+Anglia Ruskin University,Architectural Technology,BSc,http://www.anglia.ac.uk/study/undergraduate/architectural-technology,FullTime,18000,92.0,48,95
+Anglia Ruskin University,Architectural Technology,BSc,http://www.anglia.ac.uk/study/undergraduate/architectural-technology,FullTime,18000,80,1,80
+Anglia Ruskin University,Architecture,BA,http://www.anglia.ac.uk/study/undergraduate/architecture,FullTime,18000,100.0909090909091,1,90
+Anglia Ruskin University,Architecture,BA,http://www.anglia.ac.uk/study/undergraduate/architecture,FullTime,18000,80,1,80
+Anglia Ruskin University,Assistant Practitioner (Nursing),FdSc,http://www.anglia.ac.uk/study/undergraduate/nursing-fdsc,FullTime,22000,86.42857142857143,1,98
+Anglia Ruskin University,Audio and Music Technology,BSc,http://www.anglia.ac.uk/study/undergraduate/audio-and-music-technology,FullTime,23000,108.0,48,85
+Anglia Ruskin University,Audio and Music Technology,BSc,http://www.anglia.ac.uk/study/undergraduate/audio-and-music-technology,FullTime,23000,108.0,48,85
+Anglia Ruskin University,Banking and Finance,BSc,http://www.anglia.ac.uk/study/undergraduate/banking-and-finance,FullTime,18000,86.0,1,85
+Anglia Ruskin University,Banking and Finance,BSc,http://www.anglia.ac.uk/study/undergraduate/banking-and-finance,FullTime,18000,86.0,1,85
+Anglia Ruskin University,Biomedical Science,BSc,http://www.anglia.ac.uk/study/undergraduate/biomedical-science,FullTime,17000,99.0,48,81
+Anglia Ruskin University,Biomedical Science,BSc,http://www.anglia.ac.uk/study/undergraduate/biomedical-science-with-foundation-year,FullTime,17000,92.27272727272727,1,86
+Anglia Ruskin University,Bioscience,BSc,http://www.anglia.ac.uk/study/undergraduate/bioscience-peterborough,FullTime,18000,64,1,85
+Anglia Ruskin University,Building Surveying,BSc,http://www.anglia.ac.uk/study/undergraduate/building-surveying,FullTime,25000,115.75,64,100
+Anglia Ruskin University,Building Surveying,BSc,http://www.anglia.ac.uk/study/undergraduate/building-surveying,FullTime,25000,89.0,48,100
+Anglia Ruskin University,Business and Events Management,BSc,https://www.anglia.ac.uk/study/undergraduate/business-and-events-management-london,FullTime,23000,107.25,1,85
+Anglia Ruskin University,Business and Healthcare Management,BSc,https://www.anglia.ac.uk/study/undergraduate/business-and-healthcare-management-with-foundation-year-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Business and Healthcare Management,BSc,http://www.anglia.ac.uk/study/undergraduate/business-and-healthcare-management-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Business and Hospitality Management,BSc,http://www.anglia.ac.uk/study/undergraduate/business-and-hospitality-management-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Business and Hospitality Management,BSc,https://www.anglia.ac.uk/study/undergraduate/business-and-hospitality-management-with-foundation-year-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Business and Human Resource Management,BSc,http://www.anglia.ac.uk/study/undergraduate/business-and-human-resource-management,FullTime,20000,103.5,64,90
+Anglia Ruskin University,Business and Human Resource Management,BSc,http://www.anglia.ac.uk/study/undergraduate/business-and-human-resource-management,FullTime,20000,101.0,1,90
+Anglia Ruskin University,Business and Human Resource Management,BSc,http://www.anglia.ac.uk/study/undergraduate/business-and-human-resource-management-london,FullTime,20000,103.5,64,90
+Anglia Ruskin University,Business and Human Resource Management,BSc,https://www.anglia.ac.uk/study/undergraduate/business-and-human-resource-management-with-foundation-year-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Business and Law,BSc,http://www.anglia.ac.uk/study/undergraduate/business-and-law-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Business and Law,BSc,https://www.anglia.ac.uk/study/undergraduate/business-and-law-with-foundation-year-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Business and Marketing,BSc,http://www.anglia.ac.uk/study/undergraduate/business-and-marketing-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Business and Marketing,BSc,https://www.anglia.ac.uk/study/undergraduate/business-and-marketing-with-foundation-year-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Business and Tourism,BSc,http://www.anglia.ac.uk/study/undergraduate/business-and-tourism-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Business and Tourism,BSc,https://www.anglia.ac.uk/study/undergraduate/business-and-tourism-management-with-foundation-year-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Business Management,BSc,http://www.anglia.ac.uk/study/undergraduate/business-management,FullTime,25000,91.25,1,84
+Anglia Ruskin University,Business Management,BSc,http://www.anglia.ac.uk/study/undergraduate/business-management-peterborough,FullTime,25000,90.0,1,84
+Anglia Ruskin University,Business Management,BSc,http://www.anglia.ac.uk/study/undergraduate/business-management,FullTime,20000,83.75,48,80
+Anglia Ruskin University,Business Management and Finance,BSc,http://www.anglia.ac.uk/study/undergraduate/business-management-and-finance,FullTime,18000,86.0,1,85
+Anglia Ruskin University,Business Management and Finance,BSc,http://www.anglia.ac.uk/study/undergraduate/business-management-and-finance,FullTime,18000,80,1,85
+Anglia Ruskin University,Business Management and Leadership,BSc,http://www.anglia.ac.uk/study/undergraduate/business-management-and-leadership,FullTime,20000,71.5,1,90
+Anglia Ruskin University,Business Management and Leadership,BSc,http://www.anglia.ac.uk/study/undergraduate/business-management-and-leadership,FullTime,20000,80,1,90
+Anglia Ruskin University,Civil Engineering,BSc,http://www.anglia.ac.uk/study/undergraduate/civil-engineering,FullTime,23000,92.0,48,85
+Anglia Ruskin University,Civil Engineering,BEng,http://www.anglia.ac.uk/study/undergraduate/civil-engineering-beng,FullTime,23000,80,64,95
+Anglia Ruskin University,Civil Engineering,MEng,http://www.anglia.ac.uk/study/undergraduate/civil-engineering-meng,FullTime,23000,80,64,85
+Anglia Ruskin University,Civil Engineering,BSc,http://www.anglia.ac.uk/study/undergraduate/civil-engineering,FullTime,23000,80,64,85
+Anglia Ruskin University,Civil Engineering,BEng,http://www.anglia.ac.uk/study/undergraduate/civil-engineering-beng,FullTime,23000,80,64,85
+Anglia Ruskin University,Computer Games Art,BA,http://www.anglia.ac.uk/study/undergraduate/computer-games-art,FullTime,22000,133.0,48,77
+Anglia Ruskin University,Computer Gaming Technology,BSc,http://www.anglia.ac.uk/study/undergraduate/computer-gaming-technology,FullTime,18000,98.5,48,85
+Anglia Ruskin University,Computer Gaming Technology,BSc,http://www.anglia.ac.uk/study/undergraduate/computer-gaming-technology-with-foundation-year,FullTime,22000,57.375,1,77
+Anglia Ruskin University,Computer Gaming Technology,BSc,http://www.anglia.ac.uk/study/undergraduate/computer-gaming-technology,FullTime,22000,94.21052631578948,1,77
+Anglia Ruskin University,Computer Networks,BSc,http://www.anglia.ac.uk/study/undergraduate/computer-networks,FullTime,22000,94.21052631578948,1,77
+Anglia Ruskin University,Computer Networks,BSc,http://www.anglia.ac.uk/study/undergraduate/computer-networks,FullTime,22000,87.5,48,80
+Anglia Ruskin University,Computer Science,BEng,http://www.anglia.ac.uk/study/undergraduate/computer-science,FullTime,22000,94.21052631578948,1,77
+Anglia Ruskin University,Computer Science,BEng,http://www.anglia.ac.uk/study/undergraduate/computer-science,FullTime,22000,80,64,77
+Anglia Ruskin University,Computing and Information Systems,BSc,http://www.anglia.ac.uk/study/undergraduate/computing-and-information-systems-peterborough,FullTime,22000,64,1,55
+Anglia Ruskin University,Construction Management,BSc,http://www.anglia.ac.uk/study/undergraduate/construction-management,FullTime,25000,89.0,48,85
+Anglia Ruskin University,Construction Management,BSc,http://www.anglia.ac.uk/study/undergraduate/construction-management,FullTime,25000,89.0,48,100
+Anglia Ruskin University,Creative Music Technology,BA,http://www.anglia.ac.uk/study/undergraduate/creative-music-technology,FullTime,16000,101.625,48,75
+Anglia Ruskin University,Crime and Investigative Studies,BSc,http://www.anglia.ac.uk/study/undergraduate/crime-and-investigative-studies-with-foundation-year,FullTime,18000,57.23076923076923,1,95
+Anglia Ruskin University,Crime and Investigative Studies,BSc,http://www.anglia.ac.uk/study/undergraduate/crime-and-investigative-studies,FullTime,18000,105.0,48,80
+Anglia Ruskin University,Crime and Investigative Studies,BSc,http://www.anglia.ac.uk/study/undergraduate/crime-and-investigative-studies,FullTime,18000,85.0,1,95
+Anglia Ruskin University,Crime and Investigative Studies,BSc,http://www.anglia.ac.uk/study/undergraduate/crime-and-investigative-studies-peterborough,FullTime,18000,85.0,1,95
+Anglia Ruskin University,Criminology,BA,http://www.anglia.ac.uk/study/undergraduate/criminology,FullTime,18000,99.0,48,75
+Anglia Ruskin University,Criminology,BA,http://www.anglia.ac.uk/study/undergraduate/criminology-peterborough,FullTime,18000,75.66666666666667,1,95
+Anglia Ruskin University,Criminology and Sociology,BA,http://www.anglia.ac.uk/study/undergraduate/criminology-and-sociology,FullTime,20000,99.75,48,100
+Anglia Ruskin University,Cyber Security,BSc,http://www.anglia.ac.uk/study/undergraduate/cyber-security,FullTime,22000,94.21052631578948,1,77
+Anglia Ruskin University,Cyber Security,BSc,http://www.anglia.ac.uk/study/undergraduate/cyber-security,FullTime,22000,94.21052631578948,1,77
+Anglia Ruskin University,Digital Media,BA,http://www.anglia.ac.uk/study/undergraduate/digital-media,FullTime,15000,80,48,77
+Anglia Ruskin University,Drama,BA,http://www.anglia.ac.uk/study/undergraduate/drama,FullTime,15000,90.5,48,85
+Anglia Ruskin University,Early Childhood Studies,BA,http://www.anglia.ac.uk/study/undergraduate/early-childhood-studies-west-anglia,FullTime,14000,96,1,89
+Anglia Ruskin University,Early Childhood Studies,BA,http://www.anglia.ac.uk/study/undergraduate/early-childhood-studies,FullTime,16000,114.5,1,85
+Anglia Ruskin University,Economics,BSc,https://www.anglia.ac.uk/study/undergraduate/business-economics,FullTime,21000,101.0,1,90
+Anglia Ruskin University,Economics,BSc,https://www.anglia.ac.uk/study/undergraduate/business-economics,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Education,BA,http://www.anglia.ac.uk/study/undergraduate/education,FullTime,17000,115.21428571428572,64,90
+Anglia Ruskin University,Electronic Engineering,BEng,https://www.anglia.ac.uk/study/undergraduate/electronic-engineering,FullTime,23000,99.0,48,80
+Anglia Ruskin University,Electronic Engineering,BEng,http://www.anglia.ac.uk/study/undergraduate/electronic-engineering,FullTime,23000,99.0,48,80
+Anglia Ruskin University,English Language,BA,http://www.anglia.ac.uk/study/undergraduate/english-language,FullTime,19000,91.08695652173913,48,83
+Anglia Ruskin University,English Language and English Language Teaching,BA,http://www.anglia.ac.uk/study/undergraduate/english-language-and-english-language-teaching,FullTime,19000,99.0,48,80
+Anglia Ruskin University,English Language and Linguistics,BA,http://www.anglia.ac.uk/study/undergraduate/english-language-and-linguistics,FullTime,19000,96,64,95
+Anglia Ruskin University,English Literature,BA,http://www.anglia.ac.uk/study/undergraduate/english-literature-peterborough,FullTime,19000,91.08695652173913,48,83
+Anglia Ruskin University,English Literature,BA,http://www.anglia.ac.uk/study/undergraduate/english-literature,FullTime,20000,87.5,48,85
+Anglia Ruskin University,Events Management,BSc,http://www.anglia.ac.uk/study/undergraduate/events-management,FullTime,23000,107.25,1,85
+Anglia Ruskin University,Events Management,BSc,http://www.anglia.ac.uk/study/undergraduate/events-management,FullTime,23000,107.25,1,85
+Anglia Ruskin University,Fashion Design,BA,http://www.anglia.ac.uk/study/undergraduate/fashion-design,FullTime,16000,101.0,1,70
+Anglia Ruskin University,Film and Television Production,BA,http://www.anglia.ac.uk/study/undergraduate/film-and-television-production,FullTime,14000,108.0,64,75
+Anglia Ruskin University,Film Studies,BA,http://www.anglia.ac.uk/study/undergraduate/film-studies,FullTime,15000,87.5,1,65
+Anglia Ruskin University,Film Studies and Media Studies,BA,http://www.anglia.ac.uk/study/undergraduate/film-studies-and-media-studies,FullTime,15000,100.28571428571428,1,77
+Anglia Ruskin University,Finance and Accounting,BSc,https://www.anglia.ac.uk/study/undergraduate/finance-and-accounting-with-foundation-year-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Finance and Accounting,BSc,http://www.anglia.ac.uk/study/undergraduate/finance-and-accounting-london,FullTime,18000,86.0,1,85
+Anglia Ruskin University,Finance and Business Analytics,BSc,http://www.anglia.ac.uk/study/undergraduate/finance-and-business-analytics,FullTime,18000,86.0,1,85
+Anglia Ruskin University,Finance and Business Analytics,BSc,http://www.anglia.ac.uk/study/undergraduate/finance-and-business-analytics,FullTime,18000,86.0,1,85
+Anglia Ruskin University,Fine Art,BA,http://www.anglia.ac.uk/study/undergraduate/fine-art,FullTime,16000,112,48,85
+Anglia Ruskin University,Forensic Science,BSc,http://www.anglia.ac.uk/study/undergraduate/forensic-science,FullTime,18000,85.0,1,95
+Anglia Ruskin University,Forensic Science,BSc,http://www.anglia.ac.uk/study/undergraduate/forensic-science-with-foundation-year,FullTime,18000,61.125,1,100
+Anglia Ruskin University,Forensic Science,BSc,http://www.anglia.ac.uk/study/undergraduate/forensic-science,FullTime,16000,118.0,48,90
+Anglia Ruskin University,Graphic Design,BA,http://www.anglia.ac.uk/study/undergraduate/graphic-design,FullTime,16000,80,48,87
+Anglia Ruskin University,Health and Social Care,BSc,http://www.anglia.ac.uk/study/undergraduate/health-and-social-care-with-foundation-year-london,FullTime,22000,118.42857142857143,64,97
+Anglia Ruskin University,Health and Social Care,BSc,http://www.anglia.ac.uk/study/undergraduate/health-and-social-care-london,FullTime,22000,118.42857142857143,64,97
+Anglia Ruskin University,Healthcare Science (Physiological Sciences),BSc,http://www.anglia.ac.uk/study/undergraduate/healthcare-science,FullTime,22000,101.0,48,96
+Anglia Ruskin University,History,BA,http://www.anglia.ac.uk/study/undergraduate/history,FullTime,18000,90.0,1,83
+Anglia Ruskin University,History and English Literature,BA,http://www.anglia.ac.uk/study/undergraduate/history-and-english-west-anglia,FullTime,18000,87.5,1,82
+Anglia Ruskin University,Illustration,BA,http://www.anglia.ac.uk/study/undergraduate/illustration,FullTime,16000,118.0,80,90
+Anglia Ruskin University,Illustration and Animation,BA,http://www.anglia.ac.uk/study/undergraduate/illustration-and-animation,FullTime,16000,96,1,95
+Anglia Ruskin University,Interior Design,BA,http://www.anglia.ac.uk/study/undergraduate/interior-design,FullTime,16000,96,1,87
+Anglia Ruskin University,International Business Management,BSc,http://www.anglia.ac.uk/study/undergraduate/international-business-management,FullTime,20000,64,48,90
+Anglia Ruskin University,International Business Management,BSc,http://www.anglia.ac.uk/study/undergraduate/international-business-management,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,International Business Management,BSc,https://www.anglia.ac.uk/study/undergraduate/international-business-management-with-foundation-year-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,International Business Management,BSc,http://www.anglia.ac.uk/study/undergraduate/international-business-management,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,International Business Management (Accelerated),BSc,http://www.anglia.ac.uk/study/undergraduate/international-business-management-accelerated,FullTime,20000,71.5,1,90
+Anglia Ruskin University,Law,LLB,http://www.anglia.ac.uk/study/undergraduate/law,FullTime,20000,93.5,48,74
+Anglia Ruskin University,Law and Accounting,BSc,https://www.anglia.ac.uk/study/undergraduate/law-and-accounting-with-foundation-year-london,FullTime,25000,82.36842105263158,1,84
+Anglia Ruskin University,Marine Biology with Biodiversity and Conservation,BSc,http://www.anglia.ac.uk/study/undergraduate/marine-biology-with-conservation-and-biodiversity-with-foundation-year,FullTime,18000,70.42857142857143,1,85
+Anglia Ruskin University,Marine Biology with Biodiversity and Conservation,BSc,http://www.anglia.ac.uk/study/undergraduate/marine-biology-with-conservation-and-biodiversity,FullTime,18000,91.25,48,80
+Anglia Ruskin University,Marine Biology with Biodiversity and Conservation,BSc,http://www.anglia.ac.uk/study/undergraduate/marine-biology-with-conservation-and-biodiversity,FullTime,18000,64,1,85
+Anglia Ruskin University,Marketing,BA,http://www.anglia.ac.uk/study/undergraduate/marketing,FullTime,21000,89.0,1,90
+Anglia Ruskin University,Marketing,BA,http://www.anglia.ac.uk/study/undergraduate/marketing,FullTime,21000,90.0,48,90
+Anglia Ruskin University,Mechanical Engineering,BEng,http://www.anglia.ac.uk/study/undergraduate/mechanical-engineering,FullTime,23000,71.5,1,65
+Anglia Ruskin University,Mechanical Engineering,BEng,http://www.anglia.ac.uk/study/undergraduate/mechanical-engineering,FullTime,23000,71.5,1,65
+Anglia Ruskin University,Mechanical Engineering,MEng,http://www.anglia.ac.uk/study/undergraduate/mechanical-engineering-meng,FullTime,23000,71.5,1,65
+Anglia Ruskin University,Media Studies,BA,http://www.anglia.ac.uk/study/undergraduate/media-studies-peterborough,FullTime,15000,80,48,77
+Anglia Ruskin University,Media Studies,BA,http://www.anglia.ac.uk/study/undergraduate/media-studies,FullTime,15000,75.25,1,100
+Anglia Ruskin University,Medical Engineering,BEng,http://www.anglia.ac.uk/study/undergraduate/medical-engineering,FullTime,23000,99.0,48,80
+Anglia Ruskin University,Medical Engineering,BEng,http://www.anglia.ac.uk/study/undergraduate/medical-engineering,FullTime,23000,99.0,48,80
+Anglia Ruskin University,Medical Science,BSc,http://www.anglia.ac.uk/study/undergraduate/medical-science-with-foundation-year,FullTime,22000,74.0,1,96
+Anglia Ruskin University,Medical Science,BSc,http://www.anglia.ac.uk/study/undergraduate/medical-science,FullTime,22000,74.0,1,96
+Anglia Ruskin University,Midwifery,BSc,http://www.anglia.ac.uk/study/undergraduate/midwifery,FullTime,22000,162.5,112,99
+Anglia Ruskin University,Multimedia Journalism,BA,http://www.anglia.ac.uk/study/undergraduate/journalism-multimedia-peterborough,FullTime,15000,99.75,1,78
+Anglia Ruskin University,Music,BA,http://www.anglia.ac.uk/study/undergraduate/music,FullTime,16000,92.5,1,90
+Anglia Ruskin University,Nursing (Adult),BSc,http://www.anglia.ac.uk/study/undergraduate/nursing-adult,FullTime,22000,108.0,64,97
+Anglia Ruskin University,Nursing (Child),BSc,http://www.anglia.ac.uk/study/undergraduate/nursing-child,FullTime,22000,124.0,1,95
+Anglia Ruskin University,Nursing (Mental Health),BSc,http://www.anglia.ac.uk/study/undergraduate/nursing-mental-health,FullTime,22000,112,64,97
+Anglia Ruskin University,Operating Department Practice,BSc,http://www.anglia.ac.uk/study/undergraduate/operating-department-practice,FullTime,22000,118.42857142857143,64,97
+Anglia Ruskin University,Ophthalmic Dispensing,BSc,http://www.anglia.ac.uk/study/undergraduate/ophthalmic-dispensing,FullTime,16000,80,48,95
+Anglia Ruskin University,Ophthalmic Dispensing,BSc,http://www.anglia.ac.uk/study/undergraduate/ophthalmic-dispensing-with-foundation-year,FullTime,15000,60.27272727272727,1,98
+Anglia Ruskin University,Optometry,BOptom,http://www.anglia.ac.uk/study/undergraduate/optometry,FullTime,15000,96,96,100
+Anglia Ruskin University,Osteopathy,MOst,http://www.anglia.ac.uk/study/undergraduate/osteopathy-most,FullTime,17000,101.625,48,100
+Anglia Ruskin University,Osteopathy,BOst,http://www.anglia.ac.uk/study/undergraduate/osteopathy,FullTime,17000,101.625,48,100
+Anglia Ruskin University,Paramedic Science,BSc,http://www.anglia.ac.uk/study/undergraduate/paramedic-science,FullTime,22000,116.28571428571428,48,97
+Anglia Ruskin University,Performing Arts,BA,http://www.anglia.ac.uk/study/undergraduate/performing-arts-peterborough,FullTime,13000,103.94117647058823,48,90
+Anglia Ruskin University,Performing Arts,BA,http://www.anglia.ac.uk/study/undergraduate/performing-arts,FullTime,13000,106.0,1,90
+Anglia Ruskin University,Pharmaceutical Science,BSc,http://www.anglia.ac.uk/study/undergraduate/pharmaceutical-science,FullTime,22000,64,1,96
+Anglia Ruskin University,Pharmaceutical Science,BSc,http://www.anglia.ac.uk/study/undergraduate/pharmaceutical-science-with-foundation-year,FullTime,22000,58.0,1,96
+Anglia Ruskin University,Philosophy,BA,http://www.anglia.ac.uk/study/undergraduate/philosophy,FullTime,18000,85.625,48,90
+Anglia Ruskin University,Photography,BA,http://www.anglia.ac.uk/study/undergraduate/photography,FullTime,17000,99.0,1,90
+Anglia Ruskin University,Policing and Criminal Justice,BSc,http://www.anglia.ac.uk/study/undergraduate/policing-and-criminal-justice,FullTime,18000,91.78571428571429,48,79
+Anglia Ruskin University,Politics,BA,http://www.anglia.ac.uk/study/undergraduate/politics,FullTime,22000,97.42857142857143,48,80
+Anglia Ruskin University,Popular Music,BA,http://www.anglia.ac.uk/study/undergraduate/popular-music,FullTime,16000,80,64,80
+Anglia Ruskin University,Primary Education Studies,BA,http://www.anglia.ac.uk/study/undergraduate/primary-education-studies,FullTime,17000,115.21428571428572,64,90
+Anglia Ruskin University,Professional Dance and Musical Theatre,BA,http://www.anglia.ac.uk/study/undergraduate/professional-dance-and-musical-theatre,FullTime,13000,103.94117647058823,48,90
+Anglia Ruskin University,Psychology,BSc,http://www.anglia.ac.uk/study/undergraduate/psychology,FullTime,18000,94.42307692307692,64,83
+Anglia Ruskin University,Psychology and Criminology,BSc,http://www.anglia.ac.uk/study/undergraduate/psychology-and-criminology,FullTime,18000,80,48,90
+Anglia Ruskin University,Psychosocial Studies,BA,http://www.anglia.ac.uk/study/undergraduate/psychosocial-studies-west-anglia,FullTime,18000,93.84615384615384,48,90
+Anglia Ruskin University,Psychosocial Studies,BA,http://www.anglia.ac.uk/study/undergraduate/psychosocial-studies-peterborough,FullTime,18000,93.84615384615384,48,82
+Anglia Ruskin University,Public Health,BSc,http://www.anglia.ac.uk/study/undergraduate/public-health,FullTime,22000,80,1,70
+Anglia Ruskin University,Public Service,BA,http://www.anglia.ac.uk/study/undergraduate/public-service-ba,FullTime,18000,91.78571428571429,48,79
+Anglia Ruskin University,Quantity Surveying,BSc,http://www.anglia.ac.uk/study/undergraduate/quantity-surveying,FullTime,25000,89.0,48,100
+Anglia Ruskin University,Quantity Surveying,BSc,http://www.anglia.ac.uk/study/undergraduate/quantity-surveying,FullTime,25000,89.0,48,100
+Anglia Ruskin University,Smart Computing,BSc,http://www.anglia.ac.uk/study/undergraduate/smart-computing,FullTime,22000,94.21052631578948,1,77
+Anglia Ruskin University,Smart Computing,BSc,http://www.anglia.ac.uk/study/undergraduate/smart-computing,FullTime,22000,94.21052631578948,1,77
+Anglia Ruskin University,Social Policy,BA,https://www.anglia.ac.uk/study/undergraduate/social-policy,FullTime,18000,87.5,1,60
+Anglia Ruskin University,Social Work,BA,http://www.anglia.ac.uk/study/undergraduate/social-work,FullTime,28000,138.0,48,80
+Anglia Ruskin University,Sociology,BA,http://www.anglia.ac.uk/study/undergraduate/sociology-peterborough,FullTime,18000,93.84615384615384,48,82
+Anglia Ruskin University,Sociology,BA,http://www.anglia.ac.uk/study/undergraduate/sociology,FullTime,17000,101.0,48,90
+Anglia Ruskin University,Software Development,BSc,http://www.anglia.ac.uk/study/undergraduate/software-development,FullTime,22000,94.21052631578948,1,77
+Anglia Ruskin University,Software Development,BSc,http://www.anglia.ac.uk/study/undergraduate/software-development,FullTime,22000,94.21052631578948,1,77
+Anglia Ruskin University,Sport and Exercise Science,BSc,http://www.anglia.ac.uk/study/undergraduate/sports-science-with-foundation-year,FullTime,19000,57.375,1,90
+Anglia Ruskin University,Sport and Exercise Science,BSc,http://www.anglia.ac.uk/study/undergraduate/sports-science,FullTime,17000,103.5,64,85
+Anglia Ruskin University,Sports Coaching and Physical Education,BSc,http://www.anglia.ac.uk/study/undergraduate/sports-coaching-and-physical-education,FullTime,20000,96,1,95
+Anglia Ruskin University,Sports Coaching and Physical Education,BSc,http://www.anglia.ac.uk/study/undergraduate/sports-coaching-and-physical-education-with-foundation-year,FullTime,19000,68.5,1,90
+Anglia Ruskin University,Sports Coaching and Physical Education,BSc,http://www.anglia.ac.uk/study/undergraduate/sports-coaching-and-physical-education-peterborough,FullTime,19000,92.0,48,100
+Anglia Ruskin University,Tourism Management,BSc,http://www.anglia.ac.uk/study/undergraduate/tourism-management,FullTime,23000,107.25,1,85
+Anglia Ruskin University,Tourism Management,BSc,http://www.anglia.ac.uk/study/undergraduate/tourism-management,FullTime,18000,85.0,1,95
+Anglia Ruskin University,Veterinary Nursing and Applied Animal Behaviour,BSc,http://www.anglia.ac.uk/study/undergraduate/veterinary-nursing-and-applied-animal-behaviour,FullTime,19000,108.85714285714286,64,100
+Anglia Ruskin University,Writing and English Literature,BA,http://www.anglia.ac.uk/study/undergraduate/writing-and-english-literature,FullTime,19000,92.0,1,65
+Anglia Ruskin University,Zoology,BSc,http://www.anglia.ac.uk/study/undergraduate/zoology,FullTime,15000,98.5,48,95
+Anglia Ruskin University,Zoology,BSc,http://www.anglia.ac.uk/study/undergraduate/zoology-with-foundation-year,FullTime,16000,73.0,1,100
+Anglia Ruskin University,Zoology,BSc,http://www.anglia.ac.uk/study/undergraduate/zoology,FullTime,16000,88.33333333333333,1,95
+Arts Educational Schools,Acting,BA,https://artsed.co.uk/acting/acting-ba-home,FullTime,24000,119.5,1,100
+Arts Educational Schools,Musical Theatre,BA,https://artsed.co.uk/musical-theatre/musical-theatre-ba-hons,FullTime,26000,112,1,100
+The Arts University Bournemouth,Acting,BA,http://aub.ac.uk/courses/ba/ba-acting,FullTime,15000,131.1578947368421,96,100
+The Arts University Bournemouth,Animation Production,BA,http://aub.ac.uk/courses/ba/ba-animation-production/,FullTime,18000,145.76470588235293,80,100
+The Arts University Bournemouth,Architecture,BA,http://aub.ac.uk/courses/ba/ba-architecture/,FullTime,18000,96,1,90
+The Arts University Bournemouth,Art and Design History,BA,https://aub.ac.uk/courses/ba/art-design-history/,FullTime,16000,122.26315789473685,1,90
+The Arts University Bournemouth,Commercial Photography,BA,http://aub.ac.uk/courses/ba/ba-commercial-photography/,FullTime,18000,148.0909090909091,80,90
+The Arts University Bournemouth,Costume and Performance Design,BA,http://aub.ac.uk/courses/ba/ba-costume-with-performance-design/,FullTime,18000,149.45454545454547,80,93
+The Arts University Bournemouth,Creative Events Management,BA,http://aub.ac.uk/courses/ba/ba-creative-events-management/,FullTime,18000,112,1,95
+The Arts University Bournemouth,Creative Writing,BA,http://aub.ac.uk/courses/ba/creative-writing/,FullTime,18000,148.28571428571428,80,94
+The Arts University Bournemouth,Dance,BA,http://aub.ac.uk/bada,FullTime,18000,150.42857142857142,96,95
+The Arts University Bournemouth,Drawing,BA,https://aub.ac.uk/courses/ba/drawing/,FullTime,16000,122.26315789473685,1,90
+The Arts University Bournemouth,Fashion,BA,http://aub.ac.uk/courses/ba/ba-fashion/,FullTime,18000,138.5,80,93
+The Arts University Bournemouth,Fashion Branding and Communication,BA,http://aub.ac.uk/courses/ba/fashion-communications-marketing/,FullTime,18000,152.1818181818182,80,94
+The Arts University Bournemouth,Film Production,BA,http://aub.ac.uk/courses/ba/ba-film-production/,FullTime,20000,149.2941176470588,80,95
+The Arts University Bournemouth,Fine Art,BA,http://aub.ac.uk/courses/ba/ba-fine-art/,FullTime,16000,122.26315789473685,1,90
+The Arts University Bournemouth,Graphic Design,BA,http://aub.ac.uk/courses/ba/ba-graphic-design/,FullTime,20000,157.125,112,98
+The Arts University Bournemouth,Illustration,BA,http://aub.ac.uk/courses/ba/ba-illustration/,FullTime,18000,168.33333333333334,64,95
+The Arts University Bournemouth,Interior Architecture and Design,BA,http://aub.ac.uk/courses/ba/ba-interior-architecture-design/,FullTime,20000,133.0,64,95
+The Arts University Bournemouth,Make-up for Media and Performance,BA,http://aub.ac.uk/courses/ba/ba-make-up-for-media-performance/,FullTime,21000,139.66666666666666,80,95
+The Arts University Bournemouth,Modelmaking,BA,http://aub.ac.uk/courses/ba/ba-modelmaking/,FullTime,23000,144,80,90
+The Arts University Bournemouth,Photography,BA,http://aub.ac.uk/courses/ba/ba-photography/,FullTime,18000,150.92307692307693,64,90
+The Arts University Bournemouth,Textiles,BA,http://aub.ac.uk/courses/ba/ba-textiles/,FullTime,17000,151.5,64,90
+The Arts University Bournemouth,Visual Communication,BA,http://aub.ac.uk/courses/ba/ba-visual-communication/,FullTime,18000,154.0,64,96
+The Arts University Bournemouth,Visual Effects Design and Production,BA,http://aub.ac.uk/courses/ba/visual-effects-design-production/,FullTime,18000,119.5,1,94
+University Of The Arts~, London,3D Effects for Performance and Fashion,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-3d-effects-for-performance-and-fashion/,FullTime,20000,112,48,80
+University Of The Arts~, London,Acting,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-acting-drama-centre-london/,FullTime,20000,138.0,48,90
+University Of The Arts~, London,Advertising,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-advertising/,FullTime,19000,112,64,89
+University Of The Arts~, London,Animation,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-animation/,FullTime,17000,99.75,64,89
+University Of The Arts~, London,Architecture,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-architecture/,FullTime,20000,96,1,90
+University Of The Arts~, London,Bespoke Tailoring,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-bespoke-tailoring/,FullTime,19000,112,48,85
+University Of The Arts~, London,Ceramic Design,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-ceramic-design/,FullTime,19000,125.23529411764706,64,89
+University Of The Arts~, London,Cordwainers Fashion Bags and Accessories: Product Design and Innovation,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-cordwainers-fashion-bags-and-accessories/,FullTime,19000,90.71428571428571,1,89
+University Of The Arts~, London,Cordwainers Footwear: Product Design and Innovation,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-cordwainers-footwear/,FullTime,19000,112,48,89
+University Of The Arts~, London,Costume for Performance,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-costume-for-performance/,FullTime,20000,112,64,90
+University Of The Arts~, London,Costume for Theatre and Screen,BA,http://www.arts.ac.uk/wimbledon/courses/undergraduate/ba-costume/,FullTime,20000,134.66666666666666,1,90
+University Of The Arts~, London,Creative Direction for Fashion,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-creative-direction-for-fashion/,FullTime,19000,112,48,90
+University Of The Arts~, London,Culture~, Criticism And Curation,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-culture-criticism-and-curation/,FullTime,19000,131.75,48,89
+University Of The Arts~, London,Design for Art Direction,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-design-for-art-direction/,FullTime,17000,103.5,48,90
+University Of The Arts~, London,Design for Branded Spaces,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-design-for-branded-spaces/,FullTime,19000,125.23529411764706,64,89
+University Of The Arts~, London,Design Management and Cultures,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-design-management-and-cultures/,FullTime,19000,125.23529411764706,64,89
+University Of The Arts~, London,Directing,MA,http://www.arts.ac.uk/csm/courses/integrated-masters/ma-directing/,FullTime,20000,134.66666666666666,1,90
+University Of The Arts~, London,Drawing,BA,http://www.arts.ac.uk/camberwell/courses/undergraduate/ba-drawing/,FullTime,19000,123.25,64,100
+University Of The Arts~, London,Fashion Buying and Merchandising,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-buying-and-merchandising/,FullTime,22000,122.0,1,86
+University Of The Arts~, London,Fashion Communication: Fashion Communication and Promotion,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-fashion-communication-and-promotion/,FullTime,19000,125.23529411764706,64,89
+University Of The Arts~, London,Fashion Communication: Fashion History and Theory,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-fashion-communication-fashion-history/,FullTime,19000,112,64,80
+University Of The Arts~, London,Fashion Communication: Fashion Journalism,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-fashion-communication-fashion-journalism/,FullTime,19000,117.0,48,89
+University Of The Arts~, London,Fashion Contour,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-contour/,FullTime,18000,116.28571428571428,48,100
+University Of The Arts~, London,Fashion Design and Development,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-design-and-development/,FullTime,19000,147.0,1,89
+University Of The Arts~, London,Fashion Design Technology: Menswear,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-design-technology-menswear/,FullTime,19000,138.0,48,80
+University Of The Arts~, London,Fashion Design Technology: Womenswear,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-design-technology-womenswear/,FullTime,19000,163.0,80,89
+University Of The Arts~, London,Fashion Illustration,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-illustration/,FullTime,19000,144,80,89
+University Of The Arts~, London,Fashion Jewellery,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-jewellery/,FullTime,19000,125.23529411764706,64,89
+University Of The Arts~, London,Fashion Journalism,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-journalism/,FullTime,19000,134.0,1,86
+University Of The Arts~, London,Fashion Management,BSc,http://www.arts.ac.uk/fashion/courses/undergraduate/bsc-fashion-management/,FullTime,22000,138.0,80,86
+University Of The Arts~, London,Fashion Marketing,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-marketing/,FullTime,18000,135.5,96,90
+University Of The Arts~, London,Fashion Media Practice and Criticism,MA,http://www.arts.ac.uk/fashion/courses/integrated-masters/ma-fashion-media-practice-and-criticism/,FullTime,19000,133.0,48,86
+University Of The Arts~, London,Fashion Pattern Cutting,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-pattern-cutting/,FullTime,19000,148.28571428571428,48,89
+University Of The Arts~, London,Fashion Photography,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-photography/,FullTime,18000,131.0,48,80
+University Of The Arts~, London,Fashion Public Relations and Communication,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-public-relations-communication/,FullTime,18000,112,64,95
+University Of The Arts~, London,Fashion Sportswear,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-sportswear/,FullTime,19000,125.23529411764706,64,89
+University Of The Arts~, London,Fashion Styling and Production,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-styling-and-production/,FullTime,17000,119.5,1,90
+University Of The Arts~, London,Fashion Textiles: Embroidery,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-textiles-embroidery/,FullTime,19000,135.5,48,89
+University Of The Arts~, London,Fashion Textiles: Knit,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-textiles-knit/,FullTime,19000,128,1,89
+University Of The Arts~, London,Fashion Textiles: Print,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-textiles-print/,FullTime,19000,125.23529411764706,64,89
+University Of The Arts~, London,Fashion Visual Merchandising and Branding,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-fashion-visual-merchandising-and-branding/,FullTime,19000,112,80,89
+University Of The Arts~, London,Fashion: Design With Knitwear,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-fashion-design-with-knitwear/,FullTime,19000,125.23529411764706,64,85
+University Of The Arts~, London,Fashion: Design With Marketing,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-fashion-design-with-marketing/,FullTime,19000,125.23529411764706,64,89
+University Of The Arts~, London,Fashion: Fashion Design Menswear,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-fashion-design-menswear/,FullTime,19000,125.23529411764706,64,90
+University Of The Arts~, London,Fashion: Fashion Design Womenswear,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-fashion-design-womenswear/,FullTime,19000,125.23529411764706,64,95
+University Of The Arts~, London,Fashion: Fashion Print,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-fashion-print/,FullTime,19000,125.23529411764706,64,89
+University Of The Arts~, London,Film and Television,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-film-and-television/,FullTime,17000,109.125,64,89
+University Of The Arts~, London,Fine Art,BA,http://www.arts.ac.uk/chelsea/courses/undergraduate/ba-fine-art/,FullTime,18000,144,1,85
+University Of The Arts~, London,Fine Art,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-fine-art/,FullTime,18000,119.5,48,88
+University Of The Arts~, London,Fine Art: Painting,BA,http://www.arts.ac.uk/wimbledon/courses/undergraduate/ba-fine-art-painting/,FullTime,17000,128,64,91
+University Of The Arts~, London,Fine Art: Print and Time Based Media,BA,http://www.arts.ac.uk/wimbledon/courses/undergraduate/ba-fine-art-print-time-based-media/,FullTime,18000,119.5,1,88
+University Of The Arts~, London,Graphic and Media Design,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-graphic-and-media-design/,FullTime,20000,118.0,1,90
+University Of The Arts~, London,Graphic Branding and Identity,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-graphic-branding-and-identity/,FullTime,19000,105.0,1,89
+University Of The Arts~, London,Graphic Communication Design,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-hons-graphic-communication-design/,FullTime,20000,125.33333333333333,48,95
+University Of The Arts~, London,Graphic Design,BA,http://www.arts.ac.uk/camberwell/courses/undergraduate/ba-graphic-design/,FullTime,16000,135.5,64,90
+University Of The Arts~, London,Graphic Design,FDA,http://www.arts.ac.uk/camberwell/courses/undergraduate/fda-graphic-design/,FullTime,20000,80,1,90
+University Of The Arts~, London,Graphic Design Communication,BA,http://www.arts.ac.uk/chelsea/courses/undergraduate/ba-graphic-design-communication/,FullTime,18000,149.0,80,91
+University Of The Arts~, London,Hair and Make-up for Fashion,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-hair-and-make-up-for-fashion/,FullTime,19000,96,1,89
+University Of The Arts~, London,Hair~, Make-up and Prosthetics for Performance,BA,http://www.arts.ac.uk/fashion/courses/undergraduate/ba-hair-make-up-and-prosthetics-for-performance/,FullTime,20000,146.5,96,90
+University Of The Arts~, London,Illustration,BA,http://www.arts.ac.uk/camberwell/courses/undergraduate/ba-illustration/,FullTime,17000,128,1,90
+University Of The Arts~, London,Illustration,FDA,http://www.arts.ac.uk/camberwell/courses/undergraduate/fda-illustration/,FullTime,20000,64,48,90
+University Of The Arts~, London,Illustration and Visual Media,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-illustration-and-visual-media/,FullTime,17000,128,48,85
+University Of The Arts~, London,Information and Interface Design,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-information-and-interface-design/,FullTime,19000,125.23529411764706,64,89
+University Of The Arts~, London,Interaction Design Arts,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-interaction-design-arts/,FullTime,19000,125.23529411764706,64,89
+University Of The Arts~, London,Interior and Spatial Design,BA,http://www.arts.ac.uk/chelsea/courses/undergraduate/ba-interior-spatial-design/,FullTime,19000,101.625,48,89
+University Of The Arts~, London,Interior Design,FDA,http://www.arts.ac.uk/chelsea/courses/undergraduate/fda-interior-design/,FullTime,20000,87.5,48,100
+University Of The Arts~, London,Jewellery Design,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-jewellery-design/,FullTime,19000,125.23529411764706,64,70
+University Of The Arts~, London,Journalism,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-journalism/,FullTime,20000,107.25,64,85
+University Of The Arts~, London,Live Events and Television,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-live-events-and-television/,FullTime,21000,99.0,1,90
+University Of The Arts~, London,Magazine Journalism and Publishing,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-magazine-journalism-and-publishing/,FullTime,19000,96,1,86
+University Of The Arts~, London,Painting,BA,http://www.arts.ac.uk/camberwell/courses/undergraduate/ba-painting/,FullTime,18000,119.5,64,88
+University Of The Arts~, London,Performance Design and Practice,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-performance-design-and-practice/,FullTime,20000,134.66666666666666,1,80
+University Of The Arts~, London,Photography,BA,http://www.arts.ac.uk/camberwell/courses/undergraduate/ba-photography/,FullTime,18000,108.0,48,90
+University Of The Arts~, London,Photography,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-photography/,FullTime,14000,112,1,85
+University Of The Arts~, London,Photojournalism and Documentary Photography,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-photojournalism-and-documentary-photogra/,FullTime,19000,107.25,1,85
+University Of The Arts~, London,Product Design,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-product-design/,FullTime,20000,123.25,64,90
+University Of The Arts~, London,Production Arts for Screen,BA,http://www.arts.ac.uk/wimbledon/courses/undergraduate/ba-production-arts-screen/,FullTime,20000,134.66666666666666,1,90
+University Of The Arts~, London,Public Relations,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-public-relations/,FullTime,21000,106.0,1,85
+University Of The Arts~, London,Sculpture,BA,http://www.arts.ac.uk/camberwell/courses/undergraduate/ba-sculpture/,FullTime,18000,123.25,1,85
+University Of The Arts~, London,Sound Arts and Design,BA,http://www.arts.ac.uk/lcc/courses/undergraduate/ba-hons-sound-arts-and-design/,FullTime,20000,115.33333333333333,1,90
+University Of The Arts~, London,Strategic Fashion Management,MSc,http://www.arts.ac.uk/fashion/courses/integrated-masters/msc-strategic-fashion-management/,FullTime,26000,151.5,96,90
+University Of The Arts~, London,Textile Design,BA,http://www.arts.ac.uk/csm/courses/undergraduate/ba-textile-design/,FullTime,16000,131.0,64,95
+University Of The Arts~, London,Textile Design,BA,http://www.arts.ac.uk/chelsea/courses/undergraduate/ba-textile-design/,FullTime,17000,116.28571428571428,48,95
+University Of The Arts~, London,Theatre Design,BA,http://www.arts.ac.uk/wimbledon/courses/undergraduate/ba-theatre-design/,FullTime,20000,134.66666666666666,1,90
+University Of The Arts~, London,Three-Dimensional Design,BA,http://www.arts.ac.uk/camberwell/courses/undergraduate/ba-3d-design/,FullTime,19000,125.23529411764706,64,89
+Aston University,Accounting For Management,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/aston-business-school/accounting-for-management/,FullTime,22000,149.625,112,85
+Aston University,Biological Sciences,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/lhs/biology/,FullTime,19000,135.5,96,95
+Aston University,Biological Sciences,MBiol,http://www1.aston.ac.uk/study/undergraduate/courses/school/lhs/mbiol/,FullTime,19000,130.14285714285714,112,95
+Aston University,Biomedical Engineering,BEng,http://www.aston.ac.uk/study/undergraduate/courses/school/lhs/biomedical-engineering/,FullTime,25000,109.33333333333333,48,83
+Aston University,Biomedical Engineering,MEng,http://www.aston.ac.uk/study/undergraduate/courses/school/lhs/biomedical-engineering/,FullTime,25000,109.33333333333333,48,83
+Aston University,Biomedical Science,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/lhs/biomedical-sciences/,FullTime,21000,131.1578947368421,96,90
+Aston University,Business and Management,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/aston-business-school/business-management/,FullTime,25000,160.48387096774195,112,88
+Aston University,Business Computing and IT,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/aston-business-school/business-computing-it/,FullTime,25000,155.25,1,88
+Aston University,Business~, Management and Public Policy,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/joint-honours/joint-honours-courses/public-policy-business/,FullTime,22000,118.0,96,90
+Aston University,Chemical Engineering,BEng,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/beng-chemical-engineering/,FullTime,23000,130.14285714285714,96,85
+Aston University,Chemical Engineering,MEng,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/meng-chemical-engineering/,FullTime,23000,130.14285714285714,96,85
+Aston University,Communications Engineering,BEng,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/beng-communications-engineering/,FullTime,25000,133.0,64,83
+Aston University,Computing for Business,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/bsc-computing-for-business/,FullTime,28000,128,96,80
+Aston University,Computing Science,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/bsc-computing-science/,FullTime,22000,150.0,112,90
+Aston University,Computing Science and Mathematics,BSc,http://www.aston.ac.uk/study/undergraduate/courses/eas/bsc-computing-science-and-mathematics/,FullTime,24000,147.52941176470588,96,84
+Aston University,Design Engineering,BEng,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/beng-design-engineering/,FullTime,25000,96,80,83
+Aston University,Economics And Management,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/aston-business-school/economics-management/,FullTime,25000,136.03571428571428,96,90
+Aston University,Electrical and Electronic Engineering,BEng,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/beng-electrical-and-electronic-engineering/,FullTime,25000,138.0,1,83
+Aston University,Electrical and Electronic Engineering,MEng,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/meng-electrical-and-electronic-engineering/,FullTime,25000,133.0,64,83
+Aston University,Electromechanical Engineering,BEng,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/beng-electromechanical-engineering/,FullTime,25000,137.75,80,82
+Aston University,English Language,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/languages-social-sciences/english-language/englishlanguage/,FullTime,22000,124.0,80,90
+Aston University,English Language & Literature,BSc,http://www.aston.ac.uk/study/undergraduate/courses/languages-social-sciences/bsc-english-language-and-literature/,FullTime,22000,123.89655172413794,96,90
+Aston University,Finance,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/aston-business-school/finance/,FullTime,22000,137.0,80,85
+Aston University,French,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/languages-social-sciences/languages-translation/french/,FullTime,21000,123.25,80,80
+Aston University,French including School Experience,BSc,http://www.aston.ac.uk/study/undergraduate/courses/school/languages-social-sciences/french-german-spanish-qts/,FullTime,21000,123.25,80,80
+Aston University,German,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/languages-social-sciences/languages-translation/german/,FullTime,21000,128,96,80
+Aston University,German including School Experience,BSc,http://www.aston.ac.uk/study/undergraduate/courses/school/languages-social-sciences/french-german-spanish-qts/,FullTime,21000,128,96,80
+Aston University,Healthcare Science (Audiology),BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/lhs/audiology-courses/bsc-healthcare-science-audiology/,FullTime,22000,149.0,112,95
+Aston University,Human Resource Management,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/aston-business-school/human-resource-management/,FullTime,24000,144,112,87
+Aston University,Industrial Product Design,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/bsc-industrial-product-design/,FullTime,25000,125.33333333333333,80,82
+Aston University,International Business And Economics,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/aston-business-school/international-business-economics/,FullTime,25000,128,112,100
+Aston University,International Business And Management,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/aston-business-school/international-business-management/,FullTime,23000,148.82142857142858,112,80
+Aston University,Logistics with Purchasing Management,BSc,http://www.aston.ac.uk/study/undergraduate/courses/eas/bsc-logistics-with-purchasing-management/,FullTime,25000,138.0,96,83
+Aston University,Logistics with Supply Chain Management,BSc,http://www.aston.ac.uk/study/undergraduate/courses/eas/bsc-logistics-with-supply-chain-management/,FullTime,25000,138.0,96,83
+Aston University,Logistics with Transport Management,BSc,http://www.aston.ac.uk/study/undergraduate/courses/eas/bsc-logistics-with-transport-management/,FullTime,25000,138.0,96,83
+Aston University,Marketing,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/aston-business-school/marketing/,FullTime,24000,154.5,112,90
+Aston University,Mathematics,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/bsc-mathematics/,FullTime,22000,132.21875,96,80
+Aston University,Mathematics for Industry,BSc,http://www.aston.ac.uk/study/undergraduate/courses/eas/bsc-mathematics-for-industry/,FullTime,25000,126.23076923076923,96,85
+Aston University,Mathematics with Economics,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/joint-honours/joint-honours-courses/maths-economics/,FullTime,26000,112,96,100
+Aston University,Mechanical Engineering,MEng,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/meng-mechanical-engineering/,FullTime,25000,136.33333333333334,80,85
+Aston University,Mechanical Engineering,BEng,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/beng-mechanical-engineering/,FullTime,25000,136.33333333333334,80,85
+Aston University,Multimedia Computing,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/bsc-multimedia-computing/,FullTime,24000,133.0,112,84
+Aston University,Neuroscience,BSc,http://www.aston.ac.uk/study/undergraduate/courses/school/lhs/bsc-neuroscience/,FullTime,18000,137.0909090909091,112,97
+Aston University,Optometry,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/lhs/optometry-courses/optometry/,FullTime,14000,150.0,112,99
+Aston University,Optometry,MOptom,http://www1.aston.ac.uk/study/undergraduate/courses/school/lhs/optometry-courses/optometry/,FullTime,15000,150.0,112,99
+Aston University,Pharmacy,MPharm,http://www1.aston.ac.uk/study/undergraduate/courses/school/lhs/pharmacy/,FullTime,18000,142.14285714285714,112,97
+Aston University,Politics with International Relations,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/languages-social-sciences/international-relations-and-politics/bsc-politics-with-international-relations/,FullTime,21000,114.5,64,80
+Aston University,Product Design and Management,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/eas/bsc-product-design-management/,FullTime,25000,146.5,64,82
+Aston University,Psychology,BSc,http://www.aston.ac.uk/study/undergraduate/courses/lhs/psychology/,FullTime,20000,130.8846153846154,96,87
+Aston University,Psychology,BSc,http://www.aston.ac.uk/study/undergraduate/courses/lhs/psychology/,FullTime,20000,130.8846153846154,96,87
+Aston University,Sociology,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/languages-social-sciences/sociology-social-policy/sociology/,FullTime,18000,112,96,85
+Aston University,Spanish,BSc,http://www1.aston.ac.uk/study/undergraduate/courses/school/languages-social-sciences/languages-translation/bsc-spanish/,FullTime,21000,118.66666666666667,80,80
+Aston University,Spanish including School Experience,BSc,http://www.aston.ac.uk/study/undergraduate/courses/school/languages-social-sciences/french-german-spanish-qts/,FullTime,21000,112,80,80
+Aston University,Transport Product Design,BSc,http://www.aston.ac.uk/study/undergraduate/courses/eas/bsc-transport-product-design/,FullTime,25000,137.75,80,82
+Bangor University,Addysg Gynradd,BA,https://www.bangor.ac.uk/courses/undergraduate/X122-Addysg-Gynradd,FullTime,21000,163.0,1,100
+Bangor University,Adult Nursing,BN,https://www.bangor.ac.uk/courses/undergraduate/B740-Adult-Nursing,FullTime,22000,141.0,1,100
+Bangor University,Applied Marine Biology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C163-Applied-Marine-Biology,FullTime,15000,152.57142857142858,80,73
+Bangor University,Applied Terrestrial And Marine Ecology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C180-Applied-Terrestrial-and-Marine-Ecology,FullTime,15000,125.125,64,73
+Bangor University,Applied Terrestrial And Marine Ecology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C183-Applied-Terrestrial-and-Marine-Ecology-with-placement-year,FullTime,15000,125.125,64,73
+Bangor University,Bilingualism,MArts,https://www.bangor.ac.uk/courses/undergraduate/Q102-Bilingualism,FullTime,17000,124.85714285714286,1,90
+Bangor University,Biology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C100-Biology,FullTime,15000,119.5,64,65
+Bangor University,Biology,MBiol,https://www.bangor.ac.uk/courses/undergraduate/C101-Biology,FullTime,15000,96,80,73
+Bangor University,Biology With Biotechnology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C511-Biology-with-Biotechnology,FullTime,15000,131.52941176470588,80,85
+Bangor University,Biology With Biotechnology,MBiol,https://www.bangor.ac.uk/courses/undergraduate/C510-Biology-with-Biotechnology,FullTime,15000,131.52941176470588,80,85
+Bangor University,Biomedical Sciences,BSc,https://www.bangor.ac.uk/courses/undergraduate/B102-Biomedical-Science,FullTime,15000,144,112,80
+Bangor University,Business Economics,BSc,https://www.bangor.ac.uk/courses/undergraduate/L190-Business-Economics,FullTime,17000,106.71428571428571,48,80
+Bangor University,Business Studies,BSc,https://www.bangor.ac.uk/courses/undergraduate/N101-Business-Studies,FullTime,18000,135.5,64,90
+Bangor University,Business Studies With Spanish,BA,https://www.bangor.ac.uk/courses/undergraduate/N1R4-Business-Studies-with-Spanish,FullTime,18000,135.5,64,90
+Bangor University,Chemistry,BSc,https://www.bangor.ac.uk/courses/undergraduate/F100-Chemistry,FullTime,19000,117.0,64,95
+Bangor University,Chemistry,MChem,https://www.bangor.ac.uk/courses/undergraduate/F104-Chemistry,FullTime,19000,119.5,64,90
+Bangor University,Chemistry With Industrial Experience,BSc,https://www.bangor.ac.uk/courses/undergraduate/F103-Chemistry-with-Industrial-Experience,FullTime,19000,96,64,90
+Bangor University,Chemistry With Industrial Experience,MChem,https://www.bangor.ac.uk/courses/undergraduate/F101-Chemistry-with-Industrial-Experience,FullTime,19000,119.5,64,90
+Bangor University,Children'S Nursing,BN,https://www.bangor.ac.uk/courses/undergraduate/B731-Childrens-Nursing,FullTime,22000,147.0,112,95
+Bangor University,Computer Information Systems,BSc,https://www.bangor.ac.uk/courses/undergraduate/I110-Computer-Information-Systems,FullTime,22000,106.0,48,65
+Bangor University,Computer Information Systems for Business,BSc,https://www.bangor.ac.uk/courses/undergraduate/IN00-Computer-Information-Systems-for-Business,FullTime,22000,121.23076923076923,80,80
+Bangor University,Computer Science,BSc,https://www.bangor.ac.uk/courses/undergraduate/G400-Computer-Science,FullTime,22000,112,80,95
+Bangor University,Computer Systems Engineering,BEng,https://www.bangor.ac.uk/courses/undergraduate/H612-Computer-Systems-Engineering,FullTime,23000,115.75,48,85
+Bangor University,Computer Systems Engineering,BSc,https://www.bangor.ac.uk/courses/undergraduate/H603-Computer-Systems-Engineering,FullTime,23000,115.75,48,85
+Bangor University,Computer Systems Engineering,MEng,https://www.bangor.ac.uk/courses/undergraduate/H617-Computer-Systems-Engineering,FullTime,23000,115.75,48,85
+Bangor University,Conservation with Forestry (with placement year),BSc,https://www.bangor.ac.uk/courses/undergraduate/5DLD-Conservation-with-Forestry-with-placement-year,FullTime,23000,165.0,80,85
+Bangor University,Control And Instrumentation Engineering,MEng,https://www.bangor.ac.uk/courses/undergraduate/H661-Control-and-Instrumentation-Engineering,FullTime,23000,115.75,48,85
+Bangor University,Creative And Professional Writing,BA,https://www.bangor.ac.uk/courses/undergraduate/W890-Creative-and-Professional-Writing,FullTime,17000,133.0,80,90
+Bangor University,Creative Practice,MArts,https://www.bangor.ac.uk/courses/undergraduate/W900-Creative-Practice,FullTime,17000,134.0,48,90
+Bangor University,Creative Studies,BA,https://www.bangor.ac.uk/courses/undergraduate/WPQ0-Creative-Studies,FullTime,17000,151.5,48,100
+Bangor University,Criminology & Criminal Justice,MSoc,https://www.bangor.ac.uk/courses/undergraduate/M932-Criminology-and-Criminal-Justice,FullTime,17000,130.72727272727272,64,90
+Bangor University,Criminology And Criminal Justice,BA,https://www.bangor.ac.uk/courses/undergraduate/M930-Criminology-and-Criminal-Justice,FullTime,15000,112,1,85
+Bangor University,Critical Safety Engineering,MEng,https://www.bangor.ac.uk/courses/undergraduate/H660-Critical-Safety-Engineering,FullTime,23000,115.75,48,85
+Bangor University,Cymdeithaseg a Troseddeg a Chyfiawnder Troseddol,BA,https://www.bangor.ac.uk/courses/undergraduate/LM3Y-Cymdeithaseg-and-Criminology-and-Criminal-Justice,FullTime,17000,130.72727272727272,64,90
+Bangor University,Cymdeithaseg And Health And Social Care,BA,https://www.bangor.ac.uk/courses/undergraduate/LL3M-Cymdeithaseg-a-Gofal-Iechyd-a-Chymdeithasol,FullTime,17000,130.72727272727272,64,90
+Bangor University,Cymraeg,BA,https://www.bangor.ac.uk/courses/undergraduate/Q562-Welsh-Cymraeg-for-first--and-second-language-students,FullTime,17000,160,128,90
+Bangor University,Cymraeg Proffesiynol,BA,https://www.bangor.ac.uk/courses/undergraduate/Q563-Cymraeg-Proffesiynol,FullTime,17000,165.0,64,90
+Bangor University,Design And Technology,BSc,https://www.bangor.ac.uk/courses/undergraduate/X1WF-Design-and-Technology-Secondary-Education,FullTime,22000,146.30769230769232,80,100
+Bangor University,Diagnostic Radiography,BSc,https://www.bangor.ac.uk/courses/undergraduate/B821-Diagnostic-Radiography,FullTime,22000,166.0,112,100
+Bangor University,Dylunio Cynnyrch,BSc,https://www.bangor.ac.uk/courses/undergraduate/W241-Dylunio-Cynnyrch,FullTime,15000,112,48,80
+Bangor University,Electronic Engineering,BEng,https://www.bangor.ac.uk/courses/undergraduate/H610-Electronic-Engineering,FullTime,23000,114.5,48,80
+Bangor University,Electronic Engineering,BSc,https://www.bangor.ac.uk/courses/undergraduate/H611-Electronic-Engineering,FullTime,23000,80,1,85
+Bangor University,Electronic Engineering,MEng,https://www.bangor.ac.uk/courses/undergraduate/H601-Electronic-Engineering,FullTime,23000,140.0,80,100
+Bangor University,English Language,BA,https://www.bangor.ac.uk/courses/undergraduate/Q301-English-Language,FullTime,16000,128,80,90
+Bangor University,English Language And English Literature,BA,https://www.bangor.ac.uk/courses/undergraduate/QQC3-English-Language-and-English-Literature,FullTime,16000,121.70588235294117,80,90
+Bangor University,English Language for TEFL,BA,https://www.bangor.ac.uk/courses/undergraduate/Q315-English-Language-for-TEFL,FullTime,16000,121.70588235294117,80,90
+Bangor University,English Language for TEFL,MArts,https://www.bangor.ac.uk/courses/undergraduate/Q316-English-Language-for-TEFL,FullTime,16000,121.70588235294117,80,90
+Bangor University,English Language with English Literature,BA,https://www.bangor.ac.uk/courses/undergraduate/Q3Q2-English-Language-with-English-Literature,FullTime,16000,121.70588235294117,80,90
+Bangor University,English Law and French Law,LLB,https://www.bangor.ac.uk/courses/undergraduate/M1M0-English-Law-and-French-Law,FullTime,16000,137.0,80,95
+Bangor University,English Literature,MArts,https://www.bangor.ac.uk/courses/undergraduate/Q320-English-Literature,FullTime,16000,121.70588235294117,80,90
+Bangor University,English Literature,BA,https://www.bangor.ac.uk/courses/undergraduate/8H25-English-Literature,FullTime,16000,96,48,90
+Bangor University,English Literature With English Language,BA,https://www.bangor.ac.uk/courses/undergraduate/Q310-English-Literature-with-English-Language,FullTime,16000,121.70588235294117,80,90
+Bangor University,Environmental Conservation,BSc,https://www.bangor.ac.uk/courses/undergraduate/D447-Environmental-Conservation,FullTime,18000,122.0,48,100
+Bangor University,Environmental Conservation,BSc,https://www.bangor.ac.uk/courses/undergraduate/D448-Environmental-Conservation-with-placement-year,FullTime,18000,138.0,64,100
+Bangor University,Environmental Management,MEnvSci,https://www.bangor.ac.uk/courses/undergraduate/D452-Environmental-Management,FullTime,18000,121.23076923076923,64,90
+Bangor University,Environmental Management,BSc,https://www.bangor.ac.uk/courses/undergraduate/F855-Environmental-Management,FullTime,18000,121.23076923076923,64,90
+Bangor University,Environmental Science,MEnvSci,https://www.bangor.ac.uk/courses/undergraduate/F850-Environmental-Science,FullTime,18000,121.23076923076923,64,90
+Bangor University,Environmental Sciences,BSc,https://www.bangor.ac.uk/courses/undergraduate/F900-Environmental-Science,FullTime,18000,133.0,48,90
+Bangor University,Financial Economics,BSc,https://www.bangor.ac.uk/courses/undergraduate/L111-Financial-Economics,FullTime,17000,106.71428571428571,48,80
+Bangor University,Forestry,BSc,https://www.bangor.ac.uk/courses/undergraduate/D500-Forestry,FullTime,23000,165.0,80,85
+Bangor University,Forestry,BSc,https://www.bangor.ac.uk/courses/undergraduate/D501-Forestry-with-placement-year,FullTime,23000,167.5,96,85
+Bangor University,French,BA,https://www.bangor.ac.uk/courses/undergraduate/R101-French,FullTime,17000,103.5,48,95
+Bangor University,French And Spanish,BA,https://www.bangor.ac.uk/courses/undergraduate/RR14-French-and-Spanish,FullTime,17000,102.42857142857143,48,85
+Bangor University,Geography,BSc,https://www.bangor.ac.uk/courses/undergraduate/F800-Geography,FullTime,17000,118.42857142857143,64,90
+Bangor University,Geography,MGeog,https://www.bangor.ac.uk/courses/undergraduate/F801-Geography,FullTime,18000,121.23076923076923,64,90
+Bangor University,Geography,BA,https://www.bangor.ac.uk/courses/undergraduate/L700-Geography,FullTime,18000,115.75,80,75
+Bangor University,Geological Oceanography,MSci,https://www.bangor.ac.uk/courses/undergraduate/F652-Geological-Oceanography,FullTime,19000,112,64,95
+Bangor University,Geological Oceanography,BSc,https://www.bangor.ac.uk/courses/undergraduate/F650-Geological-Oceanography,FullTime,19000,106.71428571428571,64,90
+Bangor University,German,BA,https://www.bangor.ac.uk/courses/undergraduate/R200-German,FullTime,17000,117.0,64,85
+Bangor University,Health and Social Care,MSoc,https://www.bangor.ac.uk/courses/undergraduate/L514-Health-and-Social-Care,FullTime,17000,132.0909090909091,64,75
+Bangor University,Health And Social Care,BA,https://www.bangor.ac.uk/courses/undergraduate/L510-Health-and-Social-Care,FullTime,17000,134.0,48,89
+Bangor University,Health and Well-being,BSc,https://www.bangor.ac.uk/courses/undergraduate/B704-Health-and-Well-being,FullTime,22000,145.0,1,98
+Bangor University,Heritage~, Archaeology And History,BA,https://www.bangor.ac.uk/courses/undergraduate/VV41-Heritage-Archaeology-and-History,FullTime,19000,120.4,80,85
+Bangor University,History,BA,https://www.bangor.ac.uk/courses/undergraduate/V100-History,FullTime,19000,119.5,80,85
+Bangor University,History,MArts,https://www.bangor.ac.uk/courses/undergraduate/V101-History,FullTime,19000,120.4,80,95
+Bangor University,Iechyd a Gofal Cymdeithasol,BA,https://www.bangor.ac.uk/courses/undergraduate/L515-Iechyd-a-Gofal-Cymdeithasol,FullTime,17000,135.5,48,89
+Bangor University,International English Language for TEFL,BA,https://www.bangor.ac.uk/courses/undergraduate/Q314-International-English-Language-for-TEFL,FullTime,16000,121.70588235294117,80,90
+Bangor University,Law,LLB,https://www.bangor.ac.uk/courses/undergraduate/M100-Law,FullTime,16000,128,80,95
+Bangor University,Law 2,LLB,https://www.bangor.ac.uk/courses/undergraduate/M101-Law-2-Year-Degree-Scheme,FullTime,16000,137.0,80,95
+Bangor University,Learning Disability Nursing,BN,https://www.bangor.ac.uk/courses/undergraduate/B761-Learning-Disability-Nursing,FullTime,22000,145.0,1,98
+Bangor University,Linguistics,BA,https://www.bangor.ac.uk/courses/undergraduate/Q100-Linguistics,FullTime,17000,112,1,90
+Bangor University,Linguistics,MArts,https://www.bangor.ac.uk/courses/undergraduate/Q101-Linguistics,FullTime,17000,124.85714285714286,1,90
+Bangor University,Marine Biology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C160-Marine-Biology,FullTime,15000,119.5,64,65
+Bangor University,Marine Biology,MSci,https://www.bangor.ac.uk/courses/undergraduate/C167-Master-of-Marine-Biology,FullTime,15000,125.125,64,73
+Bangor University,Marine Environmental Studies,BSc,https://www.bangor.ac.uk/courses/undergraduate/F710-Marine-Environmental-Studies,FullTime,19000,80,48,80
+Bangor University,Marine Geography,BSc,https://www.bangor.ac.uk/courses/undergraduate/F842-Marine-Geography,FullTime,18000,121.23076923076923,64,90
+Bangor University,Marine Science,MMSci,https://www.bangor.ac.uk/courses/undergraduate/F711-Master-of-Marine-Science,FullTime,19000,119.5,64,80
+Bangor University,Marine Vertebrate Zoology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C351-Marine-Vertebrate-Zoology,FullTime,15000,131.0,48,75
+Bangor University,Marketing,BSc,https://www.bangor.ac.uk/courses/undergraduate/N501-Marketing,FullTime,18000,96,48,85
+Bangor University,Medical Biology,BSc,https://www.bangor.ac.uk/courses/undergraduate/B103-Medical-Biology,FullTime,15000,125.125,64,73
+Bangor University,Medical Biology,MBiol,https://www.bangor.ac.uk/courses/undergraduate/B104-Medical-Biology,FullTime,15000,125.125,64,73
+Bangor University,Medical Sciences,BMedSci,https://www.bangor.ac.uk/courses/undergraduate/B100-Medical-Sciences,FullTime,22000,119.5,80,90
+Bangor University,Medieval And Early Modern History,BA,https://www.bangor.ac.uk/courses/undergraduate/V130-Medieval-and-Early-Modern-History,FullTime,19000,118.0,64,85
+Bangor University,Mental Health Nursing,BN,https://www.bangor.ac.uk/courses/undergraduate/B760-Mental-Health-Nursing,FullTime,22000,144,112,100
+Bangor University,Midwifery,BM,https://www.bangor.ac.uk/courses/undergraduate/B720-Midwifery,FullTime,21000,136.57142857142858,96,100
+Bangor University,Modern And Contemporary History,BA,https://www.bangor.ac.uk/courses/undergraduate/V140-Modern-and-Contemporary-History,FullTime,19000,120.4,80,85
+Bangor University,Music,BMus,https://www.bangor.ac.uk/courses/undergraduate/W302-Music,FullTime,15000,139.25,80,95
+Bangor University,Music,BA,https://www.bangor.ac.uk/courses/undergraduate/W300-Music,FullTime,16000,134.0,64,100
+Bangor University,Ocean Science,BSc,https://www.bangor.ac.uk/courses/undergraduate/F700-Ocean-Science,FullTime,19000,103.5,64,80
+Bangor University,Philosophy and Religion,BA,https://www.bangor.ac.uk/courses/undergraduate/VV56-Philosophy-and-Religion,FullTime,17000,102.42857142857143,64,100
+Bangor University,Physical Oceanography,MSci,https://www.bangor.ac.uk/courses/undergraduate/F734-Physical-Oceanography,FullTime,19000,119.5,64,80
+Bangor University,Polisi Cymdeithasol A Gofal Iechyd A Chymdeithasol,BA,https://www.bangor.ac.uk/courses/undergraduate/LL5K-Polisi-Cymdeithasol-a-Gofal-Iechyd-a-Chymdeithasol,FullTime,17000,132.0909090909091,64,75
+Bangor University,Polisi Cymdeithasol A Throseddeg A Chyfiawnder Troseddol,BA,https://www.bangor.ac.uk/courses/undergraduate/LM4X-Polisi-Cymdeithasol-a-Throseddeg-a-Chyfiawnder-Troseddol,FullTime,17000,132.0909090909091,64,75
+Bangor University,Primary Education,BA,https://www.bangor.ac.uk/courses/undergraduate/X120-Primary-Education,FullTime,22000,121.0,80,85
+Bangor University,Product Design,BSc,https://www.bangor.ac.uk/courses/undergraduate/W240-Product-Design,FullTime,15000,107.25,48,85
+Bangor University,Professional Writing,MArts,https://www.bangor.ac.uk/courses/undergraduate/W891-Professional-Writing,FullTime,17000,131.0,48,95
+Bangor University,Psychology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C800-Psychology,FullTime,16000,122.625,80,90
+Bangor University,Psychology,MSci,https://www.bangor.ac.uk/courses/undergraduate/C807-Psychology,FullTime,17000,124.85714285714286,80,92
+Bangor University,Psychology w Clin & Health Psy,MSci,https://www.bangor.ac.uk/courses/undergraduate/C808-Psychology-with-Clinical-and-Health-Psychology,FullTime,17000,124.85714285714286,80,92
+Bangor University,Psychology With Clinical And Health Psychology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C880-Psychology-with-Clinical-and-Health-Psychology,FullTime,17000,131.75,64,95
+Bangor University,Psychology With Neuropsychology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C801-Psychology-with-Neuropsychology,FullTime,17000,119.5,1,95
+Bangor University,Social Policy,BA,https://www.bangor.ac.uk/courses/undergraduate/L402-Social-Policy,FullTime,17000,132.0909090909091,64,75
+Bangor University,Social Policy,MSoc,https://www.bangor.ac.uk/courses/undergraduate/L403-Social-Policy,FullTime,17000,132.0909090909091,64,75
+Bangor University,Sociology,BA,https://www.bangor.ac.uk/courses/undergraduate/L300-Sociology,FullTime,17000,96,48,80
+Bangor University,Sociology,MSoc,https://www.bangor.ac.uk/courses/undergraduate/L302-Sociology,FullTime,17000,130.72727272727272,64,90
+Bangor University,Sociology And Criminology And Criminal Justice,BA,https://www.bangor.ac.uk/courses/undergraduate/LM39-Sociology-and-Criminology-and-Criminal-Justice,FullTime,17000,130.72727272727272,64,90
+Bangor University,Spanish,BA,https://www.bangor.ac.uk/courses/undergraduate/R400-Spanish,FullTime,17000,101.625,64,85
+Bangor University,Sport And Exercise Psychology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C680-Sport-and-Exercise-Psychology,FullTime,16000,123.25,64,87
+Bangor University,Sport Science,MSci,https://www.bangor.ac.uk/courses/undergraduate/C607-Sport-Science,FullTime,16000,137.64285714285714,64,87
+Bangor University,Sport Science (Outdoor Activities),MSci,https://www.bangor.ac.uk/courses/undergraduate/C609-Sport-Science-Outdoor-Activities,FullTime,16000,137.64285714285714,64,87
+Bangor University,Sport~, Health and Exercise Science,MSci,https://www.bangor.ac.uk/courses/undergraduate/C608-Sport-Health-and-Exercise-Science,FullTime,16000,137.64285714285714,64,87
+Bangor University,Sport~, Health And Exercise Sciences,BSc,https://www.bangor.ac.uk/courses/undergraduate/CB69-Sport-Health-and-Exercise-Science,FullTime,16000,112,80,87
+Bangor University,Sport~, Health And Physical Education,BSc,https://www.bangor.ac.uk/courses/undergraduate/C651-Sport-Health-and-Physical-Education,FullTime,16000,151.5,48,95
+Bangor University,Sports Science,BSc,https://www.bangor.ac.uk/courses/undergraduate/C600-Sport-Science,FullTime,16000,112,48,87
+Bangor University,Sports Science (Outdoor Activities),BSc,https://www.bangor.ac.uk/courses/undergraduate/C602-Sport-Science-Outdoor-Activities,FullTime,16000,160,64,87
+Bangor University,Welsh (For Beginners),BA,https://www.bangor.ac.uk/courses/undergraduate/Q522-Welsh-for-Beginners-Cymraeg-i-Ddechreuwyr,FullTime,17000,165.0,64,90
+Bangor University,Welsh History and History,BA,https://www.bangor.ac.uk/courses/undergraduate/VV12-Welsh-History-and-History,FullTime,19000,120.4,80,85
+Bangor University,Zoology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C300-Zoology,FullTime,15000,124.0,48,75
+Bangor University,Zoology,MZOOL,https://www.bangor.ac.uk/courses/undergraduate/C301-Zoology,FullTime,15000,135.5,48,100
+Bangor University,Zoology With Animal Behaviour,BSc,https://www.bangor.ac.uk/courses/undergraduate/C3D3-Zoology-with-Animal-Behaviour,FullTime,15000,144,96,100
+Bangor University,Zoology With Animal Behaviour,MZOOL,https://www.bangor.ac.uk/courses/undergraduate/C302-Zoology-with-Animal-Behaviour,FullTime,15000,153.0,80,91
+Bangor University,Zoology With Conservation,BSc,https://www.bangor.ac.uk/courses/undergraduate/C3L2-Zoology-with-Conservation,FullTime,15000,112,96,80
+Bangor University,Zoology With Conservation,MZOOL,https://www.bangor.ac.uk/courses/undergraduate/CD34-Zoology-with-Conservation,FullTime,15000,165.0,64,90
+Bangor University,Zoology With Herpetology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C304-Zoology-with-Herpetology,FullTime,15000,151.5,80,100
+Bangor University,Zoology With Herpetology,MZOOL,https://www.bangor.ac.uk/courses/undergraduate/C303-Zoology-with-Herpetology,FullTime,15000,137.0,1,91
+Bangor University,Zoology with Marine Zoology,MZOOL,https://www.bangor.ac.uk/courses/undergraduate/C353-Zoology-with-Marine-Zoology,FullTime,15000,137.0,80,91
+Bangor University,Zoology With Marine Zoology,BSc,https://www.bangor.ac.uk/courses/undergraduate/C350-Zoology-with-Marine-Zoology,FullTime,15000,135.5,48,90
+Bath Spa University,Acting,BA,http://www.bathspa.ac.uk/courses/ug-acting/,FullTime,16000,146.3684210526316,96,90
+Bath Spa University,Acting with Professional Placement Year,BA,http://www.bathspa.ac.uk/courses/ug-acting/,FullTime,16000,134.875,80,88
+Bath Spa University,Biology,BSc,http://www.bathspa.ac.uk/courses/ug-biology/,FullTime,18000,106.0,48,95
+Bath Spa University,Biology (Conservation Biology),BSc,http://www.bathspa.ac.uk/courses/ug-biology-conservation-biology/,FullTime,17000,105.0,48,95
+Bath Spa University,Biology (Conservation Biology) with year in professional practice,BSc,http://www.bathspa.ac.uk/courses/ug-biology-conservation-biology/,FullTime,17000,105.0,48,95
+Bath Spa University,Biology (Human Biology),BSc,http://www.bathspa.ac.uk/courses/ug-biology-human-biology/,FullTime,17000,105.0,48,95
+Bath Spa University,Biology (Human Biology) with year in professional practice,BSc,http://www.bathspa.ac.uk/courses/ug-biology-human-biology/,FullTime,17000,105.0,48,95
+Bath Spa University,Biology with year in professional practice,BSc,http://www.bathspa.ac.uk/courses/ug-biology/,FullTime,17000,105.0,48,95
+Bath Spa University,Business & Management (Accounting),BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-accounting/,FullTime,20000,115.0,80,90
+Bath Spa University,Business & Management (Accounting) with Professional Practice Year,BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-accounting/,FullTime,20000,115.0,80,90
+Bath Spa University,Business & Management (Entrepreneurship),BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-entrepreneurship/,FullTime,20000,107.5909090909091,64,92
+Bath Spa University,Business & Management (Entrepreneurship) with Professional Practice Year,BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-entrepreneurship/,FullTime,20000,107.5909090909091,64,92
+Bath Spa University,Business & Management (Festivals and Events),BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-festivals-and-events/,FullTime,20000,107.5909090909091,64,92
+Bath Spa University,Business & Management (Festivals and Events) with Professional Practice Year,BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-festivals-and-events/,FullTime,20000,107.5909090909091,64,92
+Bath Spa University,Business & Management (Human Resource Management) with Professional Practice Year,BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-hr/,FullTime,20000,123.25,80,100
+Bath Spa University,Business & Management (International Business) with Professional Practice Year,BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-international/,FullTime,20000,107.5909090909091,64,92
+Bath Spa University,Business & Management (Law),BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-law/,FullTime,20000,107.5909090909091,64,92
+Bath Spa University,Business & Management (Law) with Professional Practice Year,BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-law/,FullTime,20000,107.5909090909091,64,92
+Bath Spa University,Business & Management (Marketing) with Professional Practice Year,BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-marketing/,FullTime,20000,108.5,64,75
+Bath Spa University,Business & Management (Tourism Management) with Professional Practice Year,BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-tourism/,FullTime,20000,108.6,64,90
+Bath Spa University,Business & Management with Professional Practice Year,BA,http://www.bathspa.ac.uk/courses/ug-business-and-management/,FullTime,24000,107.5909090909091,64,95
+Bath Spa University,Business and Management,BA,http://www.bathspa.ac.uk/courses/ug-business-and-management/,FullTime,18000,107.875,80,90
+Bath Spa University,Business and Management & Creative Computing with Professional Placement Year,BA/BSc,https://www.bathspa.ac.uk/courses/ug-business-and-management-and-creative-computing/,FullTime,20000,107.5909090909091,64,92
+Bath Spa University,Business and Management (Human Resource Management),BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-hr/,FullTime,20000,123.25,80,100
+Bath Spa University,Business and Management (International),BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-international/,FullTime,20000,107.25,64,92
+Bath Spa University,Business and Management (Marketing),BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-marketing/,FullTime,20000,108.5,64,75
+Bath Spa University,Business and Management (Tourism Management),BA,http://www.bathspa.ac.uk/courses/ug-business-and-management-tourism/,FullTime,20000,108.6,64,90
+Bath Spa University,Comedy,BA,https://www.bathspa.ac.uk/courses/ug-comedy/,FullTime,16000,134.875,80,88
+Bath Spa University,Comedy with Professional Placement Year,BA,https://www.bathspa.ac.uk/courses/ug-comedy/,FullTime,16000,134.875,80,88
+Bath Spa University,Creative Media,BA,https://www.bathspa.ac.uk/courses/ug-creative-media/,FullTime,16000,121.0,80,100
+Bath Spa University,Creative Writing,BA,http://www.bathspa.ac.uk/courses/ug-creative-writing/,FullTime,16000,133.0,80,85
+Bath Spa University,Creative Writing with Professional Placement Year,BA,http://www.bathspa.ac.uk/courses/ug-creative-writing/,FullTime,17000,112,80,83
+Bath Spa University,Dance & Drama,BA,http://www.bathspa.ac.uk/courses/ug-dance-and-drama-/,FullTime,16000,112,64,95
+Bath Spa University,Drama,BA,http://www.bathspa.ac.uk/courses/ug-drama/,FullTime,15000,119.5,64,89
+Bath Spa University,Drama (Writing For Performance),BA,https://www.bathspa.ac.uk/courses/ug-drama---writing-for-performance/,FullTime,16000,134.875,80,88
+Bath Spa University,Drama (Writing For Performance) with Professional Placement Year,BA,https://www.bathspa.ac.uk/courses/ug-drama---writing-for-performance/,FullTime,16000,134.875,80,88
+Bath Spa University,Drama with Professional Placement Year,BA,http://www.bathspa.ac.uk/courses/ug-drama/,FullTime,16000,134.875,80,88
+Bath Spa University,Education Studies,BA,http://www.bathspa.ac.uk/courses/ug-education-studies/,FullTime,17000,115.75,1,95
+Bath Spa University,Education Studies with Professional Placement Year,BA,http://www.bathspa.ac.uk/courses/ug-education-studies/,FullTime,16000,125.5,80,98
+Bath Spa University,English Literature,BA,http://www.bathspa.ac.uk/courses/ug-english-literature/,FullTime,17000,121.375,80,85
+Bath Spa University,English Literature with Professional Placement Year,BA,http://www.bathspa.ac.uk/courses/ug-english-literature/,FullTime,17000,121.6,80,88
+Bath Spa University,Environmental Science,BSc,http://www.bathspa.ac.uk/courses/ug-environmental-science/,FullTime,20000,115.0,64,80
+Bath Spa University,Environmental Science with year in professional practice,BSc,http://www.bathspa.ac.uk/courses/ug-environmental-science/,FullTime,20000,105.23076923076923,64,90
+Bath Spa University,Film & Screen Studies with Professional Placement Year,BA,http://www.bathspa.ac.uk/courses/ug-film-and-screen-studies/,FullTime,19000,116.16666666666667,80,85
+Bath Spa University,Film and Screen Studies,BA,http://www.bathspa.ac.uk/courses/ug-film-and-screen-studies/,FullTime,19000,106.0,1,85
+Bath Spa University,Film and Screen Studies & Media Communications,BA,http://www.bathspa.ac.uk/courses/ug-film-and-screen-studies-media-communications/,FullTime,19000,116.16666666666667,80,85
+Bath Spa University,Film and Screen Studies & Media Communications with Professional Placement Year,BA,http://www.bathspa.ac.uk/courses/ug-film-and-screen-studies-media-communications/,FullTime,19000,116.16666666666667,80,85
+Bath Spa University,Film~, Television and Digital Production,BA,http://www.bathspa.ac.uk/courses/ug-film-tv-and-digital-production/,FullTime,19000,129.30434782608697,80,85
+Bath Spa University,Film~, TV & Digital Production with Professional Placement Year,BA,http://www.bathspa.ac.uk/courses/ug-film-tv-and-digital-production/,FullTime,19000,116.16666666666667,80,85
+Bath Spa University,Food with Nutrition,BSc,http://www.bathspa.ac.uk/courses/ug-food-with-nutrition/,FullTime,20000,115.75,48,95
+Bath Spa University,Food with Nutrition with year in professional practice,BSc,http://www.bathspa.ac.uk/courses/ug-food-with-nutrition/,FullTime,20000,115.75,48,95
+Bath Spa University,Geography,BSc,http://www.bathspa.ac.uk/courses/ug-geography/,FullTime,20000,102.0,64,95
+Bath Spa University,Geography (Human),BA,http://www.bathspa.ac.uk/courses/ug-geography-human/,FullTime,20000,105.23076923076923,64,90
+Bath Spa University,Geography (Human) with Professional Placement Year,BA,http://www.bathspa.ac.uk/courses/ug-geography-human/,FullTime,20000,105.23076923076923,64,90
+Bath Spa University,Geography (Physical),BSc,http://www.bathspa.ac.uk/courses/ug-geography-physical/,FullTime,20000,105.23076923076923,64,90
+Bath Spa University,Geography (Physical) with Professional Placement Year,BSc,http://www.bathspa.ac.uk/courses/ug-geography-physical/,FullTime,20000,105.23076923076923,64,90
+Bath Spa University,Geography with Professional Placement Year,BSc,http://www.bathspa.ac.uk/courses/ug-geography/,FullTime,20000,105.23076923076923,64,90
+Bath Spa University,Global Development & Sustainability,BSc,http://www.bathspa.ac.uk/courses/ug-global-development-and-sustainability/,FullTime,20000,108.85714285714286,1,90
+Bath Spa University,Global Development & Sustainability with Professional Placement Year,BSc,http://www.bathspa.ac.uk/courses/ug-global-development-and-sustainability/,FullTime,20000,105.23076923076923,64,90
+Bath Spa University,History,BA,http://www.bathspa.ac.uk/courses/ug-history/,FullTime,20000,103.5,64,90
+Bath Spa University,History with Professional Placement Year,BA,http://www.bathspa.ac.uk/courses/ug-history/,FullTime,20000,106.0,64,87
+Bath Spa University,History: Heritage & Public History with Professional Placement Year,BA,https://www.bathspa.ac.uk/courses/ug-history-heritage-and-public-history/,FullTime,20000,106.0,64,87
+Bath Spa University,History: Heritage and Public History,BA,https://www.bathspa.ac.uk/courses/ug-history-heritage-and-public-history/,FullTime,20000,106.0,64,87

@@ -71,7 +71,7 @@ for tution in getInstis():
                     courseEmployment = getWorkStudy(id1,b,c)
                 except:
                     pass
-        #print(courseTitle, courseURL, courseLabel, courseMode, courseSalary, institution)
+        print(courseTitle, courseURL, courseLabel, courseMode, courseSalary, institution, )
 
 
 
